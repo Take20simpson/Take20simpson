@@ -57,23 +57,48 @@ Contient toutes les informations sur sa vie, son business, ses objectifs, sa str
 - Aide les freelances (tous secteurs) a prospecter intelligemment sur LinkedIn pour obtenir clients qualifies de maniere constante
 - Prospection LinkedIn avec intention (pas volume aveugle, pas juste qualite) — les deux : volume suffisant (50 messages/semaine) + structure + intention
 
-### Offre Principale : Framework Setting DM Personnalise
+### Offre 1 : Accompagnement Complet (Coaching + Suivi)
+
+**Prix actuel :** 350 EUR (prix de lancement, augmentation progressive prevue)
+- Paiement en plusieurs fois possible (ex: 3x 116,67 EUR)
+- Moyen de paiement : virement bancaire
+
+**Statut :** 1 cliente (Lucille) signee a 350 EUR — close fin janvier/debut fevrier 2026
+
+**Livrables (non fixes, adaptes a chaque client) :**
+1. Frameworks IA personnalises (setting, comments, documents sourcing/setting/closing)
+2. 1-2 videos strategie (screen recordings)
+3. Groupe WhatsApp avec 3 canaux :
+   - **General** — Discussion libre, echanges sur tout
+   - **Ressources** — Espace formation : videos, frameworks, outils IA
+   - **Blocage & Frustration** — Suivi actif : questions a chaque blocage
+4. Suivi proactif 2x/semaine (frequence ajustable) : volume d'actions, motivation, problemes, solutions
+
+**Philosophie :** Le coaching ne suffit pas a transmettre une strategie. Il faut accompagner le client pour qu'il tienne sur le long terme. Regularite + intensite = resultats.
+
+**Processus creation frameworks :**
+1. Envoi questionnaire Fillout au client
+2. Client remplit (15-20 min)
+3. Matthias configure framework personnalise avec Claude (24-48h)
+4. Livraison + video explicative personnalisee
+
+### Offre 2 : Framework(s) IA Seuls (Sans Suivi)
 
 **Prix actuel :** 50 EUR (avant : 35 EUR)
-- Attente : vendre au moins 1x a 50 EUR avant d'augmenter
-- Prochains paliers : 75 EUR, 100 EUR selon feedbacks et ameliorations offre
+- Prochains paliers : 75 EUR, 100 EUR selon feedbacks et ameliorations
 
-**Statut :** Creee il y a environ 1 mois. 1 cliente (Alicia) vendue a 35 EUR (ancien prix). 0 client a 50 EUR pour le moment. En phase de validation/scaling.
+**Statut :** 1 cliente (Alicia) vendue a 35 EUR (ancien prix). 0 client a 50 EUR pour le moment.
 
 **Livrables :**
-1. Questionnaire a remplir (15-20 min) — ICP, offre, parcours professionnel, style d'ecriture, temoignages clients, ressources gratuites
-2. Configuration du framework personnalise par Matthias — 100% adapte a leur situation, integre toute l'experience de prospection, integre la methode des questions socratiques et projection temporelle
-3. Video explicative personnalisee — comment utiliser le framework, comment l'integrer dans Claude ou ChatGPT, subtilites a connaitre
-4. Framework pret a utiliser — genere 3 options de reponses optimisees selon contexte, s'adapte au niveau d'ouverture (chaud/tiede/froid), explications des patterns pour apprendre, guide pour faire prendre conscience aux prospects (via questions, pas affirmations)
+1. Questionnaire Fillout a remplir (15-20 min) — ICP, offre, parcours professionnel, style d'ecriture, temoignages clients, ressources gratuites
+2. Configuration du framework personnalise par Matthias — 100% adapte a leur situation, integre questions socratiques et projection temporelle
+3. Video explicative personnalisee — comment utiliser le framework, integrer dans Claude ou ChatGPT
+4. Framework pret a utiliser — genere 3 options de reponses optimisees selon contexte, explications des patterns pour apprendre
 
 **Delai :** 48h apres reception questionnaire rempli
 
-**Promesse centrale :**
+### Promesse Commune aux Offres
+
 > "C'est pas juste un robot qui ecrit a ta place. C'est comme avoir un coach de setting H24 qui t'explique les mecanismes derriere chaque reponse. Tu apprends en meme temps que l'outil genere tes messages. Au bout de 2 semaines tu comprends les patterns, tu peux closer sans l'outil si tu veux."
 
 Alternative abordable aux coachings a 1500-3000 EUR.
@@ -130,21 +155,40 @@ Le framework n'est pas juste un outil de generation de messages. C'est un system
 6. **Dispersion strategique** — Testent tout en meme temps (contenu + cold email + tunnels + LinkedIn + pub), aucune maitrise d'aucune strategie, resultats mediocres partout
 7. **Mauvaise strategie pour leur contexte** — Freelance solo sans budget ni audience qui mise tout sur le contenu organique, veut des clients dans 30 jours mais attend que l'algorithme fasse le job
 
-### Ressource Gratuite : Manifeste "Prospecter avec Intention"
+### Ressources Gratuites : Lead Magnets
 
-- Remplace l'ancien document masterclass
+**Le Manifeste "Prospecter avec Intention" :**
 - Contenu : toute sa strategie de prospection devoilee, les 3 erreurs fatales, sa methode en 5 etapes, 5 exemples de conversations reelles, signaux a detecter, l'erreur avec l'IA, comment il a cree son framework, les patterns de questions socratiques
 - Longueur : 18-22 pages design aere et luxe
-- Valeur : ASSEZ pour impressionner mais pas TOUTES les subtilites (sinon plus de marge pour vendre le framework)
-- Distribution : envoye a tout type de prospect (chaud/tiede/froid) des qu'opportun dans la conversation
+- Valeur : ASSEZ pour impressionner mais pas TOUTES les subtilites
+- **IMPORTANT :** Le manifeste n'est envoye que dans ~10% des cas, quand le prospect commence a se desengager. Si le prospect est investi, la conversation flow naturellement vers les questions et l'appel sans avoir besoin du manifeste.
+- Statut : pret en PDF depuis longtemps
+
+**Autres lead magnets (variables) :**
+- Matthias cree des lead magnets rapidement avec Claude selon le besoin
+- Exemples : "3 strategies pour presenter ton offre en appel de closing", documents thematiques, etc.
+- Distribution : CTA dans les posts LinkedIn 1-2-3x/semaine
+- Format : documents PDF
 
 ### Outils Utilises
 
 | Outil | Usage |
 |-------|-------|
 | **LinkedIn** | Prospection, sourcing, setting, publication de contenu |
-| **Google Sheet** | CRM manuel — suivi des prospects et clients |
-| **WhatsApp** | Suivi et accompagnement des clients |
+| **Airtable** | CRM — suivi prospects et clients + calendrier editorial |
+| **WhatsApp** | Suivi et accompagnement des clients (groupes 3 canaux) + envoi video pre-appel |
+| **Google Meet** | Appels de closing visio |
+| **Claude (4 projets)** | Posts LinkedIn, Strategie/business, Framework Setting DM, Framework Commentaires |
+| **Fillout** | Questionnaires clients (avant creation frameworks) |
+| **tl;dv + otter.ai** | Enregistrement et transcription systematique des appels |
+| **iPhone (face cam)** | Videos personnalisees pre-appel |
+
+### Statut Legal & Paiement
+
+- **Statut :** Auto-entrepreneur
+- **Moyen de paiement :** Virement bancaire
+- **Pas de site web** — Non pertinent pour sa strategie actuelle (pourrait en creer un facilement avec l'IA si besoin)
+- **Pas de Calendly** — Propose toujours 2-3 creneaux specifiques manuellement (jamais de lien calendrier, trop de choix tue la decision)
 
 ---
 
@@ -189,9 +233,22 @@ Commentaire (warming) → Connexion → Premier DM → Qualification → Creusag
   3. "Je suis pret a passer 30 min a comprendre sa situation avant de pitcher ?"
   Si "bof" a UNE seule question → next
 
-**Tracking (Google Sheet) :**
-- Colonnes : Prenom Nom, Lien LinkedIn, Date ajout, Statut (Source/Commente/Connecte/DM envoye/Reponse recue/Appel booke/Client), Type (Freelance/Coach/Consultant/VA), Notes
+**Demande de connexion :**
+- JAMAIS de note avec la demande de connexion — juste la demande seule apres avoir commente
+
+**Demographie prospects :**
+- ~99% de femmes (pas delibere, c'est ce qui remonte naturellement)
+- Les hommes sont plus alertes a la prospection, portes se ferment plus vite
+- Les femmes sont beaucoup plus receptives
+- Pourrait diversifier a l'avenir mais reste focus pour l'instant
+
+**Tracking (Airtable CRM) :**
+- **Table CRM :** Nom, Lien LinkedIn, Etape prospect :
+  - Comment+like → Demande envoyee → Demande acceptee → Premier DM envoye → Conversation → Appel planifie
+  - Cas speciaux : Nurturing / Delivery / Offboarding
+- **Calendrier editorial :** Planification contenu, ~1 semaine d'avance
 - Follow-up quotidien : chaque matin, regarde chaque ligne pour savoir quelle action
+- **KPIs :** Structure presente dans Airtable mais pas encore suivie formellement (pas assez de volume). Sera implemente quand plus consistant.
 
 ### Systeme de Relances
 
@@ -216,12 +273,13 @@ La majorite des gens ne font pas assez de relances. C'est ce qui fait qu'ils n'o
 
 ### Distribution du Manifeste
 
-**Quand l'envoyer :**
-- Prospect mentionne pain point clair lie prospection/acquisition
+**IMPORTANT : Le manifeste n'est utilise que dans ~10% des cas.** Quand le prospect est investi dans la conversation, le flow naturel mene directement aux questions de qualification et a la proposition d'appel, sans besoin du manifeste.
+
+**Quand l'envoyer (cas minoritaire) :**
+- Prospect commence a se desengager
+- Prospect mentionne pain point clair lie prospection/acquisition mais recule
 - Prospect dit qu'il va etre accompagne ailleurs
-- Prospect pose questions sur sa methode
-- Prospect repond positivement a ses conseils
-- Prospect realise (via questions socratiques) qu'il a un probleme d'acquisition
+- Prospect pose questions sur sa methode mais hesite
 
 **Comment le presenter :**
 > "j'ai cree un document complet qui explique exactement comment resoudre [leur probleme specifique], plusieurs freelances l'ont utilise et ont eu des resultats concrets. tu veux que je t'envoie le document ?"
@@ -234,8 +292,9 @@ La majorite des gens ne font pas assez de relances. C'est ce qui fait qu'ils n'o
 ### Closing (Visio)
 
 **Type :** VISIO en priorite (pas pitch en DM)
-**Duree :** 20 minutes
+**Duree :** < 25 minutes (tous les appels a ce jour)
 **Plateforme :** Google Meet
+**Enregistrement :** Systematique avec tl;dv et otter.ai
 
 **Pourquoi visio :**
 - Peut casser croyances limitantes (ils pensent coaching a 3000 EUR)
@@ -244,23 +303,49 @@ La majorite des gens ne font pas assez de relances. C'est ce qui fait qu'ils n'o
 - Cree plus de confiance qu'un message texte
 - Prix annonce UNIQUEMENT en visio (jamais en DM)
 
-**Gestion creneaux :** TOUJOURS proposer 2-3 creneaux specifiques, JAMAIS demander "quand es-tu dispo ?"
+**Gestion creneaux :** TOUJOURS proposer 2-3 creneaux specifiques, JAMAIS demander "quand es-tu dispo ?". Pas de Calendly. Creneau dans les 72h apres acceptation.
+
+**Processus pre-appel (une fois creneau accepte) :**
+1. Envoie lien Google Meet
+2. Envoie video personnalisee via WhatsApp (face cam iPhone) — explique qui il est, ce que l'appel va couvrir, pose les 3 questions de qualification
+3. Envoie ensuite les 3 questions par ecrit
+
+**Les 3 questions de pre-qualification :**
+1. "C'est quoi ton client cible / ton avatar ?"
+2. "Si tu devais nommer UN seul plus gros blocage qui t'empeche d'atteindre ton objectif, ce serait quoi ?"
+3. "Pourquoi c'est important pour toi de resoudre ca ? Qu'est-ce qui se passe dans 2-3-4 mois si t'es toujours au meme endroit ?"
+
+**Canal :** 100% LinkedIn DM sauf la video pre-appel → WhatsApp (LinkedIn ne supporte pas les fichiers lourds)
+
+**Preparation de Matthias :** ~1h30 de pratique avant chaque appel, reponses aux objections preparees, framework Enzo Racine sous les yeux. Gere bien les appels, pas de stress majeur.
 
 ### Execution Offre (Apres Closing)
 
-1. Paiement recu (50 EUR)
-2. Envoi questionnaire (existe deja, cree pour Alicia)
+**Pour l'accompagnement complet (350 EUR) :**
+1. Paiement recu (virement bancaire, possible en 3x)
+2. Creation groupe WhatsApp 3 canaux
+3. Envoi questionnaire Fillout
+4. Client remplit questionnaire (15-20 min)
+5. Matthias configure frameworks personnalises avec Claude (24-48h)
+6. Matthias cree video(s) explicative(s) personnalisee(s)
+7. Livraison frameworks + videos dans le canal Ressources
+8. Suivi proactif 2x/semaine : volume, motivation, problemes, solutions
+9. Correction active des bugs au fur et a mesure
+
+**Pour le framework seul (50 EUR) :**
+1. Paiement recu (virement bancaire)
+2. Envoi questionnaire Fillout
 3. Client remplit questionnaire (15-20 min)
-4. Matthias configure framework personnalise (24-48h)
+4. Matthias configure framework personnalise avec Claude (24-48h)
 5. Matthias cree video explicative personnalisee
 6. Envoi framework + video au client
-7. Suivi apres livraison (disponible pour questions/modifications)
+7. Disponible pour questions/modifications
 
 ### Frameworks de Reference
 
 **2 frameworks complets disponibles :**
 
-1. **Framework Setting DM v3.0** — Toute la methodologie DM : contexte strategique, sequence en 10 etapes, techniques avancees (projection temporelle, questions socratiques, gestion jauge epuisement), principes psychologiques, cas d'usage specifiques, format reponse (3 options avec contexte). JAMAIS demander revenus/budget (regle critique).
+1. **Framework Setting DM v4.0** — Version mise a jour. 7 sections : Detection contexte, 10 Regles prioritaires, Execution conversationnelle (11 phases A-K), Format reponse, Erreurs fatales, Ton & Style, Croyance centrale. Inclut patterns Enzo Racine pour gestion des refus (J1-J7). JAMAIS demander revenus/budget (regle critique). **Nuance :** Le framework sur-valorise le manifeste par rapport a la realite (~10% des cas).
 
 2. **Framework Commentaires LinkedIn** — Toute la methodologie commentaires : adaptation audience, structure optimale, variation maximale, pepites profondes ET limpides, format reponse (2 options avec type audience detecte).
 
@@ -325,19 +410,44 @@ Les concepts d'Enzo sont integres dans les Parties 5, 6 et 11 de ce document.
 - Il etait en mode automatique, pas en mode intention
 - INTENTION = comprendre les patterns + agir avec conscience + prendre du plaisir
 
-### Premier Closing : Alicia (Learnings)
+### Client 1 : Alicia (Framework seul — 35 EUR)
 
 **Profil :** Alicia Petry-Elisee, coach sportive privee, transformation physique et mentale sur mesure, active sur LinkedIn, va droit au but
 
 **Timeline :** 7 nov premier contact → 8 nov proposition visio acceptee → 12 nov visio → Paiement 35 EUR → Livraison complete
 
-**Resultat :** Excellente experience, recommandation LinkedIn 5 etoiles
+**Resultat initial :** Excellente experience, recommandation LinkedIn 5 etoiles
+
+**Suivi :** Satisfaite au debut, a laisse une super recommandation. Mais a decroche apres 1-1,5 mois sans voir de resultats. Possible probleme de qualite sourcing/closing de son cote, pas seulement le framework.
 
 **Learnings critiques :**
-1. **Le prix bas a convaincu** — 35 EUR = risque-benefice tres faible. N'aurait pas marche a 100-150 EUR
+1. **Le prix bas a convaincu** — 35 EUR = risque-benefice tres faible
 2. **Processus complet valide** — Questionnaire → configuration → video → suivi, tout fonctionne
 3. **Visio critique pour closer** — Sans visio, aurait ete difficile de closer meme a 35 EUR
-4. **Profil ideal = direct et pragmatique** — Alicia est allee droit au but, ce type de profil = plus facile a closer
+4. **Profil ideal = direct et pragmatique** — Ce type de profil = plus facile a closer
+5. **Le framework seul ne suffit pas toujours** — Sans suivi actif, le client peut decrocher. C'est pourquoi l'accompagnement complet (350 EUR) existe maintenant.
+
+### Client 2 : Lucille (Accompagnement complet — 350 EUR)
+
+**Profil :** Lucille, freelance en SEO/GEO, close fin janvier/debut fevrier 2026
+
+**Contexte :** Prospect chaud, a bien suivi le script Enzo Racine. A demande paiement en 3x (116,67 EUR x3).
+
+**Appel :** 3eme appel de closing de Matthias. Tous les appels ont dure moins de 25 min.
+
+**Approche :** Avec Lucille, Matthias corrige activement les bugs au fur et a mesure (contrairement a Alicia ou il n'y avait pas de suivi actif). C'est la premiere vraie validation du modele d'accompagnement complet.
+
+**Learnings :**
+1. **L'accompagnement complet est le bon modele** — Le suivi actif previent le decrochage
+2. **350 EUR est un prix acceptable** — Meme pour un freelance en phase de lancement
+3. **Le paiement en 3x facilite la decision** — A proposer systematiquement si besoin
+
+### Historique Complet des Appels
+
+- **Appel 1 :** Prospect non qualifie (trop debutant). Matthias a donne des conseils mais n'a pas presente l'offre.
+- **Appel 2 :** Prospect deja dans un coaching paye ailleurs. Garde le contact pour plus tard.
+- **Appel 3 :** Lucille — close a 350 EUR. Succes.
+- **Tous les appels < 25 min.** Philosophie : pre-qualifier avec video + 3 questions AVANT l'appel pour ne pas avoir besoin de 30+ min.
 
 ### Learnings Prospection (Conversations Analysees)
 
@@ -699,32 +809,36 @@ Quand Matthias mentionne qu'il a un appel/visio prevu avec un prospect, Claude d
 
 ---
 
-## PARTIE 8 : SITUATION ACTUELLE & BLOCAGES (FEVRIER 2026)
+## PARTIE 8 : SITUATION ACTUELLE & BLOCAGES (MI-FEVRIER 2026)
 
 ### Pipeline Actuel
 
-- 1 cliente (Alicia) a 35 EUR
-- 0 client a 50 EUR pour le moment
-- Plusieurs conversations en cours
-- Volume prospection : objectif 10/jour, actuellement pas ce volume a cause blocage LinkedIn
+- **2 clientes signees :**
+  - Alicia — 35 EUR (framework seul, novembre 2025). A decroche apres 1-1,5 mois.
+  - Lucille — 350 EUR (accompagnement complet, fin janvier/debut fevrier 2026). En cours, suivi actif.
+- **4-5 conversations actives** en permanence (parfois 6-7)
+- **3 appels de closing realises** au total (1 non qualifie, 1 deja accompagne, 1 close)
+- **~65 connexions LinkedIn** (volontairement bas — supprime les connexions non qualifiees/inactives pour garder des relations authentiques)
 
-### Blocage Critique : LinkedIn
+### LinkedIn : DEBLOQUE (resolu mi-fevrier 2026)
 
-- LinkedIn bloque les commentaires de Matthias
-- Ne peut pas faire verifier son identite
-- Impact : ne peut pas faire warming avant connexion, taux d'acceptation diminue, volume prospection diminue
-- En train de faire le necessaire pour debloquer
-- Anecdotique a long terme mais bloquant a court terme
+- Le blocage des commentaires est **RESOLU** — verification d'identite obtenue, badge recu
+- Peut maintenant faire **5-15 commentaires/jour** sans restrictions
+- Tres content de cette resolution — ca change enormement la donne pour le warming
 
-### Defis Identifies
+### Defis Restants
 
-1. **Qualification des prospects** — Difficile de trouver profils ultra-qualifies en volume suffisant
-2. **Volume insuffisant** — Prospectait 20-30/semaine (pas assez), devrait faire 50/semaine minimum
-3. **Frustration sur les ghosts** — Beaucoup de gens ne repondent plus apres manifeste
-4. **Pas encore close a 50 EUR** — 0 client au nouveau prix
-5. **Peur de la visio (legere)** — Un peu peur du rejet en closing mais veut combattre cette peur
+1. **Volume a augmenter** — Objectif 50 messages/semaine (10/jour), pas encore a ce rythme
+2. **Pas encore close a 50 EUR** — 0 client au nouveau prix du framework seul
+3. **Eviter le decrochage client** — Lecon d'Alicia : le suivi actif est essentiel
+4. **Seul dans l'aventure** — Pas de mastermind, pas de communaute, pas de reseau entrepreneurial. Avance seul.
+5. **Pas de revenue goal specifique** — Prouve que ca marche et progresse, pas d'objectif chiffre
 
-**Nuance importante :** Le sourcing n'est pas la priorite. La priorite c'est la qualite des relances et la qualite du setting. Et pour ca, il faut plus de volume.
+**Ce qui a change positivement :**
+- LinkedIn debloque = peut enfin prospecter normalement
+- 2eme cliente signee a 350 EUR = validation du modele d'accompagnement
+- Gere bien les appels de closing (bonne preparation, pas de stress majeur)
+- Poste du contenu quotidiennement maintenant
 
 ---
 
@@ -732,23 +846,24 @@ Quand Matthias mentionne qu'il a un appel/visio prevu avec un prospect, Claude d
 
 ### Court Terme (2-4 semaines)
 
-1. Closer 1x a 50 EUR le plus rapidement possible
-2. Debloquer situation LinkedIn (commentaires)
-3. Atteindre volume 50 messages/semaine (10/jour)
-4. Tester visios (3-5 appels cette semaine si possibles)
+1. Augmenter le nombre de clients signes chaque mois (accompagnement complet a 350 EUR)
+2. Atteindre volume 50 messages/semaine (10/jour) — maintenant que LinkedIn est debloque
+3. Closer 1x le framework seul a 50 EUR (nouveau prix)
+4. Continuer le suivi actif avec Lucille — corriger les bugs au fur et a mesure
 
 ### Moyen Terme (1-3 mois)
 
-- Vendre 2-3x a 50 EUR
-- Obtenir feedbacks clients sur le framework
-- Monter prix a 75 EUR puis 100 EUR
-- Etoffer l'offre progressivement
+- Augmenter progressivement le prix de l'accompagnement (au-dela de 350 EUR)
+- Obtenir feedbacks clients + temoignages
+- Systematiser le processus de vente pour lui-meme
+- Peut-etre implementer systeme R1/R2 (2 appels) quand les prix augmentent
 
 ### Long Terme (6+ mois)
 
-- Vision floue (et c'est ok)
-- Possibilites : developper offre, monter en prix (150 EUR, 200 EUR+), evoluer vers accompagnement plus complet
-- Pas d'objectif precis de revenu — vit de son epargne actuellement, priorite = prouver que ca marche
+- Construire un flux regulier et previsible de clients
+- Automatiser les processus repetitifs (CRM, suivi, prospection)
+- Monter en competences (tech, business, IA)
+- Pas d'objectif precis de revenu — priorite = prouver que ca marche et progresser
 
 ---
 
@@ -923,6 +1038,51 @@ Garder dans sa manche des ressources, des cadeaux, des choses qui n'etaient pas 
 
 ---
 
+## PARTIE 14 : DETAILS OPERATIONNELS QUOTIDIENS
+
+### Organisation du Temps
+
+- **Matin 8h-12h :** Travail non-client — sourcing, setting, closing, creation de contenu, strategie
+- **Apres-midi :** Travail client si applicable (suivi, creation frameworks, videos)
+- **Weekend :** Rythme reduit. Pas de sourcing ni de posting. Repond aux DMs, travaille sur la strategie, servirait des clients si besoin.
+
+### Contenu LinkedIn
+
+- **Format :** Posts texte + photo de lui-meme. Pas de video, pas de carousel, pas de documents.
+- **Frequence :** Quotidien (etait 3x/semaine pendant 1,5 mois, puis passage a quotidien)
+- **Creation :** Utilise un projet Claude dedie, part de notes vocales pour generer les posts
+- **Thematiques :** Setting, closing, mindset, parcours personnel, sourcing. Donne de la valeur par les prises de conscience (pas des hacks). Demystifie, casse les mythes, casse les croyances.
+- **CTA avec lead magnet :** 1-2-3x par semaine
+- **Commentaires :** 5-10/jour (= meme nombre que prospects sourced). Parfois plus pour la visibilite sur de gros comptes.
+
+### LinkedIn : Chiffres Cles
+
+- **Connexions :** ~60-65 (volontairement bas — supprime les inactifs/non qualifies)
+- **Headline :** "Prospecter avec intention est la seule strategie coherente pour un freelance solo qui veut des clients en 30 jours sans hasard | Je t'aide a ne plus jamais avoir de probleme d'acquisition client"
+- **Banniere :** "je t'aide a closer tes prospects LinkedIn"
+- **Profil :** Optimise, bonne banniere, headline claire, section info claire
+
+### Projets Claude (4 au total)
+
+1. **Posts LinkedIn** — Generation de contenu a partir de notes vocales
+2. **Strategie/Business** — Conseiller business (ce contexte-ci)
+3. **Framework Setting DM** — Le framework v4.0 pour la prospection DM
+4. **Framework Commentaires** — Le framework pour les commentaires LinkedIn
+
+### Concurrence & Positionnement
+
+- **Principal concurrent connu :** Enzo Racine (~40k EUR/mois). Matthias copie volontairement sa strategie (ne pas reinventer la roue).
+- **Autres :** Connait d'autres personnes faisant des choses similaires, utilise leur succes comme inspiration.
+- **Differenciation :** Intention + regularite. Capacite a faire executer le client sur le long terme. Outils IA. N'a pas besoin de mettre en avant tous ses avantages publiquement.
+- **Coherence promesse/offre :** Legere inconsistance reconnue entre la promesse LinkedIn et l'offre exacte, mais pas prioritaire. L'objectif du profil = donner une direction claire, pas une description exacte du coaching.
+
+### Tics de Langage (en DM)
+
+- Difficile car 99% des prospects sont des femmes
+- Phrases types : "Ah ok, trop bien !", "Ok, oui, je vois."
+
+---
+
 ## Structure du Repository
 
 ```
@@ -939,7 +1099,10 @@ Ce repository est en phase initiale. Au fur et a mesure que des outils, scripts,
 
 > Cette section sert a noter les evolutions importantes du business de Matthias au fil du temps.
 
-- **Fevrier 2026** — Premiere cliente signee (Alicia, 35 EUR). CLAUDE.md cree puis enrichi avec instructions business v3.0 completes, methodologie closing en appel, et methodologie Enzo Racine (vente & conversion).
+- **Novembre 2025** — Premier closing : Alicia (framework seul, 35 EUR)
+- **Fin janvier/debut fevrier 2026** — Deuxieme closing : Lucille (accompagnement complet, 350 EUR en 3x)
+- **Mi-fevrier 2026** — LinkedIn debloque (badge verification identite obtenu). CLAUDE.md cree puis enrichi avec : instructions business v3.0, methodologie closing en appel, methodologie Enzo Racine, puis mise a jour massive avec toutes les reponses QCM de clarification (40+ questions).
+- **QCM en cours** — Session de questions de clarification commencee le 14 fevrier. ~25 questions posees, Matthias a repondu a toutes. Reste ~15-25 questions a poser pour atteindre une comprehension 360° complete. A reprendre quand Matthias revient.
 
 ---
 
