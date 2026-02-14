@@ -193,6 +193,27 @@ Commentaire (warming) → Connexion → Premier DM → Qualification → Creusag
 - Colonnes : Prenom Nom, Lien LinkedIn, Date ajout, Statut (Source/Commente/Connecte/DM envoye/Reponse recue/Appel booke/Client), Type (Freelance/Coach/Consultant/VA), Notes
 - Follow-up quotidien : chaque matin, regarde chaque ligne pour savoir quelle action
 
+### Systeme de Relances
+
+La majorite des gens ne font pas assez de relances. C'est ce qui fait qu'ils n'ont pas assez de retour.
+
+**Timeline des relances (quand ghost apres un message) :**
+- **J+1** — Prenom + "?" (ultra court)
+- **J+2** — "T'as bien recu mon message ?"
+- **J+3** — Variante : "Toujours avec moi ?"
+- **J+4 a J+6** — Humour/decale : "Tu t'es fait kidnapper ?" / "Tu es tombe dans un trou ?"
+- **J+7** — GIF humoristique
+- **J+14** — Urgence/opportunite ou apport de nouvelle valeur
+
+**Regle :** Ne jamais envoyer directement une ressource sans demander l'accord d'abord. Toujours : "je t'envoie le lien ou pas du tout ?" / "c'est important pour toi de resoudre ca ?"
+
+**Patterns de relance apres refus de visio :**
+1. Challenger l'incoherence poliment : "si ca fait 1 an que tu manques de leads..."
+2. Quantifier pour confronter a la realite : "t'as eu combien de leads ?" → "t'en as converti combien ?" → "et c'est quelque chose qui te convient ?"
+3. Reduire la friction : "juste un call tres court (15 min) pour regarder ensemble"
+4. Donner de la valeur en avance : "je te dirai le seul levier que j'optimiserais"
+5. Question piquante finale : "comment tu peux t'ameliorer alors ?"
+
 ### Distribution du Manifeste
 
 **Quand l'envoyer :**
@@ -242,6 +263,26 @@ Commentaire (warming) → Connexion → Premier DM → Qualification → Creusag
 1. **Framework Setting DM v3.0** — Toute la methodologie DM : contexte strategique, sequence en 10 etapes, techniques avancees (projection temporelle, questions socratiques, gestion jauge epuisement), principes psychologiques, cas d'usage specifiques, format reponse (3 options avec contexte). JAMAIS demander revenus/budget (regle critique).
 
 2. **Framework Commentaires LinkedIn** — Toute la methodologie commentaires : adaptation audience, structure optimale, variation maximale, pepites profondes ET limpides, format reponse (2 options avec type audience detecte).
+
+### Methodologie de Vente de Reference : Enzo Racine
+
+Matthias utilise a 90% la methodologie d'Enzo Racine, consultant en vente et conversion (+200 business accompagnes, +30k EUR/mois a 19 ans avec moins de 15 appels qualifies/mois).
+
+**These centrale d'Enzo :** Le probleme n'est jamais l'acquisition, c'est la conversion. Tu n'as pas besoin de plus de leads. Tu as besoin de mieux convertir ceux que tu as deja.
+
+**Concepts cles integres par Matthias :**
+- Posture d'offreur (jamais demandeur)
+- Questions socratiques et chaine des "pourquoi"
+- Obstacles vs objections (avant vs apres le prix)
+- Framework CDD (Clarifier - Discuter - Degager) pour les objections
+- Piliers de confirmation (micro-engagements tout au long de l'appel)
+- Engagement emotionnel AVANT le prix
+- Silence comme outil de vente
+- Quantifier tout (chiffres > mots)
+- Ne jamais coacher pendant l'appel
+- Diagnostiquer avant de prescrire (analogie du medecin)
+
+Les concepts d'Enzo sont integres dans les Parties 5, 6 et 11 de ce document.
 
 ---
 
@@ -349,6 +390,34 @@ Voir section "La Croyance Centrale" dans Partie 3. C'est la fondation de tous le
   3. Detruit ta capacite a vendre
 - **Regle actuelle :** Facture des le premier client, point. Peut commencer bas mais jamais gratuit.
 
+### Principe #5 : Diagnostiquer Avant de Prescrire (Analogie du Medecin)
+
+Un vrai closer n'est pas un vendeur de tapis. C'est un medecin.
+- Il ne pousse pas une pilule a tout le monde
+- Il commence par poser des questions, explorer les symptomes, chercher la racine du probleme
+- Seulement ensuite, il prescrit le traitement
+- Un bon closer sait dire "ce n'est pas pour toi" quand il n'a pas la certitude de pouvoir aider
+- **La vraie vente n'est pas de la manipulation. C'est de l'ethique radicale : diagnostiquer avant de prescrire.**
+
+### Principe #6 : "Investissement" pas "Prix"
+
+Ne jamais dire "le prix". Toujours dire "l'investissement". Parce qu'il y a un retour sur investissement. Ce changement de vocabulaire modifie la perception du prospect.
+
+### Principe #7 : Vendre par le Produit, pas par la Promesse
+
+- Vendre par la promesse attire des gens qui veulent rever, pas des gens prets a agir
+- Les "offres irresistibles" se ressemblent toutes. Le marche a besoin d'une offre IRREMPLACABLE
+- Une offre irremplacable = ta methode, ta facon de penser, ton process, ta philosophie
+- Montre COMMENT tu fais, pas juste ce que tu promets
+- Les reconnaissables vendent moins fort au debut, mais plus longtemps
+
+### Principe #8 : La Vente S'apprend (Process > Talent)
+
+- 100% des mauvais vendeurs pensent que "pas tout le monde ne peut etre fort en vente"
+- La vente n'est pas un don. C'est une mecanique qui s'apprend
+- La difference ce n'est pas la personnalite, c'est la capacite a se forcer
+- Se forcer a parler, etre maladroit au debut, s'entrainer face camera
+
 ---
 
 ## PARTIE 6 : CLOSING EN APPEL — METHODOLOGIE COMPLETE
@@ -439,32 +508,153 @@ Pas de "OK. Interessant. OK." en boucle. T'es engage, t'ecoutes vraiment, tu rea
 6. **Cheat code — Cout de l'inaction :** "Si dans [delai] [objectif pas atteint], il se passe quoi pour toi ?"
 7. **Cheat code — Vrai blocage :** "Qu'est-ce qui te bloque vraiment pour [atteindre objectif] ?"
 
-### Gestion des Objections
+### Obstacles vs Objections (Concept Cle)
 
-- **"Je vais reflechir"** → Sur quoi porte ta reflexion ? (identifier SI je dois vs COMMENT)
-- **"C'est trop cher"** → Trop cher par rapport au budget ou par rapport a la valeur ?
-- **"Je vais voir avec ma strategie actuelle"** → Ca fait combien de temps ? Combien de resultats ?
-- **"Pourquoi c'est pas plus cher / c'est que X EUR ?"** → Prix de lancement, je monte progressivement
-- **"Je te redis demain"** → C'est quoi qui fait que tu peux pas decider maintenant ?
-- **"Et si ca marche pas ?"** → Je reste disponible apres livraison pour questions et ajustements
+Distinction critique issue de la methodologie Enzo Racine :
+- **Avant le prix → Obstacles** : doutes, peurs, manque de confiance. A traiter un par un AVANT d'annoncer le prix
+- **Apres le prix → Objections** : le seul frein restant devrait etre financier, et ca c'est facile a gerer
+
+Si tu annonces le prix trop tot, tu empiles argent + confiance + dispo + peur. Trop lourd a gerer. Mais si tu travailles chaque obstacle AVANT le prix, quand vient le moment du tarif le seul frein est financier.
+
+**Technique de verification :** "Sur une echelle de 0 a 10, a quel point tu te projettes dans ce que je t'ai montre ?" → "Qu'est-ce qui t'empeche d'etre a 10 ?" → Traiter chaque point AVANT le prix.
+
+### Piliers de Confirmation (Micro-Engagements)
+
+Un prospect qui dit "oui" plusieurs fois pendant l'appel est le meme qui dira "oui" au moment du contrat. Creer des piliers de confirmation tout au long de l'appel :
+- "Est-ce que ca te rassure ?"
+- "Est-ce que c'est clair pour toi ?"
+- "Ca te parle ?"
+
+La verite : dans une vente, celui qui parle trop perd. Regle du 70/30 : le prospect parle 70% du temps, toi 30%.
+
+### La Regle de la Quantification
+
+Quantifier tout. Les chiffres confrontent a la realite mieux que les mots :
+- "Combien de clients par mois ?"
+- "Depuis combien de temps ?"
+- "Combien de leads ?"
+- "Tu en as converti combien ?"
+- "Et c'est quelque chose qui te convient ?"
+
+Plus c'est concret (temps perdu, argent non gagne, opportunites ratees), plus le statu quo devient intenable pour le prospect.
+
+### La Garantie : Massue Finale, pas Argument de Vente
+
+Si tu as une garantie, ne l'annonce PAS en meme temps que le prix. Sequence :
+1. Annonce l'investissement
+2. Traite les objections
+3. Quand tu es a deux doigts de closer, sors la garantie comme un coup fatal
+
+A ce moment precis, la garantie n'est plus une option. C'est la piece qui fait tomber la tour.
+
+### Gestion des Objections — Framework CDD
+
+**C - CLARIFIER :** Accueillir l'objection, poser des questions ouvertes pour comprendre
+**D - DISCUTER :** Creuser la vraie raison derriere l'objection
+**D - DEGAGER :** Faire sortir la vraie objection et la traiter
+
+**Les 3 sources d'objection :**
+1. Pas confiance dans le produit
+2. Pas confiance en toi
+3. Pas confiance en elle-meme (la plus frequente)
+
+### Objection "Je Vais Reflechir" — Traitement Complet
+
+"Je vais reflechir" = ecran de fumee. Ca veut dire non, sauf si tu creuses.
+
+**Etape 1 — Accueillir :**
+"C'est completement OK. Avant que je te laisse prendre ce temps, sur quoi va porter ta reflexion exactement ?"
+
+**Etape 2 — Identifier "SI je dois" vs "COMMENT" :**
+"Tu te demandes SI tu dois rejoindre ? Ou tu te demandes COMMENT rejoindre ?"
+- Si "SI je dois" → pas convaincu. Traiter la confiance AVANT de parler solutions
+- Si "COMMENT rejoindre" → veut avancer mais cherche des solutions pratiques
+
+**Etape 3 — Si cadrage fait en debut d'appel :**
+"Rappelle-toi, on avait dit qu'a la fin de l'appel tu me dirais franchement." → Le prospect se retrouve face a sa propre incoherence
+
+### Objection "C'est Trop Cher" — Traitement Complet
+
+Quand quelqu'un dit "c'est trop cher", il ne parle pas de son compte bancaire. Il parle de RISQUE.
+
+**Etape 1 — Accueillir + rajouter du poids :**
+"Effectivement, ca represente un certain investissement, je suis completement d'accord. Et en plus de l'investissement financier, tu vas aussi devoir investir de l'energie et du temps. Je le comprends."
+
+**Etape 2 — Clarifier :**
+"Quand tu me dis que c'est trop cher, c'est trop cher par rapport a ton budget ? Par rapport au fait que tu n'avais pas prevu cette depense ? Ou parce que tu ne vois pas la valeur derriere ?"
+
+**Etape 3 — "SI je dois" vs "COMMENT" :**
+"Tu te demandes SI c'est pertinent de rejoindre ? Ou plutot COMMENT rejoindre mais tu ne sais pas comment ?"
+
+**Verite a garder en tete :** Personne n'a "le budget". On le trouve quand quelque chose devient prioritaire. Les memes personnes qui disent "c'est complique niveau finances" trouvent des solutions pour un iPhone, un voyage, un abonnement.
+
+### Objection "Je Dois en Parler a..." — Traitement
+
+**2 types de decisionnaire :**
+- **TYPE A — Decisionnaire REEL mais absent (15% des cas) :** co-fondateur, conjoint avec compte joint. Signaux : explique clairement le role, donne des dates concretes
+- **TYPE B — Decisionnaire FANTOME (85% des cas) :** bouclier psychologique. Pourrait decider seul si convaincu a 100%
+
+**Question magique :** "Si tu etais seul a decider, toi tu deciderais quoi ?"
+
+**Prevention (cadrage en debut d'appel) :** "Avant qu'on commence, si apres notre echange tu te dis 'OK, c'est exactement ce qu'il me faut', qu'est-ce qui se passe ensuite ? Tu peux demarrer direct ou il y a des etapes de validation ?"
+
+### Gestion de la Peur
+
+Quand quelqu'un dit "j'ai peur", ne PAS arriver en mode "Let's go !"
+- Adapter le ton : "OK, je comprends absolument que tu aies peur. On est la pour ca aujourd'hui."
+- Questionner : "Qu'est-ce qu'elle te dit cette peur ?"
+- **Metaphore du bras sur l'epaule :** Tu es a cote du prospect, vous regardez dans la meme direction. Pas face a face en confrontation.
+
+### Red Flags Prospect
+
+3 signaux qui annoncent un prospect tres complique a accompagner :
+
+1. **Met la faute sur tous ses anciens formateurs** — "Ca ne marchait pas", "le programme etait mauvais". Quand tout le monde a echoue avant toi, le probleme est rarement technique
+2. **Insiste sur la garantie** — Quelqu'un qui commence une collaboration en pensant a la sortie n'est jamais vraiment dedans
+3. **Pousse pour du paiement en x10/x12** — Pas pour simplifier l'investissement, mais pour se reserver le droit mental de couper plus tard
+
+Un prospect te montre toujours comment il va se comporter apres la vente.
 
 ### Erreurs a Eviter en Closing
 
-1. **Ne pas coacher pendant l'appel** — Ne jamais donner de conseils concrets pendant la decouverte
+1. **Ne pas coacher pendant l'appel** — Ne jamais donner de conseils concrets pendant la decouverte. Le coaching vient apres le paiement
 2. **Ne pas qualifier si deja accompagne** — Toujours demander, se positionner en complement pas en concurrent
 3. **Ne pas se retirer face a un concurrent** — "Sa formation c'est sur X. Moi c'est sur Y. C'est complementaire."
 4. **Annoncer prix sans engagement emotionnel** — Toujours poser la question "Si t'avais ce systeme..." AVANT le prix
-5. **Ne pas closer** — Toujours proposer de closer apres les objections
+5. **Ne pas closer** — Toujours proposer de closer apres les objections : "Du coup, on part la-dessus ?"
 6. **Parler apres avoir annonce le prix** — Se taire. Le premier qui parle perd
+7. **Traiter plusieurs objections en meme temps** — Une a la fois
+8. **Laisser le prospect partir sur "je vais reflechir" sans creuser**
+9. **Appels trop longs** — Un appel de 2h = manque de structure. Viser 20-45 min selon complexite
+
+### Process Anti No-Show
+
+1. Message de confirmation avec posture (des le booking)
+2. Envoi du manifeste/video promise
+3. Message le matin du RDV : "Hello, on a rendez-vous dans X heures"
+4. Rappel 2h avant si pas de reponse
+5. Appel telephonique si toujours pas de reponse 2h avant
+
+**Hack :** Envoyer une note vocale ultra personnalisee : "j'ai regarde ton profil, j'ai capte 2 points a corriger absolument, on en parle demain." Tu n'es plus un call parmi d'autres.
+
+### Les 7 Premieres Secondes
+
+Quand tu veux prouver que tu sais vendre, ton prospect le sent. Quand tu veux "le closer", il se ferme. Mais quand tu veux juste comprendre, il s'ouvre. L'energie doit etre neutre, l'intention claire : comprendre avant de convaincre.
 
 ### Checklist Visio
 
 - [ ] Ne pas coacher pendant l'appel
-- [ ] 2 questions max par sujet puis pivoter
-- [ ] Reutiliser ses mots dans le diagnostic
+- [ ] Cadrer la decision des les 5 premieres minutes
+- [ ] Verifier le decisionnaire
+- [ ] Regle du 70/30 (prospect parle 70%)
+- [ ] Quantifier tout (chiffres > mots)
+- [ ] Creer des piliers de confirmation (micro-oui)
+- [ ] Traiter les obstacles AVANT le prix
 - [ ] Question d'engagement AVANT le prix
+- [ ] Dire "investissement" pas "prix"
 - [ ] Se taire apres avoir annonce le prix
 - [ ] Ne pas baisser le prix
+- [ ] Garder la garantie comme massue finale
 - [ ] Avoir le lien de paiement pret
 
 ### Apres la Visio
@@ -625,6 +815,114 @@ Claude doit :
 
 ---
 
+## PARTIE 11 : SYSTEME VITRINE (AVANT LE CONTACT)
+
+> Source : Methodologie Enzo Racine, adaptee au contexte LinkedIn de Matthias
+
+### Principe
+
+90% des objections pourraient disparaitre si le prospect arrivait en appel en sachant deja qui tu es, ce que tu fais, et pourquoi tu es legitime. La majorite du travail de vente se fait AVANT l'appel.
+
+Plus tu crees de la relation avec ton prospect avant l'appel, plus ton taux de conversion augmente. Une personne qui a consomme ton contenu et vu la pertinence de ce que tu dis achetera plus facilement.
+
+### Les 5 Niveaux de Conscience du Prospect (Eugene Schwartz)
+
+1. **Unaware** — Ne sait meme pas qu'il a un probleme
+2. **Problem Aware** — Sait qu'il a un probleme (la plupart des prospects sourced par Matthias)
+3. **Solution Aware** — Connait les solutions possibles
+4. **Product Aware** — Sait qu'il y a des produits pour l'aider
+5. **Most Aware** — Sait exactement chez qui il veut acheter
+
+**En outbound (prospection LinkedIn) :** Tu choppes le prospect a n'importe quel moment de ce cycle. Selon le niveau de conscience, le travail de setting est different. Le manifeste et le contenu LinkedIn servent a faire monter le prospect dans les niveaux.
+
+### La Maturite du Prospect
+
+Grille d'evaluation :
+- **Moins de 3 mois d'activite** = Peu mature (tres dur a closer, pas assez de douleur)
+- **3 a 12 mois** = Maturite moyenne (tu peux les prendre)
+- **Plus d'un an** = Tres mature (conscient du probleme, pret a agir)
+
+Plus c'est ancien, plus la douleur est profonde et plus la motivation d'achat est elevee. Maturite ≠ qualification. La maturite c'est la duree d'exposition au probleme. La qualification c'est la conscience du probleme.
+
+### Contenu LinkedIn Strategique
+
+**3 types de contenu :**
+- **TOFU (Top of Funnel)** — Contenu viral qui cherche les vues, s'adresse a une large audience. A utiliser avec parcimonie
+- **MOFU (Middle of Funnel)** — Contenu de valeur qui assoit l'autorite. 80% du contenu doit etre MOFU. Prends 5 problemes de ton audience et resous-les gratuitement
+- **BOFU (Bottom of Funnel)** — Temoignages, case studies, conversion directe
+
+**L'erreur du volume de vues :** Ce n'est pas le volume qui fait le chiffre, c'est la precision. Des posts a 500 vues qui parlent a ton vrai avatar client > des posts viraux a 50k vues avec des prospects pas qualifies.
+
+### La Big Idea (Positionnement Differenciant)
+
+Ce n'est pas "je suis coach en prospection". C'est l'idee differenciante qui guide tout le business.
+
+**Pour Matthias :** "J'aide les freelances solo a remplir leur calendrier dans les 30 jours grace a la prospection directe avec intention — pas du volume aveugle, pas du contenu qui prend 12 mois. De la prospection structuree, consciente, qui donne des resultats rapides avec 0 budget."
+
+### Sophistication de Marche
+
+Le marche a evolue. Les prospects sont plus mefiants, plus eduques, ont deja ete exposes a des dizaines d'offres similaires. Ca impose :
+- De creer plus de relation avant l'appel de vente
+- Que les temoignages et preuves sociales deviennent indispensables
+- Que la confiance se construit sur la duree, pas en un message
+- De scaler verticalement (qualite) plutot qu'horizontalement (volume)
+
+---
+
+## PARTIE 12 : KPIs ESSENTIELS A TRACKER
+
+| KPI | Ce que ca mesure |
+|-----|-----------------|
+| **Prospects sourced/semaine** | Volume de sourcing (objectif : 50/semaine) |
+| **Taux de reponse DM** | % de prospects qui repondent au premier message |
+| **Conversations actives** | Nombre de conversations en cours dans le pipeline |
+| **Manifestes envoyes** | Nombre de manifestes envoyes par semaine |
+| **Taux de lecture manifeste** | % de prospects qui lisent et reagissent au manifeste |
+| **Visios bookees** | Nombre d'appels planifies |
+| **Taux de show-up** | % de prospects qui viennent au RDV booke |
+| **Taux de closing** | % de visios qui signent |
+| **Cash contracte** | Montant total signe sur la periode |
+| **Source des leads** | D'ou viennent les meilleurs prospects |
+
+**Sans data, tu prends des decisions emotionnelles. Avec de la data, tu prends des decisions qui scalent.**
+
+**Frequence de review :** Chaque semaine minimum. Regarder les chiffres objectivement pour identifier ce qui bloque vraiment.
+
+---
+
+## PARTIE 13 : POST-VENTE & FIDELISATION
+
+### Onboarding Client
+
+- Rendez-vous/livraison dans les 24-48h max apres le paiement
+- Oriente quick win : premier resultat visible des les premiers jours
+- Processus clair, sans friction
+- Personnalise selon les besoins specifiques
+
+Un bon onboarding augmente la retention et la satisfaction. Un mauvais onboarding tue la relation avant meme la premiere semaine.
+
+### Quick Wins
+
+Garder dans sa manche des ressources, des cadeaux, des choses qui n'etaient pas pitchees dans l'offre. Les envoyer en surprise. Les gens vont etre en mode "Waouh, ils sont deja presents pour moi".
+
+### La Fidelisation Comme Levier d'Acquisition
+
+- **Recommandation** — Les clients satisfaits deviennent tes meilleurs commerciaux
+- **Temoignages** — Chaque client satisfait = une preuve sociale de plus
+- **Upsell** — Les clients qui rachetent (offre etoffee, accompagnement plus complet)
+
+**La vraie equation :** Plus de clients satisfaits = plus de preuves sociales = plus de confiance = plus de ventes = plus de recommandations. C'est un cercle vertueux.
+
+### Hierarchie des Preuves Sociales (de la moins a la plus forte)
+
+1. Temoignage ecrit
+2. Temoignage vocal
+3. Temoignage video
+4. Client que tu peux contacter directement
+5. Client qui vient de lui-meme recommander ton service
+
+---
+
 ## Structure du Repository
 
 ```
@@ -641,7 +939,7 @@ Ce repository est en phase initiale. Au fur et a mesure que des outils, scripts,
 
 > Cette section sert a noter les evolutions importantes du business de Matthias au fil du temps.
 
-- **Fevrier 2026** — Premiere cliente signee (Alicia, 35 EUR). CLAUDE.md cree puis enrichi avec instructions business v3.0 completes + methodologie closing en appel.
+- **Fevrier 2026** — Premiere cliente signee (Alicia, 35 EUR). CLAUDE.md cree puis enrichi avec instructions business v3.0 completes, methodologie closing en appel, et methodologie Enzo Racine (vente & conversion).
 
 ---
 
