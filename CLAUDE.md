@@ -78,16 +78,25 @@ Contient toutes les informations sur sa vie, son business, ses objectifs, sa str
 
 **Processus creation frameworks :**
 1. Envoi questionnaire Fillout au client
-2. Client remplit (15-20 min)
+2. Client remplit (15-20 min) — inclut infos statiques (ICP, offre, parcours, style) + quelques conversations DM reelles
 3. Matthias configure framework personnalise avec Claude (24-48h)
-4. Livraison + video explicative personnalisee
+4. Si besoin d'infos supplementaires, les demande via WhatsApp
+5. Livraison + video explicative personnalisee
+
+**Duree de l'accompagnement :** Pas de duree fixe pour le moment. Objectif = accompagner jusqu'a ce que le client obtienne son premier client grace a la methode. Sera formalise avec plus de data.
+
+**Suivi proactif :** Messages WhatsApp le mercredi et vendredi soir, 3 axes : (1) combien de conversations cette semaine, (2) blocages/frustrations, (3) niveau de motivation. Le client repond et Matthias ajuste.
+
+**Role du client avec le framework :** Le framework Claude est un bon outil mais sur les moments sensibles (prospect pret a accepter un appel, prospect qui se braque), Matthias demande a ses clients de lui demander directement plutot que de faire confiance a 100% au framework. C'est l'expertise humaine qui tranche sur les enjeux critiques.
+
+**Defi technique framework :** Claude (en projet) ne respecte pas toujours toutes les directives d'un prompt de 6-10k mots. Matthias doit constamment mettre a jour le framework (v4.0 actuellement). Objectif = avoir un systeme qui necessite seulement 1-2 modifications apres reception du questionnaire client.
 
 ### Offre 2 : Framework(s) IA Seuls (Sans Suivi)
 
 **Prix actuel :** 50 EUR (avant : 35 EUR)
 - Prochains paliers : 75 EUR, 100 EUR selon feedbacks et ameliorations
 
-**Statut :** 1 cliente (Alicia) vendue a 35 EUR (ancien prix). 0 client a 50 EUR pour le moment.
+**Statut :** 1 cliente (Alicia) vendue a 35 EUR (ancien prix). 0 client a 50 EUR pour le moment. **Note :** Cette offre est un vestige du debut. Matthias se focalise desormais sur l'accompagnement complet. Le framework seul n'est plus une priorite strategique.
 
 **Livrables :**
 1. Questionnaire Fillout a remplir (15-20 min) — ICP, offre, parcours professionnel, style d'ecriture, temoignages clients, ressources gratuites
@@ -437,10 +446,16 @@ Les concepts d'Enzo sont integres dans les Parties 5, 6 et 11 de ce document.
 
 **Approche :** Avec Lucille, Matthias corrige activement les bugs au fur et a mesure (contrairement a Alicia ou il n'y avait pas de suivi actif). C'est la premiere vraie validation du modele d'accompagnement complet.
 
+**Resultats apres 2 semaines :** 20-30 conversations initiees. Semaine 2 moins intense (moins de temps disponible, elle l'a avoue). Pas encore d'appel booke. Matthias doit lui demander quelle est sa conversation la plus avancee.
+
+**Contexte important :** Lucille est le PREMIER vrai closing de Matthias (quelqu'un qu'il ne connaissait pas, pas de referral, pas de bouche a oreille). Enorme milestone personnel.
+
 **Learnings :**
 1. **L'accompagnement complet est le bon modele** — Le suivi actif previent le decrochage
-2. **350 EUR est un prix acceptable** — Meme pour un freelance en phase de lancement
+2. **350 EUR est un prix acceptable** — Lucille elle-meme a dit que c'etait "que dalle" et qu'il devrait augmenter ses tarifs
 3. **Le paiement en 3x facilite la decision** — A proposer systematiquement si besoin
+4. **Le pricing se fait au feeling** — Matthias prevoyait 150 EUR mais a ose 350 EUR pendant l'appel car l'energie etait bonne. Prochain closing vise 500 EUR+
+5. **La delivery prend du temps** — Les 3 premiers jours avec Lucille = 8-10h/jour (sourcing le matin + 5-6h de livrables l'apres-midi)
 
 ### Historique Complet des Appels
 
@@ -792,7 +807,7 @@ Quand Matthias mentionne qu'il a un appel/visio prevu avec un prospect, Claude d
 **3. Proposer une offre adaptee :**
 - Structure de base : Sourcing + Setting + Closing
 - Adapter les livrables selon le contexte specifique
-- Proposer un pricing coherent (generalement 100-150 EUR pour une offre complete)
+- Proposer un pricing coherent (actuellement 500 EUR+ pour l'accompagnement complet, ajuste au feeling selon l'appel)
 - Matthias valide ou ajuste avant de finaliser
 
 **4. Produire un deroule complet :**
@@ -828,11 +843,13 @@ Quand Matthias mentionne qu'il a un appel/visio prevu avec un prospect, Claude d
 
 ### Defis Restants
 
-1. **Volume a augmenter** — Objectif 50 messages/semaine (10/jour), pas encore a ce rythme
-2. **Pas encore close a 50 EUR** — 0 client au nouveau prix du framework seul
-3. **Eviter le decrochage client** — Lecon d'Alicia : le suivi actif est essentiel
-4. **Seul dans l'aventure** — Pas de mastermind, pas de communaute, pas de reseau entrepreneurial. Avance seul.
-5. **Pas de revenue goal specifique** — Prouve que ca marche et progresse, pas d'objectif chiffre
+1. **Volume a augmenter** — Objectif 50 messages/semaine (10/jour), pas encore a ce rythme. Limite aussi par LinkedIn (trop de connexions/commentaires = risque de ban)
+2. **Eviter le decrochage client** — Lecon d'Alicia : le suivi actif est essentiel
+3. **Seul dans l'aventure** — Pas de mastermind, pas de communaute, pas de reseau entrepreneurial. Avance seul.
+4. **Framework instable** — Claude ne respecte pas toujours toutes les directives du prompt (6-10k mots). Necessite des mises a jour constantes (v4.0 actuellement)
+5. **Manifeste peu lu** — Les prospects ne prennent pas le temps de lire meme quand Matthias dit que ca prend 5-10 min. Tres peu de valeur en l'etat.
+6. **Pression financiere moderee** — Vit de son epargne, marge suffisante mais pas eternelle. Besoin que ca decolle dans les prochains mois.
+7. **Objection DM frequente** — Les prospects detectent le pattern de vente et coupent avant meme le pitch. Gere par transparence (methode Enzo Racine).
 
 **Ce qui a change positivement :**
 - LinkedIn debloque = peut enfin prospecter normalement
@@ -846,24 +863,25 @@ Quand Matthias mentionne qu'il a un appel/visio prevu avec un prospect, Claude d
 
 ### Court Terme (2-4 semaines)
 
-1. Augmenter le nombre de clients signes chaque mois (accompagnement complet a 350 EUR)
+1. Signer de nouveaux clients en accompagnement complet (prochain prix : 500 EUR+)
 2. Atteindre volume 50 messages/semaine (10/jour) — maintenant que LinkedIn est debloque
-3. Closer 1x le framework seul a 50 EUR (nouveau prix)
-4. Continuer le suivi actif avec Lucille — corriger les bugs au fur et a mesure
+3. Continuer le suivi actif avec Lucille — l'aider a booker son premier appel
+4. Stabiliser les frameworks (reduire les bugs / mises a jour constantes)
 
 ### Moyen Terme (1-3 mois)
 
-- Augmenter progressivement le prix de l'accompagnement (au-dela de 350 EUR)
-- Obtenir feedbacks clients + temoignages
-- Systematiser le processus de vente pour lui-meme
+- Augmenter progressivement le prix de l'accompagnement (500 EUR → 750 EUR → 1000 EUR+)
+- Obtenir feedbacks clients + temoignages (surtout de Lucille)
+- Systematiser le processus de vente
 - Peut-etre implementer systeme R1/R2 (2 appels) quand les prix augmentent
+- Atteindre au moins 2 mois a 2000-3000 EUR dans les 6 prochains mois
 
-### Long Terme (6+ mois)
+### Long Terme (1-2 ans)
 
-- Construire un flux regulier et previsible de clients
-- Automatiser les processus repetitifs (CRM, suivi, prospection)
-- Monter en competences (tech, business, IA)
-- Pas d'objectif precis de revenu — priorite = prouver que ca marche et progresser
+- **Scaler** : recruter, deleguer, augmenter le chiffre d'affaires
+- **High ticket** : moins de clients, prix plus eleves
+- **Automatiser** au maximum avec l'IA (process, livrables, contenu)
+- **Conviction profonde** : le 0→1 est le plus dur. Une fois les fondations solides, le 1→10 est du scale avec des process et du recrutement
 
 ---
 
@@ -1042,18 +1060,19 @@ Garder dans sa manche des ressources, des cadeaux, des choses qui n'etaient pas 
 
 ### Organisation du Temps
 
-- **Matin 8h-12h :** Travail non-client — sourcing, setting, closing, creation de contenu, strategie
-- **Apres-midi :** Travail client si applicable (suivi, creation frameworks, videos)
+- **Matin 8h-12h :** Travail non-client — sourcing, setting, closing, creation de contenu, strategie (3-4h en rythme normal)
+- **Apres-midi :** Travail client si applicable (suivi, creation frameworks, videos) — monte a 5-6h quand il y a de la delivery (ex: 3 premiers jours avec Lucille = 8-10h/jour au total)
 - **Weekend :** Rythme reduit. Pas de sourcing ni de posting. Repond aux DMs, travaille sur la strategie, servirait des clients si besoin.
+- **Temps reel :** 3-4h/jour en moyenne du lundi au vendredi. Ne peut pas faire plus de volume sur la prospection (risque de ban LinkedIn). Les journees seront beaucoup plus remplies quand il y aura plus de clients a delivrer.
 
 ### Contenu LinkedIn
 
-- **Format :** Posts texte + photo de lui-meme. Pas de video, pas de carousel, pas de documents.
+- **Format :** Posts texte + selfie (expression adaptee au ton du post : sourire, neutre, mecontent). Pas de video, pas de carousel, pas de documents.
 - **Frequence :** Quotidien (etait 3x/semaine pendant 1,5 mois, puis passage a quotidien)
-- **Creation :** Utilise un projet Claude dedie, part de notes vocales pour generer les posts
+- **Creation :** Utilise un projet Claude dedie. Process : vocal brut avec idee/lecon → Claude propose 10 accroches → Matthias choisit → Claude genere 3 formats de posts → Matthias selectionne le meilleur
 - **Thematiques :** Setting, closing, mindset, parcours personnel, sourcing. Donne de la valeur par les prises de conscience (pas des hacks). Demystifie, casse les mythes, casse les croyances.
 - **CTA avec lead magnet :** 1-2-3x par semaine
-- **Commentaires :** 5-10/jour (= meme nombre que prospects sourced). Parfois plus pour la visibilite sur de gros comptes.
+- **Commentaires :** 5-10/jour obligatoires pour le warming prospects + commentaires bonus de visibilite sur les gros comptes (temps libre, soir, etc.).
 
 ### LinkedIn : Chiffres Cles
 
@@ -1081,6 +1100,33 @@ Garder dans sa manche des ressources, des cadeaux, des choses qui n'etaient pas 
 - Difficile car 99% des prospects sont des femmes
 - Phrases types : "Ah ok, trop bien !", "Ok, oui, je vois."
 
+### Contexte Personnel
+
+- **Vit chez sa mere** a Nice. Elle le soutient mais apres 4 ans commence a douter un peu. Le laisse faire, ne l'oblige pas a faire des etudes.
+- **Pere :** 75 ans, tres ouvert, detache, encourage mais ne comprend pas les details du business.
+- **Entourage :** Garde beaucoup pour lui. Personne ne sait exactement ce qu'il fait. Pas d'encouragement reel de l'entourage.
+- **Motivation :** Veut prouver par les resultats. Pas d'ego, juste montrer qu'il en etait capable.
+- **Gestion du rejet :** Le rejet en DM ne le touche quasi plus. Le framework + methode Enzo Racine lui donnent confiance (il sait quoi repondre a chaque objection).
+
+### Rapport a l'Echec (4 Ans de Recul)
+
+**3 erreurs majeures :**
+1. **Manque de consistance** — Lacher trop tot sur des business, pas assez de regularite + intensite
+2. **Manque de sens** — Faire du copywriting/landing pages sans etre convaincu que ca marchait vraiment
+3. **Dispersion** — Vouloir revolutionner (outils IA complexes) au lieu de copier ce qui fonctionne
+
+**La solution trouvee :** Copier Enzo Racine (ne pas reinventer la roue), faire un truc qui fait sens (accompagnement en prospection), et persister. L'accompagnement actuel est le premier business ou Matthias est CONVAINCU que sa methode fonctionne vraiment.
+
+### Objections DM les Plus Frequentes
+
+1. **Detection du pattern de vente** — "Je sais que ca va finir par un truc a vendre" → Reponse : transparence totale + dedramatisation + on continue de creuser
+2. **Pas le budget** — "J'ai pas l'argent" (sans connaitre le prix) → Reponse : gestion via methode Enzo Racine
+3. **Deja accompagne** — Plus rare → Reponse : se positionner en complement
+
+### Vision IA
+
+L'IA (Claude et outils en general) est un pilier fondamental a tous les niveaux : livrables clients, process internes, automatisation, contenu. Utilisation maximale tant que c'est pertinent et solide. A terme, automatiser le maximum possible.
+
 ---
 
 ## Structure du Repository
@@ -1102,8 +1148,8 @@ Ce repository est en phase initiale. Au fur et a mesure que des outils, scripts,
 - **Novembre 2025** — Premier closing : Alicia (framework seul, 35 EUR)
 - **Fin janvier/debut fevrier 2026** — Deuxieme closing : Lucille (accompagnement complet, 350 EUR en 3x)
 - **Mi-fevrier 2026** — LinkedIn debloque (badge verification identite obtenu). CLAUDE.md cree puis enrichi avec : instructions business v3.0, methodologie closing en appel, methodologie Enzo Racine, puis mise a jour massive avec toutes les reponses QCM de clarification (40+ questions).
-- **QCM en cours** — Session de questions de clarification commencee le 14 fevrier. ~25 questions posees, Matthias a repondu a toutes. Reste ~15-25 questions a poser pour atteindre une comprehension 360° complete. A reprendre quand Matthias revient.
+- **QCM termine** — Session de 50 questions de clarification completee le 15 fevrier. Comprehension 360° atteinte. Sujets couverts : offres, clients, outils, process, contenu, closing, mindset, vision, finances, entourage, erreurs, objections, framework.
 
 ---
 
-*Derniere mise a jour : 14 fevrier 2026*
+*Derniere mise a jour : 15 fevrier 2026*
