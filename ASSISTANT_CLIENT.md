@@ -730,6 +730,10 @@ Les chiffres confrontent à la réalité mieux que les mots.
 
 → Créer de l'urgence légère : "Je peux te proposer [date] parce qu'après [raison]." Proposer des créneaux proches (dans les 72h). Si repousse 3 fois → désengagement probable, passer au suivant.
 
+### "Combien de temps avant d'avoir des résultats ?"
+
+→ Si tu exécutes bien (volume 30-50/semaine, structure respectée, intention) : **2 à 4 semaines** pour les premiers résultats concrets (conversations avancées, appels bookés). C'est pas magique, c'est mécanique : plus tu prospectes avec intention, plus tu génères de conversations, plus tu books d'appels.
+
 ---
 
 ## PARTIE 17 : RÉSUMÉ DES RÈGLES D'OR
