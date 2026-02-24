@@ -1,289 +1,78 @@
-# QUESTIONNAIRE ONBOARDING CLIENT
+# QUESTIONNAIRE ONBOARDING
 
-> Ce document est la trame complète du questionnaire d'onboarding à reproduire dans Fillout.
-> Durée estimée pour le client : 15-20 minutes.
-> Chaque section est clairement séparée. Les instructions entre crochets [xxx] sont des indications pour la configuration Fillout, pas du texte visible pour le client.
+Intro : Merci de remplir ce questionnaire. Plus c'est détaillé, mieux je pourrai adapter la stratégie et les outils à ta situation. Temps estimé : 15-20 min.
 
----
+## 1. TON BUSINESS
 
-## INTRODUCTION (page d'accueil du questionnaire)
+1.1 Ton métier / activité exactement ? [court]
+1.2 Tu fais ça depuis combien de temps ? [court]
+1.3 Ton parcours en quelques phrases (reconversion, déclic, etc.) [long]
+1.4 Tu travailles seul(e) ou en équipe ? [choix : Seul(e) / Associé(e) / Équipe 2-5 / Autre]
+1.5 Statut juridique ? [court]
 
-**Titre :** Questionnaire d'onboarding — Bienvenue !
+## 2. TON OFFRE
 
-**Texte d'intro :**
-> Merci de prendre le temps de remplir ce questionnaire. Plus tes réponses sont détaillées et honnêtes, plus je pourrai créer des outils et une stratégie vraiment adaptés à ta situation. Il n'y a pas de mauvaise réponse — je veux juste comprendre où tu en es pour qu'on avance ensemble le plus efficacement possible.
->
-> Temps estimé : 15-20 minutes.
+2.1 Décris ton offre principale en détail : concrètement ton client reçoit quoi ? [long]
+2.2 Quelle problématique ton offre résout ? [long]
+2.3 Le résultat concret que tes clients obtiennent ? [long]
+2.4 Ton prix actuel ou fourchette de prix ? [court]
+2.5 D'autres offres (secondaires, complémentaires) ? Décris brièvement. [long, optionnel]
+2.6 Qu'est-ce qui te rend différent(e) ? Pourquoi te choisir toi ? [long]
 
----
+## 3. TA CIBLE
 
-## SECTION 1 : TON BUSINESS
+3.1 Ton client idéal : quel type de personne/entreprise, secteur, taille ? Pas d'avatar fictif, juste à qui tu t'adresses concrètement. [long]
+3.2 Quel budget ont tes clients idéalement ? [court]
+3.3 Problématiques PRINCIPALES de ta cible (le truc qui les empêche de dormir) ? [long]
+3.4 Problématiques secondaires ? [long]
+3.5 Objections les plus fréquentes quand tu proposes ton offre ? Donne-en un max. [long]
+3.6 Tes prospects ont déjà essayé des solutions avant toi ? Lesquelles et pourquoi ça a pas marché ? [long]
 
-**Titre de section :** Parlons de ton activité
+## 4. TON EXPÉRIENCE PROSPECTION
 
----
+4.1 Comment tu trouves tes clients aujourd'hui ? [long]
+4.2 T'as déjà fait de la prospection LinkedIn ou autre ? Volume, méthode, résultats. [long]
+4.3 Qu'est-ce qui a marché / pas marché ? [long]
+4.4 Déjà accompagné(e) ou formé(e) sur l'acquisition/prospection/vente ? C'était quoi et pourquoi ça a pas suffi ? Si non, écris "Non". [long]
 
-**Question 1.1**
-Quel est ton métier / ton activité exactement ?
-[Champ : texte court]
+## 5. TON CONTENU LINKEDIN
 
-**Question 1.2**
-Tu fais ça depuis combien de temps ?
-[Champ : texte court]
+5.1 Tu postes du contenu actuellement ? [choix : 3x/sem+ / 1-2x/sem / Rarement / Jamais]
+5.2 Sur quelles thématiques ? [long, optionnel]
+5.3 Ce qui marche le mieux / le moins dans ton contenu ? [long, optionnel]
+5.4 Tu commentes les posts d'autres ? À quelle fréquence ? [court]
 
-**Question 1.3**
-En quelques phrases, raconte ton parcours : comment tu en es arrivé(e) là ? (Reconversion, études, déclic, etc.)
-[Champ : texte long]
+## 6. TON STYLE D'ÉCRITURE
 
-**Question 1.4**
-Tu travailles seul(e) ou tu as une équipe ?
-[Champ : choix unique]
-- Seul(e)
-- Avec un(e) associé(e)
-- Petite équipe (2-5 personnes)
-- Autre (précise)
+Section la plus importante. Colle des vrais exemples pour que je capte ton style.
 
-**Question 1.5**
-Quel est ton statut juridique ?
-[Champ : texte court]
-> Exemple : auto-entrepreneur, SASU, etc.
+6.1 Colle 3 à 5 messages privés écrits par toi (les uns sous les autres, on s'en fiche du contexte). [long]
+6.2 Colle 2 à 3 commentaires LinkedIn écrits par toi. [long]
+6.3 Colle 1 à 2 posts LinkedIn écrits par toi (ou extraits). [long]
+6.4 Comment tu décrirais ton style en quelques mots ? (Direct, doux, humoristique, familier...) [court]
 
----
+## 7. TES BLOCAGES
 
-## SECTION 2 : TON OFFRE
+7.1 UN SEUL blocage qui t'empêche d'avoir plus de clients, ce serait quoi ? [long]
+7.2 Des peurs ou croyances qui te freinent ? (Peur de déranger, syndrome imposteur, rapport à l'argent...) Sois honnête. [long]
+7.3 Une conversation récente qui a MAL tourné ? Qu'est-ce qui s'est passé ? [long, optionnel]
+7.4 Une conversation récente qui a BIEN tourné ? Qu'est-ce qui a fait la différence ? [long, optionnel]
 
-**Titre de section :** Ce que tu vends
+## 8. TES OBJECTIFS
 
----
+8.1 Combien de clients par mois tu vises ? [court]
+8.2 CA mensuel visé ? [court]
+8.3 Dans quel délai ? [court]
 
-**Question 2.1**
-Décris ton offre principale en détail : en quoi ça consiste concrètement ? Qu'est-ce que ton client reçoit / vit ?
-[Champ : texte long]
+## 9. OUTILS & RESSOURCES
 
-**Question 2.2**
-Quelle problématique principale ton offre résout pour tes clients ?
-[Champ : texte long]
+9.1 Outils que tu utilises déjà ? (CRM, IA, automation...) [long]
+9.2 Tu utilises déjà Claude ou ChatGPT ? Pour quoi ? [court]
+9.3 T'as des témoignages ou résultats clients ? Colle-les ou décris brièvement. [long, optionnel]
+9.4 T'as déjà une ressource gratuite (guide, vidéo, template) ? Si non, pas de souci. [long, optionnel]
 
-**Question 2.3**
-Quel est le bénéfice concret / le résultat que tes clients obtiennent grâce à ton offre ?
-[Champ : texte long]
+## 10. QUESTION LIBRE
 
-**Question 2.4**
-Quel est ton prix actuel (ou ta fourchette de prix) ?
-[Champ : texte court]
+10.1 Autre chose que je devrais savoir sur toi, ton business ou ta situation ? [long, optionnel]
 
-**Question 2.5**
-Est-ce que tu as d'autres offres (secondaires, complémentaires) ? Si oui, décris-les brièvement.
-[Champ : texte long — optionnel]
-
-**Question 2.6**
-Qu'est-ce qui te rend différent(e) de quelqu'un qui fait la même chose que toi ? Pourquoi un client devrait te choisir toi plutôt qu'un(e) autre ?
-[Champ : texte long]
-
----
-
-## SECTION 3 : TA CIBLE
-
-**Titre de section :** À qui tu t'adresses
-
----
-
-**Question 3.1**
-Qui est ton client idéal ? Décris-le de manière globale : quel type de personne / entreprise, quel secteur, quelle taille.
-[Champ : texte long]
-> Pas besoin de créer un avatar fictif avec prénom et âge. Juste : à qui tu t'adresses concrètement.
-
-**Question 3.2**
-Quel budget ont généralement tes clients (ou quel budget devraient-ils avoir pour travailler avec toi) ?
-[Champ : texte court]
-
-**Question 3.3**
-Quelles sont les PROBLÉMATIQUES PRINCIPALES de ta cible ? (Le truc qui les empêche de dormir)
-[Champ : texte long]
-
-**Question 3.4**
-Quelles sont les problématiques SECONDAIRES ? (Les trucs qui les gênent sans être critiques)
-[Champ : texte long]
-
-**Question 3.5**
-Quelles sont les OBJECTIONS les plus fréquentes que tu entends quand tu proposes ton offre ? (Donne-en un maximum)
-[Champ : texte long]
-
-**Question 3.6**
-Est-ce que tes prospects ont déjà essayé des solutions avant toi ? Si oui, lesquelles ? Et pourquoi ça n'a pas marché pour eux ?
-[Champ : texte long]
-
----
-
-## SECTION 4 : TON EXPÉRIENCE EN PROSPECTION
-
-**Titre de section :** Ce que tu as déjà fait pour trouver des clients
-
----
-
-**Question 4.1**
-Aujourd'hui, comment tu trouves tes clients ? (Bouche à oreille, contenu, prospection, réseau, autre)
-[Champ : texte long]
-
-**Question 4.2**
-Est-ce que tu as déjà fait de la prospection LinkedIn (ou autre) ? Si oui, décris ce que tu faisais : volume, méthode, résultats.
-[Champ : texte long]
-
-**Question 4.3**
-Qu'est-ce qui a marché ? Qu'est-ce qui n'a pas marché ?
-[Champ : texte long]
-
-**Question 4.4**
-Est-ce que tu as déjà été accompagné(e) ou formé(e) sur l'acquisition client / la prospection / la vente ? Si oui, c'était quoi et pourquoi ça n'a pas suffi ?
-[Champ : texte long]
-> Si non, écris juste "Non".
-
----
-
-## SECTION 5 : TON CONTENU LINKEDIN
-
-**Titre de section :** Ta présence sur LinkedIn
-
----
-
-**Question 5.1**
-Est-ce que tu postes du contenu sur LinkedIn actuellement ?
-[Champ : choix unique]
-- Oui, régulièrement (3x/semaine ou plus)
-- Oui, de temps en temps (1-2x/semaine)
-- Rarement (moins d'1 fois par semaine)
-- Jamais ou presque
-
-**Question 5.2**
-Si tu postes, c'est sur quelles thématiques en général ?
-[Champ : texte long — optionnel]
-
-**Question 5.3**
-Qu'est-ce qui marche le mieux dans ton contenu ? Qu'est-ce qui marche le moins ?
-[Champ : texte long — optionnel]
-
-**Question 5.4**
-Est-ce que tu commentes les posts d'autres personnes sur LinkedIn ? Si oui, à quelle fréquence ?
-[Champ : texte court]
-
----
-
-## SECTION 6 : TON STYLE D'ÉCRITURE
-
-**Titre de section :** Comment tu écris — C'est LA section la plus importante pour personnaliser tes outils. Prends le temps de coller des vrais exemples.
-
----
-
-**Question 6.1**
-Colle ici 3 à 5 MESSAGES PRIVÉS que tu as écrits toi-même (pas des réponses automatiques, des vrais messages que tu tapes). Mets-les les uns en dessous des autres.
-[Champ : texte long]
-> On s'en fiche du contexte. C'est juste pour capter comment tu écris naturellement en DM.
-
-**Question 6.2**
-Colle ici 2 à 3 COMMENTAIRES LinkedIn que tu as écrits toi-même sur des posts d'autres personnes.
-[Champ : texte long]
-
-**Question 6.3**
-Colle ici 1 à 2 POSTS LinkedIn que tu as écrits toi-même (ou des extraits si c'est trop long).
-[Champ : texte long]
-
-**Question 6.4**
-Comment tu décrirais ton style d'écriture en quelques mots ? (Direct, doux, humoristique, professionnel, familier, etc.)
-[Champ : texte court]
-
----
-
-## SECTION 7 : TES BLOCAGES & TON MINDSET
-
-**Titre de section :** Ce qui te freine
-
----
-
-**Question 7.1**
-Si tu devais nommer UN SEUL blocage qui t'empêche d'avoir plus de clients, ce serait quoi ?
-[Champ : texte long]
-
-**Question 7.2**
-Est-ce que tu as des peurs ou des croyances qui te freinent par rapport à la prospection ou la vente ? (Peur de déranger, peur de vendre, syndrome de l'imposteur, rapport à l'argent, etc.)
-[Champ : texte long]
-> Sois honnête, c'est justement pour ça qu'on travaille ensemble.
-
-**Question 7.3**
-Décris une situation concrète récente où une conversation avec un prospect a MAL tourné (ou n'a pas abouti). Qu'est-ce qui s'est passé ?
-[Champ : texte long — optionnel]
-
-**Question 7.4**
-Décris une situation concrète récente où une conversation avec un prospect a BIEN tourné. Qu'est-ce qui a fait la différence ?
-[Champ : texte long — optionnel]
-
----
-
-## SECTION 8 : TES OBJECTIFS
-
-**Titre de section :** Où tu veux aller
-
----
-
-**Question 8.1**
-Combien de clients par mois tu vises ?
-[Champ : texte court]
-
-**Question 8.2**
-Quel chiffre d'affaires mensuel tu vises ?
-[Champ : texte court]
-
-**Question 8.3**
-Dans quel délai tu veux atteindre cet objectif ?
-[Champ : texte court]
-
----
-
-## SECTION 9 : TES OUTILS
-
-**Titre de section :** Ce que tu utilises déjà
-
----
-
-**Question 9.1**
-Quels outils tu utilises déjà dans ton business ? (CRM, IA, gestion de projet, automatisation, etc.)
-[Champ : texte long]
-
-**Question 9.2**
-Est-ce que tu utilises déjà une IA (Claude, ChatGPT, autre) ? Si oui, pour quoi ?
-[Champ : texte court]
-
----
-
-## SECTION 10 : TES RESSOURCES
-
-**Titre de section :** Ce que tu as déjà créé
-
----
-
-**Question 10.1**
-Est-ce que tu as déjà des témoignages ou résultats clients ? Si oui, colle-les ici ou décris-les brièvement.
-[Champ : texte long — optionnel]
-
-**Question 10.2**
-Est-ce que tu as déjà une ressource gratuite (lead magnet, guide, vidéo, template) que tu donnes ou pourrais donner à tes prospects ?
-[Champ : texte long — optionnel]
-> Si non, pas de souci — on en créera une ensemble.
-
----
-
-## SECTION 11 : QUESTION LIBRE
-
-**Titre de section :** Dernière chose
-
----
-
-**Question 11.1**
-Y a-t-il autre chose que tu aimerais que je sache sur toi, ton business ou ta situation, et qui n'a pas été couvert dans ce questionnaire ?
-[Champ : texte long — optionnel]
-
----
-
-## FIN DU QUESTIONNAIRE
-
-**Message de fin :**
-> Merci d'avoir pris le temps de remplir tout ça ! Je vais analyser tes réponses et créer tes outils personnalisés dans les 24 à 48h. À très vite.
+Fin : Merci d'avoir rempli tout ça ! Je crée tes outils personnalisés dans les 24 à 48h. À très vite.
