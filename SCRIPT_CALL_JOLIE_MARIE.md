@@ -17,7 +17,7 @@
 
 ## 2. CADRAGE (1 min)
 
-"Avant qu'on démarre — tu m'avais dit que ton plus gros blocage c'est l'analyse des performances. C'est là-dessus qu'on va se concentrer aujourd'hui. L'idée c'est pas de te vendre un truc. C'est de comprendre ta situation et de voir honnêtement si je peux t'aider. Si c'est pas le bon moment ou pas le bon fit, je te le dis."
+"Avant qu'on démarre — tu m'avais dit que ton plus gros blocage c'est l'analyse des performances. C'est là-dessus qu'on va se concentrer aujourd'hui. Si à la fin je me rends compte que je peux t'aider, tant mieux, je te proposerai quelque chose. Et si je vois que je peux pas t'aider, y'a pas de souci — au moins tu repartiras avec une analyse et des conseils."
 
 ---
 
