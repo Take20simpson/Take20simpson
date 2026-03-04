@@ -4,7 +4,7 @@
 
 ---
 
-## LE PIÈGE N°1 (ET POURQUOI T'Y TOMBES)
+## LE PIÈGE N°1
 
 La plupart de tes prospects connaissent déjà le SEO. Ils ont déjà bossé avec des prestataires. Ils savent ce qu'ils veulent. Du coup ils arrivent en mode "montre-moi ce que tu proposes".
 
