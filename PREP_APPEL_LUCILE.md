@@ -2,23 +2,6 @@
 
 **Lucile · Mars 2026**
 
----
-
-## LE PIÈGE N°1
-
-La plupart de tes prospects connaissent déjà le SEO. Ils ont déjà bossé avec des prestataires. Ils savent ce qu'ils veulent. Du coup ils arrivent en mode "montre-moi ce que tu proposes".
-
-Et là, le réflexe naturel c'est de présenter. PowerPoint, livrables, méthode, pourquoi toi et pas un autre.
-
-**Sauf que dès que tu présentes, tu te mets en compétition directe avec tous les autres prestataires SEO qui font exactement pareil.** Le prospect compare des promesses. Et des promesses, tout le monde en fait.
-
-Le truc c'est que la personne en face ne choisit JAMAIS le meilleur prestataire. Elle choisit celui en qui elle a le plus confiance. Et la confiance ne vient pas d'une présentation — elle vient du fait que tu as compris son problème MIEUX que lui-même.
-
-**L'analogie :** Imagine que tu vas chez un médecin spécialiste. T'arrives en disant "j'ai mal au dos, prescrivez-moi un anti-douleur". Si le médecin te prescrit direct, tu repars avec ton ordonnance. Mais t'as zéro confiance. C'est un distributeur. Par contre si le médecin te pose des questions, t'examine, te dit "en fait ton mal de dos vient de là, et si on traite pas la cause tu vas avoir tel problème dans 6 mois" — là, tu le suis les yeux fermés. Même s'il est plus cher.
-
-**C'est exactement ce que tu dois faire.** Diagnostiquer avant de prescrire.
-
----
 
 ## LE VRAI OBJECTIF DE L'APPEL
 
