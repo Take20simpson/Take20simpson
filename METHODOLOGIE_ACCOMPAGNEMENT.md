@@ -14,10 +14,14 @@ L'objectif de l'accompagnement est de rendre le client **100% autonome** sur la 
 
 ## ETAPE 1 : SOURCING — CE QUI EST ENSEIGNE AU CLIENT
 
+**Transmission :** Matthias montre en live comment il source (screen recording / partage d'ecran). Objectif a terme : automatiser cette partie pour gagner du temps (ex: demander a l'IA les gros comptes LinkedIn lies a la thematique/niche du client, pour que le client ait directement de la matiere a exploiter).
+
 **Process transmis :**
 1. Aller sur les comptes de slowpreneurs / gros freelances (ceux avec 20+ likes par post)
 2. Regarder dans les likes et les commentaires
 3. Filtrer selon les criteres de qualification
+
+**Aide au sourcing :** Matthias aide un minimum le client a identifier les bons comptes dans son domaine. Le client source dans SA niche avec SES gros comptes de reference.
 
 **Criteres de filtre enseignes :**
 - Moins de 1000 abonnes (idealement 300-5000 connexions)
@@ -41,9 +45,18 @@ L'objectif de l'accompagnement est de rendre le client **100% autonome** sur la 
 - Fait du gratuit pour "creer sa credibilite"
 - Disperse dans ses strategies
 
-**Volume objectif :** 5-10 prospects sourced par jour (50/semaine)
+**Volume objectif :** 5 prospects minimum par jour (~30 min/jour). C'est le strict minimum — pas une charge enorme.
 
-**Demande de connexion :** JAMAIS de note — juste la demande seule, apres avoir commente 1-2 posts du prospect (warming)
+### Warming : Sequence Avant Demande de Connexion
+
+**Process precis enseigne au client :**
+1. Commenter un post du prospect (commentaire pertinent, pas generique)
+2. Attendre que la personne reponde au commentaire
+3. **Si elle repond** → envoyer la demande de connexion (sans note)
+4. **Si au bout de 24h pas de like ni de reponse** → commenter un autre de ses posts
+5. **Si le lendemain toujours rien (ni like, ni reponse)** → envoyer directement la demande de connexion et voir comment ca se passe
+
+**Regle :** La demande de connexion se fait SANS note dans tous les cas.
 
 ---
 
@@ -63,14 +76,27 @@ L'objectif de l'accompagnement est de rendre le client **100% autonome** sur la 
 
 ## ETAPE 3 : SETTING DM — LE FRAMEWORK ET SON UTILISATION
 
-**Le framework Claude :** Framework personnalise configure par Matthias a partir du questionnaire Fillout du client. Genere des options de reponses adaptees au contexte de conversation du client.
+### Premier Message DM (Apres Acceptation de Connexion)
+
+**Si interaction en commentaire prealable (cas standard) :**
+- Version simple : "Hello [Prenom], tres cool notre echange en commentaire"
+- Version avec effort : "Hello [Prenom], tres cool notre echange en commentaire sur [sujet du commentaire]. Je suis vraiment d'accord avec toi"
+- **C'est tout.** Pas de pitch, pas de question, juste une ouverture naturelle qui fait reference a l'interaction precedente.
+
+### Le Framework Claude
+
+Framework personnalise configure par Matthias a partir du questionnaire Fillout du client. Genere des options de reponses adaptees au contexte de conversation du client.
 
 **Role du framework vs role du client :**
 - Le framework gere le quotidien : messages de premiere approche, relances, questions de qualification
 - **Moments critiques = le client demande a Matthias directement :** quand un prospect est pret a accepter un appel, quand un prospect se braque, quand la conversation est a un tournant decisif
 - Le framework est un outil, pas un remplacement de l'expertise humaine
 
-**Ce que Matthias fait quand un client remonte une conversation bloquee :**
+### Gestion des Conversations Bloquees
+
+**Canal :** Le client remonte la conversation dans le canal "Blocage & Frustration" sur WhatsApp.
+
+**Ce que Matthias fait :**
 - Donne un conseil sur quoi dire (via vocal ou message WhatsApp)
 - Ne reecrit JAMAIS a la place du client — le client doit formuler lui-meme
 - Explique le "pourquoi" derriere le conseil pour que le client apprenne
@@ -95,10 +121,14 @@ L'objectif de l'accompagnement est de rendre le client **100% autonome** sur la 
 
 **Philosophie :** 100% Matthias qui enseigne au client a closer lui-meme. L'objectif est que le client ait le maximum de cles pour closer de maniere autonome.
 
+**Pas de transcriptions d'appels comme materiel pedagogique :** Matthias n'utilise pas les transcriptions de ses propres appels (pas assez de volume pour l'instant).
+
 **Methodes de transmission utilisees :**
 - Documents ecrits (methodologie, scripts)
 - Vocaux WhatsApp (explications, conseils)
 - Jeu de role (teste avec Lucille — tres chronophage, probablement pas reconduit)
+
+**Detail du jeu de role (experience Lucille) :** Matthias jouait le prospect. Quand ca allait pas, il arretait, expliquait ce qui n'allait pas, et demandait a Lucille de reprendre la phase. Il lui montrait exactement comment creuser la douleur, comment arriver a une connexion emotionnelle. Tres efficace pedagogiquement mais trop chronophage pour etre systematise.
 
 **Probleme identifie (mars 2026) :** La livraison est **eparillee** — vocaux, documents, jeu de role, tout est disperse. Le client n'integre pas tout de maniere logique. Lucille n'integre pas 100% de la methode parce que c'est eparpille.
 
@@ -130,6 +160,12 @@ L'objectif de l'accompagnement est de rendre le client **100% autonome** sur la 
 - Matthias donne un conseil sur quoi repondre (vocal ou message)
 - Ne reecrit jamais a la place du client
 - Explique la logique pour que le client apprenne
+
+### Gestion du Non-Respect du Volume
+
+**Le probleme :** Les clients trouvent des excuses ("j'ai pas eu le temps", "j'ai pas eu ca"). C'est un des points qui peche.
+
+**Posture de Matthias :** Confronter directement mais avec logique. L'argument : le sourcing prend 30 minutes par jour. On demande 5 prospects/jour minimum. C'est pas 5-6h de travail. 30 minutes, c'est un strict minimum. Tout le monde peut trouver 30 min dans sa journee. Si le client ne fait pas ca, il faut se bouger — pas d'excuse valable.
 
 **Principe :** Le suivi actif previent le decrochage (lecon d'Alicia qui a decroche sans suivi).
 
