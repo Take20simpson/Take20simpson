@@ -60,6 +60,8 @@ L'objectif de l'accompagnement est de rendre le client **100% autonome** sur la 
 
 **Commentaire de warming ≠ commentaire normal :** Le commentaire doit contenir une pepite (pas juste "super post !"). Matthias prefere que le client essaie d'abord par lui-meme, mais donne le framework commentaires en parallele pour l'aider a sortir des pepites. **Point d'attention critique :** S'assurer que l'IA ne propose pas toujours les memes formulations de phrases — varier absolument.
 
+**Framework commentaires transmis au client :** Globalement le meme que celui de Matthias (voir CLAUDE.md Partie 15), a quelques ajustements pres selon le style du client.
+
 ---
 
 ## ETAPE 2 : OPTIMISATION PROFIL LINKEDIN DU CLIENT
@@ -85,6 +87,10 @@ L'objectif de l'accompagnement est de rendre le client **100% autonome** sur la 
 - Version simple : "Hello [Prenom], tres cool notre echange en commentaire"
 - Version avec effort : "Hello [Prenom], tres cool notre echange en commentaire sur [sujet du commentaire]. Je suis vraiment d'accord avec toi"
 - **C'est tout.** Pas de pitch, pas de question, juste une ouverture naturelle qui fait reference a l'interaction precedente.
+
+**Si PAS d'interaction en commentaire (connexion directe sans warming) :**
+- Poser une question precise sur le business de la personne pour montrer un interet reel
+- Pas de message generique — la question doit montrer qu'on a regarde son profil
 
 **Reponse typique du prospect :** Positive — soit un emoji, soit une approbation type "oui c'etait tres cool". A partir de la, la conversation continue naturellement.
 
@@ -220,6 +226,8 @@ Meme systeme que Matthias utilise lui-meme. Transmis tel quel au client.
 
 **Etat actuel (mars 2026) :** Le process de delivery n'est PAS encore carre. L'ordre varie d'un client a l'autre. C'est un des points a structurer.
 
+**Timeline reelle (experience Lucille) :** Quelques jours entre le paiement et le debut du sourcing par la cliente.
+
 **Ce qui est fait (sans ordre fixe) :**
 - Questionnaire Fillout
 - Configuration framework(s) personnalise(s)
@@ -242,6 +250,10 @@ Meme systeme que Matthias utilise lui-meme. Transmis tel quel au client.
 - Creer un parcours progressif avec Claude
 - Trouver des alternatives au jeu de role (trop chronophage)
 - Reduire le nombre de mises a jour necessaires sur le framework (objectif : 1-2 modifications apres questionnaire)
+
+### Vision a Terme : Automatisation Maximale
+
+**Objectif :** Automatiser le maximum de l'accompagnement. WhatsApp ne serait utilise qu'en cas d'urgence ou de gros besoins. La majorite du process serait automatise (livraison, suivi, feedback). Le format WhatsApp + vocaux + framework reste la base, mais l'execution doit devenir plus structuree et moins manuelle.
 
 ---
 
