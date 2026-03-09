@@ -174,7 +174,16 @@ Framework personnalise configure par Matthias a partir du questionnaire Fillout 
 
 ### Debrief Apres Premier Appel du Client
 
-**Process :** Matthias demande au client d'enregistrer son premier appel de closing. Il ecoute l'enregistrement SEUL, puis envoie son feedback en vocaux WhatsApp — ce qui a bien fonctionne et ce qui n'a pas fonctionne. Pas de debrief en visio. Objectif a terme : automatiser cette partie.
+**Process :** Matthias demande au client d'enregistrer ses appels de closing. Il ecoute l'enregistrement SEUL, puis envoie son feedback en vocaux WhatsApp — ce qui a bien fonctionne et ce qui n'a pas fonctionne. Pas de debrief en visio. Objectif a terme : automatiser cette partie.
+
+**Pas que le premier :** Le debrief se fait sur plusieurs appels si besoin, en fonction des besoins du client. Pas limite au premier.
+
+### Preparation du Client AVANT Son Appel de Closing
+
+**Matthias prepare activement son client avant chaque appel :**
+- Rappel des elements necessaires (structure de l'appel, points cles a couvrir)
+- Insiste pour que le client s'entraine a l'oral SEUL avant l'appel (pour etre a l'aise)
+- Le client doit arriver prepare, pas improviser
 
 ### Systeme de Relances (Transmis au Client)
 
@@ -186,9 +195,13 @@ Meme systeme que Matthias utilise lui-meme. Transmis tel quel au client.
 
 **Dans le scope de l'accompagnement (optionnel) :** Matthias peut transmettre le framework de posts LinkedIn au client. Le conseil principal : **connecter avec les douleurs de sa cible** dans ses posts. Pas de creation de contenu a la place du client — juste le framework et le conseil strategique.
 
+### Lead Magnet du Client
+
+**Le client a son propre lead magnet :** une video Loom de 3-4 minutes. C'est ca leur equivalent du manifeste — pas un document PDF, une video courte.
+
 ### Ce Qui N'est PAS Transmis au Client
 
-- **Le manifeste** — C'est un lead magnet UNIQUEMENT pour les prospects de Matthias qui refroidissent. Ca n'a rien a voir avec l'accompagnement client. Le client n'a pas de manifeste.
+- **Le manifeste de Matthias** — C'est un lead magnet UNIQUEMENT pour les prospects de Matthias qui refroidissent. Ca n'a rien a voir avec l'accompagnement client.
 
 ---
 
@@ -234,8 +247,13 @@ Meme systeme que Matthias utilise lui-meme. Transmis tel quel au client.
 - Video(s) explicative(s)
 - Optimisation profil LinkedIn
 - Transmission methodologie sourcing (en live)
+- Transmission CRM (tableau simple a remplir)
 - Transmission methodologie closing
 - Suivi proactif
+
+### CRM Client
+
+**Matthias enseigne l'utilisation d'un CRM :** Tableau simple, le client doit juste le remplir. Matthias le montre rapidement en phase d'onboarding. A automatiser a terme (ex: video tutoriel pre-enregistree pour l'onboarding).
 
 **Le questionnaire Fillout :** Cree avec l'aide de Claude. Contient tous les elements essentiels : business du client, ICP/avatar, douleurs de sa cible, offre, parcours professionnel, style d'ecriture, temoignages clients, ressources gratuites, conversations DM reelles. Couvre tout ce qu'il faut pour configurer le framework.
 
