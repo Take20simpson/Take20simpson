@@ -58,6 +58,8 @@ L'objectif de l'accompagnement est de rendre le client **100% autonome** sur la 
 
 **Regle :** La demande de connexion se fait SANS note dans tous les cas.
 
+**Commentaire de warming ≠ commentaire normal :** Le commentaire doit contenir une pepite (pas juste "super post !"). Matthias prefere que le client essaie d'abord par lui-meme, mais donne le framework commentaires en parallele pour l'aider a sortir des pepites. **Point d'attention critique :** S'assurer que l'IA ne propose pas toujours les memes formulations de phrases — varier absolument.
+
 ---
 
 ## ETAPE 2 : OPTIMISATION PROFIL LINKEDIN DU CLIENT
@@ -83,6 +85,10 @@ L'objectif de l'accompagnement est de rendre le client **100% autonome** sur la 
 - Version avec effort : "Hello [Prenom], tres cool notre echange en commentaire sur [sujet du commentaire]. Je suis vraiment d'accord avec toi"
 - **C'est tout.** Pas de pitch, pas de question, juste une ouverture naturelle qui fait reference a l'interaction precedente.
 
+**Reponse typique du prospect :** Positive — soit un emoji, soit une approbation type "oui c'etait tres cool". A partir de la, la conversation continue naturellement.
+
+**Approche pedagogique pour les debuts :** Matthias prefere que le client commence par faire ses premiers messages LUI-MEME, sans le framework, pour developper son propre reflexe. Puis il donne le framework en parallele comme appui. Le framework est un support, pas une bequille — le client doit d'abord sentir les conversations par lui-meme.
+
 ### Le Framework Claude
 
 Framework personnalise configure par Matthias a partir du questionnaire Fillout du client. Genere des options de reponses adaptees au contexte de conversation du client.
@@ -91,6 +97,14 @@ Framework personnalise configure par Matthias a partir du questionnaire Fillout 
 - Le framework gere le quotidien : messages de premiere approche, relances, questions de qualification
 - **Moments critiques = le client demande a Matthias directement :** quand un prospect est pret a accepter un appel, quand un prospect se braque, quand la conversation est a un tournant decisif
 - Le framework est un outil, pas un remplacement de l'expertise humaine
+
+### Quand Proposer l'Appel (Transition Setting → Closing)
+
+**Pas de regle fixe — c'est tres specifique a chaque conversation.** 3 scenarios :
+
+1. **Cas ideal :** La pre-qualification est faite, les bonnes questions ont ete posees au bon moment, le prospect est engage → proposer l'appel naturellement
+2. **Prospect impatient / veut aller droit au but :** Il se braque et veut savoir ou ca mene → proposer la visio a ce moment-la, pas essayer de ralentir
+3. **Apres envoi du manifeste / video :** Si le prospect s'est braque apres reception du manifeste ou de la video → la suite logique est de proposer directement l'appel
 
 ### Gestion des Conversations Bloquees
 
@@ -168,6 +182,23 @@ Framework personnalise configure par Matthias a partir du questionnaire Fillout 
 **Posture de Matthias :** Confronter directement mais avec logique. L'argument : le sourcing prend 30 minutes par jour. On demande 5 prospects/jour minimum. C'est pas 5-6h de travail. 30 minutes, c'est un strict minimum. Tout le monde peut trouver 30 min dans sa journee. Si le client ne fait pas ca, il faut se bouger — pas d'excuse valable.
 
 **Principe :** Le suivi actif previent le decrochage (lecon d'Alicia qui a decroche sans suivi).
+
+---
+
+## ONBOARDING : ORDRE DE LIVRAISON
+
+**Etat actuel (mars 2026) :** Le process de delivery n'est PAS encore carre. L'ordre varie d'un client a l'autre. C'est un des points a structurer.
+
+**Ce qui est fait (sans ordre fixe) :**
+- Questionnaire Fillout
+- Configuration framework(s) personnalise(s)
+- Video(s) explicative(s)
+- Optimisation profil LinkedIn
+- Transmission methodologie sourcing (en live)
+- Transmission methodologie closing
+- Suivi proactif
+
+**Le questionnaire Fillout :** Cree avec l'aide de Claude. Contient tous les elements essentiels : business du client, ICP/avatar, douleurs de sa cible, offre, parcours professionnel, style d'ecriture, temoignages clients, ressources gratuites, conversations DM reelles. Couvre tout ce qu'il faut pour configurer le framework.
 
 ---
 
