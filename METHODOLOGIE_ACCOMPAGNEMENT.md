@@ -90,6 +90,10 @@ L'objectif de l'accompagnement est de rendre le client **100% autonome** sur la 
 
 **Approche pedagogique pour les debuts :** Matthias prefere que le client commence par faire ses premiers messages LUI-MEME, sans le framework, pour developper son propre reflexe. Puis il donne le framework en parallele comme appui. Le framework est un support, pas une bequille — le client doit d'abord sentir les conversations par lui-meme.
 
+### Faire Avancer la Conversation (Entre Premier Message et Proposition d'Appel)
+
+**Tout est dans la methodologie Enzo Racine** (voir CLAUDE.md Partie 3 + Partie 6). Le framework DM gere les phases de conversation (A-K). Matthias n'ajoute pas de guidelines supplementaires au-dela de ce que la methode Enzo Racine couvre deja : questions socratiques, projection temporelle, creusage de la douleur, etc.
+
 ### Le Framework Claude
 
 Framework personnalise configure par Matthias a partir du questionnaire Fillout du client. Genere des options de reponses adaptees au contexte de conversation du client.
@@ -164,7 +168,21 @@ Framework personnalise configure par Matthias a partir du questionnaire Fillout 
 
 ### Debrief Apres Premier Appel du Client
 
-**Process :** Matthias demande au client d'enregistrer son premier appel de closing. Apres l'appel, il fait un feedback detaille — ce qui a bien fonctionne et ce qui n'a pas fonctionne. C'est un moment pedagogique essentiel.
+**Process :** Matthias demande au client d'enregistrer son premier appel de closing. Il ecoute l'enregistrement SEUL, puis envoie son feedback en vocaux WhatsApp — ce qui a bien fonctionne et ce qui n'a pas fonctionne. Pas de debrief en visio. Objectif a terme : automatiser cette partie.
+
+### Systeme de Relances (Transmis au Client)
+
+Meme systeme que Matthias utilise lui-meme. Transmis tel quel au client.
+
+**Nuance importante :** La premiere relance privilegiee est "As-tu bien recu mon message precedent ?" plutot que "Prenom ?" — moins agressif. Matthias met cette formulation un peu partout. Le reste du systeme de relances (J+2, J+3, etc.) suit la meme logique que dans le CLAUDE.md Partie 3.
+
+### Contenu LinkedIn du Client
+
+**Dans le scope de l'accompagnement (optionnel) :** Matthias peut transmettre le framework de posts LinkedIn au client. Le conseil principal : **connecter avec les douleurs de sa cible** dans ses posts. Pas de creation de contenu a la place du client — juste le framework et le conseil strategique.
+
+### Ce Qui N'est PAS Transmis au Client
+
+- **Le manifeste** — C'est un lead magnet UNIQUEMENT pour les prospects de Matthias qui refroidissent. Ca n'a rien a voir avec l'accompagnement client. Le client n'a pas de manifeste.
 
 ---
 
