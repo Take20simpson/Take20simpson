@@ -69,10 +69,11 @@ L'objectif de l'accompagnement est de rendre le client **100% autonome** sur la 
 **Principe fondamental :** Benefice > Caracteristique. Le profil doit repondre a "qu'est-ce que je gagne a travailler avec cette personne ?", pas "quel est son metier ?".
 
 **Elements a optimiser :**
-- **Headline** — Reformulee autour du benefice client (au cas par cas, avec l'aide de Claude)
+- **Headline** — Reformulee autour du benefice client
 - **Section Info** — Doit parler au prospect, pas faire un CV
+- **Promesse sur la banniere** — Coherente avec le positionnement
 
-**Process :** Matthias consulte Claude pour creer une headline et un titre adaptes a chaque client. Pas de template universel — c'est du sur-mesure.
+**Process :** Matthias redige LUI-MEME la headline, la section info et la promesse sur la banniere pour chaque client (avec l'aide de Claude). C'est du sur-mesure, pas de template universel.
 
 ---
 
@@ -111,7 +112,7 @@ Framework personnalise configure par Matthias a partir du questionnaire Fillout 
 **Canal :** Le client remonte la conversation dans le canal "Blocage & Frustration" sur WhatsApp.
 
 **Ce que Matthias fait :**
-- Donne un conseil sur quoi dire (via vocal ou message WhatsApp)
+- Donne un conseil sur quoi dire (**plutot en vocal** via WhatsApp)
 - Ne reecrit JAMAIS a la place du client — le client doit formuler lui-meme
 - Explique le "pourquoi" derriere le conseil pour que le client apprenne
 
@@ -159,6 +160,12 @@ Framework personnalise configure par Matthias a partir du questionnaire Fillout 
 - Piliers de confirmation
 - Quantifier tout
 
+**Framework DM du client :** Meme version que le framework perso de Matthias (v4.0, memes phases A-K). Pas de version simplifiee.
+
+### Debrief Apres Premier Appel du Client
+
+**Process :** Matthias demande au client d'enregistrer son premier appel de closing. Apres l'appel, il fait un feedback detaille — ce qui a bien fonctionne et ce qui n'a pas fonctionne. C'est un moment pedagogique essentiel.
+
 ---
 
 ## ETAPE 6 : SUIVI PROACTIF — LE COEUR DE L'ACCOMPAGNEMENT
@@ -182,6 +189,12 @@ Framework personnalise configure par Matthias a partir du questionnaire Fillout 
 **Posture de Matthias :** Confronter directement mais avec logique. L'argument : le sourcing prend 30 minutes par jour. On demande 5 prospects/jour minimum. C'est pas 5-6h de travail. 30 minutes, c'est un strict minimum. Tout le monde peut trouver 30 min dans sa journee. Si le client ne fait pas ca, il faut se bouger — pas d'excuse valable.
 
 **Principe :** Le suivi actif previent le decrochage (lecon d'Alicia qui a decroche sans suivi).
+
+### Graduation : Quand le Client Devient Autonome
+
+**Pas de moment formel.** C'est au feeling — quand Matthias sent que le client est pret a partir seul (idealement apres avoir close au moins 1 client). Matthias reste en background, disponible si besoin pour repondre a des questions ponctuelles. L'accompagnement actif s'allege progressivement.
+
+**Erreurs frequentes des clients :** Pas encore assez de data pour identifier des patterns recurrents (trop peu de clients a ce stade).
 
 ---
 
