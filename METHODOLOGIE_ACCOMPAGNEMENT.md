@@ -181,9 +181,12 @@ Framework personnalise configure par Matthias a partir du questionnaire Fillout 
 ### Preparation du Client AVANT Son Appel de Closing
 
 **Matthias prepare activement son client avant chaque appel :**
+- Envoie des vocaux WhatsApp + recapitulatif des points importants
 - Rappel des elements necessaires (structure de l'appel, points cles a couvrir)
+- Points d'attention specifiques a la situation du prospect
 - Insiste pour que le client s'entraine a l'oral SEUL avant l'appel (pour etre a l'aise)
 - Le client doit arriver prepare, pas improviser
+- **Nuance :** Comme le closing a deja ete travaille en amont dans l'accompagnement, il n'y a pas enormement de choses a redire avant l'appel — c'est plus un rappel qu'un cours
 
 ### Systeme de Relances (Transmis au Client)
 
@@ -197,7 +200,7 @@ Meme systeme que Matthias utilise lui-meme. Transmis tel quel au client.
 
 ### Lead Magnet du Client
 
-**Le client a son propre lead magnet :** une video Loom de 3-4 minutes. C'est ca leur equivalent du manifeste — pas un document PDF, une video courte.
+**Le client a son propre lead magnet :** une video Loom de 3-4 minutes. Le client filme son ecran avec le site/profil du prospect, met en avant les bons points et les points a ameliorer, et explique comment les ameliorer avec quelle strategie. C'est une video de valeur personnalisee pour chaque prospect — pas un document generique.
 
 ### Ce Qui N'est PAS Transmis au Client
 
@@ -253,7 +256,7 @@ Meme systeme que Matthias utilise lui-meme. Transmis tel quel au client.
 
 ### CRM Client
 
-**Matthias enseigne l'utilisation d'un CRM :** Tableau simple, le client doit juste le remplir. Matthias le montre rapidement en phase d'onboarding. A automatiser a terme (ex: video tutoriel pre-enregistree pour l'onboarding).
+**Matthias enseigne l'utilisation d'un CRM :** Template Airtable que Matthias duplique pour chaque client. Tableau simple, le client doit juste le remplir. Matthias le montre rapidement en phase d'onboarding. A automatiser a terme (ex: video tutoriel pre-enregistree pour l'onboarding).
 
 **Le questionnaire Fillout :** Cree avec l'aide de Claude. Contient tous les elements essentiels : business du client, ICP/avatar, douleurs de sa cible, offre, parcours professionnel, style d'ecriture, temoignages clients, ressources gratuites, conversations DM reelles. Couvre tout ce qu'il faut pour configurer le framework.
 
