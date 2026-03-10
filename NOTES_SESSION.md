@@ -123,6 +123,7 @@ Quand le prospect detecte le pattern de vente → transparence totale + dedramat
 | **QUESTIONNAIRE_ONBOARDING.md** | Questionnaire Fillout (10 sections, 30+ questions) |
 | **METHODE_ENZO_RACINE.md** | Methode complete d'Enzo Racine (10 parties : mindset, vitrine, prospection/setting, R1, R2, objections, post-vente, KPIs, erreurs, outils) |
 | **CONVERSATION_ENZO_RACINE.md** | Conversation reelle Enzo x Matthias (30 dec 2025 - 14 jan 2026) + analyse pattern par pattern — REFERENCE pour le setting |
+| **STRATEGIE_LUCILLE.md** | Strategie complete pour Lucille : profil LinkedIn, structure d'appel 30-40min avec mini audit live, 4 pitchs par situation, objections SEO, checklist |
 | **NOTES_SESSION.md** | CE FICHIER — memoire de travail inter-sessions |
 
 ---
@@ -133,6 +134,20 @@ Quand le prospect detecte le pattern de vente → transparence totale + dedramat
 - **Livraison :** Besoin de structurer un parcours progressif (fin de l'eparpillement)
 - **Automatisation :** Objectif long terme, pas encore en place
 - **Lucille :** Priorite = diagnostiquer pourquoi les prospects se braquent (demander ses conversations reelles)
+
+---
+
+## FIL DE DISCUSSION — SESSION 10 MARS 2026
+
+### Ce qui a ete fait cette session :
+
+1. **METHODE_ENZO_RACINE.md cree** — Methode complete (10 parties) recopiee depuis le document fourni par Matthias
+2. **CONVERSATION_ENZO_RACINE.md cree** — Conversation reelle Enzo x Matthias avec analyse pattern par pattern (quantification, challenge incoherences, posture offreur, reduction friction, pivots, question piquante finale)
+3. **STRATEGIE_LUCILLE.md cree** — Sauvegarde du recap complet de la strategie definie pour Lucille : profil LinkedIn (headline, banniere, section info), contenu LinkedIn (shift business vs technique), question obligatoire en DM, structure d'appel 30-40min avec mini audit live, 4 pitchs par situation (ads/bouche-a-oreille/SEO existant/organique), objections specifiques SEO, checklist
+
+### Points a revoir avec Lucille :
+
+*(a completer apres discussion)*
 
 ---
 
