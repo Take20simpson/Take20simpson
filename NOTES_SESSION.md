@@ -121,6 +121,8 @@ Quand le prospect detecte le pattern de vente → transparence totale + dedramat
 | **PREP_APPEL_LUCILE.md** | Document de preparation closing specifique a Lucile (adapte a sa niche SEO/GEO, gestion CEO) |
 | **FRAMEWORK_POSTS_LINKEDIN_LUCILE.md** | Framework complet de posts LinkedIn personnalise pour Lucile (bataille de croyances SEO) |
 | **QUESTIONNAIRE_ONBOARDING.md** | Questionnaire Fillout (10 sections, 30+ questions) |
+| **METHODE_ENZO_RACINE.md** | Methode complete d'Enzo Racine (10 parties : mindset, vitrine, prospection/setting, R1, R2, objections, post-vente, KPIs, erreurs, outils) |
+| **CONVERSATION_ENZO_RACINE.md** | Conversation reelle Enzo x Matthias (30 dec 2025 - 14 jan 2026) + analyse pattern par pattern — REFERENCE pour le setting |
 | **NOTES_SESSION.md** | CE FICHIER — memoire de travail inter-sessions |
 
 ---
