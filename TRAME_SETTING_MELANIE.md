@@ -17,8 +17,8 @@ PHASE 2 — Question de transition ("c'est quoi ton focus cette année ?")
 PHASE 3 — Questions profondes (on creuse, peu de rondeur)
     ↓
 3 issues possibles :
-    → CAS 1 : Prospect ouvert → Proposition d'appel
-    → CAS 2 : Prospect qui se braque → Offrir de la valeur gratuite (vidéo)
+    → CAS 1 : Prospect ouvert → Proposition d'appel après questions profondes
+    → CAS 2 : Prospect qui se braque → Offrir de la valeur gratuite (vidéo), ensuite proposer appel
     → CAS 3 : Prospect qui demande "pourquoi ces questions ?" → Transparence
 ```
 
