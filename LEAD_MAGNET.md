@@ -51,19 +51,7 @@ Résultat après ces 3000€ : toujours zéro client.
 └─────────────────────────────────────────────────┘
 ```
 
----
 
-## Le vrai problème
-
-Le problème n'était pas ma technique. C'était toute mon approche qui était foireuse.
-
-J'étais en mode automatique, pas en mode intention.
-
-Je faisais du volume parce qu'on m'avait dit de faire du volume. J'appliquais des templates parce qu'on m'avait dit d'appliquer des templates. Mais je ne comprenais rien à ce que je faisais. Et quand ça marchait pas, je ne savais pas pourquoi.
-
-Le déclic est venu quand j'ai compris un truc simple : **la prospection, c'est pas une question de technique. C'est une question d'intention.**
-
----
 
 ## Les 3 erreurs fatales
 
