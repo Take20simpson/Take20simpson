@@ -55,15 +55,36 @@ Ne jamais s'arrêter au constat. Creuser jusqu'à toucher quelque chose d'émoti
 - Ne jamais affirmer à la place du prospect. Poser la question, laisser le silence.
 - Ne pas passer au sujet suivant tant que tu n'as pas senti quelque chose d'émotionnel.
 
+**Reformulation en cours de découverte — quand et comment :**
+
+Tu ne reformules pas chaque réponse. Ça alourdit, ça fait artificiel, ça ressemble à un entretien psy.
+
+Tu reformules uniquement quand elle touche le vrai truc — la douleur réelle, pas le constat de surface. Deux effets : elle se sent vraiment comprise, et ça l'invite à aller encore plus loin.
+
+> *"Donc si je comprends bien, le vrai problème c'est pas le manque de clients — c'est que t'as l'impression de bosser dans le vide depuis X mois sans savoir si ça va débloquer. C'est ça ?"*
+
+Elle dit oui → micro-engagement → pilier de confirmation posé → tu continues.
+
 ---
 
 ### ③ Diagnostic — *12 à 15 min*
+*C'est le moment le plus sous-estimé de l'appel.*
 
-Reformuler avec **ses mots à elle**, pas les tiens.
+**La grande reformulation — récapituler tout ce qu'elle a verbalisé.**
 
-> *"Donc si je comprends bien, [ses mots exacts]... c'est ça ?"*
+En 4-5 phrases, tu résumes sa situation, son blocage, la durée, et les conséquences qu'elle a elle-même nommées. Ses mots à elle, pas les tiens.
 
-Laisser la solution se dessiner naturellement à partir de ce qu'elle a dit.
+> *"Ok. Donc ce que tu m'as dit c'est que [situation actuelle], que ça dure depuis [durée qu'elle a donnée], que le vrai blocage c'est [ce qu'elle a verbalisé], et que si dans [délai] c'est toujours pareil, [conséquence qu'elle a nommée elle-même]. C'est bien ça ?"*
+
+**Pourquoi c'est puissant :**
+Quand elle s'entend, le problème devient concret et réel d'une façon qu'il ne l'était pas quand elle répondait question par question. C'est elle qui confirme que son problème est réel et urgent — pas toi qui essaies de la convaincre.
+
+**Le pont vers l'offre :**
+Une fois le récap validé, la transition est naturelle. Tu ne pitches pas — tu proposes la conclusion logique de ce qu'elle vient d'admettre.
+
+> *"Ce que tu viens de décrire — [les éléments clés du récap] — c'est exactement ce sur quoi je travaille avec mes clients. Voilà concrètement ce que je propose..."*
+
+L'offre n'est plus un pitch. C'est la réponse à sa propre description.
 
 ---
 
@@ -185,6 +206,12 @@ Après les objections :
 **Découverte**
 - [ ] Questions de creusage prêtes (reprendre ce qu'elle a dit en DM)
 - [ ] Projection temporelle en tête
+- [ ] Reformuler quand elle touche quelque chose d'émotionnel (pas à chaque réponse)
+
+**Diagnostic**
+- [ ] Grande reformulation : situation + durée + blocage + conséquences (ses mots à elle)
+- [ ] "C'est bien ça ?" pour valider et créer le dernier pilier de confirmation
+- [ ] Pont vers l'offre : "c'est exactement ce sur quoi je travaille avec mes clients"
 
 **Avant le prix**
 - [ ] Obstacles traités un par un (échelle 0-10)
