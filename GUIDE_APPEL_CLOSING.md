@@ -90,7 +90,25 @@ L'offre n'est plus un pitch. C'est la réponse à sa propre description.
 
 ### ④ Présentation de l'offre — *15 à 18 min*
 
-Présenter les livrables et le process. Créer des micro-engagements tout au long :
+**Règle fondamentale : tu ne présentes pas ton offre. Tu présentes ce qui répond à LEUR problème, avec LEURS mots.**
+
+Ne jamais énumérer les livrables dans l'ordre. Le groupe WhatsApp, les frameworks, le suivi 2x/semaine — ce sont des contenants. Ce qui intéresse le prospect, c'est ce que ça résout pour elle.
+
+**Mauvais :**
+> *"Concrètement t'as un groupe WhatsApp avec 3 canaux, des frameworks personnalisés, et un suivi deux fois par semaine..."*
+
+**Bon :**
+> *"Ce que tu m'as dit c'est que [leur problème exact avec leurs mots]. Donc ce sur quoi on va travailler ensemble c'est exactement ça — [solution directement reliée à leur problème]."*
+
+Tu ne mentionnes que ce qui correspond à leur situation. Le reste, tu ne le dis pas sauf si on te le demande.
+
+**Si elle demande "mais concrètement c'est quoi ?" :**
+Répondre en 3 phrases max, puis redonner la main :
+> *"Concrètement on travaille sur [leur problème], t'as un suivi actif deux fois par semaine, et je configure des outils personnalisés à ta situation. Mais avant de rentrer dans les détails — qu'est-ce qui est important pour toi de savoir là ?"*
+
+Cette question finale te permet de répondre à son vrai doute au lieu de pitcher dans le vide.
+
+Créer des micro-engagements tout au long :
 - *"Est-ce que ça te parle ?"*
 - *"C'est clair pour toi ?"*
 - *"Est-ce que ça te rassure ?"*
@@ -230,3 +248,4 @@ Après les objections :
 - [ ] Remplir les silences ✗
 - [ ] Baisser le prix ✗
 - [ ] Laisser partir sur "je vais réfléchir" sans creuser ✗
+- [ ] Énumérer ses livrables sans raccrocher au problème émotionnel du prospect ✗
