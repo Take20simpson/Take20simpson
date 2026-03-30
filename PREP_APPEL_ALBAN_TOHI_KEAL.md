@@ -46,9 +46,6 @@ Alban est un entrepreneur direct. Pas de smalltalk forcé, aller à l'essentiel.
 **La phrase de cadrage :**
 > *"Alban, l'idée de cet appel c'est avant tout de comprendre votre situation, voir où vous en êtes dans votre développement. Si à la fin je vois que je peux vous aider d'une certaine manière, je vous le proposerai. Et si je vois que je ne peux pas vous aider, je vous le dirai aussi — au moins on aura éclairé votre situation et j'aurai pu vous apporter des éléments utiles."*
 
-**Vérifier le décisionnaire :**
-> *"Si à la fin notre échange vous parle, vous pouvez décider directement ou il y a d'autres personnes impliquées dans ce type de décision ?"*
-
 ---
 
 ## ② LES 3 FOCUS À CREUSER
@@ -196,8 +193,6 @@ CADRAGE
 "Si je peux vous aider, je vous le proposerai.
  Si non, je vous le dirai — au moins on aura
  éclairé votre situation."
-→ Il décide seul ?
-
 ───────────────────────────────────────────────
 
 FOCUS 1 — LA RÉALITÉ
