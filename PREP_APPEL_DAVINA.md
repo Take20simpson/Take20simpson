@@ -103,15 +103,7 @@ Si la réponse est superficielle :
 
 **Ce qu'on cherche :** Quelqu'un qui a déjà payé pour du conseil ou de l'accompagnement, c'est quelqu'un qui comprend que ça a une valeur. Quelqu'un qui n'a jamais investi → il faut que la douleur soit suffisamment installée avant de proposer le R2. Si la douleur n'est pas là, pas la peine d'aller en R2.
 
-Puis, une fois le coût de l'inaction ancré, poser la question de projection budget — naturellement, sans parler d'offre :
-
-> *"Si une solution existait pour stabiliser ça — un accompagnement, quelque chose de concret — vous vous projetteriez sur quel type d'investissement ?"*
-
-**Silence. Laisser répondre.**
-
-Ne pas proposer de fourchette, ne pas suggérer de chiffre. Elle doit dire un nombre en premier.
-
-**Ce qu'on cherche :** Avoir un signal clair pour préparer la bonne offre en R2. Sa réponse oriente tout — voir grille de décision en bas du document.
+**Ce qu'on cherche :** Comprendre si elle est le type de personne qui investit dans son développement. La réponse à cette question conditionne la suite — mais **ne pas poser la question de budget ici**. Elle n'est pas encore consciente que le SEO est la réponse à son problème. Si on lui demande un chiffre maintenant, elle donne un chiffre bas. La question budget vient après la Phase 4.
 
 ---
 
@@ -131,6 +123,20 @@ Si elle ne sait pas ou n'y a pas pensé :
 > *"Et si ces personnes-là ne vous trouvent pas — ça représente quoi comme opportunités manquées selon vous ?"*
 
 **L'objectif :** Qu'elle confirme elle-même que la visibilité en ligne (au-delà de LinkedIn) est un levier non exploité.
+
+**⚠️ Avant de passer à la suite : vérifier que la conscientisation est bien là.** Si elle n'a pas encore verbalisé que le SEO/GEO est *le* levier manquant, ne pas avancer. Creuser encore. La question budget qui suit ne vaut rien si cette phase est bâclée.
+
+---
+
+## PHASE 4bis — Projection budget [2 min]
+
+La conscientisation SEO est faite. Maintenant seulement, on peut poser la question budget — parce que maintenant elle sait ce qu'elle achète.
+
+> *"Si une solution existait pour travailler ça sérieusement — vous vous projetteriez sur quel type d'investissement ?"*
+
+**Silence. Elle dit un chiffre en premier.**
+
+Ne pas proposer de fourchette, ne pas suggérer de chiffre. Sa réponse oriente l'offre en R2 — voir grille de décision en bas du document.
 
 ---
 
@@ -221,15 +227,13 @@ PHASE 3 — COÛT INACTION [5 min]
 
 ───────────────────────────────────────────────
 
-PHASE 3bis — BUDGET [3 min]
+PHASE 3bis — RÉFLEXE INVESTISSEMENT [3 min]
 → "Vous avez déjà fait appel à quelqu'un
    pour votre visibilité / acquisition ?"
 → Si oui : "C'était quoi ? Ça a donné quoi ?"
 → Si non : "Ce que vous avez essayé —
    c'était quoi concrètement ?"
-→ "Si une solution existait — quel type
-   d'investissement vous projetez-vous ?"
-→ SILENCE — elle dit un chiffre en premier
+→ PAS DE QUESTION BUDGET ICI
 
 ───────────────────────────────────────────────
 
@@ -242,6 +246,16 @@ PHASE 4 — VISIBILITÉ [5 min]
    Google ce que vous faites ?"
 → "Si ils ne vous trouvent pas —
    ça représente quoi ?"
+⚠️ STOP — conscientisation SEO faite ?
+   Si non → creuser encore
+
+───────────────────────────────────────────────
+
+PHASE 4bis — BUDGET [2 min]
+→ "Si une solution existait pour travailler
+   ça sérieusement — quel investissement
+   vous projetez-vous ?"
+→ SILENCE — elle dit un chiffre en premier
 
 ───────────────────────────────────────────────
 
@@ -259,5 +273,7 @@ JAMAIS
 ✗ Dépasser 28-29 min
 ✗ Proposer le R2 par message après
 ✗ Aller en R2 si signal investissement absent
+✗ Poser la question budget avant que la
+  conscientisation SEO soit faite
 ═══════════════════════════════════════════════
 ```
