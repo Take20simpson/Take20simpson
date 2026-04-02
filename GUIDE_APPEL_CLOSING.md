@@ -14,7 +14,43 @@
 
 ---
 
-## Le déroulé (20 minutes)
+## Identifier le type de prospect — avant tout le reste
+
+Avant de commencer à creuser, tu dois savoir à qui tu as affaire. Il existe trois types de prospects. L'objectif de l'appel n'est pas le même selon le type.
+
+| Type | Profil | Objectif de l'appel |
+|---|---|---|
+| **A — Prêt** | Douleur réelle, urgence présente, cherche une solution | Closer aujourd'hui |
+| **B — Pas encore prêt** | Douleur réelle mais pas encore assez mûrie, veut tester seul d'abord | Planter la graine + sécuriser un RDV précis dans le futur |
+| **C — Pas un fit** | Pas de douleur réelle, pas d'urgence, cherche autre chose | Disqualifier proprement et passer à autre chose |
+
+**Les 3 questions à poser dans les 5 premières minutes pour identifier le type :**
+
+1. *"T'as essayé de prospecter depuis combien de temps ?"* → signal de maturité
+2. *"T'as décroché des appels ou signé des clients via la prospection ?"* → signal de résultats
+3. *"T'es actuellement accompagnée sur quelque chose ?"* → signal d'obstacle
+
+Un prospect Type B ou C détecté en minute 5, c'est 15 minutes de creusage inutile évitées.
+
+**Si c'est un Type B :** ne pas essayer de closer. Travailler sur la projection financière (*"si dans 4 semaines t'as pas avancé seule, t'en es où ?"*), planter la graine, et finir avec une date précise — pas "courant mai", mais "le 10 mai". La relation est préservée et le prospect est dans le pipeline.
+
+**Si c'est un Type C :** disqualifier clairement et sans honte. *"Je pense que c'est pas le bon moment. On garde le contact."*
+
+---
+
+## La chronologie qui ne change jamais
+
+Peu importe le prospect, peu importe l'offre, peu importe la durée de l'appel :
+
+**① Connexion émotionnelle** → faire verbaliser la vraie douleur
+**② Conscientisation de la solution** → amener le prospect à réaliser par lui-même que ta méthode est LA réponse à son problème
+**③ Qualification budget** → seulement une fois qu'il est convaincu
+
+Le chiffre qu'il donne pour le budget dépend directement de sa conviction dans la solution. Posé trop tôt, le chiffre sera bas. Posé après la conscientisation, le chiffre est réel.
+
+---
+
+
 
 ### ① Cadrage — *0 à 3 min*
 
@@ -25,6 +61,8 @@ Poser le cadre dès le départ. Annoncer comment l'appel va se passer.
 
 Vérifier le décisionnaire :
 > *"Si à la fin tu es convaincue, tu peux démarrer direct ou il y a des étapes de validation ?"*
+
+**Poser les 3 questions de détection du type de prospect ici, naturellement dans la conversation.** Ne pas attendre la phase de découverte pour les poser — si le prospect est Type B ou C, adapter l'objectif de l'appel immédiatement.
 
 ---
 
@@ -215,6 +253,49 @@ Après les objections :
 
 ---
 
+## Profils particuliers
+
+### Le prospect avec de l'assurance
+*(Profil direct, confiant, "je sais ce que je fais")*
+
+Erreur classique : interpréter sa confiance comme *"elle n'a pas besoin de moi"* et se retenir de creuser.
+
+C'est l'inverse. Un profil assertif répond **mieux** aux questions directes et **moins bien** aux questions douces. Le miroir factuel le destabilise là où la question enveloppée glisse.
+
+> *"T'as zéro appel décroché depuis que tu prospectes. Seule ou accompagnée, le résultat c'est zéro pour l'instant. Comment tu l'expliques ?"*
+
+Ne pas ramollir les questions face à ce profil. Aller plus direct, pas moins.
+
+---
+
+### Le prospect qui "préfère galérer seul d'abord"
+*(Type B — veut tester avant d'investir)*
+
+Le signal : *"J'aime bien me rendre compte de mes limites seule avant de faire appel à quelqu'un."*
+
+Ce n'est pas une objection à traiter — c'est une posture. Essayer de la convaincre directement ne fonctionne pas.
+
+Ce qui fonctionne : retourner le raisonnement avec une question factuelle.
+
+> *"T'es à quel stade là — t'as testé pendant plusieurs mois ou t'es encore au tout début ?"*
+
+Si elle confirme qu'elle est au début → elle ne va pas investir aujourd'hui, et c'est logique selon sa propre logique. Ne pas forcer. À la place :
+
+> *"Si dans 4 semaines t'as pas avancé comme tu espères — qu'est-ce qui se passe pour toi ?"*
+
+Planter la graine, sécuriser une date précise (*"le 10 mai"*, pas *"courant mai"*), garder la relation.
+
+---
+
+### Le prospect dont la situation vient de s'améliorer
+*(Mars était horrible, mais avril s'est débloqué)*
+
+L'urgence a baissé. Le levier émotionnel sur le présent est faible.
+
+Pivoter vers la projection : *"Qu'est-ce qui te dit que ça ne va pas se reproduire en juillet ?"* Elle ne peut pas répondre "rien" à ça. La douleur n'est pas dans le présent — elle est dans le risque de répétition.
+
+---
+
 ## Checklist avant l'appel
 
 **Cadrage**
@@ -249,3 +330,7 @@ Après les objections :
 - [ ] Baisser le prix ✗
 - [ ] Laisser partir sur "je vais réfléchir" sans creuser ✗
 - [ ] Énumérer ses livrables sans raccrocher au problème émotionnel du prospect ✗
+- [ ] Qualifier le budget avant que la conscientisation de la solution soit faite ✗
+- [ ] Creuser la douleur prospection chez quelqu'un qui n'a pas encore prospecté ✗
+- [ ] Ramollir les questions face à un profil assertif ✗
+- [ ] Accepter "courant mai" sans date précise ✗
