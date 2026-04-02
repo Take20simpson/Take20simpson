@@ -3,154 +3,190 @@
 
 ---
 
-## CE QU'ON SAIT SUR ELORA
+## PROFIL ELORA
 
-- SEO, SEA, Social Ads — stratégie + exécution
-- 2 ans indépendante (avril = 2 ans) — avant : agence, 60+ clients en portefeuille
-- Aujourd'hui : portefeuille limité, qualité prioritaire
-- Objectifs 2025 : 1-2 clients de plus ce semestre + créer des masterclasses
+- SEO, SEA, Social Ads — stratégie + exécution, 2 ans indépendante
+- Avant : agence, 60+ clients. Aujourd'hui : portefeuille limité, qualité prioritaire
+- Objectifs : 1-2 clients de plus ce semestre + créer des masterclasses
 - Prospection actuelle : 5 prospects/semaine, 25 total → 1 refus, 1 RDV en attente
-- Son message actuel : pitch direct à froid, sans warming → elle le sait elle-même
+- Son message actuel : pitch direct à froid, sans warming — elle le sait elle-même (*"mon message est nul"*)
 - **Situation financière : "j'ai pas un rond, je pioche dans mes économies pour finir les mois"**
-- Elle a proposé un échange de compétences → refusé. Signal à surveiller.
-- Elle est analytique et directe — elle a remarqué que tu la prospectais. Bon signe.
+- A proposé un échange de compétences pour éviter de payer → signal à surveiller
+- Directe et analytique — elle a remarqué qu'il la prospectait. Bon signe.
 
 **Ce qu'elle a verbalisé en pré-qual :**
-1. ICP : CEOs <50 personnes, ont essayé SEO/SMA/SEA sans résultats, trafic qui ne convertit pas
-2. Blocage : *"comment approcher sans être fichée prospection"*
-3. Risque : *"si ça marche pas, je compte sur le bouche à oreille — très irrégulier"* → réponse de surface, à creuser
+- ICP : CEOs <50 personnes, ont essayé SEO/SMA/SEA sans résultats
+- Blocage : *"comment approcher sans être fichée prospection"*
+- Risque verbalisé : *"si ça marche pas, je reviens au bouche à oreille — très irrégulier"* → réponse de surface, à creuser
 
 ---
 
-## POINT D'ATTENTION SPÉCIFIQUE À CET APPEL
+## POINT D'ATTENTION
 
 Tu as dit en DM : *"Pas de pression vis-à-vis de l'investissement, on n'en est pas à cette étape là."*
 
-Ça veut pas dire que tu ne peux pas proposer. Ça veut dire que tu n'arrives pas avec un pitch préparé. La transition vers l'offre doit sortir naturellement de ce que tu auras découvert — pas être plaquée dessus. Si la douleur est bien installée et que tu vois qu'il y a quelque chose à construire, tu peux dire : *"En regardant ta situation, j'ai l'impression qu'il y a vraiment un truc à faire ensemble. Ça te parle ?"*
+Ça ne t'empêche pas de proposer. Ça veut dire que tu n'arrives pas avec un pitch préparé. Si la douleur est bien installée et que la conscientisation est faite, la transition vers l'offre sortira naturellement de ce que tu auras découvert ensemble.
 
 ---
 
-## CADRAGE — Dès le début [2 min]
+## CHRONOLOGIE DE L'APPEL
 
-> *"Elora, l'idée c'est qu'on regarde ta séquence ensemble, je comprends bien où tu en es, et à la fin de cet appel tu repars avec une vision claire de ce qui coince. Et on verra ensemble si ça fait sens d'aller plus loin. Ça te va ?"*
-
-Court. Direct. Puis on part.
+1. **Connexion émotionnelle** — comprendre vraiment sa situation, quantifier, faire verbaliser la douleur
+2. **Conscientisation** — lui faire réaliser que son problème n'est pas son message, c'est l'absence de structure et d'intention derrière sa prospection
+3. **Reformulation + offre + objections**
 
 ---
 
-## PHASE 1 — Comprendre la situation réelle [5-6 min]
+## CADRAGE [2 min]
 
-Elle a répondu aux pré-qual questions par écrit — ne pas les refaire. Creuser ce qu'elle a dit.
+> *"Elora, l'idée aujourd'hui c'est qu'on regarde ta séquence ensemble, je comprends bien où tu en es, et à la fin tu repars avec une vision claire de ce qui coince. On verra ensemble si ça fait sens d'aller plus loin. Ça te va ?"*
 
-> *"Tu m'as dit que ton blocage c'est approcher sans avoir l'étiquette prospection. Concrètement, t'as combien de clients en ce moment ?"*
+Court. Puis on démarre.
+
+---
+
+## PHASE 1 — Connexion émotionnelle [7-8 min]
+
+Elle a répondu aux pré-qual par écrit — ne pas les refaire. Creuser ce qu'elle a dit.
+
+**Comprendre la situation réelle :**
+
+> *"Tu m'as dit que tu veux 1-2 clients de plus ce semestre. T'as combien de clients en ce moment ?"*
 
 Laisser répondre. Puis :
 
-> *"Et un client chez toi, ça représente quel type de mission en général ? Rétainer mensuel, projet ponctuel ?"*
+> *"Et un client chez toi, ça représente quel type de mission en général — rétainer mensuel, projet ponctuel ?"*
 
-Laisser répondre. On commence à quantifier. Puis :
+Quantifier ce que représente la stabilisation :
 
-> *"Et les 1-2 clients que tu veux signer ce semestre — c'est pour stabiliser quelque chose ou t'as un objectif précis derrière ?"*
+> *"Si t'avais ces 2 clients en plus de manière stable — concrètement, ça changerait quoi pour toi ?"*
 
-**Ce qu'on cherche :** Comprendre son CA actuel (sans le demander directement), et quantifier ce que représenteraient 2 clients de plus. C'est le chiffre qu'on va ancrer avant de parler prix.
+**Creuser la douleur :**
 
----
-
-## PHASE 2 — Creuser le coût réel de l'inaction [5 min]
-
-Elle a répondu en surface à la Q3 ("bouche à oreille = irrégulier"). Aller plus loin.
-
-> *"Tu m'as dit que sans prospection efficace, tu reviens au bouche à oreille. Depuis que tu es indépendante, t'as connu des mois vraiment difficiles à cause de ça ?"*
+> *"Tu m'as dit que sans prospection efficace, tu reviens au bouche à oreille et que c'est très irrégulier. T'as connu des mois vraiment difficiles à cause de ça depuis que t'es indépendante ?"*
 
 Laisser répondre. Si elle confirme :
 
-> *"Et là maintenant — t'en es où concrètement ? C'est tendu ou t'as de la marge ?"*
+> *"Et là maintenant — t'en es où concrètement ?"*
 
-Elle l'a dit dans ses messages — elle pioche dans ses économies. Mais elle doit le dire à voix haute dans l'appel. C'est différent d'un message. **Ne pas lui souffler la réponse.**
+Elle l'a dit dans ses messages. Mais elle doit le dire à voix haute dans l'appel. **Ne pas lui souffler la réponse.**
 
-> *"Et si dans 3-4 mois t'es toujours au même stade — il se passe quoi ?"*
+> *"Et si dans 3-4 mois t'es toujours au même stade — il se passe quoi pour toi ?"*
 
 **Silence.**
 
-**Ce qu'on cherche :** Qu'elle verbalise elle-même la pression financière. Pas pour l'exploiter — pour que ce soit réel dans sa tête. Une personne qui dit "je pioche dans mes économies depuis X mois" à voix haute, ça change quelque chose dans son rapport à l'investissement.
+Si la réponse reste en surface :
+> *"Concrètement, pour toi personnellement, ça veut dire quoi ?"*
+
+**Ce qu'on cherche :** Qu'elle verbalise vraiment la pression — financière, professionnelle, personnelle. Une fois qu'elle l'a dit à voix haute, l'urgence est réelle.
 
 ---
 
-## PHASE 3 — Diagnostic (sans coacher) [3-4 min]
-
-Tu as déjà donné du feedback en DM sur le warming. Ne pas aller plus loin en termes de contenu. Le diagnostic ici c'est montrer que tu comprends le problème en profondeur — pas donner la solution.
-
-> *"En regardant ton message et ce que tu m'as décrit — le problème c'est pas ton message en lui-même. Le message est même plutôt bien. C'est que t'arrives à froid chez quelqu'un qui ne te connaît pas encore. Du coup la personne reçoit ça comme un énième message de prospection, même si ton intention est différente."*
-
-Pause. Laisser résonner. Puis :
-
-> *"Ce qui manque c'est tout ce qui précède. La relation. Le fait que quand tu envoies ce message, la personne sait déjà qui tu es et ce que tu vaux. Là le même message tombe complètement différemment."*
-
-**Règle : ne pas aller plus loin.** Ne pas expliquer le warming, ne pas donner les étapes, ne pas montrer des exemples. Tu poses le diagnostic, tu ne prescris pas. La prescription, c'est après le paiement.
-
-Si elle demande "mais concrètement je fais comment ?" :
-> *"C'est exactement ce sur quoi on travaille ensemble. Je peux t'en dire plus si tu veux qu'on voit comment bosser ensemble."*
+> 🔁 **Signal pour passer à la Phase 2 :** Elle a verbalisé sa douleur concrète. Elle n'est plus en mode *"ça va, j'ai quelques clients"*. L'urgence est là.
+>
+> 🗣️ **Bridge :** *"Et pour régler ça — t'as essayé quoi jusqu'ici en dehors de la prospection ?"*
 
 ---
 
-## PHASE 4 — Transition vers l'offre [3 min]
+## PHASE 2 — Conscientisation "prospection avec intention" ⭐ [7-8 min]
 
-Avant de parler de quoi que ce soit, une question :
+**La phase centrale.** La douleur est installée. Maintenant, amener Elora à réaliser par elle-même que son problème n'est pas son message — c'est qu'elle prospecte sans structure et sans intention. Et que c'est exactement ce qui explique le 1 sur 25.
 
-> *"Si t'avais une méthode qui règle ça — et que dans 6-8 semaines t'arrives à avoir des conversations qualifiées qui aboutissent — ça changerait quoi pour toi concrètement ?"*
+**Comprendre son approche actuelle :**
 
-Laisser répondre. Elle va probablement parler de stabilité, de revenus, de moins de stress. **C'est le moment où elle se vend elle-même l'investissement.**
+> *"Ta prospection actuelle — tu fais comment concrètement ? Tu choisis tes prospects comment ?"*
 
-Puis naturellement :
+Laisser répondre. Elle va décrire : elle trouve des profils, elle envoie son message d'analyse. Puis :
 
-> *"De ce que tu m'as décrit, je pense qu'il y a vraiment quelque chose à construire ensemble. T'aurais envie qu'on aille plus loin ?"*
+> *"Et quand tu choisis un prospect — t'as quoi comme critères ? T'es en mode 'je prends tout ce qui matche mon ICP' ou t'es plus sélective ?"*
 
-Si oui → présenter l'offre avec SES mots, pas tes livrables.
+> *"Et avant d'envoyer ton message — t'as eu un échange avec cette personne, elle sait qui tu es ?"*
 
-> *"Ce qu'on a mis en évidence c'est que ton problème c'est [ce qu'elle a dit]. Donc ce sur quoi on va travailler ensemble c'est [solution directement liée à son problème]. L'investissement c'est 1000€."*
+Elle va dire non. Puis :
 
-**Silence.**
+> *"Tu penses que le problème c'est quoi — ton message lui-même, ou autre chose ?"*
+
+Elle pense que c'est son message. Laisser répondre. Puis poser la question clé :
+
+> *"Si je te dis que ton message n'est pas le vrai problème — qu'est-ce que ça t'évoque ?"*
+
+**Silence.** Laisser résonner.
+
+> *"Tu m'as dit 1 retour sur 25. Est-ce que tu penses que quelqu'un qui reçoit un message d'analyse de son site de la part d'une personne qu'elle ne connaît pas — elle le vit comment ?"*
+
+Laisser répondre. Elle va réaliser : comme un énième message de prospection.
+
+> *"Et si cette même personne t'avait déjà vue, avait déjà échangé avec toi — ce même message, il tomberait comment ?"*
+
+**Ce qu'on cherche :** Qu'elle arrive elle-même à la conclusion que ce qui manque c'est tout ce qui précède le message. La relation. L'intention. Le fait de choisir ses prospects avec des critères précis plutôt que d'envoyer en mode automatique. C'est ça la différence entre prospecter et prospecter avec intention.
+
+**Ne pas expliquer la méthode.** Poser le diagnostic — pas la prescription. La prescription vient après le paiement.
+
+---
+
+> 🔁 **Signal que la conscientisation est faite :** Elle dit quelque chose dans le sens de *"en fait c'est tout ce qui se passe avant qui manque"* ou *"j'envoie un peu en mode automatique sans vraiment avoir créé de lien"*.
+>
+> ⚠️ **Si ce signal n'est pas là — creuser encore.** Ne pas avancer vers l'offre.
+>
+> 🗣️ **Bridge :** *"Si t'avais ce système — la relation en amont, la structure, l'intention derrière chaque prospect — tu te projettes sur quoi comme résultat ?"*
+
+---
+
+## PHASE 3 — Reformulation + engagement émotionnel [3-4 min]
+
+Reformuler avec ses mots — pas les tiens :
+
+> *"Ce que tu m'as dit c'est que [son problème avec ses mots]. Et ce qui manque dans ton approche c'est [ce qu'elle a réalisé elle-même]. C'est bien ça ?"*
+
+Puis la question d'engagement avant de parler de quoi que ce soit :
+
+> *"Si t'avais un système qui règle exactement ça — la structure, l'intention, le warming avant le message — et que dans 6-8 semaines tu commences à avoir des conversations qui aboutissent vraiment — ça changerait quoi pour toi concrètement ?"*
+
+Laisser répondre. Elle se vend elle-même l'investissement.
+
+Puis :
+
+> *"T'aurais envie qu'on aille plus loin ensemble ?"*
+
+Si oui → présenter l'offre avec ses mots :
+
+> *"Ce qu'on a mis en évidence c'est [son problème exact]. Donc ce sur quoi on va travailler ensemble c'est construire cette approche structurée et intentionnelle de bout en bout. L'investissement c'est 1000€."*
+
+**Silence. Ne rien dire après le prix.**
 
 ---
 
 ## GESTION DE L'OBJECTION BUDGET
 
-Elle va presque certainement amener le sujet de l'argent. C'est prévisible — elle l'a dit en DM. Ne pas paniquer, ne pas descendre le prix immédiatement.
+Elle va presque certainement amener le sujet de l'argent. C'est prévisible.
 
-**Étape 1 — Accueillir :**
-> *"Je comprends totalement. Et en plus de l'investissement financier, ça demande aussi de l'énergie et du temps. C'est réel."*
+**Étape 1 — Accueillir sans reculer :**
+> *"Je comprends totalement. Et en plus de l'aspect financier, ça demande aussi de l'énergie et du temps. C'est réel."*
 
 **Étape 2 — Clarifier :**
-> *"Quand tu dis que c'est compliqué niveau budget — c'est par rapport à la somme en elle-même ? Ou par rapport au fait que t'es pas sûre du retour sur investissement ?"*
+> *"Quand tu dis que c'est compliqué niveau budget — c'est par rapport à la somme en elle-même, ou par rapport au fait que t'es pas sûre du retour sur investissement ?"*
 
 **Si c'est le ROI :**
 > *"Tu m'as dit qu'un client chez toi c'est [X€/mois]. Si dans 6 semaines t'as signé un client grâce à la méthode — l'investissement il se rembourse en combien de temps ?"*
 
 La laisser calculer. Ne pas donner le chiffre.
 
-**Si c'est vraiment la trésorerie :**
-> *"Je peux étaler sur 3 fois — ça fait [333€/mois]. Est-ce que ça change quelque chose ?"*
+**Si c'est la trésorerie :**
+> *"Je peux étaler sur 3 fois — ça fait 333€ par mois. Est-ce que ça change quelque chose ?"*
 
-**Ce qu'il ne faut PAS proposer :** paiement différé conditionné à ses résultats. Zéro engagement, zéro urgence, collection impossible. Si elle n'est vraiment pas en capacité de mobiliser 333€ maintenant — elle n'est pas prête. Et c'est OK de le dire.
+**Ce qu'il ne faut jamais proposer :** paiement conditionnel à ses résultats. Zéro engagement de sa part, et toi tu cours après l'argent dans 2 mois. Si elle ne peut vraiment pas mobiliser 333€ maintenant — elle n'est pas prête.
 
-> *"Si c'est vraiment pas le bon moment financièrement, je préfère qu'on soit honnêtes là-dessus. On peut garder le contact et retravailler ça quand la situation évolue."*
-
----
-
-## RED FLAGS À SURVEILLER
-
-- Elle revient sur un échange de compétences ou une alternative au paiement classique → signal
-- Elle demande une garantie dès le début → signal
-- La douleur dans l'appel reste superficielle (elle minimise, elle relativise) → pas prête, ne pas forcer
+> *"Si c'est vraiment pas le bon moment, je préfère qu'on soit honnêtes là-dessus. On peut garder le contact et y revenir quand la situation évolue."*
 
 ---
 
 ## CE QU'IL NE FAUT PAS FAIRE
 
-- Coacher pendant l'appel — donner les étapes du warming, expliquer comment faire → la prescription c'est après le paiement
-- Descendre à 500€ sans qu'elle ait amené une vraie objection — ne pas pré-céder
-- Remplir les silences après avoir annoncé le prix
-- Proposer un paiement différé conditionnel
+- **Expliquer la méthode pendant l'appel** — donner les étapes du warming, comment qualifier un prospect, les frameworks → la prescription vient après le paiement
+- **Passer à la conscientisation avant que la douleur soit verbalisée** — si elle n'a pas senti l'urgence, rien ne résonnera
+- **Descendre à 500€ sans qu'elle ait amené une vraie objection** — partir à 1000€, ne pas pré-céder
+- **Remplir les silences** après le prix
+- **Proposer un paiement conditionnel** à ses résultats
 
 ---
 
@@ -161,68 +197,127 @@ La laisser calculer. Ne pas donner le chiffre.
 ```
 ═══════════════════════════════════════════════
   ELORA — 15h00 — 20 min
+─────────────────────────────────────────────
+  CHRONOLOGIE : douleur → conscientisation
+  prospection avec intention → offre
 ═══════════════════════════════════════════════
 
 CADRAGE [2 min]
-"Regarder ta séquence → comprendre où
- t'en es → voir si ça fait sens d'aller
- plus loin."
+"On regarde ta séquence ensemble,
+ je comprends où tu en es, et on voit
+ si ça fait sens d'aller plus loin."
 
 ───────────────────────────────────────────────
 
-PHASE 1 — SITUATION RÉELLE [5-6 min]
-→ "T'as combien de clients en ce moment ?"
-→ "Un client chez toi, c'est quel type
-   de mission ?"
-→ "Les 1-2 clients — c'est pour stabiliser
-   quoi exactement ?"
+PHASE 1 — CONNEXION ÉMOTIONNELLE [7-8 min]
+
+→ "Tu m'as dit que tu veux 1-2 clients
+   de plus. T'as combien de clients
+   en ce moment ?"
+
+→ "Un client chez toi — rétainer mensuel
+   ou projet ponctuel ?"
+
+→ "Si t'avais ces 2 clients en plus de
+   manière stable — ça changerait quoi
+   pour toi concrètement ?"
+
+→ "T'as connu des mois vraiment difficiles
+   depuis que t'es indépendante ?"
+
+→ "Et là maintenant — t'en es où ?"
+   [ne pas souffler la réponse]
+
+→ "Si dans 3-4 mois t'es toujours au
+   même stade — il se passe quoi ?"
+   → SILENCE
+   → Si surface : "Pour toi personnellement,
+     ça veut dire quoi ?"
+
+🔁 Elle a verbalisé la douleur concrète
+🗣️ "T'as essayé quoi jusqu'ici en dehors
+    de la prospection ?"
 
 ───────────────────────────────────────────────
 
-PHASE 2 — COÛT DE L'INACTION [5 min]
-→ "T'as connu des mois difficiles
-   depuis que t'es indé ?"
-→ "Là maintenant — t'en es où ?"
-→ "Dans 3-4 mois si c'est pareil —
-   il se passe quoi ?"
-→ SILENCE
+PHASE 2 — CONSCIENTISATION ⭐ [7-8 min]
+
+→ "Ta prospection — tu choisis tes
+   prospects comment ?"
+
+→ "Avant d'envoyer ton message — elle
+   sait qui tu es, cette personne ?"
+
+→ "Tu penses que le problème c'est
+   quoi — ton message ou autre chose ?"
+
+→ "Si je te dis que ton message n'est
+   pas le vrai problème — qu'est-ce
+   que ça t'évoque ?"
+   → SILENCE
+
+→ "Quelqu'un qui reçoit ton message
+   d'une personne qu'elle ne connaît
+   pas — elle le vit comment ?"
+
+→ "Et si elle t'avait déjà vue, avait
+   déjà échangé avec toi — ce même
+   message, il tomberait comment ?"
+
+🔁 Elle dit que c'est tout ce qui précède
+   le message qui manque
+⚠️ Si non → creuser encore, ne pas avancer
+🗣️ "Si t'avais ce système en amont —
+    tu te projettes sur quoi ?"
 
 ───────────────────────────────────────────────
 
-PHASE 3 — DIAGNOSTIC SANS COACHER [3-4 min]
-→ "Le message est pas mauvais.
-   C'est QUAND tu l'envoies le problème."
-→ "Ce qui manque c'est tout ce qui précède."
-→ Si elle demande "comment" →
-  "C'est exactement ce sur quoi
-   on travaille ensemble."
+PHASE 3 — REFORMULATION + OFFRE [3-4 min]
 
-───────────────────────────────────────────────
+→ "Ce que tu m'as dit c'est que [ses mots].
+   Et ce qui manque c'est [sa réalisation].
+   C'est bien ça ?"
 
-PHASE 4 — TRANSITION OFFRE [3 min]
-→ "Si t'avais une méthode qui règle ça —
-   ça changerait quoi concrètement ?"
+→ "Si t'avais un système qui règle ça
+   et que dans 6-8 semaines tu as des
+   vraies conversations — ça changerait
+   quoi pour toi ?"
+   → Elle se vend elle-même l'investissement
+
 → "T'aurais envie d'aller plus loin ?"
-→ Présenter avec SES mots
-→ "L'investissement c'est 1000€."
-→ SILENCE
+
+→ "Ce sur quoi on va travailler c'est
+   [son problème avec ses mots].
+   L'investissement c'est 1000€."
+   → SILENCE — ne rien dire après le prix
 
 ───────────────────────────────────────────────
 
 OBJECTION BUDGET
-→ "C'est par rapport à la somme ou
-   au retour sur investissement ?"
-→ ROI : "Si tu signes 1 client — ça se
-   rembourse en combien de temps ?"
-→ Trésorerie : "3x 333€ — ça change quoi ?"
-→ JAMAIS : paiement différé conditionnel
+
+→ "Je comprends. C'est par rapport à
+   la somme, ou au retour sur
+   investissement ?"
+
+→ Si ROI : "Un client chez toi c'est [X€].
+   Si t'en signes un en 6 semaines —
+   ça se rembourse en combien de temps ?"
+   → La laisser calculer
+
+→ Si trésorerie : "3x 333€ — ça change
+   quelque chose ?"
+
+→ JAMAIS : paiement conditionnel
+   à ses résultats
 
 ───────────────────────────────────────────────
 
 JAMAIS
-✗ Donner les étapes du warming
+✗ Expliquer la méthode / les étapes
+✗ Passer à la conscientisation sans
+  que la douleur soit verbalisée
 ✗ Descendre à 500€ sans vraie objection
 ✗ Parler après avoir annoncé le prix
-✗ Paiement différé conditionnel
+✗ Paiement conditionnel aux résultats
 ═══════════════════════════════════════════════
 ```
