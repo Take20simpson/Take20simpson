@@ -103,6 +103,16 @@ Si la réponse est superficielle :
 
 **Ce qu'on cherche :** Quelqu'un qui a déjà payé pour du conseil ou de l'accompagnement, c'est quelqu'un qui comprend que ça a une valeur. Quelqu'un qui n'a jamais investi → il faut que la douleur soit suffisamment installée avant de proposer le R2. Si la douleur n'est pas là, pas la peine d'aller en R2.
 
+Puis, une fois le coût de l'inaction ancré, poser la question de projection budget — naturellement, sans parler d'offre :
+
+> *"Si une solution existait pour stabiliser ça — un accompagnement, quelque chose de concret — vous vous projetteriez sur quel type d'investissement ?"*
+
+**Silence. Laisser répondre.**
+
+Ne pas proposer de fourchette, ne pas suggérer de chiffre. Elle doit dire un nombre en premier.
+
+**Ce qu'on cherche :** Avoir un signal clair pour préparer la bonne offre en R2. Sa réponse oriente tout — voir grille de décision en bas du document.
+
 ---
 
 ## PHASE 4 — Valider la conscientisation visibilité [5 min]
@@ -131,6 +141,23 @@ Si elle ne sait pas ou n'y a pas pensé :
 > *"De ce que vous m'avez décrit, je pense pouvoir vous aider — notamment pour rendre votre visibilité plus prévisible et moins dépendante du bouche à oreille et de l'algorithme LinkedIn. Je vais vous envoyer une présentation concrète de comment je travaille. Et on se fait un deuxième échange dans deux jours pour rentrer dans le détail. Vous seriez disponible [proposer un créneau précis] ?"*
 
 Valider le créneau pendant l'appel.
+
+---
+
+## GRILLE DE DÉCISION R2 — Ce qu'on propose selon ce qu'elle dit
+
+À remplir mentalement à la fin de R1, avant d'envoyer la page d'immersion.
+
+| Ce qu'elle a dit en R1 | Ce qu'on propose en R2 |
+|---|---|
+| Budget projeté < 300€ + douleur faible | Ne pas aller en R2 — trop tôt |
+| Budget projeté 300-600€ + veut comprendre où elle en est | **Audit SEO/GEO** (500-600€) |
+| Budget projeté 300-600€ + veut être autonome ensuite | **Audit + une session de mise en œuvre** |
+| Budget projeté 600€+ + veut que quelqu'un gère | **Accompagnement complet** |
+| "Prête à investir sérieusement si ça marche" + forte douleur | **Accompagnement complet** — ancrer la valeur avant d'annoncer le prix |
+| Hésitante sur le budget mais forte douleur | Commencer par l'audit comme point d'entrée — mentionner qu'on peut aller plus loin ensuite |
+
+**Règle :** La question de projection budget (Phase 3bis) doit avoir obtenu une réponse. Si elle n'a pas répondu ou esquivé, ne pas improviser en R2 — poser la question en début de R2 avant de présenter quoi que ce soit.
 
 ---
 
@@ -194,12 +221,15 @@ PHASE 3 — COÛT INACTION [5 min]
 
 ───────────────────────────────────────────────
 
-PHASE 3bis — RÉFLEXE INVESTISSEMENT [3 min]
+PHASE 3bis — BUDGET [3 min]
 → "Vous avez déjà fait appel à quelqu'un
    pour votre visibilité / acquisition ?"
 → Si oui : "C'était quoi ? Ça a donné quoi ?"
 → Si non : "Ce que vous avez essayé —
    c'était quoi concrètement ?"
+→ "Si une solution existait — quel type
+   d'investissement vous projetez-vous ?"
+→ SILENCE — elle dit un chiffre en premier
 
 ───────────────────────────────────────────────
 
