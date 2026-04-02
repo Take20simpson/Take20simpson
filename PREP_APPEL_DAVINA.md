@@ -60,6 +60,16 @@ Laisser répondre. Puis creuser :
 **Si elle minimise :**
 > *"Et c'est quelque chose qui vous convient vraiment, ou vous aimeriez que ça change ?"*
 
+Puis, toujours dans le flow de la quantification :
+
+> *"Et un client chez vous, ça représente quel type de mission en général ?"*
+
+Laisser répondre. Elle va citer ses formats (audit, accompagnement, etc.). Ensuite :
+
+> *"Si vous étiez à [X clients constants/mois], concrètement ça changerait quoi pour vous ?"*
+
+**Ce qu'on cherche :** Qu'elle calcule elle-même la valeur de résoudre le problème. Si elle dit "ça ferait +2000€/mois stables", elle vient de justifier dans sa propre tête n'importe quel investissement raisonnable.
+
 ---
 
 ## PHASE 3 — Coût de l'inaction [5 min]
@@ -72,6 +82,26 @@ Elle n'a pas répondu à cette question non plus. La poser maintenant, avec le s
 
 Si la réponse est superficielle :
 > *"Concrètement, ça veut dire quoi pour vous — pour votre activité, pour vous personnellement ?"*
+
+---
+
+## PHASE 3bis — Qualifier le réflexe d'investissement [3 min]
+
+À intégrer naturellement après le coût de l'inaction, avant de parler visibilité. L'objectif n'est pas de parler budget — c'est de comprendre si Davina est le type de personne qui investit dans son développement ou pas.
+
+> *"Vous avez déjà fait appel à quelqu'un de l'extérieur pour travailler sur votre visibilité ou votre acquisition client ?"*
+
+**Si oui :**
+> *"C'était quoi ? Et ça a donné quoi ?"*
+
+→ Signal fort : elle investit déjà dans son business. Elle comprend la logique. Continuer.
+
+**Si non :**
+> *"Et ce que vous avez essayé jusqu'ici pour régler la fluctuation — c'était quoi concrètement ?"*
+
+→ Écouter. Si elle n'a jamais investi nulle part, creuser un peu : "pourquoi vous n'avez pas cherché à vous faire accompagner jusqu'ici ?" — sans insister. La réponse révèle si c'est une question de budget, de priorité, ou de méfiance.
+
+**Ce qu'on cherche :** Quelqu'un qui a déjà payé pour du conseil ou de l'accompagnement, c'est quelqu'un qui comprend que ça a une valeur. Quelqu'un qui n'a jamais investi → il faut que la douleur soit suffisamment installée avant de proposer le R2. Si la douleur n'est pas là, pas la peine d'aller en R2.
 
 ---
 
@@ -110,6 +140,7 @@ Valider le créneau pendant l'appel.
 - Rester en surface sur la fluctuation — c'est là que la connexion émotionnelle est
 - Parler technique ou SEO avant qu'elle pose une question dessus
 - Dépasser 28-29 minutes — elle a un call à 16h, couper proprement avant
+- Aller en R2 si la douleur n'est pas installée ou si le signal d'investissement est absent
 
 ---
 
@@ -147,6 +178,10 @@ PHASE 2 — LA FLUCTUATION [7-8 min]
 → "Ça fait combien de temps ?"
 → "Les mois creux, vous tombez à combien ?"
 → Si elle minimise : "Et ça vous convient ?"
+→ "Un client chez vous, c'est quel type
+   de mission ?"
+→ "À X clients constants — ça changerait
+   quoi pour vous ?"
 
 ───────────────────────────────────────────────
 
@@ -156,6 +191,15 @@ PHASE 3 — COÛT INACTION [5 min]
 → SILENCE — ne pas remplir le vide
 → Si surface : "Concrètement, pour
    vous personnellement ?"
+
+───────────────────────────────────────────────
+
+PHASE 3bis — RÉFLEXE INVESTISSEMENT [3 min]
+→ "Vous avez déjà fait appel à quelqu'un
+   pour votre visibilité / acquisition ?"
+→ Si oui : "C'était quoi ? Ça a donné quoi ?"
+→ Si non : "Ce que vous avez essayé —
+   c'était quoi concrètement ?"
 
 ───────────────────────────────────────────────
 
@@ -184,5 +228,6 @@ JAMAIS
 ✗ Parler SEO/technique avant qu'elle demande
 ✗ Dépasser 28-29 min
 ✗ Proposer le R2 par message après
+✗ Aller en R2 si signal investissement absent
 ═══════════════════════════════════════════════
 ```
