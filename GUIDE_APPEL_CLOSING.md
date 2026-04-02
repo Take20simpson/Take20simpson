@@ -50,7 +50,35 @@ Le chiffre qu'il donne pour le budget dépend directement de sa conviction dans 
 
 ---
 
+## Format : 1 appel ou 2 appels ?
 
+Le déroulé ci-dessous couvre l'intégralité du process de vente. Il s'applique que tu fasses un seul appel ou deux. La différence, c'est uniquement là où tu coupes.
+
+### Format 1 appel *(Matthias — prospect déjà chaud)*
+
+Tout se fait en un seul échange de 20-25 minutes. Fonctionne bien quand :
+- Le prospect a déjà consommé du contenu (manifeste, vidéo pré-appel)
+- La douleur a été identifiée en DM avant l'appel
+- Les 3 questions de pré-qualification ont été répondues
+- Tu as l'expérience pour gérer la transition découverte → closing en temps réel
+
+### Format 2 appels *(Lucille, Mélanie, tickets élevés)*
+
+**R1 — Découverte uniquement** *(phases ① à ③ ci-dessous)*
+Objectif unique : comprendre la situation, créer la connexion émotionnelle, faire conscientiser la solution. Terminer par la proposition du R2 avec un créneau validé pendant l'appel. Pas de closing, pas de prix, pas d'offre en R1.
+
+**Entre R1 et R2 — Page d'immersion**
+Dans les 2h après R1 : vidéo Loom de 8-10 min (méthode, ce qu'on va travailler, pourquoi c'est la bonne solution pour sa situation). Le lendemain : message personnalisé qui reprend ses mots exacts.
+
+**R2 — Closing** *(phases ④ à ⑦ ci-dessous)*
+Reformuler avec ses mots, présenter l'offre connectée à son problème, gérer les objections, closer.
+
+**Pourquoi le format 2 appels est recommandé pour les débutants (Mélanie) :**
+En R1, l'objectif est uniquement de comprendre et créer le lien — pas de closer. Il n'y a pas d'échec possible en R1. Cela supprime complètement la pression du closing le temps de gagner en expérience. Mélanie peut enchaîner des R1 sans stress, progresser sur la découverte et la conscientisation, puis travailler le closing en R2 séparément une fois plus à l'aise.
+
+---
+
+## Le déroulé
 
 ### ① Cadrage — *0 à 3 min*
 
@@ -124,6 +152,11 @@ Une fois le récap validé, la transition est naturelle. Tu ne pitches pas — t
 
 L'offre n'est plus un pitch. C'est la réponse à sa propre description.
 
+---
+
+---
+> **FORMAT 2 APPELS — FIN DU R1 / DÉBUT DU R2**
+> En format 2 appels, les phases ① à ③ constituent le R1. L'appel se termine ici par la proposition d'un créneau R2 validé pendant l'appel. La page d'immersion est envoyée dans les 2h. Les phases ④ à ⑦ constituent le R2.
 ---
 
 ### ④ Présentation de l'offre — *15 à 18 min*
