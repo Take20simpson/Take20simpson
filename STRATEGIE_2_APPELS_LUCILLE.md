@@ -1,100 +1,78 @@
-# Stratégie 2 Appels — Guide Complet pour Lucille
-*Adapté de la méthode Enzo Racine — High Ticket SEO/GEO*
+# Stratégie 2 Appels — Guide Complet
+*Pour Lucille — SEO/GEO*
 
 ---
 
 ## POURQUOI 2 APPELS
 
-Tout faire en un appel pour du high ticket avec des entrepreneurs 40-45 ans qui ont de l'assurance, c'est trop. Il y a trop de choses à gérer simultanément :
+Tout gérer en un seul appel, c'est trop. Il faut simultanément créer la connexion émotionnelle, faire comprendre au prospect que sa visibilité en ligne est son levier prioritaire maintenant, reformuler, présenter l'offre, annoncer le prix et gérer les objections.
 
-- Créer la connexion émotionnelle
-- Faire conscientiser que le SEO est LA solution maintenant
-- Reformuler, transitionner
-- Présenter l'offre
-- Annoncer le prix
-- Gérer les objections
+Si un seul élément manque — tout s'effondre.
 
-En un appel, un élément manque → tout s'effondre. En deux appels, chaque étape a le temps de faire son travail.
+En deux appels, chaque étape a le temps de faire son travail :
 
-**La logique :**
-- **R1** = Découverte, connexion émotionnelle, conscientisation du problème et de la solution
-- **Entre R1 et R2** = Page d'immersion pour garder le prospect chaud et créer de la relation
-- **R2** = Closing
+- **R1** → Découverte, connexion émotionnelle, conscientisation du problème et du levier visibilité
+- **Entre R1 et R2** → Page d'immersion pour maintenir la relation et installer la confiance
+- **R2** → Approfondissement, présentation de l'offre, closing
 
 ---
 
-## PROFIL DES PROSPECTS DE LUCILLE — Ce qu'il faut comprendre
+## CE QU'IL FAUT GARDER EN TÊTE SUR L'APPROCHE
 
-Les prospects de Lucille ont entre 40 et 45 ans. Ce sont des chefs d'entreprise ou des entrepreneurs qui ont entre 1 et 4 ans d'activité. Ils ont de l'assurance, des convictions sur leur business, et ils ne sont pas dociles. Le SEO n'est pas leur priorité perçue — ils pensent que LinkedIn et le bouche à oreille suffisent, ou que "ça viendra tout seul".
+Le SEO et le GEO ne sont pas des outils d'acquisition directe. Ce que Lucille apporte, c'est de la **visibilité organique** — faire en sorte que les bonnes personnes trouvent le prospect au moment où elles cherchent ce qu'il propose. Les clients qui arrivent ensuite, c'est le résultat naturel d'une meilleure visibilité.
 
-**Ce que ça implique concrètement :**
+C'est important de le formuler ainsi en appel. Pas "je vais vous apporter des clients" — mais "je vais faire en sorte que les personnes qui cherchent ce que vous faites vous trouvent, sur Google et sur les IA."
 
-Ils peuvent prendre le contrôle de l'appel si on les laisse faire. Exemple typique : dès après le cadrage, "est-ce que vous pouvez me dire qui vous êtes et ce que vous faites ?" → si Lucille se laisse embarquer dans une longue présentation, elle perd la main et ne la reprend jamais.
-
-**Comment gérer quand le prospect prend le contrôle :**
-
-Si le prospect demande une présentation dès le début — répondre en 30 secondes maximum, puis immédiatement reprendre la main.
-
-> *"Je suis Lucille, freelance spécialisée en visibilité digitale — j'aide les entrepreneurs à générer des clients de manière organique, sans dépendre des réseaux sociaux ni de la pub. Mais avant tout, j'ai besoin de comprendre votre situation. Parlez-moi de votre activité — qu'est-ce que vous faites exactement ?"*
-
-30 secondes, pas plus. Puis question ouverte immédiatement.
-
-**La clé avec ce profil de prospect :** Ne jamais argumenter, ne jamais convaincre frontalement. Poser des questions qui les amènent à se convaincre eux-mêmes. Un entrepreneur de 45 ans qui se sent "vendu" ferme immédiatement. Un entrepreneur de 45 ans qui arrive lui-même à la conclusion que le SEO est sa priorité — il achète.
+Cette nuance change tout dans la perception du prospect : c'est moins prometteur mais beaucoup plus crédible et concret.
 
 ---
 
 ## LE CADRAGE R1 — Annoncer les 2 appels dès le début
 
-Le cadrage doit annoncer la structure 2 appels clairement. Ça évite la pression du closing et ça rassure le prospect.
+Annoncer la structure deux appels dès le départ. Ça enlève la pression du closing et ça permet de vraiment creuser sans arrière-pensée.
 
-> *"[Prénom], l'idée aujourd'hui c'est de prendre le temps de comprendre votre situation, vos blocages, ce qui vous freine dans votre développement. Si à la fin de cet appel je vois que je peux vous aider, je vous proposerai un deuxième échange où on rentrera dans le concret. Mais aujourd'hui, c'est vraiment pour vous. Ça vous va ?"*
+> *"[Prénom], l'idée aujourd'hui c'est de prendre le temps de comprendre votre situation, vos blocages, ce qui freine votre développement. Si à la fin de cet appel je vois que je peux vous aider, je vous proposerai un deuxième échange pour rentrer dans le concret. Mais aujourd'hui, c'est vraiment pour vous. Ça vous va ?"*
 
-**Pourquoi c'est puissant :**
-- Le prospect sait qu'il ne va pas se faire pitcher aujourd'hui → il se détend et s'ouvre
-- Lucille n'a pas la pression du closing → elle peut creuser sans arrière-pensée visible
-- Ça crédibilise la démarche : ce n'est pas une approche commerciale, c'est une approche diagnostic
+**Pourquoi ça fonctionne :**
+Le prospect sait qu'il ne va pas se faire pitcher aujourd'hui → il se détend et s'ouvre davantage. La démarche est perçue comme un diagnostic, pas une approche commerciale.
 
 ---
 
 ## R1 — APPEL DE DÉCOUVERTE
 
-### Objectif du R1
+### Les 2 objectifs absolus du R1
 
-Deux choses absolument obligatoires à obtenir avant de raccrocher :
+Avant de raccrocher, deux choses doivent être obtenues :
 
-1. **La connexion émotionnelle** — le prospect a verbalisé à voix haute ce que lui coûte son problème, pas juste le constaté
-2. **La conscientisation de la solution** — le prospect arrive lui-même à la conclusion que la visibilité en ligne est CE qui peut débloquer sa situation maintenant
+1. **La connexion émotionnelle** — le prospect a verbalisé à voix haute ce que lui coûte son problème. Pas juste le constat. La douleur derrière.
+2. **La conscientisation** — le prospect arrive lui-même à la conclusion que sa visibilité en ligne est ce qui peut débloquer sa situation maintenant.
 
-Si l'un des deux manque → ne pas proposer le R2. Creuser encore ou relancer plus tard.
-
----
-
-### Structure du R1
+Si l'un des deux manque → ne pas proposer le R2. Creuser encore.
 
 ---
 
-#### Phase 1 — Découverte business [5-8 min]
+### Phase 1 — Découverte business [5-8 min]
 
-Comprendre le business avant tout. Questions ouvertes, pas de jugement.
+Comprendre le business en profondeur avant tout. Rien ne peut être présumé.
 
 > *"Parlez-moi de votre activité — qu'est-ce que vous faites exactement, depuis combien de temps ?"*
 
-> *"Et vous travaillez avec quel type de clients ?"*
+> *"Vous travaillez avec quel type de clients ?"*
 
-> *"Comment vous trouvez vos clients aujourd'hui — LinkedIn, bouche à oreille, autre chose ?"*
+> *"Comment vous trouvez vos clients aujourd'hui ?"*
 
-**Règle :** Ne jamais passer à la phase suivante sans avoir bien compris le business. Si quelque chose n'est pas clair — le dire.
+**Règle :** Si quelque chose n'est pas clair, le dire franchement.
 > *"Attendez, j'ai pas bien compris ce point. Vous pouvez me réexpliquer ? Je veux être sûre de comprendre votre situation."*
 
 ---
 
-#### Phase 2 — Qualifier le problème [5-8 min]
+### Phase 2 — Qualifier le problème [5-8 min]
 
-Passer des faits à la douleur. Quantifier systématiquement.
+Passer des faits à la douleur. Tout quantifier.
 
 > *"Vous m'avez dit que votre objectif c'est [reprendre ses mots]. Concrètement, vous en êtes où par rapport à ça aujourd'hui ?"*
 
-> *"Vous tournez à combien de clients par mois en ce moment ?"*
+> *"Vous avez combien de clients par mois en ce moment ?"*
 
 > *"Et dans l'idéal, vous voudriez être à combien ?"*
 
@@ -102,23 +80,21 @@ Passer des faits à la douleur. Quantifier systématiquement.
 
 > *"Et c'est quelque chose qui vous convient ?"*
 
-**Si le prospect minimise ("ça va, j'ai quand même des clients") :**
+**Si le prospect minimise :**
 > *"Ça fait combien de temps ? Et c'est vraiment satisfaisant pour vous ?"*
 
-Ne pas lâcher cette phase tant qu'il n'y a pas un chiffre concret sur la table et un aveu que la situation n'est pas satisfaisante.
+Ne pas lâcher cette phase avant d'avoir un chiffre concret et un aveu que la situation n'est pas satisfaisante.
 
 ---
 
-#### Phase 3 — Creuser jusqu'à la connexion émotionnelle [5-8 min]
+### Phase 3 — Creuser jusqu'à la connexion émotionnelle [5-8 min]
 
-C'est la phase la plus importante du R1. Ne jamais switcher de sujet avant d'avoir touché quelque chose de réel.
-
-**Les 3 questions cheat codes d'Enzo :**
+La phase la plus importante. Ne jamais changer de sujet avant d'avoir touché quelque chose de réel.
 
 **Question 1 — Le vrai blocage :**
 > *"Si vous prenez un peu de hauteur... qu'est-ce qui vous bloque vraiment aujourd'hui pour changer les choses ?"*
 
-Silence. Laisser répondre.
+Silence. Attendre la réponse.
 
 **Question 2 — Le coût de l'inaction :**
 > *"Si dans 6 mois votre situation est exactement la même — qu'est-ce qui se passe concrètement pour vous ?"*
@@ -128,131 +104,170 @@ Silence. Ne pas remplir le vide. C'est dans ce silence que la connexion émotion
 Si la réponse est superficielle :
 > *"Concrètement, ça veut dire quoi pour vous ? Pour votre business, pour vous personnellement ?"*
 
-**Question 3 — Faire admettre le gap :**
+**Question 3 — Faire admettre l'écart :**
 > *"Avec là où vous en êtes aujourd'hui, atteindre [leur objectif] d'ici [leur délai] — honnêtement, ça vous paraît cohérent ou vous sentez qu'il manque quelque chose ?"*
 
 ---
 
-#### Phase 4 — Faire conscientiser que le SEO est LA solution [5-8 min]
+### Phase 4 — Faire conscientiser que la visibilité est LE levier [5-8 min]
 
-**C'est la phase que Lucille ne faisait pas — c'est celle qui change tout.**
+C'est la phase qui faisait défaut. L'objectif : que le prospect arrive lui-même à la conclusion que sa visibilité en ligne est son levier prioritaire maintenant. Jamais affirmé — toujours questionné.
 
-L'objectif : amener le prospect à verbaliser lui-même que sa visibilité en ligne est son levier principal. Pas Lucille qui le dit — lui qui y arrive.
+> *"Vous m'avez dit que vous passez par [LinkedIn / bouche à oreille / autre]. Est-ce que vous avez l'impression que ça suffit pour atteindre [leur objectif] ?"*
 
-**Séquence de questions :**
-
-> *"Vous m'avez dit que vous utilisez [LinkedIn / bouche à oreille / autre]. Est-ce que vous avez l'impression que ça suffit pour atteindre [leur objectif] ?"*
-
-Si non ou hésitation :
+Si hésitation ou non :
 > *"Qu'est-ce qui manque selon vous ?"*
 
-Laisser parler. Puis :
-> *"Quand vos clients potentiels cherchent [ce que vous faites] aujourd'hui — comment ils vous trouvent ? Ils passent par Google, par les IA, ou uniquement par les recommandations ?"*
+Puis :
+> *"Quand vos clients potentiels cherchent [ce que vous faites] — comment ils vous trouvent ? Ils passent par Google, par les IA, ou uniquement par les recommandations ?"*
 
-> *"Est-ce que vous savez ce qui ressort quand quelqu'un tape [leur activité + ville ou secteur] sur Google ?"*
+> *"Est-ce que vous savez ce qui ressort quand quelqu'un tape [leur activité] sur Google aujourd'hui ?"*
 
-Si il dit non ou il n'y a pas pensé :
-> *"C'est intéressant. Est-ce que vous pensez qu'il y a des personnes qui cherchent ce que vous proposez en ligne, sans passer par les recommandations ?"*
+Si non :
+> *"Est-ce que vous pensez qu'il y a des personnes qui cherchent ce que vous proposez en ligne, sans passer par les recommandations ?"*
 
-> *"Et si ces gens-là ne vous trouvent pas — qu'est-ce que ça représente comme opportunités manquées selon vous ?"*
+> *"Et si ces gens-là ne vous trouvent pas — qu'est-ce que ça représente comme opportunités selon vous ?"*
 
 **Si le prospect est sceptique sur le SEO :**
-> *"Qu'est-ce qui vous rend sceptique ? Vous avez eu de mauvaises expériences avec des prestataires, ou c'est la stratégie elle-même qui vous questionne ?"*
+> *"Qu'est-ce qui vous rend sceptique — vous avez eu de mauvaises expériences avec des prestataires, ou c'est la stratégie elle-même qui vous questionne ?"*
 
-Creuser la réponse. Si c'est le prestataire :
-> *"Donc le principe lui-même — être trouvé par des clients qui cherchent activement ce que vous faites — ça vous parle ?"*
+Si c'est le prestataire :
+> *"Donc le principe lui-même — être visible auprès de personnes qui cherchent activement ce que vous faites — ça vous parle ?"*
 
-**L'objectif de cette phase est atteint quand le prospect dit quelque chose du type :**
+**La phase est réussie quand le prospect dit quelque chose comme :**
 - "Oui effectivement je n'y avais pas pensé comme ça"
 - "C'est vrai que je ne sais pas comment les gens me trouvent en ligne"
-- "C'est peut-être un truc à explorer"
-
-C'est suffisant pour aller vers la transition.
+- "C'est peut-être quelque chose à explorer"
 
 ---
 
-#### Phase 5 — Transition vers le R2 [2 min]
+### Phase 5 — Proposition du R2 [2 min]
 
-**Seulement si les deux conditions sont remplies :**
-- Connexion émotionnelle obtenue
-- Le prospect a lui-même évoqué la visibilité en ligne comme levier
+**À faire pendant le R1, avant de raccrocher.**
 
-> *"De ce que vous m'avez décrit, je pense pouvoir vous aider. Notamment sur la partie visibilité — faire en sorte que les personnes qui cherchent ce que vous faites vous trouvent, que ce soit sur Google ou sur les IA. Je voudrais vous envoyer quelque chose avant qu'on se reparle — une courte présentation de comment je travaille et ce que ça peut donner concrètement. Et on fait un deuxième appel dans 2-3 jours pour rentrer dans le concret. Ça vous va ?"*
+> *"De ce que vous m'avez décrit, je pense pouvoir vous aider — notamment sur la partie visibilité, faire en sorte que les personnes qui cherchent ce que vous faites vous trouvent, sur Google et sur les IA. Je vais vous envoyer une présentation de comment je travaille concrètement. Et on se retrouve dans deux jours pour rentrer dans le détail — [proposer un créneau précis]. Ça vous convient ?"*
+
+Valider le créneau pendant l'appel. Ne pas laisser ça à un échange de messages après.
 
 ---
 
 ## ENTRE R1 ET R2 — La Page d'Immersion
 
-**Pourquoi c'est indispensable :**
-Entre R1 et R2, le prospect se refroidit si on ne fait rien. Il retourne à son quotidien, les doutes remontent, les objections arrivent. La page d'immersion maintient la relation et la confiance pendant ces 48-72h.
+### Pourquoi c'est indispensable
 
-**Ce que Lucille doit créer — version adaptée à sa situation :**
+Entre R1 et R2, le prospect retourne à son quotidien. Les doutes remontent, les objections arrivent, l'urgence s'efface. La page d'immersion maintient la relation et la confiance pendant ces 48h. Sans elle, le prospect arrive au R2 froid.
 
-Pas besoin de 3 vidéos de 14 minutes comme Enzo. Lucille peut faire ça avec 2 éléments :
+### Ce que Lucille doit créer
 
-**Élément 1 — Une vidéo Loom de 8-10 minutes**
+**2 éléments suffisent :**
 
-Contenu :
-- 2 min : Pourquoi la visibilité organique est devenue indispensable pour les entrepreneurs en 2025-2026 (les chiffres sur comment les gens cherchent aujourd'hui — Google + IA)
-- 3 min : Sa méthode concrète — comment elle travaille, ce qu'elle analyse, ce qu'elle optimise
-- 3 min : Ce que ça donne en pratique — un exemple concret (même fictif ou anonymisé si pas encore de client)
-- 2 min : Ce qui les attend au prochain appel
+---
 
-**Élément 2 — Un message WhatsApp ou LinkedIn personnalisé**
+#### Élément 1 — Une vidéo Loom de 8-10 minutes
 
-Envoyé le lendemain du R1, après que le prospect ait eu le temps de regarder la vidéo :
+C'est la pièce centrale. Elle se découpe en 4 temps :
 
-> *"[Prénom], j'espère que la vidéo vous a éclairé sur mon approche. J'ai repensé à ce que vous m'avez dit sur [reprendre son problème exact avec ses mots]. C'est exactement ce type de situation qu'on adresse en priorité. À [date + heure du R2]."*
+**Partie 1 — Pourquoi la visibilité en ligne est devenue incontournable [2 min]**
 
-**Le timing :**
-- R1 → envoyer la vidéo dans les 2h qui suivent
-- Lendemain → message de relance personnalisé
-- J+2 ou J+3 → R2
+Expliquer, avec des chiffres concrets, comment les comportements de recherche ont changé. Exemples de points à couvrir :
+- Les gens ne demandent plus seulement des recommandations — ils cherchent d'abord en ligne avant de prendre une décision
+- Depuis l'arrivée des IA (ChatGPT, Perplexity), les recherches se font aussi en langage naturel : "quel consultant X me recommanderais-tu ?"
+- Un site qui n'est pas optimisé n'existe tout simplement pas pour ces personnes
+
+**Tonalité :** factuel, sans alarmisme, ancré dans la réalité du prospect (son secteur, son type de clients).
+
+**Partie 2 — Comment Lucille travaille concrètement [3 min]**
+
+Montrer le processus, pas juste le résultat. Ce que Lucille analyse, ce qu'elle optimise, dans quel ordre et pourquoi. Le prospect doit comprendre qu'il y a une vraie méthode derrière, pas du travail au hasard.
+
+Points à couvrir :
+- L'audit initial : qu'est-ce qu'on regarde en premier et pourquoi
+- Les axes d'optimisation : technique, contenu, sémantique, GEO
+- Le suivi dans le temps : comment les résultats évoluent et comment on les mesure
+
+**Partie 3 — Un exemple concret [3 min]**
+
+Montrer un cas réel ou un exemple reconstruit (anonymisé si nécessaire). L'idée : rendre tangible ce que "améliorer la visibilité" signifie en pratique.
+
+Si Lucille n'a pas encore assez de clients pour un vrai cas — elle peut créer un exemple fictif mais réaliste : "voilà un type de site que j'ai analysé, voilà ce que j'ai trouvé, voilà ce qui a été corrigé."
+
+**Partie 4 — Ce qui les attend au prochain appel [1 min]**
+
+Annoncer clairement ce qui va se passer au R2. Pas de surprise. Le prospect sait qu'on va parler de leur situation spécifique, de ce qui peut être fait concrètement, et des modalités si ça fait sens pour eux.
+
+> *"Au prochain appel, on va prendre ce qu'on a évoqué ensemble et regarder concrètement ce qui peut être mis en place pour vous. Je vous poserai quelques questions supplémentaires, et si je pense pouvoir vous aider, je vous présenterai comment on peut travailler ensemble."*
+
+---
+
+#### Élément 2 — Un message personnalisé le lendemain du R1
+
+Envoyé le lendemain, après que le prospect ait eu le temps de regarder la vidéo.
+
+> *"[Prénom], j'espère que la vidéo vous a donné une idée claire de mon approche. J'ai repensé à ce que vous m'avez dit sur [reprendre son problème exact avec ses mots]. C'est exactement ce type de situation qu'on peut adresser. À [date + heure du R2]."*
+
+---
+
+**Timing :**
+- Fin du R1 → vidéo envoyée dans les 2h
+- Lendemain → message personnalisé
+- J+2 → R2
 
 ---
 
 ## R2 — APPEL DE CLOSING
 
-### Démarrage du R2
+Le R2 n'est pas juste "présenter l'offre et le prix". C'est l'appel où tout ce qui a été semé au R1 et dans la page d'immersion se consolide. Il faut laisser le temps à cette consolidation de se faire avant d'arriver au prix.
+
+### Démarrage — Ce qu'il a retenu [3-5 min]
 
 > *"[Prénom], vous m'entendez bien ? Est-ce que vous avez pu regarder la vidéo ? Qu'est-ce que vous en avez pensé ? Qu'est-ce que vous avez retenu ?"*
 
-Laisser parler. C'est le premier indicateur de l'état d'esprit du prospect.
+Laisser parler. Ce qu'il dit ici est un indicateur de son état d'esprit. S'il a retenu des éléments précis → il est investi. S'il a à peine regardé → il y a du travail à refaire avant d'aller vers le prix.
 
 ---
 
-### Validation avant de pitcher
+### Approfondissement — Ce qu'on n'a pas eu le temps de creuser au R1 [5-8 min]
 
 > *"Est-ce qu'il y a des choses qu'on n'a pas abordées au premier appel et qui seraient importantes pour que je comprenne bien votre situation ?"*
 
----
+C'est aussi le moment de creuser ce qui n'a pas été suffisamment exploré au R1 — notamment les points où le prospect était un peu en surface. Si au R1 la connexion émotionnelle n'était pas à 100% → c'est ici qu'on la complète.
 
-### Reformulation de ce qu'il a dit au R1
+Questions utiles selon le contexte :
+> *"Vous avez eu le temps de réfléchir à ce qu'on s'était dit — est-ce que ça a fait remonter des choses ?"*
 
-Reprendre mot pour mot ce qu'il a verbalisé au R1 — sa douleur, son blocage, sa situation.
+> *"On avait évoqué [le problème] — depuis notre premier échange, vous avez eu l'occasion de vérifier comment vous apparaissez en ligne ?"*
 
-> *"Si je résume ce qu'on a vu ensemble : [situation + durée + blocage + conséquence qu'il a lui-même nommée]. C'est bien ça ?"*
-
-Il confirme → pont vers l'offre naturel.
-
----
-
-### Présentation de l'offre
-
-Raccrocher directement à ce qu'il a dit — jamais lister des livrables.
-
-> *"Ce que vous m'avez décrit — [reprendre ses mots] — c'est exactement ce sur quoi j'interviens. Concrètement, mon travail c'est de faire en sorte que [leur objectif spécifique formulé avec leurs mots]."*
-
-Puis en 2-3 phrases maximum si il demande le détail.
+Cette dernière question est particulièrement utile : si le prospect a fait la vérification lui-même entre R1 et R2, il arrive souvent avec une prise de conscience renforcée.
 
 ---
 
-### Engagement émotionnel avant le prix
+### Reformulation — Ses mots, pas les nôtres [2-3 min]
 
-> *"Avant qu'on parle des détails pratiques — avec ce qu'on vient de voir, si vous étiez sûr d'avoir des résultats, est-ce qu'il y aurait encore quelque chose qui vous retiendrait ?"*
+Reprendre exactement ce qu'il a verbalisé au R1 pour montrer qu'on a vraiment compris sa situation.
+
+> *"Si je résume ce qu'on a vu ensemble : [situation actuelle] + [durée] + [blocage] + [conséquence qu'il a lui-même nommée]. C'est bien ça ?"*
+
+Il confirme → micro-engagement posé. Le terrain est prêt pour la suite.
+
+---
+
+### Présentation de l'offre — Raccrocher à sa situation [5 min]
+
+Jamais lister les livrables. Raccrocher directement à ce qu'il a verbalisé.
+
+> *"Ce que vous m'avez décrit — [reprendre ses mots] — c'est exactement ce sur quoi j'interviens. Concrètement, mon travail c'est de faire en sorte que [leur objectif spécifique formulé avec leurs mots], en travaillant sur la visibilité de votre site auprès des bonnes personnes, au bon moment."*
+
+Si il demande le détail — 3 phrases max, puis redonner la main :
+> *"Avant de rentrer dans les détails — qu'est-ce qui est important pour vous de comprendre là ?"*
+
+---
+
+### Engagement émotionnel avant le prix [2 min]
+
+> *"Avant qu'on parle des détails pratiques — avec ce qu'on vient de voir, si vous étiez sûr que ça donne des résultats pour votre situation, est-ce qu'il y aurait encore quelque chose qui vous retiendrait ?"*
 
 - Si non → continuer vers le prix
-- Si oui → identifier l'obstacle et le traiter avant d'annoncer quoi que ce soit
+- Si oui → identifier l'obstacle, le traiter, puis revenir
 
 ---
 
@@ -264,13 +279,15 @@ Se taire. Ne rien ajouter. Le premier qui parle perd.
 
 ---
 
-## CE QU'IL NE FAUT JAMAIS FAIRE
+## CE QU'IL NE FAUT PAS FAIRE
 
-- Argumenter frontalement que le SEO est meilleur que leur stratégie actuelle → résistance immédiate
-- Switcher de thématique avant d'avoir touché quelque chose d'émotionnel
-- Pitcher l'offre au R1 même si ça se passe bien
-- Envoyer la page d'immersion sans message personnalisé le lendemain
+- Formuler l'apport comme "je vais vous apporter des clients" — Lucille apporte de la visibilité, les clients viennent naturellement derrière
+- Switcher de thématique au R1 avant d'avoir touché quelque chose d'émotionnel
+- Pitcher au R1 même si ça se passe très bien
+- Proposer le R2 après l'appel par message — le valider pendant le R1
+- Envoyer la vidéo sans message personnalisé le lendemain
 - Laisser plus de 72h entre R1 et R2
+- Lister les livrables au R2 sans raccrocher à ce qu'il a verbalisé
 
 ---
 
@@ -278,20 +295,17 @@ Se taire. Ne rien ajouter. Le premier qui parle perd.
 
 - [ ] Cadrage avec annonce du R2 posé dès le début
 - [ ] Business compris en profondeur
-- [ ] Chiffres concrets sur la table (clients actuels, objectif, durée du problème)
-- [ ] Connexion émotionnelle obtenue — il a verbalisé ce que lui coûte le problème
-- [ ] Il a lui-même évoqué la visibilité en ligne comme levier
-- [ ] Page d'immersion envoyée dans les 2h
+- [ ] Chiffres concrets sur la table (clients actuels, objectif, durée)
+- [ ] Connexion émotionnelle obtenue — il a verbalisé la douleur derrière le constat
+- [ ] Il est arrivé lui-même à la conclusion que la visibilité en ligne est son levier
+- [ ] Créneau R2 validé pendant l'appel
+- [ ] Vidéo envoyée dans les 2h
 
 ## CHECKLIST R2
 
-- [ ] Il a regardé la vidéo — demander ce qu'il en a retenu
+- [ ] Il a regardé la vidéo — ce qu'il en a retenu noté
+- [ ] Points non abordés au R1 creusés
 - [ ] Reformulation R1 validée avec ses mots
 - [ ] Offre raccordée à sa douleur, pas à des livrables
 - [ ] Engagement émotionnel obtenu avant le prix
 - [ ] Prix annoncé → silence
-- [ ] Scripts objections prêts
-
----
-
-*Adapté de la méthode Enzo Racine par Matthias — Prospecter avec intention*
