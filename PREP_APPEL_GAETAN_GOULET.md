@@ -330,6 +330,48 @@ Laisser calculer. Ne pas donner le chiffre.
 
 ---
 
+# VISION MACROSCOPIQUE — CE QUE TU DOIS AVOIR OBTENU
+
+Ce n'est pas une liste de questions. C'est la carte des destinations. À chaque étape, voilà ce que tu dois avoir en main avant de passer à la suite.
+
+---
+
+**À la fin de la Phase 1 — tu dois avoir trois choses :**
+
+1. **Le vrai déclencheur.** Pourquoi il a repris après 6 mois. C'est pas "l'envie de se lancer" — c'est quelque chose de concret lié à sa famille, à la pression financière qui monte, à la peur de rater son pari. Ce truc-là, c'est ton ancrage émotionnel pour tout le reste de l'appel.
+
+2. **Le vrai bloc derrière la procrastination.** Pas "le sourcing est difficile". Est-ce que c'est la peur d'envoyer des messages à des inconnus ? La légitimité ? Ne pas savoir quoi dire ? La réponse à cette question change l'angle de ta conscientisation.
+
+3. **La deadline réelle.** France Travail s'arrête quand. Et ce que ça veut dire pour lui et ses enfants si à cette date il n'a toujours pas de clients. C'est lui qui doit le verbaliser — pas toi.
+
+Si tu n'as pas ces trois choses, tu ne passes pas à la Phase 2.
+
+---
+
+**À la fin de la Phase 2 — tu dois avoir deux choses :**
+
+1. **Il a réalisé lui-même que le problème est toute la chaîne.** Pas juste le sourcing. Le setting et le closing aussi. Et qu'il n'a de méthode sur aucun des trois. C'est lui qui le dit — pas toi.
+
+2. **Il a connecté "pas de méthode" à "pas le temps de tâtonner".** Le lien entre l'absence de méthode et la deadline France Travail doit être fait dans sa tête. Là, l'urgence est réelle.
+
+Si ces deux prises de conscience ne sont pas verbalisées — tu creuses encore. Tu ne passes pas à la Phase 3.
+
+---
+
+**À la fin de la Phase 3 — tu dois avoir une chose :**
+
+Un chiffre ou un signal clair sur sa disposition à investir. Ce chiffre, c'est lui qui le donne en premier. Il oriente ce que tu proposes en R2.
+
+---
+
+**La boussole pour tout l'appel :**
+
+À n'importe quel moment, pose-toi cette question : *"Est-ce qu'il a dit quelque chose d'émotionnel et de concret, ou est-ce qu'il intellectualise encore ?"* Tant que la réponse est "il intellectualise" — tu restes en Phase 1. La conscientisation ne peut pas atterrir sur du rationnel.
+
+---
+
+---
+
 # POST-IT — À AVOIR SOUS LES YEUX
 
 ```
