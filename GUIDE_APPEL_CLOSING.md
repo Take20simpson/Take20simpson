@@ -16,41 +16,55 @@
 
 ## Identifier le type de prospect — avant tout le reste
 
-Avant de commencer à creuser, tu dois savoir à qui tu as affaire. Il existe trois types de prospects. L'objectif de l'appel n'est pas le même selon le type.
+Ce que tu cherches à savoir dans les 5 premières minutes : est-ce que cette personne vit son problème **maintenant**, avec une vraie urgence ? Ou est-ce qu'elle est encore en mode "j'y réfléchis" ?
 
-| Type | Profil | Objectif de l'appel |
-|---|---|---|
-| **A — Prêt** | Douleur réelle, urgence présente, cherche une solution | Closer aujourd'hui |
-| **B — Pas encore prêt** | Douleur réelle mais pas encore assez mûrie, veut tester seul d'abord | Planter la graine + sécuriser un RDV précis dans le futur |
-| **C — Pas un fit** | Pas de douleur réelle, pas d'urgence, cherche autre chose | Disqualifier proprement et passer à autre chose |
+Trois types de prospects. L'objectif de l'appel n'est pas le même selon le type — et confondre les deux, c'est l'erreur qui fait perdre le plus de temps.
 
-**Les 3 questions à poser dans les 5 premières minutes pour identifier le type :**
+**Type A — Prêt à closer maintenant**
+Douleur réelle + urgence présente + cherche une solution active. → Objectif : closer aujourd'hui.
 
-1. *"T'as essayé de prospecter depuis combien de temps ?"* → signal de maturité
-2. *"T'as décroché des appels ou signé des clients via la prospection ?"* → signal de résultats
-3. *"T'es actuellement accompagnée sur quelque chose ?"* → signal d'obstacle
+**Type B — Pas encore prêt**
+La douleur existe mais n'a pas encore assez mûri. Veut tester seul d'abord, ou n'est pas encore dans l'urgence. → Objectif : planter la graine, sécuriser une date précise.
 
-Un prospect Type B ou C détecté en minute 5, c'est 15 minutes de creusage inutile évitées.
+**Type C — Pas un fit**
+Pas de douleur réelle, pas d'urgence, pas d'alignement. → Objectif : disqualifier proprement et passer à autre chose.
+
+---
+
+**Les 3 questions pour identifier le type — dans les 5 premières minutes :**
+
+1. *"T'es lancée depuis combien de temps dans ton activité ?"* → **maturité** : moins de 3 mois = probablement Type B ou C
+2. *"Niveau clients — ça se passe comment en ce moment ?"* → **douleur** : "ça va bien" = Type C / "c'est irrégulier" = Type B / "j'ai du mal" = Type A
+3. *"C'est quelque chose que tu veux vraiment régler maintenant, ou t'es plutôt en mode exploration ?"* → **urgence** : "j'explore" = Type B ou C / "ouais j'en ai besoin maintenant" = Type A
+
+Type B ou C identifié en minute 5 → l'objectif de l'appel change immédiatement. 15 minutes de creusage inutile évitées.
+
+---
 
 **Si c'est un Type A :** suivre le déroulé complet. Creuser la douleur, conscientiser, closer.
 
-**Si c'est un Type B :** ne pas essayer de closer. L'objectif de l'appel change — il devient : faire comprendre le coût de l'attente, planter la graine, sécuriser une date précise. Pas "courant mai" — "le 10 mai". La relation est préservée et le prospect est dans le pipeline.
+**Si c'est un Type B :** ne pas essayer de closer — ça ne servira à rien et ça abîme la relation. L'objectif change : faire comprendre le coût de l'attente, planter une graine concrète, sécuriser une date précise. Pas "courant mai" — "le 10 mai". La relation est préservée, le prospect reste dans le pipeline.
 
-Question clé pour Type B :
+Question clé pour faire prendre conscience du coût de l'attente :
 > *"Si dans 4 semaines t'as pas avancé comme tu espères — il se passe quoi pour toi ?"*
 
-**Attention — le faux Type B :**
-Certains prospects se présentent comme Type B (*"je préfère tester seul d'abord"*, *"j'attends un déclic"*) mais sont en réalité Type C. Le signal qui distingue les deux : **la durée d'inaction**. Quelqu'un qui dit "je vais tester" depuis 4-5 mois sans avoir prospecté une seule fois n'est pas en train de se préparer — il attend quelque chose qui ne viendra pas naturellement.
+**Attention : le faux Type B**
+
+Certains se présentent comme Type B (*"je préfère tester seul d'abord"*, *"j'attends un déclic"*, *"ça va venir de la pratique"*) mais sont en réalité Type C. La différence se mesure à **la durée d'inaction**.
+
+Quelqu'un qui dit "je vais tester" depuis 4-5 mois sans avoir vraiment prospecté n'est pas en train de se préparer — il attend quelque chose qui ne viendra pas naturellement.
 
 Question diagnostique :
-> *"T'es indépendant depuis [X mois]. T'as prospecté depuis [X mois] ?"*
+> *"T'es indépendante depuis [X mois]. T'as prospecté régulièrement pendant tout ce temps ?"*
 
-Silence. S'il répond non ou presque pas :
-> *"Si en [X mois] la pratique n'a pas encore déclenché le truc — qu'est-ce qui te dit que ça va changer ?"*
+S'il répond non ou presque pas :
+> *"Si en [X mois] ça n'a pas déclenché — qu'est-ce qui te dit que ça va changer ?"*
 
-S'il n'a pas de réponse concrète à ça → Type C déguisé en B. Ne pas forcer. Laisser aller. Revenir dans 3 mois quand l'échec solo sera réel.
+Pas de réponse concrète → Type C déguisé. Ne pas forcer.
+> *"Je pense que c'est pas le bon moment. Reviens vers moi dans quelques mois si t'es toujours dans la même situation."*
 
-**Si c'est un Type C :** disqualifier clairement et sans honte. *"Je pense que c'est pas le bon moment. On garde le contact."*
+**Si c'est un Type C :** disqualifier clairement et sans honte.
+> *"Je pense que c'est pas le bon moment. On garde le contact."*
 
 ---
 
