@@ -336,35 +336,78 @@ Planter la graine, sécuriser une date précise (*"le 10 mai"*, pas *"courant ma
 
 ---
 
-### Le prospect convaincu que "ça va venir" — le profil analytique qui attend son déclic
-*(Type C déguisé en B — souvent profil R&D, intellectualise tout)*
+### Le prospect avec une position identitaire — "je peux y arriver seul"
+*(Type C déguisé en B — profil analytique/R&D, intellectualise, attend un déclic)*
 
-Le signal : *"Je sens que je commence à comprendre, j'ai besoin d'un peu de maturité"*, *"ça viendra de la pratique"*, *"j'ai juste besoin de tester encore un peu"*, *"le déclic va arriver naturellement"*.
+**Pourquoi ce profil arrive rarement en appel si la préqualification DM est bien faite :**
+Les 3 signaux DM — maturité, douleur active, urgence réelle — filtrent la majorité de ces profils avant l'appel. "Je veux y arriver seul" sans urgence = jamais sur l'agenda. Si ce profil se retrouve quand même en appel, c'est que l'un des signaux n'a pas été creusé assez loin en DM.
 
-Ce profil est le plus difficile à détecter parce qu'il **semble qualifié**. Il analyse bien son problème, il verbalise ce qui lui manque, il a l'air conscient. Mais il intellectualise au lieu de ressentir — et il ne prend pas d'action depuis des mois.
+**Le signal en appel :** *"Je sens que je commence à comprendre, j'ai besoin d'un peu de maturité"*, *"ça viendra de la pratique"*, *"je préfère comprendre mes limites seul avant"*, *"j'attends le bon moment"*, *"le déclic va arriver naturellement"*.
 
-**La distinction critique :** Quelqu'un qui teste depuis 15 jours et n'a pas de résultats → c'est un Type B réel, le manque de maturité est légitime. Quelqu'un qui est indépendant depuis 5 mois, n'a prospecté que quelques fois au début, et attend un "déclic" qui va changer les choses → c'est un autre signal.
+Ce profil est difficile à détecter parce qu'il **semble qualifié**. Il verbalise bien son problème, il analyse, il a l'air conscient. Mais il intellectualise au lieu de ressentir — et souvent, il n'a pas prospecté depuis des mois.
 
-**La question qui brise l'illusion :**
-> *"T'es indépendant depuis [X mois]. T'as prospecté pendant tout ce temps ?"*
+**Ce qu'Enzo Racine fait avec ça :**
+
+La règle de base : ne jamais s'attaquer frontalement à la croyance. Confronter une position identitaire directement la renforce. Tu ne gagneras jamais un débat contre l'image qu'il a de lui-même.
+
+À la place, trois mouvements dans l'ordre :
+
+**Mouvement 1 — Quantifier pour déséquilibrer**
+
+> *"T'es indépendant depuis [X mois]. T'as décroché combien de clients via tes propres efforts ?"*
 
 Silence. Laisser la réponse venir.
 
-S'il répond non ou presque pas — il n'est pas en train de "tester pour comprendre ses limites". Il attend sans agir. L'enchaînement :
+Quoi qu'il réponde, enchaîner avec :
 
-> *"Si en [X mois] la pratique n'a pas encore déclenché le truc — qu'est-ce qui te dit que ça va changer ?"*
+> *"Et ça te convient ?"*
 
-S'il n'a pas de réponse concrète à ça, ce n'est pas un Type B. C'est un Type C qui se protège derrière la croyance "ça va venir de l'intérieur". Ne pas forcer. Ne pas insister.
+C'est lui qui doit dire que ça ne lui convient pas. Avec ses propres mots. Pas toi.
 
-**Comment conclure :**
-> *"Je pense que c'est pas le bon moment. Si dans quelques mois t'es toujours dans la même situation, là on pourra vraiment en parler."*
+**Mouvement 2 — Le miroir silencieux**
 
-Le laisser aller avec dignité. Ce n'est pas un échec de closing — c'est une qualification correcte. Revenir dans 3 mois quand la réalité aura fait son travail.
+Si la position tient encore, reformuler ce qu'il vient de dire sans jugement, et se taire :
 
-**Ce qui ne fonctionne PAS avec ce profil :**
-- Essayer de l'émotionner sur la douleur présente — il minimise, il intellectualise, il ne ressent pas l'urgence
-- Lui proposer de "juste faire un essai" — il dira oui et ne fera rien
-- Creuser la projection négative pendant 10 minutes sur un prospect qui n'est pas prêt à entendre — perte de temps des deux côtés
+> *"Donc tu m'expliques que t'es indépendant depuis [X mois], que tu veux des clients réguliers, et que t'as pas encore eu besoin d'aide pour ça. C'est bien ça ?"*
+
+Silence complet. Le prospect s'entend. La contradiction lui appartient — ce n'est pas toi qui la pointes.
+
+**Mouvement 3 — Le coût temporel**
+
+Si le miroir ne suffit pas :
+
+> *"Chaque mois que tu passes à tâtonner seul — dans 6 mois t'en es où ?"*
+
+Suivi de :
+
+> *"Et par rapport à là où tu veux être dans 6 mois — le chemin que tu prends là, il t'y mène ?"*
+
+**La distinction critique entre Type B réel et Type C déguisé :**
+
+- Indépendant depuis 15 jours, n'a pas encore eu le temps de tester → Type B réel, la maturité manque légitimement
+- Indépendant depuis 4-5 mois, a à peine prospecté, attend un déclic qui "va venir naturellement" → Type C déguisé. La croyance est un mécanisme de protection, pas une vraie stratégie.
+
+Le diagnostic :
+
+> *"T'es indépendant depuis [X mois]. T'as prospecté régulièrement pendant tout ce temps ?"*
+
+S'il répond non ou quasi pas → il n'est pas en train de tester. Il attend. L'enchaînement :
+
+> *"Si en [X mois] sans méthode le déclic n'est pas venu — qu'est-ce qui te dit que ça va changer ?"*
+
+S'il n'a pas de réponse concrète à ça, c'est un Type C. Ne pas insister.
+
+**Comment conclure proprement :**
+
+> *"Je pense que c'est pas le bon moment pour toi là. Si dans quelques mois t'es toujours dans la même situation, là on pourra vraiment en parler."*
+
+Laisser aller avec dignité. Ce n'est pas un échec — c'est une qualification correcte. Le prochain contact dans 3 mois sera beaucoup plus simple parce qu'il se souviendra de la conversation.
+
+**Ce qui ne fonctionne pas avec ce profil :**
+- Argumenter contre la croyance — ça renforce l'identité, ça ne la brise pas
+- Essayer de l'émotionner sur la douleur présente — il minimise, il intellectualise, il ne ressent pas encore l'urgence
+- Lui proposer de "juste essayer" — il dira oui et ne fera rien
+- Forcer un closing que la réalité n'a pas encore rendu nécessaire pour lui — perte de temps des deux côtés
 
 ---
 
