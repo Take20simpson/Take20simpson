@@ -140,6 +140,38 @@ Quantifier. Puis : *"Et en ce moment, ces heures-là tu les passes à faire quoi
 
 ---
 
+### Après TEMPS 1 — Deux scénarios possibles
+
+#### Option A — Il a un tout petit peu d'expérience
+
+Il a essayé d'envoyer quelques messages, il a eu une conversation ou deux. Dans ce cas :
+
+> *"Et t'as eu quoi comme résultat ?"*
+
+Quantifier. Il dira probablement : pas de réponse, ou une réponse polie sans suite. Puis :
+
+> *"Et tu sais pourquoi selon toi ?"*
+
+Laisser répondre. Il va lui-même identifier qu'il manquait de méthode. Le TEMPS 2 enchaîne naturellement.
+
+---
+
+#### Option B — "Je ne sais pas" à tout (scénario probable)
+
+Il répond non ou "je sais pas" aux trois questions. **C'est en réalité le meilleur scénario.** L'absence totale de méthode est une preuve en elle-même — il n'y a rien à défendre, rien à contredire.
+
+Après deux ou trois "je ne sais pas", ne pas insister sur les questions. À la place :
+
+> *"En fait c'est logique — t'as jamais eu vraiment l'occasion de tester tout ça. Mais du coup, comment tu t'imagines arriver à avoir tes premiers clients sans avoir de méthode sur ces étapes ?"*
+
+Laisser répondre. S'il dit "je vais apprendre par moi-même" ou "je vais tâtonner" :
+
+> *"Et le temps de tâtonner et de trouver par toi-même sur le setting et le closing — sur France Travail, t'as ce temps-là ?"*
+
+Le vide de méthode se connecte directement à l'urgence créée en Phase 1. Le "je ne sais pas" devient la démonstration que l'accompagnement est nécessaire — sans que t'aies rien affirmé.
+
+---
+
 ### TEMPS 2 — Question socratique
 
 > *"Selon toi, qu'est-ce qui manque dans ton approche en ce moment pour avoir tes premiers vrais clients ?"*
