@@ -32,7 +32,23 @@ Avant de commencer à creuser, tu dois savoir à qui tu as affaire. Il existe tr
 
 Un prospect Type B ou C détecté en minute 5, c'est 15 minutes de creusage inutile évitées.
 
-**Si c'est un Type B :** ne pas essayer de closer. Travailler sur la projection financière (*"si dans 4 semaines t'as pas avancé seule, t'en es où ?"*), planter la graine, et finir avec une date précise — pas "courant mai", mais "le 10 mai". La relation est préservée et le prospect est dans le pipeline.
+**Si c'est un Type A :** suivre le déroulé complet. Creuser la douleur, conscientiser, closer.
+
+**Si c'est un Type B :** ne pas essayer de closer. L'objectif de l'appel change — il devient : faire comprendre le coût de l'attente, planter la graine, sécuriser une date précise. Pas "courant mai" — "le 10 mai". La relation est préservée et le prospect est dans le pipeline.
+
+Question clé pour Type B :
+> *"Si dans 4 semaines t'as pas avancé comme tu espères — il se passe quoi pour toi ?"*
+
+**Attention — le faux Type B :**
+Certains prospects se présentent comme Type B (*"je préfère tester seul d'abord"*, *"j'attends un déclic"*) mais sont en réalité Type C. Le signal qui distingue les deux : **la durée d'inaction**. Quelqu'un qui dit "je vais tester" depuis 4-5 mois sans avoir prospecté une seule fois n'est pas en train de se préparer — il attend quelque chose qui ne viendra pas naturellement.
+
+Question diagnostique :
+> *"T'es indépendant depuis [X mois]. T'as prospecté depuis [X mois] ?"*
+
+Silence. S'il répond non ou presque pas :
+> *"Si en [X mois] la pratique n'a pas encore déclenché le truc — qu'est-ce qui te dit que ça va changer ?"*
+
+S'il n'a pas de réponse concrète à ça → Type C déguisé en B. Ne pas forcer. Laisser aller. Revenir dans 3 mois quand l'échec solo sera réel.
 
 **Si c'est un Type C :** disqualifier clairement et sans honte. *"Je pense que c'est pas le bon moment. On garde le contact."*
 
@@ -317,6 +333,38 @@ Si elle confirme qu'elle est au début → elle ne va pas investir aujourd'hui, 
 > *"Si dans 4 semaines t'as pas avancé comme tu espères — qu'est-ce qui se passe pour toi ?"*
 
 Planter la graine, sécuriser une date précise (*"le 10 mai"*, pas *"courant mai"*), garder la relation.
+
+---
+
+### Le prospect convaincu que "ça va venir" — le profil analytique qui attend son déclic
+*(Type C déguisé en B — souvent profil R&D, intellectualise tout)*
+
+Le signal : *"Je sens que je commence à comprendre, j'ai besoin d'un peu de maturité"*, *"ça viendra de la pratique"*, *"j'ai juste besoin de tester encore un peu"*, *"le déclic va arriver naturellement"*.
+
+Ce profil est le plus difficile à détecter parce qu'il **semble qualifié**. Il analyse bien son problème, il verbalise ce qui lui manque, il a l'air conscient. Mais il intellectualise au lieu de ressentir — et il ne prend pas d'action depuis des mois.
+
+**La distinction critique :** Quelqu'un qui teste depuis 15 jours et n'a pas de résultats → c'est un Type B réel, le manque de maturité est légitime. Quelqu'un qui est indépendant depuis 5 mois, n'a prospecté que quelques fois au début, et attend un "déclic" qui va changer les choses → c'est un autre signal.
+
+**La question qui brise l'illusion :**
+> *"T'es indépendant depuis [X mois]. T'as prospecté pendant tout ce temps ?"*
+
+Silence. Laisser la réponse venir.
+
+S'il répond non ou presque pas — il n'est pas en train de "tester pour comprendre ses limites". Il attend sans agir. L'enchaînement :
+
+> *"Si en [X mois] la pratique n'a pas encore déclenché le truc — qu'est-ce qui te dit que ça va changer ?"*
+
+S'il n'a pas de réponse concrète à ça, ce n'est pas un Type B. C'est un Type C qui se protège derrière la croyance "ça va venir de l'intérieur". Ne pas forcer. Ne pas insister.
+
+**Comment conclure :**
+> *"Je pense que c'est pas le bon moment. Si dans quelques mois t'es toujours dans la même situation, là on pourra vraiment en parler."*
+
+Le laisser aller avec dignité. Ce n'est pas un échec de closing — c'est une qualification correcte. Revenir dans 3 mois quand la réalité aura fait son travail.
+
+**Ce qui ne fonctionne PAS avec ce profil :**
+- Essayer de l'émotionner sur la douleur présente — il minimise, il intellectualise, il ne ressent pas l'urgence
+- Lui proposer de "juste faire un essai" — il dira oui et ne fera rien
+- Creuser la projection négative pendant 10 minutes sur un prospect qui n'est pas prêt à entendre — perte de temps des deux côtés
 
 ---
 
