@@ -380,8 +380,8 @@ Un chiffre ou un signal clair sur sa disposition à investir. Ce chiffre, c'est 
 ─────────────────────────────────────────────
   CHRONOLOGIE : douleur → conscientisation
   chaîne complète → budget → R2
-  ⚠️ Il arrive curieux, pas urgent — créer
-  l'urgence pendant l'appel
+  ⚠️ Il arrive CURIEUX, pas urgent
+  L'urgence est à construire pendant l'appel
 ═══════════════════════════════════════════════
 
 CADRAGE [2 min]
@@ -391,19 +391,29 @@ CADRAGE [2 min]
 ───────────────────────────────────────────────
 
 PHASE 1 — CONNEXION ÉMOTIONNELLE [8-10 min]
+┌─────────────────────────────────────────────┐
+│ CE QUE JE DOIS AVOIR À LA FIN :             │
+│ ① Le vrai déclencheur de sa reprise         │
+│    (pas "l'envie" — quelque chose de concret│
+│    lié à sa famille / pression financière)  │
+│ ② Le vrai bloc derrière la procrastination  │
+│    (peur rejet ? légitimité ? technique ?)  │
+│ ③ La deadline réelle + ce que ça veut dire  │
+│    pour lui et ses enfants si ça rate       │
+└─────────────────────────────────────────────┘
 
 → "T'avais mis le copywriting de côté
-   6 mois. Qu'est-ce qui t'a fait
-   reprendre ?"
+   6 mois. Qu'est-ce qui t'a fait reprendre ?"
+   → Si vague : "Qu'est-ce qui avait changé ?"
 
 → "T'as combien de clients en ce moment ?"
-   [tante → pas de vraie prospection]
+   [tante → jamais vraiment prospecté]
 
-→ "Quand tu dois prospecter — concrètement
-   il se passe quoi ?"
+→ "Quand tu dois prospecter — il se passe
+   quoi concrètement ?"
    → "sais pas quoi dire" → blocage technique
    → "peur / légitimité" → blocage émotionnel
-   → "manque de temps" → quantifier
+   → "manque de temps" → quantifier les heures
 
 → "Dans 6 mois t'as toujours que ta tante
    — il se passe quoi pour toi ?"
@@ -413,66 +423,102 @@ PHASE 1 — CONNEXION ÉMOTIONNELLE [8-10 min]
 → "T'as quitté 10 ans de CDI pour ça.
    Si dans 6 mois c'est toujours pareil
    — pour toi et tes enfants ?"
-   → SILENCE
+   → SILENCE — ne pas remplir
 
-🔁 Il verbalise ce qui est en jeu
-🗣️ "On regarde ce qui manque vraiment."
+⚠️ BOUSSOLE : "Il dit quelque chose d'émotionnel
+   et de concret, ou il intellectualise encore ?"
+   → Tant que c'est du rationnel : rester ici.
+
+🔁 Il verbalise ce qui est en jeu concrètement
+🗣️ "J'aimerais qu'on regarde ce qui manque
+    vraiment dans ton approche."
 
 ───────────────────────────────────────────────
 
 PHASE 2 — CONSCIENTISATION ⭐ [8-10 min]
+┌─────────────────────────────────────────────┐
+│ CE QUE JE DOIS AVOIR À LA FIN :             │
+│ ① Il dit lui-même que c'est toute la chaîne │
+│    (sourcing + setting + closing) qui manque│
+│    — pas juste le sourcing                  │
+│ ② Il connecte "pas de méthode" à "pas le   │
+│    temps de tâtonner" (deadline FT)         │
+│    → C'est LUI qui fait ce lien, pas moi    │
+└─────────────────────────────────────────────┘
 
-T1 — Projection positive → gap
+T1 — Projection positive → révèle le gap
 → "Imagine t'as 50 coachs devant toi.
    Qu'est-ce qui se passe après ?"
 → "T'as une approche pour les messages ?"
 → "Et pour closer l'appel ?"
    → SILENCE
 
+   Si "je ne sais pas" à tout :
+   → "Comment tu t'imagines y arriver sans
+      méthode sur ces étapes ?"
+   → "Et le temps de tâtonner — sur France
+      Travail, t'as ce temps-là ?"
+
 T2 — Socratique
-→ "Selon toi, qu'est-ce qui manque
-   pour avoir tes premiers vrais clients ?"
-   → SILENCE — ne pas suggérer
+→ "Selon toi, qu'est-ce qui manque pour
+   avoir tes premiers vrais clients ?"
+   → SILENCE — ne pas suggérer, laisser venir
+   [Ses mots = les mots de la présentation R2]
 
 T3 — Projection négative
 → "Si tu continues comme ça — dans
    6 mois t'en es où ?"
    → SILENCE
+   → Si optimiste : "T'as eu combien
+     d'interactions en 15 jours de contenu ?"
 
 T4 — Projection positive + solution
-→ "Si t'avais une méthode claire sur
-   toute la chaîne et que dans 6-8
-   semaines t'avais tes premiers clients
-   — ça changerait quoi pour toi ?"
-→ "T'aurais envie qu'on travaille
-   ça ensemble ?"
+→ "Si t'avais une méthode claire sur toute
+   la chaîne et que dans 6-8 semaines t'avais
+   tes premiers vrais clients — ça changerait
+   quoi pour toi concrètement ?"
+   → Il se vend lui-même l'investissement
+→ "T'aurais envie qu'on travaille ça
+   ensemble ?"
 
 🔁 Il dit qu'il veut avancer
-🗣️ "J'ai une dernière question."
+🗣️ "Avant qu'on voie comment — j'ai une
+    dernière question."
 
 ───────────────────────────────────────────────
 
 PHASE 3 — BUDGET [3-4 min]
+┌─────────────────────────────────────────────┐
+│ CE QUE JE DOIS AVOIR À LA FIN :             │
+│ Un chiffre ou un signal clair sur sa        │
+│ disposition à investir — sorti de sa bouche │
+│ en premier. Oriente ce qu'on propose en R2. │
+└─────────────────────────────────────────────┘
 
 → "T'as déjà fait appel à quelqu'un
    — formation, accompagnement ?"
    → Oui : "C'était quoi ? Ça a donné quoi ?"
 
-→ "Si une solution existait — quel
-   investissement tu te projettes ?"
-   → SILENCE — il dit un chiffre en premier
+→ "Si une solution existait pour travailler
+   ça sérieusement — quel investissement
+   tu te projettes ?"
+   → SILENCE — il dit un chiffre EN PREMIER
 
 🔁 Signal budget obtenu
-🗣️ Proposer 2 créneaux R2 précis
-   → Valider PENDANT l'appel
+🗣️ "De ce que tu m'as décrit, je pense
+    vraiment qu'il y a quelque chose à
+    construire ensemble."
+    → Proposer 2 créneaux R2 précis
+    → Valider PENDANT l'appel
 
 ───────────────────────────────────────────────
 
 JAMAIS
-✗ Enseigner le sourcing / setting / closing
-✗ Rester sur "juste le sourcing"
-✗ Budget avant conscientisation faite
+✗ Enseigner sourcing / setting / closing
+✗ Laisser la conv rester sur "juste le sourcing"
+✗ Qualifier le budget avant conscientisation
 ✗ Remplir les silences
 ✗ Accepter "je vais réfléchir" sans creuser
+✗ Passer à la phase suivante sans le signal
 ═══════════════════════════════════════════════
 ```
