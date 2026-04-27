@@ -740,6 +740,30 @@ Quand quelqu'un dit "j'ai peur", ne PAS arriver en mode "Let's go !"
 
 Un prospect te montre toujours comment il va se comporter apres la vente.
 
+### Presenter son Offre — La Regle Fondamentale
+
+**Ne jamais enumerer ses livrables dans l'ordre.** Groupe WhatsApp, frameworks, suivi 2x/semaine — ce sont des contenants. Ce qui interesse le prospect c'est ce que ca resout pour LUI.
+
+**La regle :** Tu ne presentes pas ton offre. Tu presentes ce qui repond a LEUR probleme specifique, avec LEURS mots.
+
+**Mauvais :**
+> "Concretement t'as un groupe WhatsApp avec 3 canaux, des frameworks personnalises, et un suivi deux fois par semaine..."
+
+**Bon :**
+> "Ce que tu m'as dit c'est que ton probleme c'est [leur probleme exact formule avec leurs mots]. Donc ce sur quoi on va travailler ensemble c'est ca — [solution directement reliee a leur probleme]."
+
+Tu ne mentionnes que ce qui correspond a leur situation. Le reste, tu ne le dis pas sauf si on te le demande.
+
+**Si le prospect demande "mais concrètement c'est quoi ?" :**
+Repondre en 3 phrases max, puis redonner la main :
+> "Concretement on travaille sur [leur probleme], t'as un suivi actif deux fois par semaine, et je configure des outils personnalises a ta situation. Mais avant de rentrer dans les details — qu'est-ce qui est important pour toi de savoir la ?"
+
+Cette question finale change tout : tu reponds a leur vrai doute au lieu de pitcher dans le vide.
+
+**La limite a ne pas franchir :**
+- Trop parler = lister des livrables sans qu'on t'ait demande → tu repasses en mode vendeur
+- Juste milieu = reformuler leur probleme avec leurs mots + montrer comment tu le regles + demander ce qu'ils ont besoin de savoir
+
 ### Erreurs a Eviter en Closing
 
 1. **Ne pas coacher pendant l'appel** — Ne jamais donner de conseils concrets pendant la decouverte. Le coaching vient apres le paiement
@@ -751,6 +775,7 @@ Un prospect te montre toujours comment il va se comporter apres la vente.
 7. **Traiter plusieurs objections en meme temps** — Une a la fois
 8. **Laisser le prospect partir sur "je vais reflechir" sans creuser**
 9. **Appels trop longs** — Un appel de 2h = manque de structure. Viser 20-45 min selon complexite
+10. **Enumerer ses livrables a la presentation de l'offre** — Toujours raccrocher a ce que le prospect a dit emotionnellement, pas lister les contenants
 
 ### Process Anti No-Show
 
