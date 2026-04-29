@@ -110,7 +110,7 @@ Angles possibles :
 Un freelance vient voir Matthias : "je comprends pas, je suis ultra-régulier et j'arrive pas à avoir de vraies conversations." En creusant : il était régulier, mais l'intention dans ses actions était catastrophique. L'analogie : empiler des briques tous les jours régulièrement, mais n'importe comment — au final tu as 14 murs qui n'ont aucune forme de maison. Régulier + mal fait = rien d'utilisable.
 
 **Angle 2 — La question qu'on ne se pose jamais**
-Avant d'envoyer une demande de connexion : "si elle dit oui demain, je suis content de bosser avec elle 3 mois ?" Si la réponse est floue — c'était du volume, pas de la prospection.
+Avant d'envoyer une demande de connexion : est-ce que j'ai pris 30 secondes pour vérifier que ce profil est actif, que l'offre correspond à ce que je fais, qu'il y a un vrai signal de pain point ? Si tu n'as pas fait cette vérification — c'était du volume, pas de la prospection avec intention.
 
 **Angle 3 — 30 minutes bien utilisées > 3h sur un outil d'automatisation**
 Même si tu n'as que 30 minutes dans ta semaine pour prospecter (ce qui serait déjà un problème de priorité) : mieux vaut contacter 10 profils ultra-qualifiés avec intention que passer ces 30 minutes sur un outil d'automatisation à envoyer le même message à 300 personnes. Le premier construit. Le second détruit ta réputation et ton taux de réponse.
@@ -174,17 +174,29 @@ Angles possibles :
 
 **Thématique 2 — Ce que "avec intention" veut dire concrètement**
 
-Ce qu'on aborde : la différence entre prospecter 50 profils au hasard et prospecter 10 profils avec intention.
+Ce qu'on aborde : la différence entre prospecter 30-50 profils au hasard et prospecter 30-50 profils avec intention.
+
+**Nuance critique :** "Avec intention" ≠ une question émotionnelle qu'on se pose ("est-ce que je serais content de bosser avec elle ?"). C'est prendre le temps de vérifier si le profil est actif, si ça correspond vraiment à son ICP, si on pourrait réellement l'aider. C'est une vérification factuelle, pas un jugement de feeling — tu le sauras en discutant avec la personne, pas avant.
 
 Ce qu'on doit montrer :
-- Les critères de sourcing réels (active sur LinkedIn, poste régulièrement, les 3 signaux)
-- La question qu'on se pose avant d'ajouter : "si elle dit oui, je suis content de bosser avec elle 3 mois ?"
-- Volume suffisant (50 messages/semaine) + structure + intention = les trois ensemble
+- Les critères de sourcing réels (active sur LinkedIn, poste régulièrement, bannière pro, description claire)
+- Commenter 2-3-4-5 fois sur les posts d'un profil AVANT d'envoyer une demande de connexion
+- Volume cible : minimum 30 profils sourcés/semaine, 50 = très bien, viser 5-10/jour
+- Si pas de résultats malgré intensité → baisser à 10-15-20 profils mais maximiser la qualité de chaque échange
 
 Angles possibles :
-- "Je ne prospecte jamais quelqu'un que je ne suis pas content de closer."
-- La liste des critères exacts avant d'envoyer une demande de connexion
-- Pourquoi la qualité du sourcing détermine 80% du résultat
+
+**Angle 1 — La vérification, pas le coup de cœur**
+L'intention ce n'est pas "j'aime ce profil." C'est cocher mentalement 3-4 critères concrets avant d'aller plus loin. Actif ? Poste ? Profil soigné ? Signal pain point ? 30 secondes par profil — mais ces 30 secondes changent tout le résultat final.
+
+**Angle 2 — Commenter avant de connecter**
+Avant d'envoyer une demande de connexion, laisser 2 à 5 commentaires vraiment instructifs sur ses posts. Pas pour "apparaître sur son radar" — pour avoir une vraie raison d'entrer en contact. La connexion qui suit n'est plus froide. C'est une continuation d'une relation qui existe déjà.
+
+**Angle 3 — Le contre-intuitif du volume**
+L'erreur classique : vouloir prospecter 100 profils/semaine pour avoir plus de résultats. La réalité : 30 profils sourcés avec intention donnent plus de conversations utiles que 100 profils contactés en mode automatique. Moins en quantité + plus en qualité = plus de résultats. Ce n'est pas de la théorie, c'est de la mécanique.
+
+**Angle 4 — Le seul vrai KPI du sourcing**
+Tu passes combien de % de ton temps à prendre des actions concrètes (commenter, envoyer une demande, initier un DM) vs consommer de l'information (regarder des posts, des vidéos YouTube, des guides sur "comment prospecter") ? Ce ratio dit tout sur ta progression réelle.
 
 ---
 
@@ -192,15 +204,27 @@ Angles possibles :
 
 Ce qu'on aborde : pourquoi convaincre crée de la résistance et questionner crée de l'acceptation.
 
+**Point stratégique important :** Ne pas tout révéler du mécanisme dans les posts — c'est la valeur réservée aux clients. Dans le contenu public, créer l'effet "mystique" : faire imaginer le résultat sans expliquer exactement comment. La promesse doit faire rêver, pas éduquer à 100%.
+
 Ce qu'on doit montrer :
-- Quand TU dis "la prospection directe c'est mieux" → résistance
-- Quand ELLE réalise par elle-même que son contenu ne suffit pas → acceptation
-- Le principe : ne jamais affirmer à la place du prospect
+- Quand TU dis "la prospection directe c'est mieux" → résistance immédiate
+- Quand ELLE réalise par elle-même que son contenu ne suffit pas → acceptation naturelle
+- La règle du 70/30 : le prospect parle 70% du temps, toi 30%
+- La posture du médecin : diagnostiquer avant de prescrire
 
 Angles possibles :
-- "Je n'ai jamais convaincu un seul client. Ils se convainquent eux-mêmes."
-- Exemple de question socratique vs affirmation directe
-- Pourquoi les meilleurs commerciaux posent 80% du temps et parlent 20%
+
+**Angle 1 — L'effet "mystique" (promesse aspirationnelle)**
+Imagine ne jamais avoir à convaincre quelqu'un. Imagine que ce soit le prospect qui vienne te demander de travailler ensemble, convaincu par ses propres réflexions. C'est ce qui se passe quand tu maîtrises le setting avec intention. Pas de persuasion, pas de vente forcée — juste les bonnes questions au bon moment.
+
+**Angle 2 — Quand TU dis vs quand IL réalise**
+Exemple concret : tu peux dire "le contenu prend 12 mois, la prospection c'est 2-4 semaines" à quelqu'un. Il t'écoute poliment et oublie. Ou tu poses "depuis combien de temps tu postes ? Et tu as eu combien de clients entrants via tes posts ?" — il arrive lui-même à la conclusion. La deuxième approche ne crée aucune résistance. Parce que c'est lui qui le dit.
+
+**Angle 3 — La règle du 70/30**
+Les meilleurs commerciaux ne "vendent" pas — ils écoutent. La règle concrète : le prospect doit parler 70% de la conversation, toi 30%. Si tu parles plus que lui, tu es en train de pitcher. Et le pitch crée la résistance. La question crée l'ouverture.
+
+**Angle 4 — La posture du médecin**
+Un médecin ne prescrit pas avant d'avoir posé des questions. Il ne te dit pas "prends cet antibiotique" en entrant dans le cabinet. Il demande, il écoute, il comprend. Puis il prescrit. Les freelances qui échouent en prospection font l'inverse : ils pitchent en premier, comprennent après. Ce n'est pas de la vente, c'est de l'impatience.
 
 ---
 
@@ -209,30 +233,52 @@ Angles possibles :
 Ce qu'on aborde : la tuyauterie bancale qui exécute > la méthode parfaite qui attend. L'action constante comme variable principale.
 
 Ce qu'on doit montrer :
+- Volume minimum viable : 25-30 profils sourcés/semaine. 40-50 = très bien. En-dessous de 20 = trop faible pour obtenir des résultats réguliers.
 - Freelances avec la meilleure méthode qui ne l'appliquent pas → zéro résultat
 - Freelances avec une méthode imparfaite qui exécutent tous les jours → clients réguliers
-- Pourquoi chercher la méthode parfaite est souvent une forme de procrastination
+- Le seul vrai KPI : quel % de ton temps tu passes à agir (contacter, commenter, envoyer, relancer) vs consommer (regarder des vidéos sur "comment prospecter", lire des threads, scroll LinkedIn)
 
 Angles possibles :
-- "J'ai vu des freelances avec des scripts de DM parfaits. Zéro client. J'ai vu des freelances avec des messages basiques. Clients réguliers."
-- Le paradoxe : l'optimisation tue l'action
-- "Commence imparfaitement. Optimise en mouvement."
+
+**Angle 1 — La tuyauterie qui fuit**
+Storytelling : imagine une tuyauterie avec 3 fuites. Elle achemine quand même l'eau. C'est mieux que la tuyauterie parfaite qui est encore sur les plans. L'action imparfaite donne des données réelles. Les plans parfaits ne donnent rien. Même principe pour la prospection.
+
+**Angle 2 — Le paradoxe de l'optimisation**
+Le réflexe naturel : attendre d'avoir le message parfait, le profil parfait, le framework parfait. Ce réflexe tue l'action. La réalité : tu n'optimiseras jamais tes messages si tu n'envoies pas de messages. Les données viennent de l'action, pas de la préparation.
+
+**Angle 3 — Le seul KPI honnête**
+"J'ai travaillé 4 heures sur ma prospection cette semaine." → question : ces 4 heures, c'était combien d'actions concrètes (messages envoyés, commentaires laissés, demandes de connexion) vs du temps sur YouTube ou à lire des posts LinkedIn sur la prospection ? Ce ratio est le seul chiffre honnête sur ta semaine.
+
+**Angle 4 — Le chiffre minimum non négociable**
+25-30 profils sourcés par semaine. En-dessous, pas assez de volume pour avoir des conversations régulières. 40-50 par semaine, c'est bien. Et si malgré cette intensité tu n'as pas de résultats → ce n'est pas un problème de volume, c'est un problème de qualité des profils sourcés ou du premier message. Les chiffres disent tout.
 
 ---
 
 **Thématique 5 — Débunker la prospection (ce n'est pas du forcing)**
 
-**Point de vigilance critique** : c'est le post qui doit exister AVANT que les autres posts Solution Aware fonctionnent. Une grande partie de ta cible rejette la prospection avant même d'avoir lu la suite parce qu'elle associe "prospection" à spam, forcing, vendre à la sauvette.
+**Point de vigilance critique** : c'est le post qui doit exister AVANT que les autres posts Solution Aware fonctionnent. Une grande partie de ta cible — majoritairement féminine, souvent sensible à l'authenticité des relations — rejette la prospection avant même d'avoir lu la suite parce qu'elle associe "prospection" à spam, forcing, vendre à la sauvette. Ce post doit adresser cette résistance frontalement, avec empathie, avant de proposer quoi que ce soit.
 
 Ce qu'on aborde :
 - Les vraies peurs : peur d'engager, peur de déranger, peur de présenter l'offre, peur de forcer
 - Ce que la prospection avec intention N'EST PAS (cold email de masse, pitch en DM dès le premier message, vendre sans comprendre)
-- Ce que c'est vraiment (une conversation authentique, de la curiosité, des questions)
+- Ce que c'est vraiment (une conversation authentique, de la curiosité, des questions, rendre service)
 
 Angles possibles :
-- "Si tu penses que la prospection c'est forcer quelqu'un à acheter — on parle pas de la même chose."
-- "J'ai closé des clients sans jamais avoir présenté mon offre en premier."
-- Différence entre approche froide et approche avec intention illustrée par une vraie conversation
+
+**Angle 1 — Storytelling : j'ai détesté la prospection**
+"Au début, je détestais prospecter. Parce que dans ma tête, prospecter = forcer quelqu'un à acheter quelque chose dont il n'a pas envie. Puis j'ai changé de définition." Partir de la résistance personnelle pour montrer le chemin. Parler au prospect là où il en est maintenant.
+
+**Angle 2 — Commencer sans intention de vendre**
+Le premier DM n'a pas pour but de vendre. Il a pour but d'engager une vraie conversation. Si tu rentres dans un DM avec l'intention de vendre, ça se sent. Si tu rentres avec l'intention de comprendre, c'est une conversation. La vente est une conséquence possible — pas l'objectif de départ.
+
+**Angle 3 — L'analogie du psychologue**
+Un psychologue ne convainc pas. Il écoute, il pose les bonnes questions, il aide la personne à voir sa situation plus clairement. Même si à la fin il n'y a pas de client, la personne est repartie avec quelque chose de concret. C'est ça, prospecter avec intention : même quand ça ne close pas, tu as rendu un service réel.
+
+**Angle 4 — La redéfinition**
+"Prospecter = rendre service à quelqu'un qui a un problème et qui ne sait pas encore que tu peux l'aider à le résoudre." Formulé comme ça, refuser de prospecter c'est refuser d'aider. Le framing change tout.
+
+**Angle 5 — "J'ai closé des clients sans jamais pitcher en premier"**
+Il m'arrive de finir un appel et que ce soit le prospect qui demande "on peut travailler ensemble ?" Je n'ai pas présenté mon offre. J'ai posé des questions. C'est lui qui a conclu que j'étais la bonne personne. C'est ça l'intention — pas forcer, mais créer les conditions pour que la personne arrive elle-même à la décision.
 
 ---
 
