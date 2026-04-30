@@ -146,6 +146,36 @@ On revient toujours au même point. La dispersion n'est pas juste un problème d
 
 ---
 
+**Thématique 6 — "Ce n'est pas leur priorité" : le vrai problème c'est toi (pas eux)**
+
+La douleur : le freelance n'arrive pas à closer. Il se dit que sa niche s'en fout, que son offre n'intéresse personne, que ce n't pas leur priorité. Il cherche le problème chez le prospect, dans la niche, dans le timing. Il ne voit pas que c'est sa phase de conscientisation AVANT l'appel qui a failli.
+
+**Ce qu'on aborde :**
+- Les 3 excuses de fin d'appel = diagnostic direct de la phase avant : "c'est pas ma priorité du moment" / "j'ai pas le budget" / "on se tient au courant"
+- Tu ne peux pas conscientiser quelqu'un en 30 minutes d'appel si les DMs n'ont pas fait ce travail en amont — c'est impossible
+- Les 3 phases obligatoires et leur rôle précis : (1) commentaires = confiance + crédibilité, (2) DMs = conscientisation du problème, (3) appel = fermer une décision déjà quasi prise
+- Le DM fait 60-70% du travail. L'appel ferme. Il ne convainc pas quelqu'un qui n'est pas prêt.
+- "Ce n'est pas leur priorité" = tu n'as pas créé la prise de conscience dans les DMs. Ce n'est pas la niche le problème.
+
+Angles possibles :
+
+**Angle 1 — Le diagnostic des 3 excuses**
+Si à la fin de tes appels tu entends régulièrement "c'est pas ma priorité", "j'ai pas le budget", "on se tient au courant" — ce ne sont pas des objections. C'est un diagnostic. Ça dit que toute la phase avant l'appel a été bâclée. Le prospect n'était pas prêt à décider. Et il ne pouvait pas l'être, parce qu'il n'avait pas conscientisé son problème avant de raccrocher.
+
+**Angle 2 — Les 3 phases et leur rôle**
+Trois phases, trois rôles. Phase 1 : commentaires — créer la confiance et la crédibilité avant même d'entrer dans les DMs. Phase 2 : messages privés — amener la personne à conscientiser ce qu'elle perd, à mettre des mots sur sa situation. C'est là que se joue 60 à 70% du travail. Phase 3 : appel de closing — conclure avec quelqu'un qui est déjà convaincu. Si une phase est sautée ou bâclée, les deux suivantes en pâtissent.
+
+**Angle 3 — Storytelling : le vigneron qui "s'en fout de la communication"**
+Un freelance arrête de prospecter dans sa niche. "Ils s'en foutent de la communication, ce n'est pas leur priorité." Traduction réelle : il n'a pas réussi à faire conscientiser à ses prospects ce qu'ils perdaient chaque mois. Le vigneron ne s'en fout pas — il ne voit pas encore le problème. Ce n'est pas la même chose. Et ce n'est pas lui le responsable de ne pas le voir. C'est toi.
+
+**Angle 4 — "C'est pas leur faute, c'est la tienne"**
+Le reframe direct : si ton prospect arrive en appel sans avoir conscientisé son problème — sans avoir réalisé ce que ça lui coûte de ne pas agir — c'est que tu ne l'as pas accompagné à y arriver dans tes DMs. Il ne peut pas prendre une décision sur quelque chose dont il ne mesure pas l'impact. Le travail de conscientisation n'est pas une option. C'est un prérequis.
+
+**Angle 5 — L'illusion du "bon prospect" déjà conscient**
+Beaucoup de freelances cherchent à sourcer un prospect "déjà conscient de son problème" pour que le closing soit facile. C'est une fausse piste. Le bon prospect n'est pas celui qui est déjà convaincu — c'est celui qui est conscientisable. Et c'est ton boulot de le conscientiser via les DMs, pas d'attendre qu'il arrive prêt.
+
+---
+
 ### CATÉGORIE 2 — SOLUTION AWARE
 **Objectif :** Le lecteur se dit *"ok, ce que je faisais ne fonctionne pas, et je comprends maintenant pourquoi la prospection directe avec intention est la seule réponse logique pour moi à ce stade."*
 
@@ -404,11 +434,11 @@ Total : 17 thématiques × 4 angles = 68 posts minimum. Plus de 3 mois de conten
 
 | Catégorie | Nb | Thématiques |
 |-----------|-----|-------------|
-| Problem Aware | 5 | Feast or Famine / Contenu organique / Piège du gratuit / Volume sans intention / Dispersion |
+| Problem Aware | 6 | Feast or Famine / Contenu organique / Piège du gratuit / Volume sans intention / Dispersion / "Ce n'est pas leur priorité" |
 | Solution Aware | 5 | Croyance centrale / Ce que "intention" veut dire / Mécanisme setting / Régularité > méthode / Débunker la prospection |
 | Product Aware | 3 | Ses propres résultats / Transparence HOW / Ce qui différencie |
 | Personal Brand | 4 | Coaching 600€ / Parcours + erreurs / Opinions tranchées / L'humain |
-| **Total** | **17** | |
+| **Total** | **18** | |
 
 ---
 
