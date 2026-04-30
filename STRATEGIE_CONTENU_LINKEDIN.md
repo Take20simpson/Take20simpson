@@ -6,6 +6,56 @@
 
 ---
 
+## Framework de classification automatique
+
+> **Usage :** quand une IA reçoit un nouveau sujet à traiter, elle doit répondre à ces questions dans l'ordre pour déterminer la bonne catégorie.
+
+### Les 4 questions dans l'ordre
+
+**Question 1 — Est-ce que ce sujet fait réaliser au lecteur qu'il a un problème qu'il ne peut plus ignorer ?**
+→ Si oui : **Problem Aware**
+Signaux : le lecteur se reconnaît dans une douleur, une erreur, un pattern qui bloque. Il ne sait pas encore que la prospection est la réponse — il conscientise juste le problème.
+
+**Question 2 — Est-ce que ce sujet montre POURQUOI la prospection directe avec intention est la réponse logique, ou déconstruit une fausse croyance sur l'acquisition ?**
+→ Si oui : **Solution Aware**
+Signaux : comparaison de stratégies, mécanisme de la prospection, déconstruction d'une fausse solution, ce que "intention" veut dire. Le lecteur comprend la solution, pas encore que Matthias est la bonne personne.
+
+**Question 3 — Est-ce que ce sujet prouve que Matthias spécifiquement sait ce qu'il fait — ses résultats, son process, ce qui le différencie ?**
+→ Si oui : **Product Aware**
+Signaux : chiffres ou exemples de Matthias, son process concret, ses propres méthodes montrées en transparence. Le lecteur doit se dire "cette personne sait exactement ce qu'elle fait."
+
+**Question 4 — Est-ce que ce sujet humanise Matthias, crée de la confiance, ou exprime une opinion tranchée sur l'entrepreneuriat / la vie ?**
+→ Si oui : **Personal Brand**
+Signaux : storytelling personnel, réflexion de vie, leçon apprise, opinion sans lien direct avec une méthode d'acquisition.
+
+### Règles de départage (si un sujet touche plusieurs catégories)
+
+- Parle d'un problème + mentionne la prospection comme solution → **Problem Aware** (objectif : conscientiser le problème en premier)
+- Parle d'un mécanisme/méthode sans citer les résultats de Matthias → **Solution Aware**
+- Parle d'un mécanisme ET cite les résultats/process de Matthias → **Product Aware**
+- Parle d'entrepreneuriat, mindset, leçons de vie sans vendre de méthode → **Personal Brand**
+
+### Test rapide — quelle réaction cherche-t-on ?
+
+| Réaction cible du lecteur | Catégorie |
+|---------------------------|-----------|
+| "C'est exactement moi, je me reconnais" | Problem Aware |
+| "Ah, donc c'est pour ça que ça ne marchait pas" | Solution Aware |
+| "Cette personne sait vraiment ce qu'elle fait" | Product Aware |
+| "Je lui fais confiance, je veux le suivre" | Personal Brand |
+
+---
+
+## Note sur les formats : le post valeur directe (style Matis Clouet)
+
+Certains posts ne racontent rien — ils attaquent directement. Format court, ultra-concret, le **quoi** sans le **comment**. Exemples : "Les 2 seuls leviers pour avoir plus de clients." "3 signes que ta prospection est morte."
+
+Ce format s'applique principalement à **Solution Aware** et **Problem Aware**. Il ne remplace pas les autres formats (storytelling, contre-intuitif, comparaison) — il les complète dans la rotation.
+
+**Règle :** dans ce format, on ne donne jamais le "comment" complet. On nomme le levier, on nomme le problème, on crée l'envie d'aller plus loin. Le comment est réservé à l'accompagnement.
+
+---
+
 ## Le schéma de semaine type (5 posts/jour)
 
 | Jour | Catégorie | Fréquence |
@@ -385,43 +435,66 @@ Humanise les 3 autres catégories. Sans cette catégorie, les posts de valeur so
 
 ---
 
-**Thématique 1 — Le coaching à 600€ (décision + flip)**
+**Thématique 1 — Le coaching à 1500€ (décision + flip + ce que ça a appris)**
 
-Deux angles distincts sur la même histoire :
+Angles possibles :
 
-Angle 1 — La décision : j'avais 600€ en banque. J'ai négocié 3x500€. J'ai tout mis. Ce que ça m'a appris sur ce que ça veut dire de parier sur soi.
+**Angle 1 — La décision**
+J'avais 600€ en banque. On a trouvé un arrangement en 3 fois. J'ai tout mis. Ce que ça veut dire concrètement de parier sur soi quand t'as quasiment rien — et ce que ce moment t'apprend sur ta propre relation à la valeur que tu te donnes.
 
-Angle 2 — Le flip : le coût invisible de ne pas s'accompagner. "Tu ne veux pas investir 1500€. Mais les 6 mois de galère supplémentaires à 2k€/mois de manque à gagner, t'en penses quoi ?" La vraie question n'est pas le prix de l'accompagnement — c'est le prix de l'inaction.
+**Angle 2 — Le flip (quantifié)**
+"Tu ne veux pas investir dans un accompagnement." OK. Mais dans le post, calculer en direct : 6 mois sans clients = X€ de manque à gagner. Le montant exact à partir d'un tarif journalier moyen. La vraie question n'est pas le prix de l'accompagnement — c'est ce que coûte concrètement, en euros réels, de ne pas avancer. Forcer le lecteur à faire le calcul lui-même dans le post.
+
+**Angle 3 — Ce que ce coaching m'a appris même en échouant**
+Ce coaching a débloqué des choses — c'est réel et honnête. Et il avait des défaillances claires : templates sans fondamentaux, disponibilité illusoire, manque d'itération. Ce que ces deux réalités ensemble ont enseigné sur ce que doit être un vrai accompagnement. Ni critique frontale, ni idéalisation — la nuance honnête.
 
 ---
 
 **Thématique 2 — Son parcours et les vraies erreurs**
 
-Ce qu'on aborde : les 4 ans de galère, les vrais échecs, ce qui a vraiment changé.
+Angles possibles :
 
-Ce qu'on peut raconter :
-- Les 12 prestations gratuites, les 4 témoignages 5 étoiles, 0€ sur le compte
-- Le moment du déclic (mode automatique → mode intention)
-- Les 3 vraies erreurs : manque de consistance, absence de sens, dispersion
+**Angle 1 — Le piège du gratuit (histoire complète)**
+Au tout début, il y a plus de 4 ans : essayé le copywriting, les pages de vente, les sites internet. On lui dit de "faire ses preuves" avec des prestations gratuites. 3 prestations. 3 témoignages excellents. 0€. Moment clé après la 3ème : "Ça va aller, je peux en faire une 4ème." Et c'est exactement là le piège — ce sentiment de facilité qui t'enferme dans une boucle dont tu peux sortir des mois trop tard. La spirale du gratuit se referme exactement à ce moment.
+
+**Angle 2 — Le mythe de la prospection de masse** (peut être raconté en storytelling OU en post valeur pure sans parler de lui)
+À ses débuts, on lui vantait les CRM, les listes de 100-500-1000 prospects "qualifiés", les outils d'automatisation, les calculs de taux : X% de réponse → X% d'appels → X% de closing. Ceux qui disent ça ne savent pas ce qu'est une vraie conversation. Des appels sans intention, ça ne signe pas. Des volumes sans intention, ça ne convertit pas. Et le seul résultat concret : se faire ignorer massivement.
+
+**Angle 3 — Les 3 vraies erreurs (rétrospective)**
+1 — Manque de consistance : lâcher trop tôt sur chaque projet. 2 — Absence de sens : travailler sur des choses dont il n'était pas convaincu que ça marchait vraiment. 3 — Dispersion : vouloir tout créer de zéro plutôt que copier ce qui fonctionnait déjà. Bilan honnête à 22 ans, 4 ans après le début. Sans drama, juste les faits.
+
+**Angle 4 — "T'iras nulle part"**
+Le bac à 10,5. L'école. "Fainéant." "Incapable d'être autodidacte." 4 ans plus tard : business solo, 0 diplôme, 0 mentor, 0 réseau de départ. Ce que ça dit sur ce que valent vraiment les prédictions des autres sur toi — et sur ce que l'autodidacte apprend que l'école ne peut pas enseigner.
 
 ---
 
 **Thématique 3 — Opinions tranchées sur l'entrepreneuriat**
 
-Ce qu'on aborde : ce que Matthias pense vraiment — sans filtre, sans chercher à plaire.
+Angles possibles :
 
-Exemples :
-- Pourquoi "travailler plus dur" est souvent la mauvaise réponse
-- Ce qu'on ne dit jamais sur le coaching high-ticket
-- Pourquoi la plupart des gens qui se disent "en train de construire" procrastinent
+**Angle 1 — "Travaille plus dur" est le conseil le plus inutile**
+On peut travailler 16h/jour et avoir zéro résultat. Il y a des gens acharnés qui n'ont pas de business solide — parce qu'ils ne mettent pas leur énergie au bon endroit, parce que leurs actions ne sont pas faites avec intention. 2h qualitatives et intentionnelles valent infiniment plus que 6h dispersées sur Instagram, les tunnels de vente, le copywriting et dix autres choses en même temps. Ce n'est pas la quantité d'effort qui compte — c'est la direction et l'intention derrière chaque action.
+
+**Angle 2 — "Je construis mon offre" = red flag immédiat**
+Dès que quelqu'un dit "je construis mon offre", ça veut dire en réalité : "je construis mon offre seul dans ma tête, avec ChatGPT, avec un document." Ce n'est pas construire une offre — c'est inventer une réponse à un problème qu'on n'a pas encore vraiment entendu. La vraie construction d'offre se fait au contact de la cible. Tu veux faire des sites internet ? Prends une cible large, discute avec un maximum de gens, laisse les patterns émerger. C'est en parlant à ta cible que tu vas découvrir "les BTP ont besoin de sites", pas en passant 3 mois à définir ton avatar sur une feuille. La formation donne la connaissance — 20% de l'équation. Le terrain donne le reste. Au début : 20% de connaissance, 80% d'action et de conversations.
+
+**Angle 3 — La motivation et la discipline ne servent à rien**
+Si tu as besoin de motivation pour faire quelque chose, c'est le signal que soit tes objectifs ne sont pas clairs, soit tu ne comprends pas pourquoi tu fais ces actions, soit tu ne vois pas de résultats. La solution n'est pas de devenir "plus discipliné" — c'est de trouver le sens. Et dans un accompagnement : un coach qui ne t'explique pas le pourquoi de chaque action te condamne à décrocher rapidement. Agir sans comprendre = abandonner. C'est aussi simple que ça.
+
+**Angle 4 — Ce qu'on ne dit jamais sur les accompagnements**
+Sans critiquer personne : les templates sans fondamentaux n'apprennent rien. La disponibilité affichée n'est pas la disponibilité réelle. Et une méthode sans itération rapide ne fonctionne pas. Ce que Matthias a appris de son coaching raté sur ce que doit vraiment être un accompagnement honnête.
 
 ---
 
 **Thématique 4 — L'humain**
 
-Ce qu'on aborde : Nice, Vaya, le quotidien, les réflexions du moment.
+Pas de structure imposée. Ces posts sont les plus courts, les plus spontanés, et souvent les plus likés.
 
-Pas de stratégie ici — juste être une personne réelle. Ces posts sont les plus courts et les plus spontanés.
+Ancres thématiques :
+- **Vaya** — sa chienne. Ces posts sont les plus humains de tous.
+- **Nice et le quotidien** — une terrasse, une promenade, une observation du moment.
+- **Les illuminations hors-business** — une leçon apprise au badminton, quelque chose vu en regardant les gens, une réflexion qui n'a rien à voir avec l'acquisition client mais qui dit quelque chose de vrai.
+- **L'entourage qui ne comprend pas** — vivre seul dans son aventure, les objectifs que personne autour ne voit vraiment, la solitude de construire quelque chose sans réseau ni soutien visible.
 
 ---
 
@@ -448,7 +521,7 @@ Exemple sur "Le contenu organique ne donne pas de clients dans les 30 jours" :
 - Angle déconstruction de croyance
 - Angle données objectives
 
-Total : 17 thématiques × 4 angles = 68 posts minimum. Plus de 3 mois de contenu quotidien.
+Total : 18 thématiques × 4 angles = 72 posts minimum. Plus de 3 mois de contenu quotidien.
 
 ---
 
