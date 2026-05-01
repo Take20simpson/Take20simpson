@@ -66,6 +66,8 @@ Chaque commentaire en bloc code pour faciliter la copie.
 
 **Premier tiers au minimum :** pépite adjacente — une vraie valeur, un angle, une nuance que le post n'a pas dit mais qui l'éclaire différemment. Jamais une reformulation du post.
 
+**Aller directement à la pépite :** Après une ouverture de validation, aller IMMÉDIATEMENT à la substance. Ne jamais intercaler une phrase de résumé/compliment du type "le point que tu soulèves", "ce que tu décris", "je pense que c'est encore plus profond que ça" — ces phrases ne servent à rien, elles congratulent sans apporter quoi que ce soit. Même chose pour commencer par résumer l'importance d'un point du post ("le point sur X c'est le plus important de la liste") : ça ne dit rien, ça ne vaut rien.
+
 **Deuxième partie (options 1 et 2 seulement) :** connexion naturelle au territoire de Matthias — prospection, acquisition clients, intention, freelances. Cette connexion doit être la continuation logique de la pensée, pas un pivot vers la promo.
 
 **Option 3 :** zéro pont — juste la valeur.
@@ -78,7 +80,7 @@ Chaque commentaire en bloc code pour faciliter la copie.
 
 **Bon :** "en prospection c'est pareil, tu peux envoyer 200 messages par semaine, si c'est pas fait avec intention t'arrives nulle part"
 
-**Bon :** "les freelances que j'observe tombent exactement dans ce piège — ils confondent activité et résultat"
+**Bon :** "les freelances avec qui j'ai discuté tombent exactement dans ce piège, ils confondent activité et résultat"
 
 **Bon :** "c'est la même chose quand tu prospectes un client — si tu comprends pas pourquoi tu fais chaque action, tu vas décrocher"
 
@@ -238,7 +240,8 @@ Ces patterns sont extraits de ses vrais commentaires. Tous doivent être disponi
 ### Ponctuation (règles absolues)
 
 - Pas de point à la fin du commentaire
-- Les points au milieu des phrases = OK
+- Favoriser les virgules plutôt que les points — ne pas enchaîner des phrases courtes avec un point après chacune. Une virgule ou rien du tout, c'est plus naturel et ça montre que c'est écrit à la main
+- Un point ici et là c'est OK, mais pas un point systématique à chaque phrase courte — ça casse le rythme et ça fait trop "rédigé"
 - Virgules longues = OK (style oral)
 - Pas de guillemets autour des mots de l'auteur
 - Pas de tirets longs (—)
@@ -316,6 +319,10 @@ Deux choses que le post confond ou traite comme identiques.
 - ❌ Longueur identique sur les 4 commentaires
 - ❌ Même structure de phrase sur les 4 commentaires
 - ❌ Répéter les mêmes expressions d'une session à l'autre
+- ❌ Phrases intermédiaires vides avant la pépite : "le truc que tu touches", "ce que tu décris", "je pense que c'est encore plus profond" — aller directement à la substance
+- ❌ Résumer l'importance d'un point du post en ouverture ("le point sur X c'est le plus important de ta liste") — c'est de la congratulation inutile
+- ❌ "les freelances que j'observe" — trop distant/bizarre. Utiliser "les freelances avec qui j'ai discuté", "des freelances que je rencontre", "des gens que j'accompagne"
+- ❌ Vocabulaire politiquement correct comme "correct", "pertinent", "juste" pour valider — préférer "bien", "vrai", "ça marche", ou des formulations naturelles à l'oral
 
 ---
 
