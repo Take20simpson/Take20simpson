@@ -1,45 +1,41 @@
 # Suivi Posts LinkedIn — Matthias
 
-> Ajouter une ligne ici après chaque post publié ou créé.
-> Ce fichier est dans le Knowledge du projet Claude "posts LinkedIn".
-> À chaque fin de session, demander à Claude : "génère la ligne de suivi pour ce post."
+---
+
+## Comment ça fonctionne
+
+**Au début de chaque conversation :** Matthias copie-colle le bloc "POSTS DÉJÀ FAITS" ci-dessous dans la conversation. Claude le lit et ne reproduit jamais le même type de post (même thématique + même angle).
+
+**À la fin de chaque post généré :** Claude affiche automatiquement le bloc mis à jour (avec le nouveau post ajouté) — prêt à copier-coller pour la prochaine fois.
 
 ---
 
-## Format d'une ligne
+## Instructions pour Claude — OBLIGATOIRES
 
-```
-| JJ/MM | Catégorie | Thématique | N° Angle | Titre / accroche courte |
-```
-
----
-
-## Instructions pour Claude (lecture automatique)
-
-Quand Matthias demande un post sans préciser le sujet :
-1. Lire ce tableau pour voir quelles thématiques et angles ont déjà été utilisés récemment
-2. Choisir une thématique/angle qui n'a pas été fait depuis au moins 2-3 semaines
-3. Respecter le schéma de semaine type (lundi = Problem Aware, mardi = Solution Aware, etc.)
-4. À la fin de chaque post généré, produire automatiquement la ligne de suivi à copier
-
-Quand Matthias précise le sujet lui-même :
-1. Utiliser le framework de classification pour identifier la catégorie
-2. Générer le post dans le bon format
-3. Produire la ligne de suivi à la fin
+1. Quand Matthias colle le bloc "POSTS DÉJÀ FAITS" en début de conversation : le lire en priorité avant de proposer quoi que ce soit.
+2. Ne jamais proposer une combinaison thématique + angle déjà présente dans le bloc.
+3. Après avoir généré les accroches et les versions de post : afficher le bloc complet mis à jour, avec la nouvelle entrée ajoutée en bas. Toujours dans ce format exact, encadré, prêt à copier.
+4. Si Matthias ne colle pas de bloc : demander "tu as un bloc 'posts déjà faits' à me coller ?" avant de commencer.
 
 ---
 
-## Format ligne de suivi (à générer automatiquement en fin de session)
+## Format du bloc (à copier-coller en début de conversation)
 
 ```
-| [date] | [catégorie] | [thématique] | Angle [n°] | [accroche du post sur 5-6 mots] |
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+POSTS DÉJÀ FAITS — NE PAS RÉPÉTER
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[JJ/MM] | [Catégorie] | [Thématique] | Angle [n°] | [Accroche courte]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 ---
 
-## Journal des posts
+## Bloc actuel (vide pour l'instant — à compléter au fil des sessions)
 
-| Date | Catégorie | Thématique | Angle | Accroche |
-|------|-----------|------------|-------|----------|
-| — | — | — | — | — |
-
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+POSTS DÉJÀ FAITS — NE PAS RÉPÉTER
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
