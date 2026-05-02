@@ -3,11 +3,13 @@
 
 ---
 
-## CE QUI A CHANGÉ DEPUIS R1
+## CONTEXTE — CE QUI A CHANGÉ DEPUIS R1
 
-- Lucile a envoyé une vidéo d'analyse (recentrage canaux : pourquoi influenceurs, Meta ads et TikTok ne collent pas au positionnement de July)
-- July a regardé la vidéo → vérifier en ouverture ce qu'elle en a retenu
-- L'obstacle principal identifié : **elle a déjà payé un coach SEO et n'a eu que des rankings, pas de ventes** — c'est le point central à adresser avant toute présentation d'offre
+- Lucile a envoyé une vidéo d'analyse (pourquoi influenceurs, Meta ads et TikTok ne collent pas à son positionnement luxe)
+- July gère son site elle-même — pas de vrai prestataire SEO avant elle
+- Le site est dans un état qui ne permettrait pas de convertir même avec du trafic demain (structure chaotique, 200 produits sans optimisation, sous-sites dispersés) → **Lucile ne peut pas garantir des ventes, elle peut garantir de la visibilité mesurable et des fondations solides**
+- L'offre : package ~900€ (audit + pages stratégiques + Google My Business + rapport UX)
+- Le mécanisme de preuve : rapports hebdomadaires + Google Analytics + Search Console → July voit l'évolution même avant les grands résultats
 
 ---
 
@@ -15,9 +17,9 @@
 
 Installer une seule croyance :
 
-> "Ce que tu as vécu avec le coach SEO n'était pas du SEO orienté résultats. C'était du SEO orienté rankings. Ce n'est pas la même chose — et c'est exactement pourquoi ça n'a pas converti."
+> "Le SEO ce n'est pas du marketing comme les autres. C'est un investissement qui s'accumule — chaque optimisation se bonifie sur la précédente. Un site trouvable + crédible + qui reflète ton univers luxe, c'est ce qui convertit. Et contrairement à une pub Meta que tu coupes demain et qui s'arrête, ça continue à travailler pour toi."
 
-Puis fermer sur le package audit + Google My Business.
+Puis fermer sur le package ~900€.
 
 ---
 
@@ -32,53 +34,48 @@ Puis fermer sur le package audit + Google My Business.
 Laisser parler. Ne pas compléter, ne pas défendre.
 Ce qu'elle dit là révèle ce qui a atterri et ce qui résiste encore.
 
-Puis reposer le cadre :
-> *"Ce que j'aimerais faire aujourd'hui c'est qu'on rentre vraiment dans le concret de ta situation. À la fin je te présente ce que je propose, et tu me dis franchement si ça te parle ou pas. Dans les deux cas c'est OK."*
+Poser le cadre :
+> *"Ce que j'aimerais faire aujourd'hui c'est qu'on rentre dans le concret de ta situation. À la fin je te présente exactement ce que je propose, et tu me dis franchement si ça te parle ou pas. Dans les deux cas c'est OK."*
 
 ---
 
 ### Réactivation émotionnelle (5-7 min)
 
-Ne pas sauter cette étape même si R1 était bien. Les émotions s'émoussent entre deux appels.
+Ne pas sauter cette étape. Les émotions s'émoussent entre deux appels.
 
 **Quantifier la durée :**
 > *"22 visiteurs par mois sur Google — ça dure depuis combien de temps ?"*
 
-Laisser le silence travailler.
+Silence. Laisser travailler.
 
 **Quantifier le coût :**
-> *"Concrètement, si tu estimes ce que vaut une commande ou un contact entrant pour toi — ça représente quoi comme manque à gagner sur cette période ?"*
+> *"Concrètement, si tu estimes ce que vaut une commande ou un contact entrant — ça représente quoi comme manque à gagner sur cette période ?"*
 
-Forcer le calcul. C'est elle qui doit dire le chiffre, pas toi.
+Forcer le calcul. C'est elle qui doit dire le chiffre.
 
-**L'angle B2B (souvent ignoré, pourtant central) :**
-> *"Quand tu vas à un salon professionnel — Kazakhstan, Milan, Cannes — le distributeur en face de toi, qu'est-ce qu'il fait avant ou après votre rendez-vous ?"*
+**L'angle B2B — souvent le plus fort :**
+> *"Quand tu vas à un salon pro — Kazakhstan, Milan, Cannes — le distributeur en face de toi, qu'est-ce qu'il fait avant ou après votre rendez-vous ?"*
 
-Il Google. Et il trouve 22 visiteurs par mois.
+Il Google. Et il trouve un site qui ne reflète pas ce qu'elle est.
 
 > *"Qu'est-ce que ça lui dit sur la marque ?"*
 
 Silence. Ne pas répondre à sa place.
 
 **Projection :**
-> *"Dans 2 ans, si la situation en ligne reste la même — qu'est-ce qui se passe pour July of St Barth ?"*
+> *"Dans 2 ans, si la situation reste la même — qu'est-ce qui se passe pour July of St Barth ?"*
 
 ---
 
-### L'obstacle central : le coach SEO (3-4 min)
+### Installation de la croyance (3-4 min)
 
-C'est le moment le plus important du R2. Ne pas l'éviter, aller dessus directement.
+C'est le moment central. Le passage de "je veux des ventes" à "je comprends pourquoi le SEO est la seule base solide."
 
-> *"Tu m'as dit que t'avais déjà travaillé avec un coach SEO. Ce qu'il t'a livré — c'était quoi exactement ?"*
+> *"La différence entre le SEO et tout ce qu'on a vu dans la vidéo — les ads Meta, les influenceurs — c'est que le SEO c'est le seul canal qui se bonifie dans le temps. Chaque optimisation s'accumule sur la précédente. Une pub Meta tu coupes le budget demain, le trafic s'arrête. Une page bien optimisée sur Google, elle continue à te ramener des visiteurs dans 6 mois, dans un an, dans 3 ans. C'est un investissement dans ton actif — pas une dépense qui disparaît."*
 
-Laisser elle décrire. Écouter sans interrompre.
+Puis sur la cohérence avec son positionnement :
 
-Puis :
-> *"Et côté ventes, ça avait donné quoi ?"*
-
-Une fois qu'elle a tout dit :
-
-> *"Ce que tu décris, c'est quelqu'un qui optimisait pour que tu apparaisses en haut de Google. Pas pour que les gens qui atterrissent sur ton site commandent ou te contactent. C'est un travail très différent. Lui il travaillait sur la position. Moi je travaille sur le parcours complet — qui cherche quoi, pourquoi, et ce qui se passe quand ils arrivent sur ta page. C'est pour ça que les rankings sans conversion, ça n'existe pas dans mon approche."*
+> *"Et pour une marque comme la tienne — luxe, crédibilité, 30 distributeurs, 12 médailles — le site c'est la vitrine que tout le monde vérifie. Un distributeur qui cherche un partenaire sérieux, il ne signe pas avec quelqu'un dont le site ne reflète pas ce qu'il est. Le SEO c'est pas juste pour être visible — c'est pour que la visibilité soit cohérente avec ce que tu as construit."*
 
 ---
 
@@ -86,7 +83,7 @@ Une fois qu'elle a tout dit :
 
 Reformuler avec ses mots à elle :
 
-> *"Donc si je résume : tu as une marque avec une vraie légitimité — médailles, distributeurs, Grasse, Cannes, le nouveau salon qui ouvre le 11 mai. Mais en ligne t'es invisible. Et t'as déjà investi dans quelque chose qui n'a pas converti, donc tu as des raisons d'être prudente. C'est bien ça ?"*
+> *"Donc si je résume ce que tu m'as dit : t'as une marque avec une vraie légitimité — 12 médailles, 30 distributeurs, Grasse, Cannes, le nouveau salon qui ouvre le 11 mai. Mais en ligne t'es invisible, et le site actuel ne raconte pas ce que tu es vraiment. C'est ça ?"*
 
 Attendre la confirmation. C'est elle qui valide.
 
@@ -94,7 +91,7 @@ Attendre la confirmation. C'est elle qui valide.
 
 ### Engagement émotionnel — AVANT le prix (obligatoire)
 
-> *"Si dans les prochains mois, quand quelqu'un cherche 'parfumeur luxe Grasse' ou 'soin beauté Cannes' — il tombe sur toi au lieu de tes concurrents — qu'est-ce que ça change concrètement pour toi ?"*
+> *"Si dans les prochains mois, quelqu'un qui cherche 'parfumeur luxe Grasse' ou 'soin beauté Cannes' tombe sur toi — avec un site qui reflète vraiment ton univers — qu'est-ce que ça change pour toi ?"*
 
 Laisser répondre. Cette réponse devient l'ancrage pour le prix.
 
@@ -104,16 +101,27 @@ Laisser répondre. Cette réponse devient l'ancrage pour le prix.
 
 Ne pas énumérer les livrables. Partir de SON problème.
 
-> *"Ce que tu m'as décrit, c'est deux choses : tu ne sais pas exactement où tu en es en termes de visibilité, et tu n'as aucun point de départ solide sur Google localement — alors que t'as 3 adresses physiques et une 4ème qui ouvre le 11 mai à deux pas du Palais des Festivals.*
+> *"Ce que tu m'as décrit, c'est deux réalités. La première : t'as pas de visibilité sur Google. La deuxième : le site tel qu'il est aujourd'hui, même avec du trafic, ne convertirait pas — parce qu'il ne reflète pas encore ton univers et n'est pas structuré pour ça.*
 >
-> *Ce que je propose c'est un package en deux parties.*
+> *Ce que je propose, c'est un package qui pose les fondations. En concret :*
 >
-> *La première c'est un audit complet. Avant de faire quoi que ce soit, on regarde exactement où tu en es : ton site, tes mots-clés, ce que tes concurrents font que toi tu fais pas, et les quick wins disponibles. Tu as un diagnostic précis de ta situation, pas des suppositions.*
+> *D'abord un audit complet — technique, mots-clés, opportunités, présence sur les IA comme ChatGPT et Gemini. Tu reparts avec une vision 100% claire de ta situation et une feuille de route priorisée.*
 >
-> *La deuxième c'est la création et l'optimisation de tes fiches Google My Business. Grasse, Cannes, et le nouveau salon. C'est le canal le plus rapide à montrer des résultats concrets — quelqu'un qui cherche 'salon beauté Cannes' ou 'parfumeur Grasse' te trouve en quelques semaines. Et avec l'ouverture du 11 mai, le timing est parfait."*
+> *Ensuite j'optimise les pages stratégiques — ta page d'accueil, tes catégories de parfums, ta page histoire. Ce sont les premières pages que Google lit. Ces pages peuvent commencer à bouger dans les résultats en 4 à 8 semaines.*
+>
+> *En parallèle je crée et optimise tes fiches Google My Business pour Grasse, Cannes, et le nouveau salon. Quelqu'un qui cherche 'salon beauté Cannes' — il te trouve en 2 à 3 semaines. Avec l'ouverture du 11 mai, le timing est parfait.*
+>
+> *Et à la fin je te remets un rapport sur ce qui freine les conversions aujourd'hui — les 5 choses concrètes qui empêchent un visiteur d'acheter ou de te contacter. Tu sais exactement quoi prioriser ensuite.*
+>
+> *Ce package ne te promet pas des ventes demain — il te promet de la visibilité mesurable et des fondations solides sur lesquelles tout le reste peut s'appuyer."*
+
+Puis le mécanisme de preuve :
+
+> *"Et pour que tu voies l'évolution — je te fais des rapports hebdomadaires. Chaque semaine tu vois : combien de personnes ont visité ton site, d'où elles viennent, sur quelles pages elles restent. Tu suivras la progression en temps réel, pas juste à la fin."*
 
 Si elle demande "concrètement c'est quoi l'audit ?" :
-> *"[Lucile détaille en 2-3 phrases max ce qui est couvert dans son audit.] Avant de rentrer dans les détails — qu'est-ce qui est important pour toi de savoir là ?"*
+Répondre en 2 phrases, puis :
+> *"Avant de rentrer dans les détails — qu'est-ce qui est important pour toi de savoir là ?"*
 
 ---
 
@@ -129,25 +137,25 @@ Traiter chaque point un par un. Ne pas avancer vers le prix tant qu'il reste un 
 
 ### Prix + silence
 
-> *"L'investissement pour le package audit + Google My Business, c'est [montant]. On démarre dès que tu veux."*
+> *"L'investissement pour ce package, c'est 900€. On démarre dès que tu veux."*
 
-**Se taire.** Complètement. Le premier qui parle perd.
+**Se taire.** Le premier qui parle perd.
 
 ---
 
 ## OBJECTIONS
 
-**"J'ai déjà essayé le SEO et ça n'a pas marché"**
-
-Déjà traité en amont dans le déroulé. Si elle y revient :
-> *"Tu m'as décrit quelqu'un qui te vendait des positions. L'audit qu'on fait ensemble sert justement à ça — identifier ce qui bloque la conversion, pas juste ce qui bloque le ranking. C'est un travail différent."*
-
 **"Je n'ai pas le budget si ça ne génère pas de ventes"**
 
-> *"C'est exactement pour ça que le package commence par l'audit. Avant d'investir dans quoi que ce soit, tu sais exactement ce qui bloque et ce qui peut marcher pour toi. Tu ne paies pas à l'aveugle — tu paies pour avoir une vision claire d'abord."*
+> *"Je comprends — et c'est exactement pour ça que je te parle de fondations, pas de ventes directes. L'audit te dit où tu en es. Les pages optimisées envoient les bons signaux à Google. Le Google My Business te donne des résultats visibles en 2-3 semaines. Les rapports hebdomadaires te montrent l'évolution chaque semaine. Ce premier package c'est ce qui rend les ventes possibles — pas ce qui les garantit. Et sans ça, aucun autre investissement marketing ne peut fonctionner correctement."*
 
-Et sur le GMB :
-> *"Les fiches Google My Business, c'est le canal le moins cher et le plus rapide à montrer des résultats. T'as une adresse qui ouvre le 11 mai à côté du Palais des Festivals — si dans 3 semaines les gens qui cherchent 'salon beauté Cannes' tombent sur toi, c'est mesurable et direct."*
+**"Les influenceurs et les ads n'ont pas marché non plus"**
+
+> *"C'est cohérent avec ce que je t'ai montré dans la vidéo — ces canaux ne sont pas construits pour le luxe et ne laissent rien derrière eux quand tu arrêtes. Le SEO c'est l'inverse : chaque action reste et s'accumule. Dans 6 mois, dans un an — le travail qu'on fait aujourd'hui continue à travailler pour toi."*
+
+**"Je veux voir des résultats avant de m'engager"**
+
+> *"Les fiches Google My Business — ça je peux te montrer des résultats en 2 à 3 semaines. Quelqu'un qui cherche 'salon beauté Cannes' te trouve. Avec le nouveau salon qui ouvre le 11 mai, c'est immédiatement visible et mesurable. Et les rapports hebdomadaires te montrent l'évolution dès la première semaine."*
 
 **"Je vais réfléchir"**
 
@@ -155,12 +163,6 @@ Et sur le GMB :
 
 Puis :
 > *"Tu te demandes SI c'est pertinent pour toi, ou plutôt COMMENT on organise ça ?"*
-
-**"C'est trop cher"**
-
-> *"Quand tu dis trop cher — c'est par rapport à ton budget en ce moment, ou tu ne vois pas encore la valeur derrière ?"*
-
-Ne jamais baisser le prix. Si budget réel : proposer de commencer par l'audit seul, puis le GMB dans un deuxième temps.
 
 ---
 
@@ -170,10 +172,9 @@ Ne jamais baisser le prix. Si budget réel : proposer de commencer par l'audit s
 → T'as regardé la vidéo ? Qu'est-ce t'en as pensé ?
 → 22 visiteurs/mois — ça dure depuis combien de temps ?
 → Ça représente quoi comme manque à gagner ?
-→ Un distributeur qui Google ta marque après un salon — il trouve quoi ?
+→ Un distributeur qui te Google après un salon — il trouve quoi ?
 → Dans 2 ans si rien ne change — qu'est-ce qui se passe ?
-→ Le coach SEO — il t'avait livré quoi exactement ? Et les ventes ?
-→ [Engagement avant prix] Si tu apparais sur les bonnes recherches — ça change quoi pour toi ?
+→ [Engagement avant prix] Si tu apparais sur les bonnes recherches avec un site qui reflète ton univers — ça change quoi pour toi ?
 → [Échelle] 0 à 10 tu te projettes comment ? Qu'est-ce qui t'empêche d'être à 10 ?
 → [Après objection] C'est SI c'est pertinent ou COMMENT on organise ça ?
 → Du coup on part là-dessus ?
@@ -184,30 +185,42 @@ Ne jamais baisser le prix. Si budget réel : proposer de commencer par l'audit s
 ## CHECKLIST R2
 
 - [ ] Confirmer qu'elle a regardé la vidéo — noter ce qui a atterri
-- [ ] Recadrage posé ("je te dis franchement à la fin")
-- [ ] Douleur réactivée + quantifiée (durée + coût)
-- [ ] Angle B2B creusé (distributeurs qui la Google)
-- [ ] Coach SEO précédent adressé directement et différenciation faite
+- [ ] Cadrage posé ("je te dis franchement à la fin")
+- [ ] Douleur réactivée et quantifiée (durée + coût + angle distributeurs B2B)
+- [ ] Croyance SEO installée (investissement qui s'accumule ≠ pub qui disparaît)
+- [ ] Cohérence positionnement luxe / site qui doit le refléter
 - [ ] Diagnostic reformulé avec SES mots, validé par elle
-- [ ] Question d'engagement émotionnel posée AVANT le prix
+- [ ] Question engagement émotionnel posée AVANT le prix
 - [ ] Obstacles traités un par un AVANT le prix (échelle 0-10)
+- [ ] Mécanisme de preuve mentionné (rapports hebdo + Google Analytics + Search Console)
 - [ ] "Investissement" pas "prix"
 - [ ] Silence après le prix
-- [ ] "Du coup on part là-dessus ?" posé après les objections
+- [ ] "Du coup on part là-dessus ?" après les objections
 - [ ] Lien de paiement prêt avant l'appel
 
 ---
 
-## L'OFFRE — STRUCTURE (à compléter par Lucile)
+## L'OFFRE — PACKAGE ~900€
 
-| Élément | Contenu | Prix |
-|---------|---------|------|
-| **Audit SEO complet** | [Lucile définit le périmètre exact] | ~500€ |
-| **Google My Business** | Création / optimisation fiches Grasse + Cannes + nouveau salon | [Lucile définit] |
-| **Package total** | Audit + GMB | [à définir] |
+| Élément | Ce que ça fait concrètement | Délai visible |
+|---------|----------------------------|---------------|
+| **Audit SEO + GEO complet** | Diagnostic précis : technique, mots-clés, IA (ChatGPT, Gemini, Perplexity). Feuille de route claire. | Livrable immédiat |
+| **Optimisation 7-8 pages stratégiques** | Accueil + 5 catégories parfums + page Notre Histoire. Premiers signaux envoyés à Google. | 4-8 semaines |
+| **Google My Business** | Fiches Grasse + Cannes + nouveau salon (ouverture 11 mai). Apparaît dans les recherches locales. | 2-3 semaines |
+| **Rapport UX + conversion** | Les 5 freins concrets à l'achat aujourd'hui — feuille de route pour le Package 2. | Livrable final |
+| **Rapports hebdomadaires** | Google Analytics + Search Console : trafic, origine, comportement. Elle voit l'évolution chaque semaine. | Dès J+7 |
 
-**Argument package :** L'audit seul donne le diagnostic. Le GMB seul sans diagnostic c'est agir à l'aveugle. Ensemble, ils forment une base solide et montrent des résultats rapides — sans engagement long terme.
+**Prix total : ~900€**
+
+**Ce que ce package promet :**
+- Visibilité mesurable sur Google (pas des ventes garanties)
+- Des quick wins concrets et visibles rapidement (GMB, pages stratégiques)
+- Une vision claire de ce qui bloque la conversion → plante naturellement le Package 2
+
+**Ce que ce package ne promet pas :**
+- Des ventes immédiates (le site dans son état actuel ne convertirait pas même avec du trafic)
+- Une refonte complète (200 fiches produit, architecture, visuels → Package 2)
 
 ---
 
-*Créé le 2 mai 2026*
+*Mis à jour le 2 mai 2026*
