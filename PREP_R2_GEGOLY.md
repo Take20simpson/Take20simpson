@@ -1,4 +1,4 @@
-# R2 — Gégoly / Dermascor
+# R2 — Gégory / Dermascor
 
 ---
 
