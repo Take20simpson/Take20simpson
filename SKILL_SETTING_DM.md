@@ -886,6 +886,6 @@ Exactement. Et c'est la que tout se joue en fait. Le principe tu l'as capte, le 
 
 ---
 
-*Document cree le 17 mars 2026 — Mis a jour le 11 mai 2026*
+*Mis a jour le 11 mai 2026*
 *Base sur les 14 regles de Matthias + Methodologie Enzo Racine + Conversations reelles analysees*
 *A utiliser comme moteur de decision pour CHAQUE reponse de setting DM*
