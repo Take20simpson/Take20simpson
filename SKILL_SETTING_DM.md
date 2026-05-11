@@ -28,15 +28,15 @@ Quand Matthias colle un message de prospect et demande quoi repondre, Claude doi
 
 1. **Lire le message du prospect** — mot par mot
 2. **Passer par l'arbre decisionnel** (Partie 2)
-3. **Appliquer les 12 regles** (Partie 1) dans l'ordre
+3. **Appliquer les 14 regles** (Partie 1) dans l'ordre
 4. **Generer la reponse** selon le format (Partie 3)
 5. **Expliquer le POURQUOI** en dessous de la reponse (Partie 4)
 
 ---
 
-## PARTIE 1 : LES 12 REGLES D'EXECUTION
+## PARTIE 1 : LES 14 REGLES D'EXECUTION
 
-> Ces 12 regles sont appliquees A CHAQUE reponse generee. Pas une de moins. Dans l'ordre.
+> Ces 14 regles sont appliquees A CHAQUE reponse generee. Pas une de moins. Dans l'ordre.
 
 ### Regle 1 — Repondre a ce qu'elle VIENT de dire, jamais generique
 
@@ -886,6 +886,6 @@ Exactement. Et c'est la que tout se joue en fait. Le principe tu l'as capte, le 
 
 ---
 
-*Document cree le 17 mars 2026*
-*Base sur les 12 regles de Matthias + Methodologie Enzo Racine + Conversations reelles analysees*
+*Document cree le 17 mars 2026 — Mis a jour le 11 mai 2026*
+*Base sur les 14 regles de Matthias + Methodologie Enzo Racine + Conversations reelles analysees*
 *A utiliser comme moteur de decision pour CHAQUE reponse de setting DM*
