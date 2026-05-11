@@ -5,6 +5,23 @@
 
 ---
 
+## PARTIE 0 : AVANT LE DM — Construire la relation en commentaires
+
+Un seul commentaire → connexion → DM cree une micro-relation de 30 secondes. Ce n'est pas assez. Le prospect perçoit encore Matthias comme un inconnu, et les questions d'un inconnu semblent intrusives. L'humour sonne bizarre. Tout est plus pesant.
+
+**La strategie multi-echanges :**
+Faire 2-4 echanges en commentaires sur 2-3 posts differents avant d'envoyer le DM. Pas des commentaires generiques — des pepites adjacentes reelles (voir SKILL_COMMENTAIRES_LINKEDIN).
+
+**Ce que ca change :**
+- Le prospect reconnaît Matthias comme quelqu'un qui s'interesse vraiment a son contenu
+- Le DM devient une continuation, pas une approche froide
+- Matthias a deja du materiau pour le premier message (ce qu'ils ont echange en commentaires)
+- Les questions en DM passent mieux parce qu'il y a deja une micro-relation
+
+**En pratique :** Quand la conversation en commentaires existe, le premier DM TOUJOURS la reference. "Tu disais dans les commentaires que [X]..." — c'est naturel, pas cold.
+
+---
+
 ## COMMENT UTILISER CE DOCUMENT
 
 Quand Matthias colle un message de prospect et demande quoi repondre, Claude doit :
@@ -274,6 +291,46 @@ Relier plusieurs comportements du prospect pour lui montrer un PATTERN qu'il ne 
 
 ---
 
+### Regle 13 — Reciprocite et rythme : jamais deux questions d'afilee
+
+La conversation DM ne doit jamais ressembler a un interrogatoire. Pour chaque question posee, reagir a ce que la personne vient de dire AVANT de poser la suivante.
+
+**Le rythme obligatoire :**
+```
+Question → Reponse du prospect → [Reaction/observation/mini-partage] → Question suivante
+```
+
+**JAMAIS :**
+```
+Question → Reponse → Question suivante (sans rien entre les deux)
+```
+
+**Manieres de reagir entre deux questions :**
+- Observation courte et precise sur ce qu'elle vient de dire ("ok je vois, c'est souvent comme ca...")
+- Mini-partage sur soi ("je suis passe par la exactement...")
+- Validation precise sur un mot specifique qu'elle a utilise — pas de la validation generique ("c'est cool")
+
+**Pourquoi c'est non-negociable :** Apres 2-3 questions sans reciprocite, le prospect ressent le desequilibre — il donne, tu prends. Le decrochage commence exactement la.
+
+---
+
+### Regle 14 — Premier message = observation ciblee, pas question directe
+
+Le premier DM apres connexion ne commence JAMAIS par une question. Il commence par une observation precise sur la personne, qui montre que tu as regarde son contenu.
+
+**Mauvais :** "Hello, c'est quoi tes objectifs du moment ?"
+**Mauvais :** "Hello [prenom], tres cool ton poste." (trop generique — elle sent que t'as pas vraiment lu)
+**Mauvais :** "T'as regarde mon profil ?"
+
+**Bon :** Une observation precise sur un post, une phrase de leur profil, ou un echange en commentaires.
+→ Invite une reaction naturelle sans pression
+
+**Si echange en commentaires avant le DM :** Toujours referencer ces echanges comme point de depart. "Tu disais dans les commentaires que [X]..." C'est une continuation, pas une approche froide.
+
+**La regle :** Tu donnes avant de demander. L'observation precise montre que tu t'es interesse a eux, pas juste a leur situation comme prospect.
+
+---
+
 ### Regle 12 — Posture d'offreur, jamais demandeur
 
 On ne propose JAMAIS "on se fait un call ?" ou "tu veux qu'on en parle ?" de maniere suppliante. Toujours formule comme si c'est le prospect qui choisit de venir.
@@ -375,22 +432,65 @@ La reponse se termine TOUJOURS par une question ouverte. Pas une question fermee
 
 ### Structure de la reponse generee
 
-Claude genere TOUJOURS :
+Claude genere TOUJOURS dans cet ordre :
 
-**1. La reponse DM (en bloc code)**
+**1. L'analyse (en amont des options)**
 
+- Phase actuelle (1/2/3/4/5)
+- Element cle detecte dans le dernier message du prospect
+- Objectif strategique de la prochaine reponse
+- Prochaine etape probable apres la reponse
+
+**2. Trois options — labels TOUJOURS hors du bloc code**
+
+Option A :
 ```
-[Le message a envoyer tel quel — entre 1 et 6 lignes max]
+[texte du message uniquement — pas de label dedans]
 ```
 
-**2. L'analyse (en dessous)**
+Option B :
+```
+[texte du message uniquement — pas de label dedans]
+```
 
-- **Mot cle detecte :** [le mot/phrase du prospect qui a guide la reponse]
-- **Croyance cachee :** [la croyance limitante identifiee]
-- **Regle(s) appliquee(s) :** [quelles regles parmi les 12]
-- **Phase actuelle :** [1/2/3/4/5]
-- **Pourquoi cette reponse :** [explication en 2-3 phrases]
-- **Prochaine etape probable :** [ce qu'on anticipe comme reaction + ce qu'on fera]
+Option C :
+```
+[texte du message uniquement — pas de label dedans]
+```
+
+**REGLE ABSOLUE FORMAT :** Les labels "Option A / B / C" sont TOUJOURS en dehors du bloc code. JAMAIS inclus a l'interieur. Le bloc ne contient que le message pret a copier-coller sans rien modifier.
+
+**3. Note ultra-breve sur les differences** (1 ligne max, optionnel)
+
+---
+
+## PARTIE 3bis : RONDEUR ET FORMULATIONS
+
+> Ces regles s'appliquent a TOUTES les reponses generees. Elles definissent le style humain du message.
+
+### Formulations interdites (IA-detector)
+
+- **Le signe "="** dans une description → JAMAIS "4 canaux = 4 clients". A la place : "4 canaux pour 4 clients", "autant de canaux que de clients", ou reformuler completement
+- **Les guillemets** pour citer ce que la personne a dit → ca fait IA. Reformuler sans guillemets, paraphraser naturellement
+- **"T'es trop drole / t'es trop fort / t'es geniale"** → trop approbatoire, sonne faux. Jamais.
+- **"Ok" seul** en debut de message → toujours suivi de quelque chose, jamais seul comme validation
+
+### Ce qui humanise
+
+- **Emojis vieille ecole** : :) ;) :p → pas systematiquement, mais vraiment humain quand bien place
+- **"haha" / "haha ok"** en ouverture quand le prospect est en mode leger → matcher l'energie avant de pivoter vers le fond
+- **Connecteurs oraux** : "en vrai", "bah", "du coup", "le truc c'est que", "en fait", "au final"
+- **"non ?"** en fin d'observation → invite une reaction naturelle, pas une reponse binaire oui/non
+- **"souvent"** plutot que "toujours" → moins absolu, plus conversationnel
+
+### Matcher l'energie du prospect
+
+Si le prospect envoie des emojis, fait de l'humour, est en mode leger → TOUJOURS ouvrir sur ca avant de revenir au fond. Jamais sauter directement a la prochaine question quand il vient d'etre dans un moment de legerete.
+
+**Mauvais :** [prospect envoie 😁😉] → "Et du coup, lequel de ces canaux t'a le mieux marche ?"
+**Bon :** "haha ok ok j'avais bien compris :p" → quelque chose de leger → puis pivot vers le fond
+
+---
 
 ### Longueur des messages
 
@@ -580,6 +680,10 @@ Bon deja bonne nouvelle : ton probleme c'est pas que tu sais pas te vendre. C'es
 8. **JAMAIS dire "le prix"** → dire "l'investissement"
 9. **JAMAIS etre condescendant** → position egale, jamais du haut vers le bas
 10. **JAMAIS supplier ou insister** → si refus clair apres la sequence de relance, reculer dignement
+11. **JAMAIS le signe "="** dans une description ("4 canaux = 4 clients") → utiliser "pour", "sur", ou reformuler
+12. **JAMAIS des guillemets** pour citer ce que la personne a dit → ca fait IA, reformuler sans
+13. **JAMAIS "t'es trop drole / t'es trop fort / t'es geniale"** → trop approbatoire, sonne faux
+14. **JAMAIS commencer le premier DM par une question** → toujours une observation ciblee en premier (Regle 14)
 
 ---
 
