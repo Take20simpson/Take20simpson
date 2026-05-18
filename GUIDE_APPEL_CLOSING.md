@@ -5,53 +5,80 @@
 
 ## Vision d'ensemble
 
-Un appel de closing n'est pas une présentation. C'est un diagnostic.
+Le process se fait en **2 appels distincts avec 2 objectifs distincts.**
 
-Ton seul job : faire en sorte que le prospect verbalise lui-même sa douleur, son mécanisme, et ce que ça lui coûte personnellement. Quand il a tout dit à voix haute — c'est lui qui se convainc, pas toi.
-
-La règle qui gouverne tout : **un prospect ne paie pas pour résoudre un besoin. Il paie pour stopper une douleur.** Plus la douleur est personnelle, plus la décision est rapide.
+Confondre les deux — pitcher en R1, ou ne pas avoir l'offre prête en R2 — c'est l'erreur qui coûte le plus de closes.
 
 ---
 
-### Les 3 niveaux à atteindre dans cet ordre
+### R1 — Conscientisation *(20-25 min)*
 
-C'est la colonne vertébrale de l'appel. Chaque phase de découverte sert à descendre d'un niveau.
+**Un seul objectif : que le prospect verbalise lui-même sa douleur.**
+
+Pas de prix. Pas d'offre. Pas de pitch. Si tu parles de ce que tu proposes en R1, tu t'es planté.
+
+Le prospect ne paie pas pour résoudre un besoin. Il paie pour stopper une douleur. Et cette douleur, il faut qu'il la dise à voix haute — avec ses mots, pas les tiens. C'est lui qui se convainc, pas toi qui convaincs.
+
+Pour ça, tu dois descendre 3 niveaux dans l'ordre :
 
 **Niveau 1 — Le symptôme déclaré**
-Ce qu'il dit spontanément. Toujours rationnel, toujours générique. *"J'ai pas assez de clients."* C'est le point de départ, jamais le point d'arrivée. S'arrêter là = proposer une solution générique à un problème générique.
+Ce qu'il dit spontanément. Rationnel, générique. *"J'ai pas assez de clients."*
+→ C'est le point de départ, jamais le point d'arrivée.
 
 **Niveau 2 — Le mécanisme opérationnel**
-Le *comment* concret : quand exactement ça se passe, qui est impliqué, qu'est-ce qui coince précisément. *"Je prospecte mais les conversations s'essoufflent après 3 messages, les gens répondent de moins en moins."* C'est ici que ta solution devient précise et irremplaçable — pas générique.
+Le *comment* concret. *"Je prospecte mais les conversations s'essoufflent après 3 messages."*
+→ Sans ce niveau, ta solution semble générique. Avec lui, elle semble taillée pour elle.
 
 **Niveau 3 — L'impact personnel**
-Ce que ça coûte à *la personne en face de toi*. Pas à son business — à elle. Carrière, argent, énergie, peur de devoir retourner en salariat, honte de ne pas y arriver. *"J'ai l'impression de bosser dans le vide depuis 8 mois."* C'est ce niveau qui finance ton offre. Sans lui, tu peux signer un petit deal. Avec lui, la décision se prend d'elle-même.
+Ce que ça lui coûte à *elle*. Pas à son business — à elle. Peur, argent, honte, énergie. *"J'ai l'impression de bosser dans le vide depuis 8 mois."*
+→ C'est ce niveau qui finance l'offre. Sans lui, tu peux signer parfois. Avec lui, la décision se prend d'elle-même.
 
-> **Règle :** ne jamais sauter du niveau 1 au niveau 3 sans passer par le niveau 2. Le mécanisme te rend crédible. L'impact personnel te rend indispensable.
+> **Règle absolue : N1 → N2 → N3 dans l'ordre. Ne jamais sauter N2.**
 
----
+**Ce que R1 doit produire à la fin :**
+- Elle a verbalisé sa douleur au niveau 3
+- Tu as reformulé avec ses mots et elle a dit "oui, c'est exactement ça"
+- Un créneau R2 est fixé pendant l'appel (pas "la semaine prochaine" — une date précise)
+- Une vidéo Loom est envoyée dans les 2h qui reprend sa situation avec ses mots
 
-### Le plan de l'appel
-
-| Étape | Durée | Ce qui se passe | Ce que tu dois avoir à la fin |
+| Phase R1 | Durée | Ce qui se passe | Ce que tu dois avoir à la fin |
 |---|---|---|---|
-| **① Cadrage** | 0-3 min | Poser le cadre. Identifier le type de prospect (A/B/C). Vérifier le décisionnaire. | Savoir si l'objectif de l'appel est de closer ou de planter une graine |
-| **② Découverte** | 3-12 min | Descendre N1 → N2 → N3. Trigger event. Fausses solutions essayées. Quantification. | Le mécanisme précis + la douleur personnelle verbalisée par elle |
-| **③ Diagnostic** | 12-15 min | Reformuler avec ses mots. Elle confirme. Transition vers l'offre. | Un "oui, c'est exactement ça" de sa part |
-| **④ Offre** | 15-18 min | Présenter ce qui répond à *son* problème, pas une liste de livrables. Critères de décision. Obstacles. | Tous les obstacles traités avant d'annoncer le prix |
-| **⑤ Engagement** | 18 min | Question d'engagement émotionnel. | Un "oui" émotionnel avant le chiffre |
-| **⑥ Prix + silence** | 18-20 min | Annoncer. Se taire. | Elle parle en premier |
-
-> **Format 2 appels :** les étapes ① à ③ = R1. Les étapes ④ à ⑥ = R2. La coupure se fait après le diagnostic, avec une vidéo Loom envoyée dans les 2h et un créneau R2 validé pendant l'appel.
+| **① Cadrage** | 0-3 min | Poser le cadre. Identifier le type A/B/C. Vérifier le décisionnaire. | Savoir si l'objectif est de closer ou de planter une graine |
+| **② Découverte** | 3-12 min | Descendre N1 → N2 → N3. Trigger event. Fausses solutions. Quantification. | Mécanisme précis + douleur personnelle verbalisée par elle |
+| **③ Diagnostic** | 12-20 min | Reformuler avec ses mots. Elle confirme. Fixer le R2. | "Oui c'est exactement ça" + date R2 dans l'agenda |
 
 ---
 
-### Les 5 questions qui font tout le travail
+### Entre R1 et R2
 
-À avoir en tête avant d'entrer dans l'appel. Tout le reste s'adapte en temps réel.
+**Dans les 2h après R1 :** vidéo Loom de 8-10 min qui reprend sa situation avec ses mots, ce que tu vois pour elle, sans prix ni offre détaillée. Terminer par : *"on en parle en R2."*
+
+**Le lendemain :** message court qui reprend ses mots exacts : *"[ce qu'elle a dit]. C'est exactement ça qu'on va travailler. À [créneau]."*
+
+---
+
+### R2 — Closing *(20-25 min)*
+
+**Un seul objectif : closer.**
+
+Repartir de ce qu'elle a verbalisé en R1. Présenter l'offre comme la réponse directe à sa douleur. Traiter les obstacles restants. Annoncer le prix. Se taire.
+
+**Ce que R2 ne fait pas :** re-creuser la douleur depuis zéro. Elle a déjà tout verbalisé. Tu reformules, tu ne recommences pas.
+
+| Phase R2 | Durée | Ce qui se passe | Ce que tu dois avoir à la fin |
+|---|---|---|---|
+| **④ Reformulation R1** | 0-3 min | Reprendre ses mots exacts du R1. Elle confirme. | Elle réentend sa propre douleur |
+| **⑤ Offre** | 3-8 min | Présenter ce qui répond à *son* problème, avec *ses* mots. Critères de décision. | Elle voit que c'est fait pour elle, pas une offre générique |
+| **⑥ Obstacles** | 8-15 min | Échelle 0-10. Traiter chaque obstacle un par un. Engagement émotionnel. | Tous les obstacles levés avant d'annoncer le prix |
+| **⑦ Prix + silence** | 15-20 min | Annoncer. Fermer la bouche. | Elle parle en premier |
+
+---
+
+### Les 5 questions clés de R1
 
 ```
 1. "Qu'est-ce qui fait que ce sujet remonte maintenant et pas il y a 6 mois ?"
-   → Le trigger event. Définit l'urgence réelle.
+   → Trigger event. Définit l'urgence réelle.
 
 2. "Donne-moi un exemple concret — le dernier en date."
    → Descend au mécanisme (N2). Tue les généralités.
@@ -70,12 +97,13 @@ Ce que ça coûte à *la personne en face de toi*. Pas à son business — à el
 
 ### Ce qui tue un appel
 
-- Pitcher avant que la douleur soit verbalisée
-- S'arrêter au niveau 1 et proposer une solution générique
+- Pitcher ou parler de l'offre en R1
+- S'arrêter au niveau 1 sans descendre au mécanisme
 - Poser deux questions en même temps
 - Remplir les silences — 5 secondes après chaque question, minimum
 - Annoncer le prix avant l'engagement émotionnel
 - Utiliser "Pourquoi" → remplacer par "Qu'est-ce qui fait que..."
+- Repartir de zéro en R2 au lieu de reformuler ce qu'elle a dit en R1
 
 ---
 
