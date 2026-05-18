@@ -3,6 +3,82 @@
 
 ---
 
+## Vision d'ensemble
+
+Un appel de closing n'est pas une présentation. C'est un diagnostic.
+
+Ton seul job : faire en sorte que le prospect verbalise lui-même sa douleur, son mécanisme, et ce que ça lui coûte personnellement. Quand il a tout dit à voix haute — c'est lui qui se convainc, pas toi.
+
+La règle qui gouverne tout : **un prospect ne paie pas pour résoudre un besoin. Il paie pour stopper une douleur.** Plus la douleur est personnelle, plus la décision est rapide.
+
+---
+
+### Les 3 niveaux à atteindre dans cet ordre
+
+C'est la colonne vertébrale de l'appel. Chaque phase de découverte sert à descendre d'un niveau.
+
+**Niveau 1 — Le symptôme déclaré**
+Ce qu'il dit spontanément. Toujours rationnel, toujours générique. *"J'ai pas assez de clients."* C'est le point de départ, jamais le point d'arrivée. S'arrêter là = proposer une solution générique à un problème générique.
+
+**Niveau 2 — Le mécanisme opérationnel**
+Le *comment* concret : quand exactement ça se passe, qui est impliqué, qu'est-ce qui coince précisément. *"Je prospecte mais les conversations s'essoufflent après 3 messages, les gens répondent de moins en moins."* C'est ici que ta solution devient précise et irremplaçable — pas générique.
+
+**Niveau 3 — L'impact personnel**
+Ce que ça coûte à *la personne en face de toi*. Pas à son business — à elle. Carrière, argent, énergie, peur de devoir retourner en salariat, honte de ne pas y arriver. *"J'ai l'impression de bosser dans le vide depuis 8 mois."* C'est ce niveau qui finance ton offre. Sans lui, tu peux signer un petit deal. Avec lui, la décision se prend d'elle-même.
+
+> **Règle :** ne jamais sauter du niveau 1 au niveau 3 sans passer par le niveau 2. Le mécanisme te rend crédible. L'impact personnel te rend indispensable.
+
+---
+
+### Le plan de l'appel
+
+| Étape | Durée | Ce qui se passe | Ce que tu dois avoir à la fin |
+|---|---|---|---|
+| **① Cadrage** | 0-3 min | Poser le cadre. Identifier le type de prospect (A/B/C). Vérifier le décisionnaire. | Savoir si l'objectif de l'appel est de closer ou de planter une graine |
+| **② Découverte** | 3-12 min | Descendre N1 → N2 → N3. Trigger event. Fausses solutions essayées. Quantification. | Le mécanisme précis + la douleur personnelle verbalisée par elle |
+| **③ Diagnostic** | 12-15 min | Reformuler avec ses mots. Elle confirme. Transition vers l'offre. | Un "oui, c'est exactement ça" de sa part |
+| **④ Offre** | 15-18 min | Présenter ce qui répond à *son* problème, pas une liste de livrables. Critères de décision. Obstacles. | Tous les obstacles traités avant d'annoncer le prix |
+| **⑤ Engagement** | 18 min | Question d'engagement émotionnel. | Un "oui" émotionnel avant le chiffre |
+| **⑥ Prix + silence** | 18-20 min | Annoncer. Se taire. | Elle parle en premier |
+
+> **Format 2 appels :** les étapes ① à ③ = R1. Les étapes ④ à ⑥ = R2. La coupure se fait après le diagnostic, avec une vidéo Loom envoyée dans les 2h et un créneau R2 validé pendant l'appel.
+
+---
+
+### Les 5 questions qui font tout le travail
+
+À avoir en tête avant d'entrer dans l'appel. Tout le reste s'adapte en temps réel.
+
+```
+1. "Qu'est-ce qui fait que ce sujet remonte maintenant et pas il y a 6 mois ?"
+   → Le trigger event. Définit l'urgence réelle.
+
+2. "Donne-moi un exemple concret — le dernier en date."
+   → Descend au mécanisme (N2). Tue les généralités.
+
+3. "Qu'est-ce que t'as déjà essayé pour régler ça ? Et qu'est-ce qui a coincé ?"
+   → Qualifie la gravité. Te positionne différemment de ce qui n'a pas marché.
+
+4. "Sur un mois, ça représente quoi comme manque à gagner ?"
+   → Quantification financière. Le chiffre confronte mieux que les mots.
+
+5. "Si dans 3 mois t'es toujours dans cette situation, il se passe quoi pour toi ?"
+   → Impact personnel (N3). C'est ici que la douleur devient réelle.
+```
+
+---
+
+### Ce qui tue un appel
+
+- Pitcher avant que la douleur soit verbalisée
+- S'arrêter au niveau 1 et proposer une solution générique
+- Poser deux questions en même temps
+- Remplir les silences — 5 secondes après chaque question, minimum
+- Annoncer le prix avant l'engagement émotionnel
+- Utiliser "Pourquoi" → remplacer par "Qu'est-ce qui fait que..."
+
+---
+
 ## Les règles qui ne bougent pas
 
 - **Tu parles 30% du temps. Ton prospect parle 70%.**
