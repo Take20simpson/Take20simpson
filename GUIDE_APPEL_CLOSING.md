@@ -129,6 +129,27 @@ Vérifier le décisionnaire :
 
 Reprendre ce qu'elle a dit en DM. Aller plus loin à chaque réponse.
 
+**Le modèle mental des 3 niveaux — où en es-tu dans la découverte ?**
+
+| Niveau | Ce que c'est | Signal |
+|---|---|---|
+| **N1 — Symptôme déclaré** | Ce qu'elle dit spontanément. Rationnel, générique, préparé. | Réponse fluide, sans hésitation, sans exemple concret |
+| **N2 — Mécanisme opérationnel** | Le *comment* concret : quand, comment, qui, combien | Elle raconte un cas précis, utilise des mots techniques |
+| **N3 — Impact personnel** | Ce que ça lui coûte à ELLE. Carrière, argent, peur, énergie | Ralentissement du débit, mots émotionnels, silence avant de répondre |
+
+Règle : ne jamais s'arrêter au N1. Ne jamais sauter du N1 au N3 sans passer par le N2 — le mécanisme rend ta solution précise et irremplaçable plutôt que générique.
+
+---
+
+**Le trigger event — "pourquoi maintenant ?"**
+
+À poser tôt dans la découverte :
+> *"Qu'est-ce qui fait que ce sujet remonte maintenant et pas il y a 6 mois ?"*
+
+Un prospect sans trigger event clair peut remettre à plus tard. Le trigger event crée l'urgence réelle — une deadline, une situation qui s'aggrave, un événement externe. Si la réponse est floue → la douleur n'a pas encore assez mûri.
+
+---
+
 **La chaîne des "pourquoi" :**
 Ne jamais s'arrêter au constat. Creuser jusqu'à toucher quelque chose d'émotionnel.
 
@@ -142,14 +163,32 @@ Ne jamais s'arrêter au constat. Creuser jusqu'à toucher quelque chose d'émoti
 - *"Tu tournes à combien de clients par mois ?"*
 - *"T'en as converti combien ?"*
 - *"Ça fait combien de temps que t'es dans cette situation ?"*
+- *"Sur un mois, ça représente quoi comme manque à gagner ?"* → si elle hésite : *"C'est plutôt 500€, 1000€, 2000€ ?"* — donner une fourchette force le chiffre
+
+**Les fausses solutions — question à poser systématiquement :**
+> *"Qu'est-ce que t'as déjà essayé pour régler ça ?"*
+> *"Et qu'est-ce qui a coincé ?"*
+
+Pourquoi c'est indispensable : qualifie la gravité du problème (si elle a déjà dépensé du temps/de l'argent à essayer = le problème est réel), et te positionne automatiquement comme différent de ce qu'elle a déjà fait. Elle ne peut plus mettre ta solution dans la même case que ce qui n'a pas marché.
 
 **Le cheat code — projection temporelle :**
 > *"Si dans 3 mois t'es toujours dans cette situation, il se passe quoi pour toi ?"*
+
+**Le mirroring — technique concrète :**
+Répéter les 2-3 derniers mots du prospect sur un ton interrogatif, et se taire.
+
+> Elle : *"J'ai du mal à rester régulière sur la prospection."*
+> Toi : *"Rester régulière ?"*
+> Elle : *"Oui parce qu'en fait quand j'ai des clients je prospecte plus et après je me retrouve avec un trou."*
+
+Elle vient de te donner le mécanisme toute seule. À utiliser 2-3 fois par appel maximum — au-delà ça devient mécanique.
 
 **Règles absolues pendant la découverte :**
 - Une question = une réponse attendue. Pas deux questions en même temps.
 - Ne jamais affirmer à la place du prospect. Poser la question, laisser le silence.
 - Ne pas passer au sujet suivant tant que tu n'as pas senti quelque chose d'émotionnel.
+- **5 secondes de silence après chaque question** — pas seulement après le prix. La première réponse est rationnelle. La vraie douleur arrive dans la deuxième moitié, celle que le prospect formule si tu ne combles pas le vide.
+- **Jamais "Pourquoi"** — ça sonne accusatoire, ça active les défenses. Remplacer par *"Qu'est-ce qui fait que..."* ou *"Comment ça se fait que..."*
 
 **Reformulation en cours de découverte — quand et comment :**
 
@@ -213,6 +252,12 @@ Créer des micro-engagements tout au long :
 - *"Est-ce que ça te parle ?"*
 - *"C'est clair pour toi ?"*
 - *"Est-ce que ça te rassure ?"*
+
+**Critères de décision — avant les obstacles :**
+> *"Si tu devais décider dans les 30 jours, qu'est-ce qui te ferait dire oui ?"*
+> *"Et qu'est-ce qui te ferait dire non, même si tu vois la pertinence ?"*
+
+Ces deux questions révèlent les vrais critères et les obstacles cachés avant qu'ils arrivent en objection. Tu peux pré-traiter chaque point dans ta présentation.
 
 **Traiter les obstacles AVANT le prix — un par un :**
 > *"Sur une échelle de 0 à 10, à quel point tu te projettes dans ce qu'on vient de voir ?"*
@@ -442,8 +487,13 @@ Pivoter vers la projection : *"Qu'est-ce qui te dit que ça ne va pas se reprodu
 
 **Découverte**
 - [ ] Questions de creusage prêtes (reprendre ce qu'elle a dit en DM)
+- [ ] Trigger event préparé : *"Qu'est-ce qui fait que ce sujet remonte maintenant ?"*
+- [ ] Question fausses solutions prête : *"Qu'est-ce que t'as déjà essayé ? Qu'est-ce qui a coincé ?"*
+- [ ] Quantification financière : *"Sur un mois, ça représente quoi comme manque à gagner ?"*
 - [ ] Projection temporelle en tête
+- [ ] Mirroring prêt (répéter les 2-3 derniers mots, se taire)
 - [ ] Reformuler quand elle touche quelque chose d'émotionnel (pas à chaque réponse)
+- [ ] 5 secondes de silence après chaque question — pas seulement après le prix
 
 **Diagnostic**
 - [ ] Grande reformulation : situation + durée + blocage + conséquences (ses mots à elle)
@@ -451,6 +501,7 @@ Pivoter vers la projection : *"Qu'est-ce qui te dit que ça ne va pas se reprodu
 - [ ] Pont vers l'offre : "c'est exactement ce sur quoi je travaille avec mes clients"
 
 **Avant le prix**
+- [ ] Critères de décision posés : *"Qu'est-ce qui te ferait dire oui ? Et non ?"*
 - [ ] Obstacles traités un par un (échelle 0-10)
 - [ ] Qualification investissement personnel posée
 - [ ] Question d'engagement émotionnel posée
@@ -472,3 +523,7 @@ Pivoter vers la projection : *"Qu'est-ce qui te dit que ça ne va pas se reprodu
 - [ ] Creuser la douleur prospection chez quelqu'un qui n'a pas encore prospecté ✗
 - [ ] Ramollir les questions face à un profil assertif ✗
 - [ ] Accepter "courant mai" sans date précise ✗
+- [ ] S'arrêter au niveau 1 (symptôme) sans descendre au mécanisme (niveau 2) ✗
+- [ ] Sauter du symptôme à l'impact personnel sans passer par le mécanisme ✗
+- [ ] Utiliser "Pourquoi" — remplacer par "Qu'est-ce qui fait que..." ✗
+- [ ] Oublier de demander ce qu'elle a déjà essayé ✗
