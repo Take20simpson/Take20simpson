@@ -116,6 +116,7 @@ des trucs qui semblaient mineurs)"
 À partir du profil (headline + bio + expérience), identifier le combat principal du métier — quelle résistance la personne rencontre-t-elle chez ses propres clients ? Ce défi est souvent implicite dans le type de métier, pas forcément écrit dans le profil.
 
 ### ⏳ À FAIRE PLUS TARD
+- Builder 3-4-5 variations de la formulation CAS B ("Tu pourrais me dire comment tu arrives à...") pour éviter le pattern répétitif
 - Construire une base de patterns "métier → combat principal" pour les profils les plus fréquents dans la cible (VA, copywriter, webdesigner, coach, consultant, etc.)
 - Définir comment l'agent dérive ce combat pour des métiers moins communs
 
