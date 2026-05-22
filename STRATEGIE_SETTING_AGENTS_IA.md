@@ -367,6 +367,416 @@ C'est quoi qui compte le plus pour toi là dans ton activité ?
 
 ---
 
+## QUESTIONS SOCRATIQUES — PHASES 3 À 5
+
+### Ce qu'on cherche à accomplir dans cette phase
+
+L'objectif n'est pas d'informer le prospect sur ce qui marche ou pas. C'est de l'amener à RÉALISER par lui-même que sa situation actuelle est problématique ET que ce qu'il fait ne suffira pas à changer ça.
+
+La différence est fondamentale :
+- Si TU dis "le contenu seul ne suffit pas pour avoir des clients en 30 jours" → résistance. Le prospect défend son approche.
+- Si LUI arrive à "ça fait 8 mois que je poste et j'ai eu 2 clients" → il formule lui-même que ça ne marche pas.
+
+La socratique, c'est cette deuxième option. Poser les bonnes questions dans le bon ordre pour que le prospect arrive à la conclusion par lui-même, avec ses mots.
+
+### La croyance à installer — jamais affirmée, toujours réalisée
+
+La croyance centrale à faire émerger :
+
+> "Pour un freelance solo sans budget pub et sans audience établie, il n'existe qu'une seule méthode pour remplir son calendrier dans les 30 jours sans hasard : la prospection directe avec intention."
+
+Cette croyance ne se PITCH PAS. Elle se CONSTRUIT via les questions socratiques. Le mécanisme :
+
+1. Identifier ce que le prospect fait actuellement pour trouver des clients (contenu, réseau, bouche-à-oreille...)
+2. Quantifier les résultats obtenus avec cette approche
+3. Projeter : "dans 3 mois si c'est pareil, il se passe quoi ?"
+4. Le prospect réalise lui-même que son approche ne le mènera pas où il veut
+
+À ce stade, la croyance est là — pas parce qu'on l'a affirmée, mais parce que le prospect l'a formulée lui-même.
+
+**Règle absolue : ne jamais dire à la place du prospect ce qu'il devrait penser.**
+Même si on voit clairement que leur stratégie ne marche pas, on ne le dit JAMAIS. On pose des questions qui les amènent à le voir. Formuler la conclusion à leur place = résistance. Les laisser formuler = acceptation.
+
+---
+
+### Phase 3 — Comprendre la situation sans dévoiler l'intention
+
+La phase 3 commence juste après la réponse à la question de transition. Le prospect a répondu en donnant son focus (ex : "j'aimerais avoir plus de clients", "je veux développer mon audience", "je veux travailler mon positionnement", etc.).
+
+**L'objectif de la phase 3 :**
+Comprendre leur approche d'acquisition actuelle et quantifier les résultats, sans que le prospect réalise qu'on est en train de les qualifier.
+
+**Le problème : on ne peut pas demander directement "comment tu trouves tes clients ?"**
+Cette question révèle immédiatement l'intention commerciale — on vend quelque chose sur l'acquisition. Le prospect se ferme ou dit "t'as qu'à regarder mon profil".
+
+**La solution : partir de ce qu'ils ont dit**
+La réponse à la question de transition contient presque toujours des indices. "Je veux avoir plus de clients" = ils n'en ont pas assez. "Je veux développer mon audience" = ils parient sur le contenu. "Je veux me concentrer sur X" = X est leur stratégie principale. Partir de ces indices pour poser une question précise, pas une question générique.
+
+**Exemples selon la réponse à la question de transition :**
+
+Si le prospect dit "j'aimerais avoir plus de clients réguliers" :
+→ "Et tu t'appuies sur quoi en ce moment pour les trouver ?"
+→ ou : "Et t'as une approche qui marche bien pour l'instant ?"
+
+Si le prospect dit "je me concentre sur mon contenu LinkedIn" :
+→ "Et ça t'amène quoi comme résultats pour l'instant ?"
+→ ou : "Et du coup, ça convertit en clients ?"
+
+Si le prospect dit "je veux développer mon réseau" :
+→ "C'est quoi ton approche là ?" (très court, neutre, non-intrusif)
+
+Si le prospect dit "je veux travailler mon positionnement" :
+→ "T'as déjà eu des clients avec ton positionnement actuel ?" (question qui court-circuite l'excuse du positionnement)
+
+**Règle critique : jamais critiquer ni nuancer leur stratégie à ce stade.**
+On écoute, on quantifie, on comprend. Les questions socratiques viendront après, en phase 4. En phase 3, le ton est genuinement curieux — pas de jugement.
+
+**Séquence standard de la Phase 3 :**
+
+*Les réponses du prospect sont en italique pour illustrer le déroulement.*
+
+1. Question sur leur approche actuelle
+   *→ Le prospect décrit ce qu'il fait (contenu, réseau, recommandations...)*
+
+2. Quantification des résultats : "Et ça t'amène combien de clients par mois ?"
+   *→ Le prospect donne un chiffre (souvent faible ou variable)*
+
+3. Durée : "Et depuis combien de temps ?"
+   *→ Le prospect donne une durée*
+
+4. Satisfaction : "Et c'est quelque chose qui te convient ?"
+   *→ Le prospect exprime une insatisfaction (souvent) — c'est l'ouverture pour la phase 4*
+
+**Important : c'est à l'étape 4 que la phase 4 peut commencer.** Si le prospect dit "non j'aimerais mieux" ou "c'est pas assez" ou "c'est frustrant", on a l'ouverture pour creuser. Si le prospect dit "ça va, j'ai ce qu'il me faut", creuser quand même avec "et dans 6 mois t'es où si c'est pareil ?" — quelqu'un qui est vraiment satisfait ne sera pas perturbé par cette question.
+
+**Variations concrètes pour chaque étape :**
+
+Étape 1 — Identifier l'approche :
+```
+Et tu t'appuies sur quoi en ce moment pour les trouver ?
+```
+```
+Et du coup, tu fais comment pour avoir des clients là ?
+```
+```
+Et t'as une approche qui marche bien pour l'instant ?
+```
+
+Étape 2 — Quantifier les résultats :
+```
+Et ça t'amène combien de clients par mois ?
+```
+```
+Et du coup, concrètement, ça te ramène quoi comme clients ?
+```
+```
+Et concrètement t'as eu combien de clients grâce à ça ?
+```
+
+Étape 3 — Durée (amplifie le problème si les résultats sont faibles) :
+```
+Et depuis combien de temps ?
+```
+```
+Ça fait combien de temps que tu fais ça ?
+```
+
+Étape 4 — Satisfaction (l'ouverture vers la phase 4) :
+```
+Et c'est quelque chose qui te convient ?
+```
+```
+Et t'es satisfait(e) du résultat ?
+```
+```
+Et ça correspond à ce que tu voulais ?
+```
+
+**Règle sur les réactions entre les questions :**
+Ne jamais enchaîner deux questions sans une réaction courte entre les deux. Chaque question est posée, le prospect répond, on réagit brièvement (validation courte, observation, mini-partage), PUIS on pose la suivante. Sans cette réaction, la conversation ressemble à un interrogatoire.
+
+Réactions courtes valides entre les questions :
+- "Ok je vois." → puis question suivante
+- "C'est un truc que je vois souvent en fait." → puis question suivante
+- "Ah ok, je comprends." → puis question suivante
+- "Ouais c'est une situation classique." → puis question suivante
+
+Ce qui est interdit : réponse du prospect → question suivante directe (sans rien entre les deux).
+
+---
+
+### Phase 4 — Creuser et créer le GAP
+
+Une fois que le prospect a exprimé une insatisfaction ("j'aimerais mieux", "c'est frustrant", "c'est pas assez", "c'est pas ce que je voulais"), la phase 4 peut commencer.
+
+**L'objectif de la phase 4 :**
+Amplifier le problème, créer le GAP entre où ils sont et où ils veulent aller, et les amener à formuler eux-mêmes les conséquences négatives de l'inaction. C'est la phase émotionnelle — pas la phase de collecte d'informations.
+
+**Le mécanisme du GAP :**
+1. Situation actuelle : on sait ce qu'ils font et ce que ça donne (fait en phase 3)
+2. Objectif : on sait où ils veulent aller (exprimé dans la réponse à la question de transition)
+3. GAP : l'espace entre les deux — leur approche actuelle ne les mènera pas à leur objectif dans le délai qu'ils ont en tête
+4. Projection : leur faire calculer eux-mêmes ce qui se passe s'ils continuent pareil
+
+Le GAP ne se MONTRE pas. Il se FAIT RÉALISER.
+
+---
+
+### La projection temporelle — la technique centrale de la phase 4
+
+C'est la question la plus puissante de tout le setting. Elle force le prospect à formuler les conséquences concrètes de l'inaction, avec ses propres mots.
+
+**Structure de base :**
+"Dans [X mois] si c'est encore la même situation, il se passe quoi pour toi ?"
+
+Le mécanisme : on ne dit pas "ta stratégie ne marche pas". On dit : "si ta stratégie continue pareil, dans X mois tu es où ?" — c'est le prospect qui calcule lui-même que ça ne marche pas.
+
+**Variations validées :**
+
+```
+Dans 3 mois si c'est encore pareil, c'est quoi la situation ?
+```
+```
+Et si dans 6 mois t'es encore au même endroit, il se passe quoi concrètement ?
+```
+```
+Si dans 3 mois t'as toujours pas de clients réguliers, c'est quoi l'impact sur toi ?
+```
+```
+Et si ça dure encore 6 mois comme ça, ça veut dire quoi pour toi ?
+```
+```
+Si ça fait déjà [durée qu'ils ont donnée] et que c'est pareil dans 3 mois encore, t'en es où ?
+```
+
+**Règle sur le délai dans la projection :**
+Adapter le délai au contexte.
+- Urgence financière visible → 3 mois
+- Situation moins urgente → 6 mois
+- Jamais 1 an : trop loin, pas assez d'impact émotionnel
+- Jamais 1 mois : trop court, sonne comme une manipulation
+
+**Ce qu'on cherche dans la réponse du prospect :**
+Deux niveaux de réponse possibles :
+
+Niveau surface : "J'aurais toujours pas de clients réguliers." → C'est un constat, pas une douleur. Il faut creuser encore.
+→ "Et concrètement dans ta vie ça veut dire quoi ?"
+
+Niveau douleur réelle : "Je serais obligée de retourner au salariat" / "J'aurais du mal à payer mes charges" / "J'aurais arrêté" → C'est la vraie douleur. On a ce qu'on cherchait.
+
+Si la réponse reste en surface, creuser avec :
+```
+Et concrètement ça veut dire quoi dans ta vie ?
+```
+```
+Et qu'est-ce que ça changerait pour toi ?
+```
+```
+Et là au quotidien, ça impacte quoi ?
+```
+
+---
+
+### La chaîne des "pourquoi" — amplification
+
+Après la projection temporelle, si la réponse est encore superficielle, amplifier en remontant à la cause.
+
+Principe : prendre ce qu'ils viennent de dire et demander "et ça veut dire quoi". Plusieurs fois si nécessaire, jusqu'à toucher quelque chose qui les fait réagir émotionnellement.
+
+Exemple :
+*Prospect : "j'ai pas assez de clients"*
+→ "Et ça veut dire quoi concrètement pour toi ?"
+*Prospect : "bah j'ai des revenus instables"*
+→ "Et concrètement ça se traduit par quoi ?"
+*Prospect : "je sais pas si je vais pouvoir payer mes charges le mois prochain"*
+→ là on a la vraie douleur.
+
+**Règle absolue : ne jamais formuler la douleur à leur place.**
+"Ça doit être stressant de ne pas savoir si tu vas avoir des clients le mois prochain" → validation passive, le prospect acquiesce poliment sans ressentir grand chose. "Et concrètement dans ta vie ça veut dire quoi ?" → le prospect FORMULE la douleur avec ses propres mots. C'est là que l'engagement émotionnel se crée.
+
+---
+
+### Croyances limitantes fréquentes en phase 4 — comment les challenger
+
+Ces croyances apparaissent souvent en phase 4 quand on commence à creuser. Ne jamais les confronter directement — poser une question qui les fait émerger.
+
+**"Le contenu va finir par marcher"**
+→ Ne pas dire "le contenu prend 6-12 mois". Laisser les chiffres parler.
+→ Question : "Ça fait combien de temps que tu postes ? Et t'as eu combien de clients depuis ?"
+
+**"J'attends d'avoir plus de témoignages"**
+→ Ne pas dire "t'as pas besoin de plus de témoignages". Les faire calculer.
+→ Question : "T'as combien de témoignages là ? Et combien il t'en faudrait ?"
+
+**"J'ai pas assez de visibilité"**
+→ Ne pas expliquer que visibilité ≠ clients. Challenger l'hypothèse.
+→ Question : "Et si tu avais plus de visibilité, ça changerait quoi concrètement ?"
+
+**"Je cherche mon positionnement"**
+→ Ne pas expliquer que le positionnement n'est pas le vrai blocage. Vérifier avec les faits.
+→ Question : "T'as déjà eu des clients avec ton positionnement actuel ?" (s'ils ont eu des clients, le positionnement n'est pas le problème)
+
+**"Mon offre est pas encore au point"**
+→ Question : "T'as déjà eu des clients avec cette offre ?"
+
+**"Je vais d'abord essayer seul(e) encore un peu"**
+→ Question : "Ça fait combien de temps que tu essaies ?"
+
+**"Les gens ne répondent pas à mes DM"**
+→ Question : "Tu leur écris quoi comme premier message ?"
+
+---
+
+### La jauge d'épuisement — règle sur la rondeur entre phases
+
+Après 2-3 questions qui creusent consécutivement, le prospect commence à se sentir "interrogé". Signe détectable : réponses plus courtes, ton plus défensif, temps de réponse plus long.
+
+**Le rythme obligatoire :**
+Creuser → creuser → ADOUCIR → creuser → creuser → ADOUCIR
+
+Jamais 4 questions sèches d'affilée. La rondeur n'est pas un compliment — c'est une soupape de pression qui permet de continuer à creuser après.
+
+**Quand injecter de la rondeur :**
+- Après 2-3 questions profondes d'affilée
+- Quand le sujet devient émotionnellement chargé (argent, peur, échec professionnel)
+- Quand le prospect répond de plus en plus court
+- Après une question particulièrement directe (projection temporelle, quantification confrontante)
+
+**Formulations de rondeur (alterner, jamais les mêmes deux fois de suite) :**
+- "Et c'est normal hein, c'est pas un reproche"
+- "Je comprends totalement"
+- "C'est un truc que je vois souvent en fait"
+- "T'es pas la seule dans cette situation"
+- "Ça paraît évident dit comme ça, mais dans le feu de l'action c'est autre chose"
+- "Et c'est OK, y'a pas de honte"
+
+**Ce que la rondeur n'est PAS :**
+Pas un long message de réconfort. Une phrase suffit, parfois deux. L'objectif n'est pas de réconforter — c'est de décomprimer pour pouvoir continuer à creuser.
+
+---
+
+### Phase 5 — Reconnaître la prise de conscience et pivoter
+
+**Le signal de la prise de conscience :**
+Le prospect formule lui-même un constat qui va dans le sens du GAP : "Ah ok c'est vrai que quand je regarde les chiffres..." / "Je vois ce que tu veux dire" / "C'est vrai que depuis le temps..." / "J'avais pas vu ça comme ça" / "Honnêtement c'est pas satisfaisant".
+
+C'est LE moment. Avant ce signal, toute tentative de ramener vers l'offre est prématurée et sonne commercial. Après ce signal, ne pas ramener vers l'offre = occasion manquée.
+
+**Ce qu'on fait juste après le signal :**
+
+1. Valider très brièvement (une phrase, pas un discours)
+2. Créer le GAP entre comprendre le principe et l'exécuter au quotidien
+3. Ramener vers l'offre avec une question ouverte d'offreur — jamais un pitch direct
+
+**Variations validées pour ce moment :**
+
+```
+Exactement. Et c'est là que la diff se fait en fait. Le principe 
+tu l'as capté, mais l'exécution au quotidien c'est là que tout 
+se joue. T'as eu le temps d'y réfléchir à comment tu voudrais 
+débloquer ça ?
+```
+
+```
+C'est exactement le type de situation qu'on travaillerait 
+ensemble. T'as réfléchi à comment tu voulais t'y prendre ?
+```
+
+```
+Y'a un truc précis que je travaille avec mes clients qui règle 
+exactement ce point-là. Si ça t'intéresse, on peut en parler 
+en appel.
+```
+
+**Ce qu'on NE fait PAS :**
+- Ne pas pitcher immédiatement ("j'ai une offre à X EUR qui règle exactement ça")
+- Ne pas donner de conseils actionables ("voilà ce que tu devrais faire")
+- Ne pas exhiber ses propres résultats sans qu'on les demande
+- Ne pas mentionner le prix en DM — uniquement en visio
+
+**Règle sur la posture après la prise de conscience :**
+La posture reste "offreur", jamais "demandeur". On propose une piste, on ne supplie pas. Le prospect est libre de venir ou pas. Si la question est formulée avec une légère indifférence ("si ça t'intéresse..."), elle convertit mieux qu'une question enthousiaste ("tu voudrais qu'on travaille ensemble ?").
+
+---
+
+### Proposition de visio — les conditions et la formulation
+
+**Les 3 conditions à réunir avant de proposer :**
+1. Pain point clairement exprimé par le prospect (avec ses mots, pas les nôtres)
+2. Intérêt visible pour résoudre le problème (pas juste un constat passif)
+3. Qualification minimale : a une offre définie, pas complètement débutant
+
+Si une des trois conditions n'est pas remplie, continuer à creuser. Proposer la visio trop tôt = refus quasi-garanti.
+
+**Formulation principale :**
+```
+Écoute, si je te posais toutes ces questions, c'était pour voir 
+si je pouvais t'aider quelque part. De ce que tu me dis, je 
+pense honnêtement pouvoir t'aider, notamment par rapport à 
+[reprendre SON blocage avec SES mots]. On pourrait se faire 
+un appel de 20 min pour voir ensemble comment débloquer ça. 
+Tu serais dispo [créneau 1] ou [créneau 2] ?
+```
+
+**Formulation courte (quand le prospect est déjà très investi) :**
+```
+Bon bonne nouvelle : ton problème c'est pas que tu sais pas 
+te vendre. C'est juste [diagnostic court avec leurs mots]. J'ai 
+repéré 2-3 trucs concrets à optimiser, ce serait plus simple 
+que je te montre ça en appel plutôt qu'en message. On se fait 
+15 min cette semaine ? Zéro pression.
+```
+
+**Règles absolues pour la proposition de visio :**
+- TOUJOURS proposer 2-3 créneaux spécifiques (jamais "t'es dispo quand ?")
+- Créneau dans les 72h maximum après la proposition
+- Réduire la friction : "15-20 min", "zéro pression", "aucun engagement"
+- JAMAIS mentionner le prix, l'offre ou l'investissement en DM
+- La formule "Au vu de tout ce que tu m'as dit, je suis sûrement en mesure de t'aider" est réservée pour ce moment uniquement
+
+---
+
+### Interdictions spécifiques à la phase socratique
+
+Ces interdictions s'ajoutent aux interdictions générales déjà listées au début du document.
+
+**1. Jamais critiquer la stratégie actuelle du prospect directement.**
+"Le contenu seul ça marche pas" → résistance garantie. Laisser les chiffres parler. "Ça t'amène combien de clients ?" — la réponse dit tout sans qu'on ait à juger.
+
+**2. Jamais formuler la douleur à la place du prospect.**
+On pose des questions ouvertes qui les amènent à formuler eux-mêmes. Si on formule pour eux ("ça doit être stressant de..."), on leur offre une sortie facile — ils acquiescent poliment sans ressentir grand chose.
+
+**3. Jamais donner de conseils actionables avant le paiement.**
+Si en creusant le problème on voit exactement quoi faire — se retenir. Montrer qu'on voit un pattern ("tu sais ce que je vois là ?") sans donner la solution concrète. La solution complète vient après le paiement.
+
+**4. Jamais mentionner les revenus ou le budget.**
+La question interdite : "tu gagnes combien par mois ?" → ghost garanti. La version autorisée : "tu tournes à combien de clients par mois ?" — les résultats, jamais les revenus directs.
+
+**5. Jamais passer en phase 4 sans avoir passé la phase 3.**
+La projection temporelle n'a aucun impact si on ne sait pas d'où part le prospect. Il faut d'abord comprendre leur situation actuelle et quantifier les résultats avant de projeter.
+
+**6. Jamais accumuler les questions sans rondeur.**
+Maximum 2-3 questions creusantes consécutives avant d'ajouter une phrase d'empathie.
+
+**7. Jamais proposer la visio avant la prise de conscience.**
+Proposer un appel à quelqu'un qui n'a pas encore réalisé qu'il a un problème = refus immédiat. Le signal de la prise de conscience doit être là avant.
+
+---
+
+### Adapter l'intensité selon le profil
+
+**Profil fragile** (débutant, peu d'expérience, formulations incertaines, réponses courtes, beaucoup de "je sais pas trop") :
+Creuser plus doucement. Plus de rondeur entre chaque question. Ne pas confronter frontalement avec les chiffres — amener graduellement. L'objectif est qu'ils réalisent par eux-mêmes, pas qu'ils se sentent jugés.
+
+**Profil confiant** (expérimenté, ton direct, chiffres donnés sans hésitation, pas de justification excessive) :
+Peut aller plus directement. Moins de rondeur nécessaire. Peut confronter plus tôt avec les chiffres. Ce profil préfère la franchise à la diplomatie excessive.
+
+**Comment détecter :**
+- Fragile : "je sais pas trop", "j'essaie de", "peut-être", formulations incertaines, réponses très courtes, beaucoup de justification
+- Confiant : réponses directes, chiffres donnés d'emblée, pas de formulations défensives, ton assuré
+
+---
+
 ## TECHNIQUE DES PARENTHÈSES
 
 ### Principe général
@@ -488,7 +898,7 @@ La structure globale (flux, phases, règles de forme) reste identique pour toute
 - [ ] Base de patterns "métier → combat principal" pour les profils fréquents (VA, copywriter, webdesigner, coach, consultant...)
 - [ ] Définir comment l'agent dérive le combat principal pour des métiers moins communs
 - [ ] 2-3 exemples complets de CAS A sur des sujets différents pour entraîner l'agent
-- [ ] Travailler les questions socratiques dans le détail (phase 3)
+- [x] Questions socratiques phases 3-5 — FAIT
 - [ ] Définir les typologies de prospects et les agents distincts associés
 - [ ] Travailler les variations d'emojis par profil détecté
 - [ ] Travailler la rondeur — quand l'injecter, comment, sur quels signaux
