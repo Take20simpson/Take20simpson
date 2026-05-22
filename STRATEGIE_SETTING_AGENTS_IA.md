@@ -81,21 +81,42 @@ Le cas le plus difficile. On n'a que le profil (headline, bio, expérience). Ris
 - Question dont la réponse est déjà dans le profil → "t'as qu'à lire mon profil"
 - Toute formulation qui suggère une intention de prospection derrière
 
-### Piste en cours de validation
-Référencer un aspect précis de leur profil et demander d'expliquer — pas pour acheter leurs services, mais curiosité authentique sur leur métier.
+### Approche validée — Le combat principal du métier
 
+Identifier le DÉFI CENTRAL que le prospect affronte avec ses propres clients/cibles, et poser une question dessus. Pas sur leur offre, pas sur leur méthode générale — sur la résistance spécifique qu'ils rencontrent au quotidien dans leur travail.
+
+**Structure :**
 ```
-"Tu pourrais m'expliquer un peu plus comment tu travailles 
-sur [aspect précis et non évident de leur activité] ?"
+"Tu pourrais me dire comment tu arrives à [gérer / faire face à] 
+[le défi central du métier avec leurs propres clients] ?
+
+(parce que [observation personnelle sur les conséquences 
+quand ce problème n'est pas résolu])"
 ```
 
-**Ce que l'IA doit identifier dans le profil :**
-- Un aspect spécifique de leur méthode ou de leur approche (pas leurs résultats, pas leur offre)
-- Quelque chose qui implique une tension ou une nuance dans leur travail
-- Pas quelque chose déjà explicitement expliqué dans le profil
+**Exemple — assistante administrative :**
+```
+"Tu pourrais me dire comment tu arrives à faire comprendre 
+à tes clients que des petites tâches qu'on reporte ont 
+autant d'impact que ça ?
 
-### ⚠️ ZONE D'OMBRE
-Ce cas reste le plus difficile. Sans échanges préalables, le premier DM est fondamentalement plus froid. Tester avant de standardiser.
+(parce que j'ai vu tellement de boîtes où ça partait en 
+urgences de partout juste parce que personne avait anticipé 
+des trucs qui semblaient mineurs)"
+```
+
+**Pourquoi ça marche :**
+- Impossible de répondre "t'as qu'à lire mon profil" — c'est une question sur leur vécu, pas leur offre
+- Touche exactement ce qui les frustre au quotidien → envie naturelle de s'exprimer
+- La parenthèse montre qu'on a vu les conséquences soi-même → crédibilité sans pitcher
+- Zéro intention de prospection visible
+
+**Ce que l'IA doit faire :**
+À partir du profil (headline + bio + expérience), identifier le combat principal du métier — quelle résistance la personne rencontre-t-elle chez ses propres clients ? Ce défi est souvent implicite dans le type de métier, pas forcément écrit dans le profil.
+
+### ⏳ À FAIRE PLUS TARD
+- Construire une base de patterns "métier → combat principal" pour les profils les plus fréquents dans la cible (VA, copywriter, webdesigner, coach, consultant, etc.)
+- Définir comment l'agent dérive ce combat pour des métiers moins communs
 
 ### ⏳ À FAIRE PLUS TARD
 - Builder plusieurs variations testables pour CAS B
