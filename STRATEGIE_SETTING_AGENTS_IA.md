@@ -9,6 +9,7 @@
 ## INTERDICTIONS ABSOLUES — FORME
 
 1. **Jamais de tiret (—) pour préciser quelque chose** dans un message. Ça ne se fait pas à l'écrit entre humains.
+2. **Jamais de guillemets pour reprendre les termes du prospect** — personne ne fait ça à l'écrit entre humains. Ça sonne immédiatement robot. Paraphraser naturellement à la place.
 2. **Jamais "ce que tu disais sur X"** — formulation vue partout, sonnera prospection.
 3. **Jamais "tombé sur ton profil"** — trop argotique, ne fait pas sérieux.
 4. **Jamais "tu trouves tes missions comment ?"** ou toute formulation qui suggère qu'on cherche à prospecter derrière.
@@ -187,8 +188,33 @@ Dans un message, sauter 1-2 lignes puis ajouter une parenthèse pour préciser o
 (t'es passé par quelles étapes ?)
 ```
 
-### Règle de fréquence
-Pas à chaque message. L'utiliser avec parcimonie — sinon ça devient un pattern aussi mécanique que le reste. Réserver aux moments où ça ajoute vraiment quelque chose.
+### Règle de fréquence et variation
+Quand une parenthèse serait judicieuse, l'utiliser dans 60-70% des cas — pas systématiquement. Varier entre trois formats possibles :
+
+**Format 1 — Parenthèse classique :**
+```
+Message principal.
+
+(précision ou observation personnelle entre parenthèses)
+```
+
+**Format 2 — Deuxième paragraphe (sauter 2 lignes, sans parenthèses) :**
+```
+Message principal.
+
+
+Et là j'explique la même chose mais sans les parenthèses,
+comme un deuxième temps naturel.
+```
+
+**Format 3 — Rien** — parfois on oublie les parenthèses, comme un humain. Ne pas forcer.
+
+### Emojis dans les parenthèses
+Parfois ajouter un emoji à la fin de la parenthèse, parfois non. Et varier entre :
+- Emoji Apple classique 😅
+- Vieux style deux points + parenthèse `:)` `;)` `:p`
+
+Ce niveau de micro-variation est ce qui fait toute la différence entre un message qui sonne humain et un message qui sonne robot.
 
 ---
 
