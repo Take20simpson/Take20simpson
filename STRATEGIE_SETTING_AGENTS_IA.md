@@ -76,22 +76,26 @@ n'agissent pas."
 ### Contexte
 Le cas le plus difficile. On n'a que le profil (headline, bio, expérience). Risque : question déjà répondue dans le profil → prospect dit "t'as qu'à lire mon profil."
 
-### Approche validée
-S'intéresser à leur MÉTIER de manière authentique — pas à leur business pour prospecter. Les gens adorent parler d'eux-mêmes. La question doit sonner comme quelqu'un qui est curieux de comprendre leur réalité quotidienne, pas comme quelqu'un qui cherche un client.
+### Ce qui ne marche pas
+- Question trop basique même précise → pas d'engagement
+- Question dont la réponse est déjà dans le profil → "t'as qu'à lire mon profil"
+- Toute formulation qui suggère une intention de prospection derrière
+
+### Piste en cours de validation
+Référencer un aspect précis de leur profil et demander d'expliquer — pas pour acheter leurs services, mais curiosité authentique sur leur métier.
 
 ```
-"[Accroche sobre sur leur profil — pas de compliment générique]. 
-Tu pourrais m'expliquer exactement en quoi ça consiste [angle précis 
-de leur métier] ?"
+"Tu pourrais m'expliquer un peu plus comment tu travailles 
+sur [aspect précis et non évident de leur activité] ?"
 ```
 
-### Ce qu'on évite
-- Donner l'impression qu'on est intéressé par leurs services
-- Poser une question dont la réponse est dans le profil
-- Tout ce qui suggère une intention de prospection derrière
+**Ce que l'IA doit identifier dans le profil :**
+- Un aspect spécifique de leur méthode ou de leur approche (pas leurs résultats, pas leur offre)
+- Quelque chose qui implique une tension ou une nuance dans leur travail
+- Pas quelque chose déjà explicitement expliqué dans le profil
 
 ### ⚠️ ZONE D'OMBRE
-Ce cas reste à travailler. Les formulations actuelles ne sont pas encore optimales. Tester plusieurs approches avant de standardiser.
+Ce cas reste le plus difficile. Sans échanges préalables, le premier DM est fondamentalement plus froid. Tester avant de standardiser.
 
 ### ⏳ À FAIRE PLUS TARD
 - Builder plusieurs variations testables pour CAS B
@@ -112,23 +116,20 @@ Cette question est le pont entre le premier DM (contenu/insight) et la question 
 - **"T'en es où dans ton activité là — ça tourne ?"** = trop proche de la question de transition. Risque de remplacer la transition au lieu de la précéder. Réservée ailleurs.
 - **"Ça fait combien de temps que tu es indépendant(e) ?"** = souvent sur le profil + un peu générique. Mais avait le mérite d'être légère.
 
-### Propositions à tester
+### Formulation validée
 ```
-"T'es arrivé(e) dans tout ça comment ?"
-```
-```
-"T'aimes ça au fond — l'indépendance ?"
+"T'en es arrivé(e) comment à être indépendant(e) ?
+(t'es passé par quelles étapes ?)"
 ```
 
-Ces deux options :
-- Ne sont pas dans le profil
-- Sont personnelles sans être extractives
-- Invitent à partager sans forcer
-- Créent une vraie conversation humaine
+**Pourquoi ça marche :**
+- Invite la personne à raconter son parcours → elle se livre
+- Les parenthèses ajoutent une invitation douce à développer sans forcer
+- Mène naturellement vers "Du coup c'est quoi ton focus sur les prochains mois ?"
+- Pas dans le profil, personnelle, pas extractive
 
 ### ⏳ À FAIRE PLUS TARD
-- Tester les deux en situation réelle
-- Trouver d'autres variantes
+- Trouver 2-3 variantes de cette question pour ne pas toujours formuler la même chose
 
 ---
 
@@ -146,6 +147,27 @@ Ces deux options :
 
 ### Variante selon contexte
 Si la conversation a déjà livré des infos sur leur situation — ne pas utiliser "du coup vu ce que tu m'as dit" (formule toute faite). Reformuler naturellement en intégrant le contexte.
+
+---
+
+## TECHNIQUE DES PARENTHÈSES
+
+### Principe
+Dans un message, sauter 1-2 lignes puis ajouter une parenthèse pour préciser ou partager quelque chose de personnel. Ça humanise l'échange sans alourdir le message principal.
+
+### Deux usages
+1. **Partage d'expérience personnelle :**
+```
+(moi aussi je suis passé par là — au début ce qui me bloquait c'était X)
+```
+
+2. **Précision/invitation à développer :**
+```
+(t'es passé par quelles étapes ?)
+```
+
+### Règle de fréquence
+Pas à chaque message. L'utiliser avec parcimonie — sinon ça devient un pattern aussi mécanique que le reste. Réserver aux moments où ça ajoute vraiment quelque chose.
 
 ---
 
