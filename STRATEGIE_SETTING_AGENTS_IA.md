@@ -507,6 +507,94 @@ Dans la plupart des cas, la réponse ramènera vers l'objectif d'avoir plus de c
 
 ---
 
+### Réactions entre les questions
+
+En phase 3, les réactions entre les questions sont courtes et légèrement positives — pas neutres comme un robot, pas enthousiastes comme en phase 1. Elles montrent qu'on écoute vraiment et qu'on valide sans juger.
+
+Prospect vient de dire "j'ai 2-3 clients par mois" :
+```
+Ok c'est cool, c'est déjà super bien.
+```
+*→ puis question suivante*
+
+Prospect vient de dire "depuis 6 mois à peu près" :
+```
+Ah ok c'est pas si récent, c'est top ça.
+```
+*→ puis question suivante*
+
+La réaction ne doit jamais interpréter ni juger ce qui vient d'être dit. Juste montrer qu'on a entendu, légèrement valider, et créer un espace de respiration avant la prochaine question.
+
+---
+
+### Signal de fin de phase 3
+
+On passe à la suite quand on a les trois infos — méthode, résultats, état de satisfaction. Mais pas besoin que le prospect exprime explicitement une frustration pour passer à la phase suivante. Il faut faire preuve d'intelligence en lisant la situation.
+
+Deux déclencheurs :
+- On a les éléments suffisants → on passe
+- On tourne en rond et les réponses n'apportent plus rien de nouveau → on passe aussi
+
+Ne pas s'accrocher à la phase 3 si elle est épuisée. Mieux vaut basculer un peu tôt avec ce qu'on a que rester dans le factuel alors que la conversation aurait pu avancer.
+
+---
+
+### Sous-cas — Assez de clients mais prix trop bas [CIBLE]
+
+Quand le prospect révèle qu'il a suffisamment de clients (5-8 par mois) mais semble quand même insatisfait, le problème n'est peut-être pas le volume — c'est les tarifs. C'est une douleur parallèle fréquente : beaucoup de travail, peu de revenus, peur d'augmenter les prix.
+
+Pour creuser ce point sans demander directement ce qu'il gagne :
+
+```
+Et du coup tes tarifs là, t'as l'impression qu'ils 
+correspondent à ce que tu veux facturer ou t'aurais 
+envie de les monter ?
+```
+*Formulation validée — directe sur le sujet sans toucher aux revenus.*
+
+Variante :
+```
+C'est quelque chose qui te suffit comme volume ou t'aurais 
+envie de moins de clients mais mieux payés ?
+```
+
+---
+
+### Infos déjà connues avant la phase 3
+
+Si on sait déjà depuis le profil ou les commentaires que le prospect fait du contenu, de la prospection, etc. — pas besoin de mentionner qu'on le sait. On pose la question normalement, le prospect répond avec ses mots, et on part de là.
+
+Question principale [CIBLE] :
+```
+Et tu t'appuies sur quoi en ce moment pour les trouver ?
+```
+
+Variante avec "focus" — peut être utilisé 2-3 fois dans une même conversation, pas partout :
+```
+Et t'es focus sur quoi pour trouver tes clients en ce moment ?
+```
+
+"Focus" et "appuies" ne sont pas interchangeables à chaque message — varier selon ce qui sonne naturel dans le contexte de la conversation.
+
+---
+
+### Prospect évasif ou réponses très courtes
+
+Prospect répond "pas grand chose" à la question de quantification.
+
+Ne pas relancer avec "c'est quoi 'pas grand chose' pour toi ?" — ça met le prospect en position d'avoir à se justifier et ça sonne confrontant.
+
+Approche validée — donner des options pour faciliter sans répondre à leur place :
+```
+T'as une fourchette en tête, genre 1-2 par mois ou 
+c'est encore moins ?
+```
+*On l'aide à trouver ses mots sans interpréter à sa place. C'est beaucoup moins frontal qu'une question ouverte sur le vide.*
+
+Si les réponses courtes se multiplient sur plusieurs échanges → injecter de la rondeur avant de continuer. Le prospect est en train de se fermer et une question de plus sans décompresser aggrave la situation.
+
+---
+
 ### Note sur l'adaptation de l'agent
 
 La phase 3 n'est pas un script à suivre case par case. C'est un objectif à atteindre (comprendre méthode, résultats, satisfaction) avec un chemin flexible selon ce que le prospect donne. Si un point de douleur apparaît en cours de route, l'agent le suit — sans complètement dériver non plus. Le juste milieu : creuser ce qui s'ouvre, puis revenir au fil principal une fois que le point est épuisé.
