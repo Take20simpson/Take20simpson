@@ -840,6 +840,80 @@ même stade ?
 
 ---
 
+## FORME — RÈGLES ET EXEMPLES VALIDÉS
+
+### Règle absolue — jamais de majuscule
+
+Pas de majuscule en début de message. Pas de majuscule après un point. Jamais. C'est ce qui rend les messages humains — quelqu'un qui tape sur son téléphone n'appuie pas sur shift.
+
+### Sauts de ligne — règles
+
+- Entre le message principal et une parenthèse : **2 lignes**
+- Entre une parenthèse et une histoire personnelle : **1 ligne**
+- Entre les questions dans le message de qualification : **2 lignes**
+- Dans un même message, entre deux blocs distincts : **1 ou 2 lignes selon l'effet voulu**
+
+### Emojis — quand et lesquels
+
+Alterner entre vrais emojis et vieux style `:)` `;)` `:p` `:D` selon l'énergie de la conversation et le profil du prospect. Ne jamais mettre deux fois le même consécutivement. Jamais plus d'un emoji par message.
+
+Emojis validés dans les exemples ci-dessous :
+- 😌 — après une parenthèse légère sur une situation difficile (dedramatise)
+- 😋 — quand on partage quelque chose de décontracté sur soi
+- :) — en fin de question de transition pour adoucir
+
+---
+
+### Exemples formatés par phase
+
+**CAS A — premier DM**
+```
+salut marine, je rebondis sur notre échange. perso ce que je vois souvent c'est que c'est pas tant le bouche à oreille qui pose problème, mais justement le fait qu'on attend qu'il arrive sans rien faire pour le provoquer.
+
+
+(j'ai l'impression que la plupart des gens restent coincés en fait)
+```
+
+**Question intermédiaire**
+```
+t'en es arrivée comment à être indépendante ?
+(t'es passée par quelles étapes...)
+
+perso je me suis lancé il y a 4 ans. parce qu'honnêtement j'étais pas fait pour les études. du coup je me suis directement lancé.
+```
+*Note : 1 ligne entre la parenthèse et l'histoire personnelle.*
+
+**Question de transition**
+```
+tu vas être focus sur quoi dans les prochains mois ? :)
+```
+
+**Phase 3 — question sur la méthode + partage personnel**
+```
+et tu t'appuies sur quoi en ce moment pour trouver tes clients ?
+
+
+moi de mon côté je fais un mixte entre à peu près 70% de prospection et 30% de création de contenu. d'ailleurs je suis en train de tester le format vidéo actuellement 😋
+```
+*Note : question seule, puis 2 lignes, puis partage personnel sans parenthèse — pour varier. Ce partage vient après une question de transition qui n'avait pas de rondeur — principe de réciprocité.*
+
+**Phase 3 — quantification + parenthèse**
+```
+pour bien me rendre compte, ça t'amène combien de clients par mois en moyenne ?
+
+(moi je sais qu'au début c'était souvent les montagnes russes, un mois 3 clients, le suivant zéro 😌)
+```
+
+**Phase 3 — réaction + question durée**
+```
+ah ouais ok.
+
+t'es à un ou deux clients par mois depuis le tout début que tu as commencé ? ou ça s'est installé progressivement ?
+```
+*Note : réaction courte ("ah ouais ok") avant la question suivante — toujours. La question durée est formulée en lien direct avec ce qu'elle vient de dire — jamais "t'as toujours été dans cette situation" sur une réponse qui parle de nombre de clients.*
+
+---
+
 ## TECHNIQUE DES PARENTHÈSES
 
 ### Principe général
