@@ -780,6 +780,66 @@ débloquer ça. Tu serais dispo mercredi
 
 ---
 
+## QUESTIONS DE QUALIFICATION PRÉ-APPEL
+
+### Quand les envoyer
+
+Ces questions sont envoyées après que le prospect a accepté la proposition de visio. L'objectif n'est pas seulement de collecter des informations — c'est le principe du pied dans la porte. En répondant à ces questions avant l'appel, le prospect fait une micro-action qui l'engage. Il a investi du temps, il sera beaucoup plus présent et impliqué au moment de l'appel.
+
+### Règle d'analyse préalable — critique
+
+Avant d'envoyer ces questions, l'agent relit l'intégralité de la conversation. Si certains éléments ont déjà été abordés, les questions correspondantes sont supprimées ou adaptées. On n'envoie que ce qui manque réellement.
+
+- Si la cible et l'offre ont été évoquées → supprimer la première question
+- Si le gros problème a été clairement nommé → supprimer la deuxième question
+- Si les deux ont été couverts → n'envoyer que la troisième
+
+L'intro s'adapte en conséquence : "ces 3 petites questions" ou "ces 2 petites questions" ou "cette question".
+
+### Format — vocal + écrit
+
+Ce message fonctionne particulièrement bien en vocal suivi des questions à l'écrit. Matthias enregistre un message vocal qui dit exactement le texte d'intro, puis envoie les questions par écrit en dessous. Le double format renforce l'impact et le côté humain.
+
+### Structure validée
+
+```
+Pour vraiment que notre appel de [jour] à [heure] 
+soit le plus utile possible pour toi, est-ce que 
+tu pourrais répondre à ces [2/3] petites questions 
+et me les envoyer avant [jour] à [heure] pour que 
+je puisse me préparer ?
+
+
+Première question : est-ce que tu peux me dire 
+à qui tu t'adresses, ta cible en quelques phrases ? 
+Et dans la continuité, est-ce que tu peux me parler 
+un peu plus précisément de ton offre, de ce que tu 
+proposes, que je comprenne un peu où tu en es.
+
+
+Deuxième question : si tu devais me nommer un seul 
+gros problème, vraiment là où tu bloques en ce moment, 
+ce serait lequel ?
+(même si on en a un peu parlé, n'hésite pas à me 
+dire plus précisément là où ça te dérange, où tu 
+bloques, où tu ne sais pas quoi faire)
+
+
+Troisième question : pourquoi c'est important pour 
+toi de régler ce problème maintenant ? Pour que je 
+comprenne bien depuis combien de temps t'es dans 
+cette situation, et justement qu'est-ce qui se passe 
+pour toi si dans quelques mois t'es toujours au 
+même stade ?
+```
+
+**Ce qu'on conserve dans tous les cas :**
+- Les questions sont en toutes lettres ("Première question", "Deuxième question") — jamais numérotées
+- Minimum deux lignes de séparation entre chaque question
+- La parenthèse sur la deuxième question reste même si on a déjà abordé le sujet — elle invite à aller plus loin
+
+---
+
 ## TECHNIQUE DES PARENTHÈSES
 
 ### Principe général
