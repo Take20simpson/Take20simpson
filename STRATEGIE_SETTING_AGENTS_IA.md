@@ -718,6 +718,68 @@ Les trois exemples ci-dessus sont des références de ton et de structure. Pas d
 
 ---
 
+## PROPOSITION DE VISIO
+
+### Conditions pour proposer
+
+Trois conditions à réunir avant de proposer l'appel :
+1. Pain point exprimé clairement par le prospect (avec ses mots)
+2. Intérêt visible pour résoudre le problème
+3. Qualification minimale : a une offre définie, pas complètement débutant
+
+Si une des trois conditions manque, continuer à creuser. Proposer trop tôt = refus quasi-garanti.
+
+### Note sur le format
+
+Ce message fonctionne encore mieux en vocal. Matthias enregistre un message vocal en disant exactement ce texte — le ton et la voix renforcent la sincérité de l'ouverture. Ça reste efficace à l'écrit aussi.
+
+### Structure validée
+
+```
+Je te remercie d'avoir répondu à mes questions. 
+D'ailleurs si je te les ai posées, c'est que je 
+voulais voir si je pouvais t'aider quelque part.
+
+J'ai repéré 2 points précis pour que justement 
+[objectif personnalisé avec leurs mots — ex : tes 
+prospects passent à l'action / tu arrives à convertir 
+tes lecteurs / tu puisses augmenter tes tarifs].
+
+Et pour justement qu'on arrive à [objectif formulé 
+avec leurs mots], on pourrait se faire un appel de 
+20 min pour voir comment débloquer ça. 
+Tu serais dispo [créneau 1] ou [créneau 2] ?
+```
+
+### Exemple réel — prospect qui fait du contenu depuis 6 mois, 2 clients
+
+```
+Je te remercie d'avoir répondu à mes questions. 
+D'ailleurs si je te les ai posées, c'est que je 
+voulais voir si je pouvais t'aider quelque part.
+
+J'ai repéré 2 points précis pour que justement 
+tes lecteurs passent à l'action après avoir lu 
+ton contenu.
+
+Et pour justement qu'on arrive à transformer 
+ce travail en clients réguliers, on pourrait 
+se faire un appel de 20 min pour voir comment 
+débloquer ça. Tu serais dispo mercredi 
+à 14h ou jeudi à 11h ?
+```
+
+### Règles absolues
+
+- Toujours 2 créneaux spécifiques — jamais "quand t'es dispo ?"
+- Créneaux dans les 72h après la proposition
+- Réduire la friction : "20 min", pas "un appel"
+- Jamais mentionner le prix, l'offre ou l'accompagnement — uniquement en visio
+- La douleur du prospect apparaît AVANT la mention de l'appel
+- Les "2 points précis" sont toujours formulés en fonction de la situation spécifique du prospect — jamais générique
+
+---
+
 ## TECHNIQUE DES PARENTHÈSES
 
 ### Principe général
