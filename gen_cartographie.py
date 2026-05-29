@@ -224,9 +224,11 @@ bullet(doc, [b("Phase 3 : "), n("qualifier et proposer l'action finale")], level
 
 rule(doc, "On ne passe d'une phase à l'autre qu'avec des critères de transition clairs — jamais par automatisme")
 
-bullet(doc, [b("CAS A : "), n("contact après commentaire sur un post de Matthias — le prospect vient à lui")])
-bullet(doc, [b("CAS B : "), n("contact en outbound — Matthias va vers le prospect")])
-note(doc, "→ Les deux cas ne suivent pas le même flux d'ouverture, mais convergent à partir de la Phase 2")
+bullet(doc, [b("CAS A : "), n("contact après commentaire sur un post de l'utilisateur — le prospect vient à lui")])
+bullet(doc, [b("CAS B : "), n("contact en outbound — l'utilisateur va vers le prospect")])
+bullet(doc, [b("CAS C : "), n("le prospect envoie une demande de connexion — initiative entrante du prospect")])
+bullet(doc, [b("CAS D : "), n("visiteur de profil — le prospect a visité le profil de l'utilisateur sans envoyer de message")])
+note(doc, "→ Les 4 cas ne suivent pas le même flux d'ouverture, mais convergent à partir de la Phase 2")
 
 # ─ BLOC 2 ─
 bloc(doc, "BLOC 2 — Profils personnalité")
@@ -258,6 +260,8 @@ bullet(doc, [b("Signal de désengagement "), n("→ ne pas relancer de force, la
 bullet(doc, [b("Signal de profil silencieux "), n("→ proposer alternatives A/B (à documenter lors de l'analyse des conversations)")], level=2)
 
 rule(doc, "Les histoires personnelles sont déclenchées par signal — jamais par fréquence mécanique (ex : « 1 fois sur 4 » = interdit)")
+rule(doc, "Garde-fou de fréquence : même quand un signal est détecté, l'IA ne partage pas une histoire personnelle plus d'une fois sur 3 à 4 messages — détecter un bon pattern ne suffit pas à le systématiser")
+note(doc, "→ Double logique : (1) c'est le signal qui déclenche, pas une règle de comptage — ET (2) même avec un signal, on ne le fait pas à chaque fois")
 note(doc, "→ Le contenu précis de ce bloc sera enrichi par l'analyse des 15 conversations réelles")
 
 # ─ BLOC 4A ─
@@ -270,12 +274,13 @@ normal(doc, [
     n(" qui montre qu'on a vraiment compris la personne — pas juste lu son titre LinkedIn"),
 ], after=6)
 
-bullet(doc, "Ce qu'on lit :")
-bullet(doc, "Posts, vidéos, section info, commentaires, stratégie visible sur le profil", level=2)
+bullet(doc, "Ce qu'on lit — tout ce qui est disponible en texte :")
+bullet(doc, "Posts, section info, commentaires, stratégie visible sur le profil", level=2)
+note(doc, "→ L'agent ne peut pas lire les vidéos — il s'appuie sur le maximum d'informations textuelles disponibles", level=2)
 bullet(doc, "Pas juste le headline — la cohérence globale de la présence LinkedIn", level=2)
 
 bullet(doc, [c("✗  ", RED_SOFT), b("Ce qu'on NE fait PAS : "), i('"J\'ai vu sur ton profil que tu faisais X, Y, Z"'), n(" → mécanique, éclaté au sol")])
-bullet(doc, [c("✓  ", GREEN_SOFT), b("Ce qu'on fait : "), n("arriver avec "), b("LA synthèse"), n(' qui fait dire "putain, ce mec a vraiment regardé mes vidéos, mes posts, compris ma vision"')])
+bullet(doc, [c("✓  ", GREEN_SOFT), b("Ce qu'on fait : "), n("arriver avec "), b("LA synthèse"), n(' qui fait dire "putain, ce mec a vraiment regardé mes posts, compris ma vision et ma stratégie"')])
 
 bullet(doc, [b("Test de validation : "), n("la personne penserait-elle « il a compris ma philosophie » — pas juste « il a lu mon profil » ?")])
 
@@ -306,7 +311,7 @@ bloc(doc, "BLOC 6 — Qualification")
 
 normal(doc, [
     b("Objectif : confirmer "),
-    u("urgence"),
+    u("besoin réel"),
     b(" + confirmer "),
     u("solvabilité"),
     b(" — deux axes "),
@@ -314,14 +319,14 @@ normal(doc, [
     b(" à valider séparément"),
 ], after=7)
 
-bullet(doc, [u("Urgence"), n(" = la personne a un vrai problème maintenant")])
-bullet(doc, [i('"Mes clients sont tous en delivery, je n\'ai pas besoin là"'), n(" → urgence absente même si solvabilité OK")], level=2)
+bullet(doc, [u("Besoin réel / Problème existant"), n(" = la personne a un problème identifié et reconnu")])
+bullet(doc, [i('"Mes clients sont tous en delivery, je n\'ai pas besoin là"'), n(" → besoin absent ou non perçu même si solvabilité OK")], level=2)
 
 bullet(doc, [u("Solvabilité"), n(" = la personne peut investir")])
 bullet(doc, [i('"Pas de budget"'), n(" ≠ pas de solvabilité → souvent une résistance à verbaliser, pas une réalité financière")], level=2)
 note(doc, "→ Comment distinguer les deux selon la niche : dans les modules niche (corporate vs solopreneur)", level=2)
 
-bullet(doc, [b("Temporalité du besoin : "), n("urgence temporelle à vérifier — quelqu'un peut avoir les moyens mais pas le bon timing")])
+bullet(doc, [b("Temporalité du besoin : "), n("quelqu'un peut avoir un besoin réel et les moyens, mais pas le bon timing — à vérifier discrètement")])
 note(doc, "→ À intégrer comme vérification discrète dans la qualification, sans en faire une grande règle formelle")
 
 bullet(doc, "Méthodes universelles présentes dans le tronc central :")
@@ -437,7 +442,7 @@ schema = [
     "│  Bloc 4A — Ultra-personnalisation par insight profond       │",
     "│  Bloc 4  — Règles sur les questions                         │",
     "│  Bloc 5  — Standards qualité                                │",
-    "│  Bloc 6  — Qualification (urgence + solvabilité)            │",
+    "│  Bloc 6  — Qualification (besoin réel + solvabilité)        │",
     "│  Bloc 7  — Signaux de disqualification                      │",
     "└────────────────────────────┬─────────────────────────────────┘",
     "                             │  alimenté par",
