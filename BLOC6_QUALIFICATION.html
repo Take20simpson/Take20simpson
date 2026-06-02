@@ -1,0 +1,639 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bloc 6 — Qualification</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    font-size: 11pt;
+    line-height: 1.6;
+    color: #222;
+    max-width: 860px;
+    margin: 0 auto;
+    padding: 32px 24px;
+  }
+
+  h1 {
+    color: #1155CC;
+    font-size: 20pt;
+    margin-top: 36px;
+    margin-bottom: 8px;
+  }
+
+  h2 {
+    color: #1155CC;
+    font-size: 14pt;
+    margin-top: 28px;
+    margin-bottom: 6px;
+    border-bottom: 1px solid #c6d4f5;
+    padding-bottom: 4px;
+  }
+
+  h3 {
+    color: #1155CC;
+    font-size: 11pt;
+    margin-top: 20px;
+    margin-bottom: 4px;
+  }
+
+  p {
+    margin: 6px 0 10px 0;
+  }
+
+  ul, ol {
+    margin: 6px 0 10px 0;
+    padding-left: 22px;
+  }
+
+  li {
+    margin-bottom: 4px;
+  }
+
+  /* POURQUOI */
+  .pourquoi {
+    background: #f0f4ff;
+    border-left: 4px solid #1155CC;
+    padding: 10px 14px;
+    margin: 10px 0 14px 0;
+    font-size: 10.5pt;
+  }
+
+  .pourquoi strong {
+    color: #1155CC;
+  }
+
+  /* IF → THEN */
+  .if-then {
+    background: #f4f4f4;
+    border: 1px solid #ccc;
+    border-left: 4px solid #555;
+    padding: 10px 14px;
+    margin: 10px 0 14px 0;
+    font-size: 10.5pt;
+    font-family: monospace;
+  }
+
+  /* WARNING */
+  .warning {
+    color: #c00;
+    font-weight: bold;
+    margin: 8px 0;
+  }
+
+  /* NOTE */
+  .note {
+    color: #555;
+    font-style: italic;
+    font-size: 10pt;
+    margin: 6px 0;
+  }
+
+  /* EXEMPLE */
+  .exemple {
+    background: #fffbe6;
+    border-left: 4px solid #e6a817;
+    padding: 10px 14px;
+    margin: 10px 0 14px 0;
+    font-size: 10.5pt;
+  }
+
+  .exemple .titre-exemple {
+    font-weight: bold;
+    color: #b07800;
+    margin-bottom: 4px;
+  }
+
+  /* LABEL BLOCK */
+  .label-block {
+    font-weight: bold;
+    text-decoration: underline;
+  }
+
+  /* CAS TYPE */
+  .cas {
+    background: #f9f9f9;
+    border: 1px solid #ddd;
+    border-left: 4px solid #1155CC;
+    padding: 12px 16px;
+    margin: 12px 0 16px 0;
+  }
+
+  .cas .cas-titre {
+    font-weight: bold;
+    color: #1155CC;
+    margin-bottom: 6px;
+  }
+
+  /* TABLE */
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 12px 0 16px 0;
+    font-size: 10.5pt;
+  }
+
+  th {
+    background: #1155CC;
+    color: white;
+    padding: 8px 10px;
+    text-align: left;
+  }
+
+  tr:nth-child(even) {
+    background: #f0f4ff;
+  }
+
+  tr:nth-child(odd) {
+    background: #fff;
+  }
+
+  td {
+    padding: 7px 10px;
+    border: 1px solid #d0d8f0;
+    vertical-align: top;
+  }
+
+  /* POINT D'ATTENTION */
+  .point-attention {
+    background: #fff4f4;
+    border-left: 4px solid #c00;
+    padding: 10px 14px;
+    margin: 10px 0 14px 0;
+    font-size: 10.5pt;
+  }
+
+  .point-attention .pa-titre {
+    font-weight: bold;
+    color: #c00;
+    margin-bottom: 4px;
+  }
+
+  hr {
+    border: none;
+    border-top: 1px solid #d0d8f0;
+    margin: 24px 0;
+  }
+</style>
+</head>
+<body>
+
+<h1>BLOC 6 — QUALIFICATION</h1>
+
+<hr>
+
+<h2>VOCABULAIRE DU BLOC 6</h2>
+
+<p><span class="label-block">BESOIN RÉEL</span><br>
+Problème identifié et reconnu par le prospect dans sa situation actuelle.
+Un signal de douleur verbalisé ("je suis dans un creux", "la visibilité est pas ouf")
+confirme qu'un besoin réel existe — mais ne suffit pas à qualifier complètement.
+Il faut encore valider la solvabilité et s'assurer que la conscientisation est
+suffisante pour que l'appel soit productif.</p>
+
+<p><span class="label-block">SOLVABILITÉ</span><br>
+Capacité du prospect à investir dans la solution proposée.
+"Je n'ai pas l'argent" est une résistance dans 90% des cas — pas une incapacité réelle.
+La solvabilité ne se qualifie jamais frontalement en DM.
+Voir Section 2 et Point d'attention associé.</p>
+
+<p><span class="label-block">SPECTRE DES ANGLES D'ATTAQUE</span><br>
+Ensemble des problèmes concrets sur lesquels la solution de l'utilisateur peut aider — pour un profil donné.
+On ne cherche pas un seul problème unique : on part du premier angle et, s'il ne révèle pas de besoin,
+on explore le suivant. On ne disqualifie qu'après avoir parcouru l'ensemble du spectre sans signal.</p>
+
+<div class="exemple">
+  <div class="titre-exemple">Exemple — Accompagnement acquisition client (contexte Matthias)</div>
+  → Angle 1 : pas assez de clients<br>
+  → Angle 2 : tarifs trop bas<br>
+  → Angle 3 : clients pas assez qualitatifs / mauvais profils<br>
+  → Angle 4 : offre à retravailler pour aller chercher un autre type de client
+</div>
+
+<div class="note">Le spectre exact est défini par l'utilisateur de la plateforme en configuration initiale — il varie selon la niche et l'offre.</div>
+
+<p><span class="label-block">LEAD SCORING</span><br>
+Critères minimum à réunir avant de proposer l'action finale.
+Si ces critères ne sont pas atteints, l'agent continue à creuser ou maintient le contact pour un suivi futur.</p>
+
+<p><span class="label-block">CLARIFICATION</span><br>
+Réflexe central face à tout "non", toute objection, tout signal de résistance ou de mauvais timing.
+On ne cherche pas à convaincre, à contrer, ni à vendre.
+On cherche à comprendre pourquoi — pour mettre en parallèle la situation réelle du prospect avec ses propres objectifs,
+et laisser l'incohérence éventuelle apparaître d'elle-même.</p>
+
+<hr>
+
+<h2>PRINCIPE CENTRAL</h2>
+
+<p>La qualification repose sur <strong>deux axes indépendants</strong> :
+<strong>besoin réel confirmé</strong> + <strong>solvabilité suffisante</strong>.</p>
+
+<p>Ces deux axes ne se vérifient pas dans un ordre fixe.
+Ils émergent au fil de la conversation — l'agent les lit en parallèle dans ce que le prospect exprime.</p>
+
+<p>La temporalité (bon ou mauvais timing) n'est pas un axe indépendant.
+Quand un prospect a vraiment verbalisé son problème, l'urgence est déjà là.
+La question de timing n'apparaît que sous forme d'objection explicite —
+traitée systématiquement par la clarification. Voir Section 4.</p>
+
+<div class="pourquoi">
+<strong>POURQUOI deux axes indépendants :</strong><br>
+Quelqu'un peut avoir un besoin réel criant et ne pas avoir la capacité d'investir maintenant.
+Quelqu'un peut avoir de l'argent et aucun problème que la solution résout.
+Les deux doivent être vrais en même temps pour que l'appel soit pertinent — c'est pour ça qu'ils sont traités séparément,
+pas comme un seul bloc "qualification".
+</div>
+
+<hr>
+
+<h2>SECTION 1 — BESOIN RÉEL</h2>
+
+<h3>1.1 — Ce qui confirme un besoin réel</h3>
+
+<p>Un besoin réel est présent quand le prospect exprime une tension dans sa situation actuelle —
+pas nécessairement avec des mots forts.</p>
+
+<p>Signaux typiques :</p>
+<ul>
+  <li>"je suis dans un petit creux"</li>
+  <li>"la visibilité est pas ouf"</li>
+  <li>"c'est un peu le calme plat"</li>
+  <li>"j'en ai marre de tourner en rond"</li>
+  <li>"je fais ce que je peux"</li>
+</ul>
+
+<div class="note">→ Voir Bloc 3 — Section 4 pour la liste complète des signaux de douleur et la logique de creusage.</div>
+
+<p>Ce qu'un signal de douleur <strong>ne suffit pas</strong> à confirmer :</p>
+<ul>
+  <li>La solvabilité</li>
+  <li>Un niveau de conscientisation suffisant pour que l'appel soit productif</li>
+  <li>L'alignement entre le problème verbalisé et ce que la solution peut résoudre</li>
+</ul>
+
+<div class="if-then">
+IF signal de douleur détecté →<br>
+THEN creuser jusqu'au concret (chiffre, durée, impact réel).<br>
+Ne pas sauter à la proposition d'appel sur ce seul signal.
+</div>
+
+<div class="pourquoi">
+<strong>POURQUOI :</strong><br>
+Un signal de douleur ouvre une porte — il ne la franchit pas.
+Le prospect peut exprimer une gêne légère et ne pas être prêt à agir.
+C'est le creusage qui transforme le signal en matière qualifiable.
+</div>
+
+<h3>1.2 — Deux niveaux de conscientisation — les deux sont qualifiables</h3>
+
+<p><span class="label-block">Niveau A</span> — Le prospect assume son problème mais ne sait pas encore
+qu'il a besoin d'aide pour le résoudre. Il pense "il faut juste que je m'y mette" ou
+"j'ai besoin de discipline". C'est un besoin réel mal conscientisé — pas une absence de besoin.
+On creuse, on ne disqualifie pas.</p>
+
+<p><span class="label-block">Niveau B</span> — Le prospect a conscience qu'il a besoin d'être accompagné.
+C'est une ouverture directe. La conscientisation a déjà eu lieu, au moins partiellement.</p>
+
+<div class="pourquoi">
+<strong>POURQUOI les deux sont qualifiables :</strong><br>
+Ces deux niveaux ne s'opposent pas. Le niveau A est simplement une étape avant le niveau B.
+C'est précisément le rôle des questions de conscientisation (Bloc 4) de faire avancer le prospect
+de l'un à l'autre. Creuser dans les deux cas — ne jamais bloquer la qualification sur le fait
+que le prospect n'a pas encore dit "j'ai besoin d'aide".
+</div>
+
+<h3>1.3 — Le spectre des angles d'attaque</h3>
+
+<div class="if-then">
+IF le premier angle exploré ne révèle pas de besoin →<br>
+THEN explorer le suivant dans le spectre, avec rondeur.<br>
+Pas de manière frontale — la conversation continue normalement,<br>
+les angles s'explorent naturellement au fil des échanges.
+</div>
+
+<div class="if-then">
+IF tous les angles ont été explorés sans signal de besoin réel<br>
+ET le prospect n'envoie pas de signal d'engagement →<br>
+THEN envisager la disqualification. → Voir Bloc 7.
+</div>
+
+<div class="pourquoi">
+<strong>POURQUOI ne pas disqualifier sur un seul angle :</strong><br>
+Quelqu'un qui dit "j'ai suffisamment de clients en ce moment" n'a pas forcément aucun problème.
+Il a peut-être des tarifs trop bas, des clients qui ne le respectent pas, une offre qu'il veut faire évoluer.
+Disqualifier sur un seul axe, c'est passer à côté de la vraie douleur.
+</div>
+
+<div class="note">⚠ Le spectre des angles est propre à chaque niche et à chaque offre. Le tronc central pose le principe — les angles concrets sont définis en configuration utilisateur ou dans les modules niche.</div>
+
+<hr>
+
+<h2>SECTION 2 — SOLVABILITÉ</h2>
+
+<h3>2.1 — Principe</h3>
+
+<p>"Pas de budget" est une résistance dans la grande majorité des cas — pas une incapacité financière réelle.
+Les personnes trouvent toujours des solutions quand quelque chose devient une priorité.</p>
+
+<div class="if-then">
+IF le prospect verbalise une contrainte financière →<br>
+THEN ne pas disqualifier. Creuser, clarifier, continuer.
+</div>
+
+<p>La solvabilité ne se qualifie jamais frontalement en DM.
+Elle se lit dans des signaux indirects et s'évalue également lors de l'appel — pas seulement en setting.</p>
+
+<p>Le niveau d'exigence dépend directement de l'offre de l'utilisateur :</p>
+
+<table>
+  <tr>
+    <th>Type d'offre</th>
+    <th>Seuil de qualification solvabilité</th>
+  </tr>
+  <tr>
+    <td>Offre flexible (paiement en plusieurs fois, tarif adaptatif)</td>
+    <td>Bas. "Pas de budget" n'est jamais une raison de stopper.</td>
+  </tr>
+  <tr>
+    <td>Offre avec critère d'entrée strict (ex : "on accompagne les structures qui font plus de X€/mois")</td>
+    <td>Vérification nécessaire avant de proposer l'appel.</td>
+  </tr>
+</table>
+
+<div class="note">→ Ce paramètre est configurable par l'utilisateur de la plateforme.</div>
+
+<div class="point-attention">
+<div class="pa-titre">⚠ Point d'attention — à travailler avec Kevin + A/B testing</div>
+Les formulations concrètes pour qualifier la solvabilité indirectement (questions, signaux, seuils selon l'offre)
+sont à définir lors d'un atelier séparé. Elles varient selon la niche et l'offre de l'utilisateur.
+</div>
+
+<div class="pourquoi">
+<strong>POURQUOI ne pas disqualifier sur "pas de budget" :</strong><br>
+Les mêmes personnes qui disent "j'ai pas l'argent" trouvent des solutions quand quelque chose devient prioritaire.
+L'objection financière en DM est presque toujours une résistance psychologique — pas un état de compte bancaire.
+C'est en appel, après avoir creusé le problème réel, que la solvabilité devient une donnée concrète.
+</div>
+
+<hr>
+
+<h2>SECTION 3 — LEAD SCORING</h2>
+
+<h3>3.1 — Critères minimum avant de proposer l'action finale</h3>
+
+<p><span class="label-block">Critère 1 (obligatoire)</span> — Le prospect a verbalisé un problème réel
+que la solution de l'utilisateur peut résoudre. Sans ce critère, proposer l'appel ne sert ni le prospect
+ni l'utilisateur.</p>
+
+<p><span class="label-block">Critère 2 (obligatoire)</span> — La solvabilité est suffisante —
+selon les paramètres de l'offre de l'utilisateur.</p>
+
+<p><span class="label-block">Critère 3 (implicite)</span> — Absence de signal de timing bloquant non résolu
+par la clarification. Si une vraie contrainte de timing a été identifiée et confirmée →
+garder en suivi, ne pas proposer l'appel maintenant.</p>
+
+<div class="point-attention">
+<div class="pa-titre">⚠ Point d'attention — Urgence à intégrer dans le lead scoring</div>
+À un moment de la conversation, il peut être utile d'évaluer le niveau d'urgence réel du prospect —
+pas frontalement, mais en cherchant à comprendre sa situation concrète : a-t-il encore du chômage ?
+de la trésorerie ? Un délai précis avant que la situation devienne critique ?<br><br>
+La formulation exacte de cette question est à définir lors de la revue des blocs.
+Mais l'urgence doit figurer comme dimension du scoring.
+</div>
+
+<h3>3.2 — Trop tôt / trop tard</h3>
+
+<p><span class="label-block">Trop tôt</span> — le prospect arrive en appel sans avoir suffisamment conscientisé
+son problème, sans être vraiment engagé. Taux de closing en chute. Impact direct sur les résultats
+de l'utilisateur de la plateforme.</p>
+
+<p><span class="label-block">Trop tard</span> — le prospect se lasse. Même avec de la rondeur,
+une conversation qui n'avance pas vers une conclusion finit par être abandonnée.</p>
+
+<p><span class="label-block">Le sweet spot</span> — besoin réel creusé jusqu'au concret + solvabilité
+vérifiée + mini-insight posé + engagement de la conversation confirmé.
+C'est ce moment qu'on cherche — pas un compteur de messages.</p>
+
+<div class="point-attention">
+<div class="pa-titre">⚠ Point d'attention</div>
+Le lead scoring précis (critères pondérés, seuils exacts) est à affiner lors de la phase de revue
+des blocs avec Matthias et Kevin.
+</div>
+
+<hr>
+
+<h2>SECTION 4 — TEMPORALITÉ ET GESTION DES OBJECTIONS</h2>
+
+<h3>4.1 — La temporalité n'est pas un problème indépendant</h3>
+
+<p>Quand un prospect a vraiment verbalisé son problème, le bon timing est déjà là.
+La douleur est présente maintenant — pas dans 3 mois.</p>
+
+<p>La temporalité ne devient un sujet qu'à travers une objection explicite du prospect.
+Dans tous les cas, le réflexe est identique : <strong>clarifier</strong>.</p>
+
+<h3>4.2 — La clarification comme réflexe universel</h3>
+
+<p>Face à toute objection de timing, la logique est toujours la même :</p>
+
+<ol>
+  <li>Accueillir sans résistance, sans forcing, sans dramatiser</li>
+  <li>Chercher à comprendre la priorité actuelle du prospect</li>
+  <li>Comprendre pourquoi cette priorité a été choisie — pas frontalement, avec curiosité sincère</li>
+  <li>Mettre en parallèle leur priorité avec leur objectif déclaré, pour que l'incohérence éventuelle apparaisse d'elle-même</li>
+  <li>Si la contrainte est réelle et confirmée → proposer une date précise de reprise de contact et assurer le suivi</li>
+</ol>
+
+<div class="pourquoi">
+<strong>POURQUOI la clarification avant tout :</strong><br>
+Derrière presque toutes les objections de timing se cache une vraie raison qui n'a pas encore été verbalisée.
+La clarification fait tomber le masque — et révèle souvent que la vraie contrainte est différente
+de l'excuse de surface. Sans clarification, on diqualifie des prospects qualifiables.
+</div>
+
+<div class="point-attention">
+<div class="pa-titre">⚠ Point d'attention — à approfondir en atelier</div>
+La phase "après la clarification" (que fait-on concrètement selon la réponse obtenue, avec des cas types
+et des scripts) est à travailler lors d'un atelier séparé avec Matthias. Inclura de l'A/B testing
+sur les formulations.
+</div>
+
+<h3>4.3 — Six cas types de "besoin réel mais mauvais timing"</h3>
+
+<div class="note">Ces cas calibrent la logique de clarification selon les situations réelles rencontrées.
+Dans tous les cas, le réflexe de départ est identique : clarifier.</div>
+
+<div class="cas">
+  <div class="cas-titre">CAS 1 — Budget alloué ailleurs pour la période</div>
+  Le besoin est réel et verbalisé. Mais le prospect vient de signer avec une agence ou un prestataire
+  pour tenter de régler son problème. L'argent est parti là.<br><br>
+  → Clarifier pourquoi ce choix a été fait. Chercher à comprendre ce qui l'a amené vers cette solution.
+  Parfois, la personne n'a pas encore vraiment commencé — ce peut être une carte à jouer
+  si la solution de l'utilisateur est plus pertinente. Ne jamais forcer. Accueillir, creuser, rester présent.
+</div>
+
+<div class="cas">
+  <div class="cas-titre">CAS 2 — Pivot d'offre en cours</div>
+  Le prospect est en galère sur son acquisition mais il est en train de changer d'offre.
+  Il ne veut pas prospecter sur l'ancienne. La nouvelle n'est pas encore prête.<br><br>
+  → Clarifier ce qui l'a amené au pivot. Pourquoi l'offre actuelle ne marchait pas.
+  Un délai de 4 à 6 semaines n'est pas problématique — on peut tout à fait commencer
+  une fois l'offre posée. La conversation continue, on reste dans la dynamique.
+</div>
+
+<div class="cas">
+  <div class="cas-titre">CAS 3 — Bande passante personnelle saturée (déménagement, naissance, événement de vie)</div>
+  Besoin réel verbalisé, mais la personne gère un événement personnel lourd.
+  Elle sait qu'elle n'exécutera pas si elle commence maintenant.
+  Ce profil est souvent sans urgence perçue — matelas financier, chômage, trésorerie.
+  Le problème business est réel mais il ne brûle pas.<br><br>
+  → Ne pas clarifier uniquement la situation business. Clarifier les motivations profondes :
+  pourquoi elle a lancé son activité, ce que ça représente pour elle.
+  Faire remonter l'importance de l'objectif à la surface — pour que le projet business
+  ne reste pas systématiquement sacrifié face aux imprévus de vie.
+  L'objectif n'est pas de culpabiliser — c'est de faire conscientiser que l'urgence existe,
+  même si elle n'est pas perçue comme telle.
+</div>
+
+<div class="cas">
+  <div class="cas-titre">CAS 4 — Déjà engagé dans un autre accompagnement</div>
+  Le prospect a exactement le problème que l'utilisateur résout — mais il a payé pour un autre
+  accompagnement il y a peu. Psychologiquement et financièrement, il ne peut pas investir dans
+  autre chose tant qu'il n'a pas "essayé" ce pour quoi il a payé.<br><br>
+  → Pas de forcing. Chercher à comprendre où il en est dans l'accompagnement en cours,
+  ce qu'il a mis en pratique, les premiers résultats.
+  Puis proposer une reprise de contact à une date précise :
+  <em>"si tu veux, je te recontacte le [date] pour voir comment ça avance."</em>
+  L'objectif est de rester présent sans envahir, avec une prochaine étape claire.
+</div>
+
+<div class="cas">
+  <div class="cas-titre">CAS 5 — Période creuse saisonnière</div>
+  Certains profils ont des cycles d'activité naturels. La douleur est réelle mais
+  l'exécution n'est pas possible maintenant — dans 6 à 8 semaines, oui.<br><br>
+  → Même logique que le CAS 4 : accueillir, clarifier, proposer une date précise
+  de reprise de contact et assurer le suivi.
+</div>
+
+<div class="cas">
+  <div class="cas-titre">CAS 6 — Gros client en cours qui "consomme tout"</div>
+  Le prospect dit n'avoir aucun temps parce qu'un client lui prend 80% de sa capacité.
+  La douleur est réelle (il sait que dans quelques mois il va se retrouver à sec).<br><br>
+  → Clarifier ce qui lui prend réellement ce temps. Dans la majorité des cas, en creusant,
+  on découvre que la vraie contrainte n'est pas le client — c'est une situation personnelle
+  qui se cache derrière (naissance, déménagement, etc.).
+  La clarification fait tomber le masque. Une fois la vraie contrainte identifiée,
+  on traite le cas selon sa nature réelle (→ CAS 3 ou CAS 4 selon le contexte).
+</div>
+
+<h3>4.4 — "Non" mou vs "non" ferme — même réflexe de départ</h3>
+
+<p><span class="label-block">"Non" mou</span> (excuses, esquive, résistances vagues : "j'ai pas l'argent",
+"c'est pas le bon moment", "je suis déjà accompagné") →
+Clarifier la raison réelle. Ne pas prendre l'excuse au pied de la lettre.</p>
+
+<p><span class="label-block">"Non" ferme</span> (clair, assumé, ancré dans une conviction :
+"on ne veut pas faire de prospection, ce n'est pas notre stratégie") →
+Clarifier quand même. Comprendre pourquoi. Mettre en parallèle avec l'objectif.
+Si la conviction est solide et cohérente avec leur situation → accepter et ne pas insister.</p>
+
+<div class="exemple">
+  <div class="titre-exemple">Exemple — logique de mise en parallèle après clarification</div>
+  Prospect : "c'est pas le bon timing, on est focus sur le SEO en ce moment."<br>
+  → Clarifier pourquoi ce choix. Comprendre leur objectif.<br>
+  → Prospect : "on veut atteindre 30 000€/mois d'ici septembre."<br>
+  → Mise en parallèle : "et tu penses que le SEO va vous permettre d'atteindre ça d'ici septembre ?"<br>
+  → La question amène le prospect à évaluer lui-même la cohérence de sa stratégie —
+  sans que l'agent l'impose.
+</div>
+
+<div class="pourquoi">
+<strong>POURQUOI la même logique dans les deux cas :</strong><br>
+Le "non" mou et le "non" ferme se ressemblent en surface. La seule façon de les distinguer,
+c'est de clarifier. Le "non" mou tombe quand on creuse — la vraie raison est différente de l'excuse donnée.
+Le "non" ferme tient quand on creuse — la conviction est cohérente avec la situation.
+Sans clarification, on ne sait pas dans quel cas on est.
+</div>
+
+<h3>4.5 — Suivi des prospects "pas le bon timing"</h3>
+
+<p>Quand une vraie contrainte de timing a été identifiée et confirmée,
+on convient d'une <strong>date précise</strong> de reprise de contact —
+pas une vague "je te recontacte dans quelques semaines."</p>
+
+<div class="point-attention">
+<div class="pa-titre">⚠ Point d'attention majeur — à définir avec Kevin</div>
+Une fois qu'une date de reprise de contact a été convenue, comment l'agent assure-t-il
+le suivi sur plusieurs semaines ou mois sans importuner le prospect ?<br><br>
+Enjeu : rester présent sans envahir. La mécanique précise (fréquence, format,
+déclencheur, nombre de tentatives, ton) est à intégrer dans la plateforme
+et à calibrer lors d'un atelier séparé.
+</div>
+
+<hr>
+
+<h2>SECTION 5 — LA STORYTELLING APPROACH</h2>
+
+<p>Seule méthode universelle de qualification confirmée pour le tronc central.</p>
+
+<p><strong>Principe :</strong> Qualifier indirectement en racontant une référence — un type de profil
+accompagné, un contexte reconnaissable — puis observer si le prospect s'y reconnaît.</p>
+
+<p><strong>Structure :</strong></p>
+<ol>
+  <li>Ancrer dans une référence crédible (profil accompagné, situation type)</li>
+  <li>Nommer la situation ou le problème de ce profil</li>
+  <li>Demander si le prospect est dans ce cas — sans que ce soit frontal</li>
+</ol>
+
+<p><strong>Intention :</strong> La référence fait le travail. Le prospect se reconnaît (ou non)
+dans ce miroir — sans qu'on lui ait posé de question directe sur sa situation.</p>
+
+<div class="pourquoi">
+<strong>POURQUOI qualifier par la référence et pas par la question directe :</strong><br>
+Une question directe sur la situation du prospect déclenche le filtre de prospection —
+"il cherche à savoir si je suis qualifié pour ce qu'il vend."
+La référence contourne ce filtre : ce n'est plus une question, c'est une histoire.
+Le prospect choisit de s'y reconnaître ou non — c'est lui qui fait le pas.
+</div>
+
+<div class="note">⚠ Les formulations exactes seront définies lors de la phase de formulations par niche — après le tronc central. Ce bloc pose le principe.</div>
+
+<div class="point-attention">
+<div class="pa-titre">⚠ Points d'attention — méthodes à clarifier</div>
+<strong>Calendar filter</strong> (proposer des créneaux spécifiques plutôt qu'un agenda,
+pour garder le prospect chaud — idéalement moins de 3 jours entre acceptation et visio)
+n'est pas une méthode de qualification. C'est une méthode de booking de l'action finale.
+À traiter dans le bloc dédié à la proposition de l'action finale.<br><br>
+<strong>Smooth framing</strong> : terme non reconnu par Matthias dans ce contexte.
+À clarifier avec Kevin avant toute intégration.
+</div>
+
+<hr>
+
+<h2>SECTION 6 — POINTS D'ATTENTION TRANSVERSAUX</h2>
+
+<ol>
+  <li><strong>Vocabulaire de qualification :</strong> certains mots peuvent déclencher de la méfiance
+  selon la niche ("clients", "chiffre d'affaires", etc.). Liste à construire lors d'un atelier dédié
+  avec une session Claude séparée — après collecte de cas réels.</li>
+
+  <li><strong>Urgence dans le lead scoring :</strong> intégrer une dimension d'urgence réelle
+  (matelas financier, délai avant situation critique, niveau de pression) dans les critères de scoring.
+  Formulations à définir lors de la revue des blocs.</li>
+
+  <li><strong>Mécanique de suivi long terme :</strong> pour les prospects en attente (CAS 4, 5, 6),
+  définir avec Kevin une mécanique claire de reprise de contact régulière sans importuner.</li>
+
+  <li><strong>Phase post-clarification :</strong> approfondir avec des cas types et des scripts
+  ce qu'on fait concrètement après avoir clarifié une objection selon les réponses obtenues.
+  À faire en atelier A/B testing séparé.</li>
+
+  <li><strong>Lead scoring précis :</strong> critères pondérés et seuils exacts à affiner lors
+  de la phase de revue globale des blocs avec Matthias et Kevin.</li>
+</ol>
+
+</body>
+</html>
