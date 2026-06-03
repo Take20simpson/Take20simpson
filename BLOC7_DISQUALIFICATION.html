@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bloc 7 — Signaux de Disqualification</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    font-size: 11pt;
+    line-height: 1.6;
+    color: #222;
+    max-width: 860px;
+    margin: 0 auto;
+    padding: 32px 24px;
+  }
+  h1 { color: #1155CC; font-size: 20pt; margin-top: 36px; margin-bottom: 8px; }
+  h2 { color: #1155CC; font-size: 14pt; margin-top: 28px; margin-bottom: 6px; border-bottom: 1px solid #c6d4f5; padding-bottom: 4px; }
+  h3 { color: #1155CC; font-size: 11pt; margin-top: 20px; margin-bottom: 4px; }
+  p { margin: 6px 0 10px 0; }
+  ul, ol { margin: 6px 0 10px 0; padding-left: 22px; }
+  li { margin-bottom: 4px; }
+  .pourquoi { background: #f0f4ff; border-left: 4px solid #1155CC; padding: 10px 14px; margin: 10px 0 14px 0; font-size: 10.5pt; }
+  .pourquoi strong { color: #1155CC; }
+  .if-then { background: #f4f4f4; border: 1px solid #ccc; border-left: 4px solid #555; padding: 10px 14px; margin: 10px 0 14px 0; font-size: 10.5pt; font-family: monospace; }
+  .warning { color: #c00; font-weight: bold; margin: 8px 0; }
+  .note { color: #555; font-style: italic; font-size: 10pt; margin: 6px 0; }
+  .exemple { background: #fffbe6; border-left: 4px solid #e6a817; padding: 10px 14px; margin: 10px 0 14px 0; font-size: 10.5pt; }
+  .exemple .titre-exemple { font-weight: bold; color: #b07800; margin-bottom: 4px; }
+  .label-block { font-weight: bold; text-decoration: underline; }
+  .point-attention { background: #fff4f4; border-left: 4px solid #c00; padding: 10px 14px; margin: 10px 0 14px 0; font-size: 10.5pt; }
+  .point-attention .pa-titre { font-weight: bold; color: #c00; margin-bottom: 4px; }
+  .situation { background: #f9f9f9; border: 1px solid #ddd; border-left: 4px solid #1155CC; padding: 12px 16px; margin: 12px 0 16px 0; }
+  .situation .sit-titre { font-weight: bold; color: #1155CC; margin-bottom: 6px; }
+  .non-disqual { background: #f0fff4; border: 1px solid #b2dfdb; border-left: 4px solid #2e7d32; padding: 12px 16px; margin: 12px 0 16px 0; }
+  .non-disqual .nd-titre { font-weight: bold; color: #2e7d32; margin-bottom: 6px; }
+  table { border-collapse: collapse; width: 100%; margin: 12px 0 16px 0; font-size: 10.5pt; }
+  th { background: #1155CC; color: white; padding: 8px 10px; text-align: left; }
+  tr:nth-child(even) { background: #f0f4ff; }
+  tr:nth-child(odd) { background: #fff; }
+  td { padding: 7px 10px; border: 1px solid #d0d8f0; vertical-align: top; }
+  hr { border: none; border-top: 1px solid #d0d8f0; margin: 24px 0; }
+</style>
+</head>
+<body>
+
+<h1>BLOC 7 — SIGNAUX DE DISQUALIFICATION</h1>
+<hr>
+
+<h2>VOCABULAIRE DU BLOC 7</h2>
+
+<p><span class="label-block">DISQUALIFICATION</span><br>
+Décision de clore définitivement une conversation sans suivi prévu.
+C'est radical — pas fréquent. 5 à 10% des conversations maximum.
+À ne pas confondre avec le suivi (mauvais timing → on garde le contact)
+ou l'espace de vérification (signal d'alerte → l'utilisateur décide).</p>
+
+<p><span class="label-block">ESPACE DE VÉRIFICATION</span><br>
+Zone dans l'interface Yadulink où les conversations qui déclenchent un signal d'alerte
+sont remontées à l'utilisateur pour décision. L'IA ne disqualifie pas seule —
+elle détecte, signale, et attend la décision humaine.</p>
+
+<div class="point-attention">
+<div class="pa-titre">⚠ Point d'attention — à définir avec Kevin</div>
+Quels facteurs précis déclenchent une remontée dans cet espace, comment l'interface présente
+l'information, et comment éviter que l'utilisateur se retrouve avec 20 vérifications par jour.
+</div>
+
+<p><span class="label-block">SIGNAL D'ALERTE</span><br>
+Comportement ou formulation qui indique une friction, une résistance ou un profil potentiellement
+problématique — sans déclencher automatiquement la disqualification.
+Remonte dans l'espace de vérification pour décision utilisateur.</p>
+
+<p><span class="label-block">RELANCE</span><br>
+Message envoyé quand le prospect ne répond plus. 3 relances maximum, bien construites, espacées.
+Au-delà de 3 sans réponse → disqualification.</p>
+
+<div class="point-attention">
+<div class="pa-titre">⚠ Point d'attention</div>
+Les formulations précises des relances selon le profil et le contexte sont à définir séparément.
+Ce bloc pose le seuil — pas le contenu des relances.
+</div>
+
+<hr>
+
+<h2>PRINCIPE CENTRAL</h2>
+
+<p>L'IA détecte et signale — la décision finale appartient toujours à l'utilisateur.</p>
+
+<p>La disqualification est rare. Dans la grande majorité des cas où une conversation "tombe à l'eau",
+ce n'est pas une disqualification — c'est soit un suivi (mauvais timing), soit une conversation
+à gérer différemment avec les bons outils (carte sur table, humour, redescente de pression).</p>
+
+<p>La vraie disqualification : le prospect confirme que la solution ne peut pas l'aider,
+ou la conversation est définitivement close de son côté.</p>
+
+<div class="pourquoi">
+<strong>POURQUOI la disqualification est rare :</strong><br>
+La plupart des signaux qui ressemblent à une fermeture sont en réalité des objections, des résistances
+ou des mauvais timings — qui se gèrent. La disqualification vraie, c'est quand il n'y a plus rien
+à faire : soit le prospect a confirmé qu'il n'y a pas d'alignement après clarification,
+soit il n'a tout simplement plus donné signe de vie après 3 tentatives.
+</div>
+
+<hr>
+
+<h2>SECTION 1 — SIGNAUX DE DISQUALIFICATION RÉELS</h2>
+
+<h3>1.1 — Trois relances sans réponse</h3>
+
+<p>Le signal de disqualification le plus fréquent. 3 relances bien construites, espacées,
+sans aucune réponse → la conversation est close.</p>
+
+<div class="if-then">
+IF 3 relances envoyées + aucune réponse →<br>
+THEN disqualification.
+</div>
+
+<p>Que le prospect ait laissé un "vu" ou non ne change rien à la règle.
+L'agent n'a pas la capacité de savoir avec certitude si un message a été lu —
+certains prospects masquent les accusés de lecture.</p>
+
+<div class="pourquoi">
+<strong>POURQUOI 3 et pas moins :</strong><br>
+1 ou 2 relances sans réponse peut simplement signifier que le prospect était occupé, pas connecté,
+ou que le message s'est perdu dans l'inbox. 3 relances bien faites sans aucune réponse,
+c'est un signal clair que la personne ne veut pas ou ne peut pas continuer la conversation.
+</div>
+
+<div class="point-attention">
+<div class="pa-titre">⚠ Point d'attention</div>
+Les formulations des relances (rythme, ton, contenu selon le stade de la conversation)
+sont à définir dans un atelier séparé.
+</div>
+
+<h3>1.2 — Entonnoir inversé : clarification confirmée, vraiment pas leur sujet</h3>
+
+<p>Dans l'entonnoir inversé (profil corporate ou transactionnel), si le prospect répond clairement
+non à la question de qualification directe, on clarifie, on creuse, on tente de mettre en parallèle
+leur priorité avec leur objectif déclaré.</p>
+
+<div class="if-then">
+IF clarification faite + creusage tenté<br>
++ le prospect confirme que ce n'est vraiment pas leur sujet<br>
++ leur stratégie est cohérente avec leur situation →<br>
+THEN disqualification.
+</div>
+
+<div class="point-attention">
+<div class="pa-titre">⚠ Point d'attention</div>
+Définir précisément la séquence de clarification et de creusage avant d'arriver à ce point —
+pour s'assurer qu'on a vraiment épuisé les angles avant de clore.
+</div>
+
+<h3>1.3 — Fermeture explicite confirmée</h3>
+
+<p>Un prospect qui dit "arrête de m'envoyer des messages" ou équivalent.
+Rare — mais ça arrive.</p>
+
+<div class="if-then">
+IF le prospect exprime explicitement ne plus vouloir être contacté<br>
++ tentative de désescalade avec humour ou légèreté<br>
++ le prospect se braque à nouveau →<br>
+THEN fermeture confirmée. On n'insiste pas.
+</div>
+
+<p class="note">⚠ On ne ferme pas sur le premier signal de ce type sans tenter une réponse légère.
+Voir Section 3 — situations D1/D2.</p>
+
+<hr>
+
+<h2>SECTION 2 — SIGNAUX D'ALERTE → ESPACE DE VÉRIFICATION UTILISATEUR</h2>
+
+<p>Ces signaux ne déclenchent pas une disqualification automatique. L'IA les détecte,
+les remonte dans l'espace de vérification, et l'utilisateur décide.</p>
+
+<h3>2.1 — Profil hors niche découvert en cours de conversation</h3>
+
+<p>Le prospect révèle une information qui le met hors de la cible de l'offre utilisateur.</p>
+
+<div class="exemple">
+<div class="titre-exemple">Exemples</div>
+"Je suis encore salarié, je cherche à me lancer" → pas encore dans la cible<br>
+"Je n'ai pas encore de clients ni d'offre définie" → trop tôt<br>
+Profil correspondant à une niche que l'utilisateur ne sert pas
+</div>
+
+<div class="if-then">
+IF profil hors niche confirmé →<br>
+THEN → suivi si le prospect pourrait devenir pertinent plus tard<br>
+     → espace de vérification si hors niche complète (utilisateur décide)
+</div>
+
+<p class="note">⚠ Ce critère dépend entièrement de la configuration utilisateur (sa niche, sa cible exacte).
+Le tronc central pose le principe — le contenu exact est dans les modules niche et la configuration utilisateur.</p>
+
+<h3>2.2 — Plaintes répétées sur les anciens coaches / formateurs</h3>
+
+<p>Mentionner une mauvaise expérience passée une fois, c'est normal — c'est même souvent un signal de douleur.
+Revenir dessus dans plusieurs messages distincts, se victimiser régulièrement : signal d'alerte.</p>
+
+<p><strong>Seuil :</strong> 2 à 3 mentions distinctes dans des messages différents.</p>
+
+<div class="if-then">
+IF plainte sur anciens coaches mentionnée 2 à 3 fois dans des messages distincts →<br>
+THEN l'agent continue à creuser et clarifier sur l'instant<br>
+     + remonte le signal dans l'espace de vérification pour décision utilisateur.
+</div>
+
+<div class="pourquoi">
+<strong>POURQUOI pas disqualification automatique :</strong><br>
+Quelqu'un qui a été déçu par un accompagnement peut très bien être un excellent client —
+parfois même plus motivé parce qu'il a compris ce qui ne marchait pas. La répétition du signal
+est ce qui indique un profil potentiellement problématique, pas la mention unique.
+C'est l'utilisateur qui connaît son offre et sa capacité à gérer ce type de profil — pas l'IA.
+</div>
+
+<h3>2.3 — Questions de garantie répétées</h3>
+
+<p>Une question sur la garantie en DM : légitime. Ce n'est pas le rôle de l'agent d'y répondre
+— c'est un sujet pour l'appel.</p>
+
+<p>La même question qui revient dans plusieurs messages, après qu'on soit passé à autre chose :
+signal d'alerte. Peut indiquer quelqu'un qui commence la relation en pensant à la sortie.</p>
+
+<div class="if-then">
+IF question de garantie mentionnée 2 fois ou plus dans des messages distincts →<br>
+THEN remontée dans l'espace de vérification. Utilisateur décide.
+</div>
+
+<h3>2.4 — Prospect en mode collecte d'informations</h3>
+
+<p>Le prospect pose des questions sur la méthode, le process, les détails de l'offre,
+mais ne parle jamais de lui. Après 4 échanges dans cette dynamique, sans signal de douleur
+ni d'engagement personnel.</p>
+
+<div class="if-then">
+IF 4 échanges en mode "veille" sans signal d'engagement personnel →<br>
+THEN signal remonté dans l'espace de vérification. Utilisateur décide de continuer ou non.
+</div>
+
+<div class="point-attention">
+<div class="pa-titre">⚠ Point d'attention</div>
+Définir ce qu'on donne en valeur gratuite vs ce qu'on ne donne pas quand un prospect pose
+des questions sur la méthode. Ce cadre est à configurer par l'utilisateur.
+</div>
+
+<hr>
+
+<h2>SECTION 3 — CE QUI N'EST PAS UNE DISQUALIFICATION</h2>
+
+<p>Ces situations peuvent ressembler à des signaux de fermeture. Elles ne le sont pas.
+Chacune a une action spécifique associée.</p>
+
+<table>
+  <tr>
+    <th>Situation</th>
+    <th>Action</th>
+    <th>Statut</th>
+  </tr>
+  <tr>
+    <td>"J'aime pas la prospection"</td>
+    <td>Clarifier pourquoi. Aller dans son sens. Creuser la croyance derrière.</td>
+    <td>Pas une disqualification</td>
+  </tr>
+  <tr>
+    <td>"Je vois pas l'intérêt de LinkedIn pour moi"</td>
+    <td>Clarifier. Creuser.</td>
+    <td>Pas une disqualification</td>
+  </tr>
+  <tr>
+    <td>"J'ai essayé une formation, ça n'a pas marché"</td>
+    <td>Signal de douleur à creuser. Ne pas lâcher.</td>
+    <td>Pas une disqualification</td>
+  </tr>
+  <tr>
+    <td>"Je gère très bien mes DMs toute seule"</td>
+    <td>Aller dans son sens. Clarifier ce qu'elle a en place.</td>
+    <td>Pas une disqualification</td>
+  </tr>
+  <tr>
+    <td>"J'ai pas le temps là" (dit une fois)</td>
+    <td>Clarifier. Timing ou vraie résistance ?</td>
+    <td>Pas une disqualification</td>
+  </tr>
+  <tr>
+    <td>"Je me débrouille seul avec Claude"</td>
+    <td>Aller dans son sens. "C'est génial d'être organisé comme ça." Clarifier.</td>
+    <td>Pas une disqualification</td>
+  </tr>
+  <tr>
+    <td>"Les coaches c'est tous des arnaques"</td>
+    <td>Ne pas prendre pour soi. Aller dans son sens. Creuser ce qui l'a amené là.</td>
+    <td>Pas une disqualification</td>
+  </tr>
+  <tr>
+    <td>Réponses vagues depuis le début</td>
+    <td>On ne peut pas être vague sur 5 questions consécutives si les questions sont bonnes. Retravailler les questions, pas disqualifier.</td>
+    <td>Pas une disqualification</td>
+  </tr>
+  <tr>
+    <td>Pas de réponse après 1 ou 2 relances</td>
+    <td>Continuer jusqu'à 3 relances.</td>
+    <td>Pas encore une disqualification</td>
+  </tr>
+</table>
+
+<hr>
+
+<div class="situation">
+  <div class="sit-titre">SITUATION D1 / D2 — "Arrête de m'envoyer des messages" / "C'est quoi ce spam ?"</div>
+  Ne pas abandonner immédiatement. Répondre avec légèreté et humour — reconnaître que le prospect
+  se fait spammer sans s'en excuser. Attendre la réponse.<br><br>
+  IF le prospect répond, même froidement → la conversation peut reprendre.<br>
+  IF le prospect se braque à nouveau → fermeture confirmée.<br><br>
+  <span class="warning">⚠ Formulations exactes à développer en atelier.</span>
+</div>
+
+<div class="situation">
+  <div class="sit-titre">SITUATION D3 — "Je suis pas intéressé, merci."</div>
+  Faire redescendre la pression. Être honnête sur le fait qu'on n'a rien à vendre maintenant.
+  L'objectif était de comprendre sa situation pour voir si quelque chose pouvait être pertinent.<br><br>
+  <span class="warning">⚠ Formulations exactes à développer en atelier.</span>
+</div>
+
+<div class="situation">
+  <div class="sit-titre">SITUATION D4 — "J'ai déjà ce qu'il me faut."</div>
+  Aller dans le sens du prospect. "C'est génial si tu as déjà tout en place !"
+  Clarifier ce qu'il a mis en place. Comprendre si c'est un suivi ou une fermeture réelle.
+</div>
+
+<div class="situation">
+  <div class="sit-titre">SITUATION A3 / A6 — "Je vois pas où tu veux en venir" / "J'ai pas le temps pour ces conversations"</div>
+  Jouer carte sur table. Avec rondeur — pas de façon abrupte. Le prospect a détecté un pattern,
+  on ne l'esquive pas. On est honnête sur l'intention tout en restant désintéressé dans la forme.<br><br>
+  <span class="warning">⚠ Formulations exactes à développer en atelier. Moment délicat qui nécessite des scripts testés.</span>
+</div>
+
+<div class="situation">
+  <div class="sit-titre">SITUATION A5 — Réponses de plus en plus courtes</div>
+  Dédramatiser avec légèreté ou un peu d'humour selon le profil. Ne pas forcer. Laisser de l'espace.<br><br>
+  <span class="warning">⚠ Formulations exactes à développer en atelier.</span>
+</div>
+
+<div class="situation">
+  <div class="sit-titre">SITUATION A7 — "Je pense qu'on n'est pas alignés. Bonne continuation."</div>
+  Ne pas lâcher sans avoir clarifié. Aller dans le sens du prospect avec rondeur et légèreté.
+  Comprendre pourquoi il pense ça — parfois avec humour.<br><br>
+  <span class="warning">⚠ Formulations exactes à développer en atelier.</span>
+</div>
+
+<hr>
+
+<h2>SECTION 4 — POINTS D'ATTENTION TRANSVERSAUX</h2>
+
+<ol>
+  <li><strong>Formulations "carte sur table"</strong> (situations A3, A6) : scripts à développer
+  et tester en A/B testing — c'est l'un des moments les plus délicats du setting.</li>
+
+  <li><strong>Réponses aux fermetures agressives ou directes</strong> (D1, D2, D3) :
+  scripts spécifiques à valider avec Matthias.</li>
+
+  <li><strong>Espace de vérification utilisateur</strong> : définir précisément avec Kevin
+  les critères de remontée, l'interface de présentation, et le seuil de notification acceptable.</li>
+
+  <li><strong>Mécanique des 3 relances</strong> : seuil posé ici — contenu exact (formulations,
+  timing, ton selon profil et stade de la conversation) à développer dans un atelier dédié.</li>
+
+  <li><strong>Récap global des formulations à développer</strong> : à la fin de tous les blocs,
+  produire un document de synthèse listant tous les scripts et formulations types à tester,
+  classés par situation.</li>
+</ol>
+
+</body>
+</html>
