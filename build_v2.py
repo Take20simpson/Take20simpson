@@ -36,15 +36,23 @@ for tag in ['commentRangeStart', 'commentRangeEnd', 'commentReference']:
 print("Step 1 done: Removed original comment elements from document.xml")
 
 # ─────────────────────────────────────────────────────────
-# STEP 2: Replace all em-dashes with ' - ' in text elements
+# STEP 2: Replace all em-dashes with ', ' in text elements
 # ─────────────────────────────────────────────────────────
 count_em = 0
 for t in doc_xml.findall(f'.//{{{W}}}t'):
     if t.text and '—' in t.text:
-        t.text = t.text.replace('—', ' - ')
+        t.text = t.text.replace('—', ',')
         count_em += 1
 
-print(f"Step 2 done: Replaced em-dashes in {count_em} text elements")
+# Clean up any double commas or ", ," patterns that may result
+for t in doc_xml.findall(f'.//{{{W}}}t'):
+    if t.text:
+        # Fix ",," -> ","
+        t.text = t.text.replace(',,', ',')
+        # Fix ", ," -> ","
+        t.text = re.sub(r',\s+,', ',', t.text)
+
+print(f"Step 2 done: Replaced em-dashes with ',' in {count_em} text elements")
 
 # ─────────────────────────────────────────────────────────
 # Helper: get paragraph full text
@@ -126,7 +134,7 @@ new_text_a = ("Niveau de méfiance vis-à-vis de la prospection : Élevé à tr�
 
 para_a = get_para_elem(doc_xml, search_a)
 if para_a is not None:
-    set_para_text(para_a, new_text_a.replace('—', ' - '))
+    set_para_text(para_a, new_text_a.replace('—', ','))
     print("Step 3 done: Text change A applied (Archétype 5 méfiance)")
 else:
     print("Step 3 WARNING: Paragraph for text change A not found")
@@ -286,8 +294,12 @@ if niveau3_para is not None:
         insert_pos = n3_in_parent_idx
         for txt in reversed(new_niveau3_texts):
             if txt == "":
-                # Empty paragraph
+                # Empty paragraph - copy pPr from style ref so spacing is correct
                 empty_p = etree.Element(f'{{{W}}}p')
+                if style_ref_para is not None:
+                    ref_pPr = style_ref_para.find(f'{{{W}}}pPr')
+                    if ref_pPr is not None:
+                        empty_p.insert(0, copy.deepcopy(ref_pPr))
                 n3_parent.insert(insert_pos, empty_p)
             else:
                 new_p = make_paragraph_like(style_ref_para, txt)
@@ -334,7 +346,11 @@ if niveau3_para is not None:
         style_ref = paras_to_remove[0] if paras_to_remove else etree.Element(f'{{{W}}}p')
         for i_txt, txt in enumerate(new_niveau3_texts):
             if txt == "":
-                new_p = etree.Element(f'{{{W}}}p')
+                empty_p = etree.Element(f'{{{W}}}p')
+                ref_pPr = style_ref.find(f'{{{W}}}pPr')
+                if ref_pPr is not None:
+                    empty_p.insert(0, copy.deepcopy(ref_pPr))
+                new_p = empty_p
             else:
                 new_p = make_paragraph_like(style_ref, txt)
             body.insert(n3_body_idx + i_txt, new_p)
@@ -393,7 +409,11 @@ if para_e_ref is not None:
     prev_para = para_e_ref
     for txt in examples_texts:
         if txt == "":
-            new_p = etree.Element(f'{{{W}}}p')
+            empty_p = etree.Element(f'{{{W}}}p')
+            ref_pPr = style_ref.find(f'{{{W}}}pPr')
+            if ref_pPr is not None:
+                empty_p.insert(0, copy.deepcopy(ref_pPr))
+            new_p = empty_p
         else:
             new_p = make_paragraph_like(style_ref, txt)
         insert_paragraph_after(prev_para, new_p)
@@ -467,7 +487,7 @@ comments_data = [
     ]),
     # Comment 8 - general comment on em-dashes rule (on Bloc 4 intro)
     (8, "Matthias", [
-        "Règle appliquée sur tout le document : suppression de tous les tirets longs ( - ). Remplacés par ' - '. Signal fort d'IA à éliminer.",
+        "Règle appliquée sur tout le document : suppression de tous les tirets longs (—). Remplacés par ','. Signal fort d'IA à éliminer.",
     ]),
 ]
 
