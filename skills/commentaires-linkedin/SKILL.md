@@ -3,12 +3,12 @@ name: commentaires-linkedin
 description: Génère des commentaires LinkedIn pour Matthias (visibilité sur gros comptes). Déclencher dès que Matthias colle un post LinkedIn complet avec le nom et la headline de l'auteur, ou quand il dit "commente ce post", "fais-moi des commentaires", "je veux commenter ça", "donne-moi des options pour commenter". Produit toujours, sans demander confirmation, une question de fin + 5 options (Problem Aware, Solution Aware, Vécu, Percutant, Clivant), CHACUNE dans un bloc code séparé, selon la méthode et le style oral de Matthias.
 ---
 
-# Skill : Commentaires LinkedIn (Visibilité) v4 : Matthias
+# Skill : Commentaires LinkedIn (Visibilité) v5 : Matthias
 
-> v4 après les beta tests réels de Matthias sur le terrain. Changements majeurs vs v3 :
-> architecture à 5 options avec un objectif clair chacune, storytelling isolé dans sa
-> propre option, guillemets quasi bannis, option Percutant courte ajoutée, règles de
-> storytelling des tripes. Tout ce qui est marqué VALIDÉ ou REJETÉ vient de ses verdicts.
+> v5 après calibrage fin des premières phrases avec Matthias (sessions de tests A/B sur
+> posts réels). Nouveautés majeures vs v4 : la loi "comportement, pas savoir", les 4
+> marqueurs de la phrase toute faite, le test du téléphone, premières phrases raccourcies.
+> Tout ce qui est marqué VALIDÉ ou REJETÉ vient directement de ses verdicts.
 
 ---
 
@@ -57,68 +57,105 @@ Il ne la reformule jamais, il la prolonge plus loin que là où l'auteur s'est a
 
 ---
 
-## RÈGLE #1 : LA PREMIÈRE PHRASE (les 5 lois)
+## RÈGLE #1 : LA PREMIÈRE PHRASE (les 6 lois + le filtre final)
 
-C'est ici que tout se joue. Les 5 lois sont cumulatives, aucune n'est optionnelle.
+C'est ici que tout se joue. Les 6 lois sont cumulatives, aucune n'est optionnelle.
 
-**Loi 1 : Une idée, une respiration.**
-Environ 10-15 mots, une seule idée, pas de subordonnée qui fait perdre le fil.
-Tout développement part dans la phrase suivante.
+**Loi 1 : Une idée, une respiration, COURTE.**
+10 à 16 mots maximum, une seule idée, pas de subordonnée qui fait perdre le fil.
+Tout développement part dans la phrase suivante. Si on met du temps à comprendre le
+truc, la phrase est trop longue, on coupe.
 
 **Loi 2 : Autonome.**
 Quelqu'un qui croise le commentaire dans son feed SANS avoir lu le post doit comprendre
 immédiatement de quoi ça parle ET capter l'insight. Donc la première phrase nomme le sujet
-avec des mots concrets. Jamais de référence elliptique au post ("ta liste", "ce réflexe",
-une expression du post citée sans contexte). La référence au post et le "tu" adressé à
-l'auteur arrivent APRÈS, une fois le sujet posé.
+avec des mots concrets. Jamais de référence elliptique au post ("ta liste", "ce réflexe").
+Attention : autonome ne veut PAS dire longue. On pose le sujet en 2-3 mots concrets dans
+la phrase, pas en tergiversant. La référence au post et le "tu" adressé à l'auteur
+arrivent APRÈS.
 
 **Loi 3 : Orale.**
-Syntaxe parlée : dislocation ("un système ça sert à...", "le stress financier des parents,
-un gosse le capte..."), mot d'angle qui montre qu'on tranche ("surtout", "juste", "en vrai",
-"d'abord"). On dirait quelqu'un qui pense en parlant, pas quelqu'un qui récite.
+Syntaxe parlée : dislocation ("un système ça sert à..."), mot d'angle qui montre qu'on
+tranche ("surtout", "juste", "en vrai", "jamais"). On dirait quelqu'un qui pense en
+parlant, pas quelqu'un qui récite.
 
 **Loi 4 : Concrète (anti-FAD).**
 Le test : est-ce que la phrase fait voir une scène, un comportement ou un chiffre
 vérifiable dans sa propre expérience ? Ou est-ce qu'elle renomme le sujet avec des mots
-plus intelligents ? RENOMMER N'EST PAS RÉVÉLER. Un recadrage conceptuel (échanger deux
-mots abstraits contre deux autres) est FAD même s'il est juste.
+plus intelligents ? RENOMMER N'EST PAS RÉVÉLER.
 
 **Loi 5 : Jamais récitée.**
 La structure "[infinitif/concept] + c'est + [définition]" sonne maxime de livre, leçon
 déroulée, script. Interdite en ouverture.
 
-**Règle transverse : le "je" narratif en ouverture est RÉSERVÉ à l'option 3 (Vécu).**
-Les options 1, 2, 4 et 5 n'ouvrent jamais par "j'ai...", "moi je...", "quand j'ai...".
-(Dérive constatée en beta test : toutes les options 1 partaient en storytelling-je.)
+**Loi 6 : Comportement, pas savoir (la loi décisive du calibrage v5).**
+La première phrase parle de ce que les GENS font ou vivent, jamais de ce que les CHOSES
+sont. Une phrase qui compare des matières entre elles ("X explique mieux que Y", "X te
+donne les réponses, Y te donne les questions") reste une affirmation de savoir, donc une
+maxime, donc une phrase toute faite, même avec des mots concrets dedans.
+
+Structures VALIDÉES par Matthias (à faire tourner, jamais la même deux sessions de suite) :
+- "tu peux [comportement] sans jamais [résultat]" : pattern à réutiliser régulièrement,
+  pas systématiquement (maximum 1 par série, pas à chaque session)
+- "personne a jamais [action concrète]" : l'assertion plate et provocante, lâchée sans précaution
+- "personne [comportement], tout le monde [comportement opposé]" : le contraste de comportements
+- le paradoxe à répétition orale : "le déclic vient toujours en lisant un truc qui a rien
+  à voir, jamais en cherchant le déclic"
+
+**LE FILTRE FINAL : le test du téléphone.**
+Avant de valider chaque première phrase, se demander : est-ce que Matthias dirait cette
+phrase TELLE QUELLE à un pote au téléphone ? Et : est-ce que cette phrase pourrait finir
+en citation sur fond beige Instagram ? Si elle ne passe pas le téléphone, ou si elle
+ferait une jolie citation, on la jette et on réécrit.
+
+### Les 4 marqueurs de la phrase toute faite (à traquer et éliminer)
+
+1. **Le sujet-catégorie abstrait** : "le contenu business", "les grandes intuitions sur
+   un domaine". Dès qu'on parle d'une catégorie en général, on pontifie.
+2. **La sagesse équilibrée** : rythme balancé de maxime + précautions du type "souvent",
+   "la plupart du temps". C'est la signature d'une citation, pas d'une remarque.
+3. **Le vocabulaire trop propre** : varier les synonymes fait rédigé. Répéter le même mot
+   fait parlé (quelqu'un qui insiste à l'oral répète : "domaine... domaine... domaine").
+4. **Le jugement surplombant** : juger ce que font les gens depuis au-dessus ("ça donne
+   l'impression de bosser son activité") = leçon de morale, pas commentaire.
 
 ### Ouvertures VALIDÉES par Matthias (à ne pas copier, à imiter dans la logique)
 
+- "tu peux consommer du contenu business pendant des années sans jamais changer d'avis sur rien"
+  (comportement, deuxième personne, légèrement provocant)
+- "personne a jamais changé sa vision en lisant une newsletter de plus sur l'acquisition"
+  (assertion plate sur un comportement, zéro précaution)
+- "personne oublie un documentaire qui l'a remué, tout le monde oublie un carrousel en 10 slides"
+  (contraste de comportements, objets concrets)
+- "tu peux faire 10 ans de veille dans ton secteur sans jamais avoir une seule vraie remise en question"
+  (le pattern tu peux appliqué à la solution)
+- "le déclic vient toujours en lisant un truc qui a rien à voir, jamais en cherchant le déclic"
+  (paradoxe + répétition orale du mot déclic)
 - "un client qui comprend rien ose rarement dire je comprends pas, il dit je vais réfléchir"
-  (une scène qu'on a tous vécue, autonome, orale)
+  (une scène qu'on a tous vécue)
 - "un gosse encaisse mieux des parents fauchés que des parents paniqués"
-  (distinction en mots concrets, pas en concepts)
-- "un système ça sert surtout à supprimer les décisions, et ça personne le dit"
-  (dislocation + mot d'angle + chute)
+  (distinction en mots concrets sur des personnes, pas des concepts)
 - "je me suis fâché avec un ami pour m'être occupé du copywriting de sa formation"
-  (vécu : le je est l'ÉVÉNEMENT lui-même, concret immédiat, ça interpelle)
-- "le piège avec les bonnes conditions, c'est que la barre monte en même temps que toi"
-  (mécanisme universel, image immédiate)
+  (vécu : le je est l'ÉVÉNEMENT lui-même, option Vécu uniquement)
 
 ### Ouvertures REJETÉES par Matthias (et pourquoi)
 
+- "le contenu business ça donne l'impression de bosser son activité, mais c'est souvent juste du confort intellectuel"
+  (leçon de morale : jugement surplombant + catégorie abstraite + trop longue)
+- "les grandes intuitions sur un domaine arrivent souvent par quelqu'un qui n'est pas du domaine"
+  (sagesse équilibrée, phrase toute faite malgré le fond juste)
+- "la sociologie explique mieux pourquoi les gens achètent que la plupart des formations vente"
+  (comparaison de matières = affirmation de savoir = maxime, même avec des mots concrets)
+- "ton secteur te donne les réponses, c'est tout le reste qui te donne les questions"
+  (citation fond beige Instagram : jolie, équilibrée, morte)
 - "accumuler des ressources, c'est la forme de procrastination la plus confortable qui existe"
-  (définition récitée, on dirait un script, une leçon)
+  (définition récitée, script)
 - "tous les hommes c'est une description du quotidien, pas une accusation personnelle"
-  (FAD : recadrage conceptuel, juste mais rien de concret, ça n'apporte rien)
+  (FAD : recadrage conceptuel, rien de concret)
 - "répondre pas tous les hommes ça prend 2 secondes"
-  (pas autonome : incompréhensible pour qui n'a pas lu le post)
-- "le réflexe pas tous les hommes ça dit tout en fait"
-  (cheville de brodage "ça dit tout" + référence elliptique)
-- "j'ai longtemps confondu pas de résultats avec formation nulle"
-  (je narratif en ouverture d'une option Problem Aware : interdit hors option Vécu)
+  (pas autonome : incompréhensible sans le post)
 - "moi aussi j'ai vécu un truc similaire" / "j'ai galéré pendant 3 ans et j'ai enfin compris"
-  (annonce de storytelling, vague et formaté : on n'a rien à foutre de ta vie tant qu'il
-  n'y a pas de concret)
+  (annonce de storytelling, vague et formaté)
 
 ---
 
@@ -150,7 +187,7 @@ Interdiction de réutiliser une phrase ou une amorce de ce document ou d'une ses
 précédente. Les exemples montrent une LOGIQUE, pas des templates. Ça vaut aussi pour les
 trouvailles : une chute comme "et ça personne le dit" ne se remet jamais telle quelle.
 Pareil pour les 5 musiques d'ouverture d'une même série : 5 structures de première phrase
-différentes (scène / dislocation / événement-je / parallèle / constat qui pique...).
+différentes (tu peux / assertion personne / scène / dislocation / événement-je / paradoxe...).
 
 ---
 
@@ -171,7 +208,7 @@ qu'elle est vraie. RÉSERVÉ à l'option 3.
 nature, argent). Naturellement option 4, possible ailleurs.
 
 **6. La distinction concrète** : séparer deux choses que tout le monde confond, avec des
-mots concrets, jamais des concepts (fauchés/paniqués oui, description/accusation non).
+mots concrets sur des personnes ou des comportements, jamais des concepts.
 
 **7. Le désaccord emballé dans le vécu** : jamais frontal, on raconte SON expérience qui
 nuance, et on laisse la porte ouverte. Réservé à l'option 3.
@@ -230,17 +267,18 @@ bloc code. L'angle est indiqué entre parenthèses hors bloc (pour Matthias, pas
 ### Option 1 : Problem Aware
 
 **Objectif : le lecteur se reconnaît dans un problème qu'il n'avait jamais nommé.**
-Ouverture = une scène ou un comportement observable (jamais de je narratif). Le pont
-prolonge dans le territoire de Matthias (acquisition, aller chercher ses clients,
-régularité, intention, prévisibilité). Changer de thématique territoire à chaque session
-sur un même auteur.
+Ouverture = un comportement vécu ou une scène observable (Loi 6), jamais de je narratif,
+jamais de jugement surplombant. Le pont prolonge dans le territoire de Matthias
+(acquisition, aller chercher ses clients, régularité, intention, prévisibilité). Changer
+de thématique territoire à chaque session sur un même auteur.
 
 ### Option 2 : Solution Aware
 
 **Objectif : rendre limpide une nuance ou un mécanisme qui fonctionne.**
 Le niveau de référence : "un gosse encaisse mieux des parents fauchés que des parents
-paniqués" (verdict Matthias : exceptionnelle parce que la nuance est limpide). Jamais de
-je narratif en ouverture. Le pont valorise la solution dans le territoire sans pitcher.
+paniqués" (verdict Matthias : exceptionnelle parce que la nuance est limpide). Ouverture
+en comportement (Loi 6), jamais en comparaison de matières. Jamais de je narratif. Le
+pont valorise la solution dans le territoire sans pitcher.
 
 ### Option 3 : Vécu (la SEULE option storytelling)
 
@@ -254,7 +292,6 @@ par Matthias :
   direct dans le concret, zéro tergiversation.
 - **Jamais une annonce de vécu** : "moi aussi j'ai vécu ça", "j'ai galéré pendant 3 ans
   et j'ai enfin compris pourquoi" = storytelling de merde, vague, formaté, autocentré.
-  Dès qu'on repère un "je" qui annonce au lieu de raconter, les gens décrochent.
 - **Alternative tout aussi valide** : poser l'insight en première phrase, puis dérouler
   l'histoire en "je" dans le développement.
 
@@ -288,8 +325,9 @@ Zéro pont commercial dans cette option.
 **Objectif : le commentaire court qui claque, celui qu'on like en scrollant.**
 1 à 3 lignes MAXIMUM. Aphorisme, analogie inattendue, réaction sèche, ou blague si le
 registre s'y prête. Clarté absolue : court ne veut pas dire énigmatique. Une seule idée,
-frappée. Le corpus réel de Matthias en est rempli ("c'est les gens qui sont statique et
-campés sur leurs positions qui se font dépasser un jour ou l'autre").
+frappée. La répétition orale du même mot y est une arme ("on devient meilleur dans son
+domaine en sortant du domaine, et la plupart consomment uniquement leur domaine" :
+validé par Matthias, ça sort des tripes précisément parce que le mot revient).
 
 ### Option 5 : Clivant
 
@@ -514,12 +552,18 @@ Exemples validés de la logique (pas des templates) :
 ## ANTI-PATTERNS : Le condensé des échecs
 
 - Reformuler ce que le post dit déjà
-- Définition récitée en ouverture ("[concept], c'est [définition]") : sonne script/leçon
-- Insight FAD : recadrage conceptuel sans rien de concret, renommer n'est pas révéler
+- Phrase toute faite en ouverture : sujet-catégorie abstrait, sagesse équilibrée avec
+  "souvent", vocabulaire trop propre, jugement surplombant (les 4 marqueurs)
+- Comparaison de matières en ouverture ("X explique mieux que Y") : affirmation de
+  savoir = maxime, même avec des mots concrets
+- Première phrase qui rate le test du téléphone ou qui ferait une citation fond beige
+- Première phrase trop longue (plus de 16 mots, on met du temps à comprendre)
+- Définition récitée en ouverture ("[concept], c'est [définition]")
+- Insight FAD : recadrage conceptuel sans rien de concret
 - Première phrase non autonome (référence elliptique au post)
 - Je narratif en ouverture des options 1, 2, 4, 5 (réservé à l'option Vécu)
 - Annonce de storytelling ("moi aussi j'ai vécu ça", "j'ai galéré X temps et j'ai enfin compris")
-- Guillemets air quotes (voir section GUILLEMETS : dialogue rapporté uniquement, max 1/série)
+- Guillemets air quotes (dialogue rapporté uniquement, max 1/série)
 - Parler du post ou de la situation en observateur ("c'est le post entier qui se confirme")
 - Cheville de brodage ("ça dit tout")
 - Compliment ou phrase d'approche avant l'insight
@@ -527,8 +571,9 @@ Exemples validés de la logique (pas des templates) :
 - Pont qui nomme la cible ou cite des individus
 - Pont sur un post société/émotion grave (désactivation obligatoire)
 - 5 options de longueur ou de musique similaires, ou aucune option courte
-- Humour abstrait ou énigmatique sur un post second degré (la blague doit être limpide)
+- Humour abstrait ou énigmatique sur un post second degré
 - Réutiliser une formulation de ce document ou d'une session précédente
+- Le pattern "tu peux..." plus d'une fois par série ou à chaque session
 - Clivant qui ouvre par le ressenti ("ça me gêne...") au lieu de la tension
 - Tic placé hors contexte, anecdote recyclée deux sessions de suite, vécu inventé
   spectaculaire ou sur-détaillé
@@ -544,17 +589,18 @@ Exemples validés de la logique (pas des templates) :
 2. **Tirets longs** : relecture de chaque bloc, zéro tiret long ou moyen nulle part ?
 3. **Guillemets** : zéro guillemet, sauf au maximum 1 dialogue rapporté vivant, jamais en 1ère phrase ?
 4. **Test du lecteur** : chaque option est plus pertinente que le post lui-même ?
-5. **Les 5 lois de la première phrase** : courte + autonome + orale + concrète + jamais récitée ?
-6. **Je narratif** : absent des ouvertures 1, 2, 4, 5 ? Dans l'option 3, le je d'ouverture est-il l'événement concret lui-même ?
-7. **5 musiques d'ouverture différentes**, longueurs visiblement différentes, option 4 vraiment courte (1-3 lignes) ?
-8. **Miroir** : les 5 options épousent le registre du post ? Si humour : blague limpide, même délire ?
-9. **Ponts** : mécanisme pur, cible jamais nommée, syntaxe variée, ou désactivés si post sensible ?
-10. **Adressage** : on parle À l'auteur ("tu", "ton post"), jamais en observateur ?
-11. **Clivant** : tension d'abord, "je" après, jamais contre l'auteur d'un témoignage ?
-12. **Vécu** : banque prioritaire, invention sobre et crédible, anecdote pas utilisée récemment, structure des tripes (événement, conséquence, leçon, conseil) ?
-13. **Humanisateurs** : "perso"/"franchement"/"en vrai" présents sur 1-2 options, jamais le même mot deux fois ?
-14. **Zéro recyclage** de formulations, tics justifiés, 0-2 imperfections ?
-15. **Post sensible** : lecture stratégique faite, noyau défendable, risque signalé ?
+5. **Les 6 lois de la première phrase** : courte (10-16 mots) + autonome + orale + concrète + jamais récitée + comportement pas savoir ?
+6. **Test du téléphone** sur chaque première phrase : Matthias dirait ça tel quel à un pote ? Pas de citation fond beige ?
+7. **Je narratif** : absent des ouvertures 1, 2, 4, 5 ? Dans l'option 3, le je d'ouverture est-il l'événement concret lui-même ?
+8. **5 musiques d'ouverture différentes**, longueurs visiblement différentes, option 4 vraiment courte (1-3 lignes) ? Le pattern "tu peux" présent au maximum 1 fois ?
+9. **Miroir** : les 5 options épousent le registre du post ? Si humour : blague limpide, même délire ?
+10. **Ponts** : mécanisme pur, cible jamais nommée, syntaxe variée, ou désactivés si post sensible ?
+11. **Adressage** : on parle À l'auteur ("tu", "ton post"), jamais en observateur ?
+12. **Clivant** : tension d'abord, "je" après, jamais contre l'auteur d'un témoignage ?
+13. **Vécu** : banque prioritaire, invention sobre et crédible, anecdote pas utilisée récemment, structure des tripes (événement, conséquence, leçon, conseil) ?
+14. **Humanisateurs** : "perso"/"franchement"/"en vrai" présents sur 1-2 options, jamais le même mot deux fois ?
+15. **Zéro recyclage** de formulations, tics justifiés, 0-2 imperfections ?
+16. **Post sensible** : lecture stratégique faite, noyau défendable, risque signalé ?
 
 ---
 
@@ -598,6 +644,12 @@ un système ça sert surtout à supprimer les décisions, et ça personne le dit
 la plupart s'épuisent pas à créer du contenu, ils s'épuisent à redécider tous les jours quoi poster et pour qui. le jour où c'est tranché une fois pour toutes, toute l'energie part dans l'exécution
 
 et c'est pareil quand tu vas chercher tes clients, savoir exactement ce que t'as à faire chaque matin c'est ce qui te fait tenir dans la durée, et c'est la durée qui paye
+```
+
+**Percutant validée (post contenu hors-métier, répétition orale assumée) :**
+
+```
+on devient meilleur dans son domaine en sortant du domaine, et la plupart consomment uniquement leur domaine
 ```
 
 **Clivante validée (tension d'abord, je après) :**
