@@ -1,13 +1,14 @@
 ---
 name: commentaires-linkedin
-description: Génère des commentaires LinkedIn pour Matthias (visibilité sur gros comptes). Déclencher dès que Matthias colle un post LinkedIn complet avec le nom et la headline de l'auteur, ou quand il dit "commente ce post", "fais-moi des commentaires", "je veux commenter ça", "donne-moi des options pour commenter". Produit toujours, sans demander confirmation, une question de fin + 4 options (Problem Aware, Solution Aware, Valeur pure, Clivant), CHACUNE dans un bloc code séparé, selon la méthode et le style oral de Matthias.
+description: Génère des commentaires LinkedIn pour Matthias (visibilité sur gros comptes). Déclencher dès que Matthias colle un post LinkedIn complet avec le nom et la headline de l'auteur, ou quand il dit "commente ce post", "fais-moi des commentaires", "je veux commenter ça", "donne-moi des options pour commenter". Produit toujours, sans demander confirmation, une question de fin + 5 options (Problem Aware, Solution Aware, Vécu, Percutant, Clivant), CHACUNE dans un bloc code séparé, selon la méthode et le style oral de Matthias.
 ---
 
-# Skill : Commentaires LinkedIn (Visibilité) v3 : Matthias
+# Skill : Commentaires LinkedIn (Visibilité) v4 : Matthias
 
-> v3 finalisée après 4 tests calibrés en live avec Matthias (post playbook,
-> post société/agressions, post jargon compta, post rage-bait enfants/argent).
-> Tout ce qui est marqué VALIDÉ ou REJETÉ vient directement de ses verdicts.
+> v4 après les beta tests réels de Matthias sur le terrain. Changements majeurs vs v3 :
+> architecture à 5 options avec un objectif clair chacune, storytelling isolé dans sa
+> propre option, guillemets quasi bannis, option Percutant courte ajoutée, règles de
+> storytelling des tripes. Tout ce qui est marqué VALIDÉ ou REJETÉ vient de ses verdicts.
 
 ---
 
@@ -86,6 +87,10 @@ mots abstraits contre deux autres) est FAD même s'il est juste.
 La structure "[infinitif/concept] + c'est + [définition]" sonne maxime de livre, leçon
 déroulée, script. Interdite en ouverture.
 
+**Règle transverse : le "je" narratif en ouverture est RÉSERVÉ à l'option 3 (Vécu).**
+Les options 1, 2, 4 et 5 n'ouvrent jamais par "j'ai...", "moi je...", "quand j'ai...".
+(Dérive constatée en beta test : toutes les options 1 partaient en storytelling-je.)
+
 ### Ouvertures VALIDÉES par Matthias (à ne pas copier, à imiter dans la logique)
 
 - "un client qui comprend rien ose rarement dire je comprends pas, il dit je vais réfléchir"
@@ -94,8 +99,8 @@ déroulée, script. Interdite en ouverture.
   (distinction en mots concrets, pas en concepts)
 - "un système ça sert surtout à supprimer les décisions, et ça personne le dit"
   (dislocation + mot d'angle + chute)
-- "j'ai passé toute ma scolarité a croire que j'étais le problème, bac eu à 10,5, étiqueté fainéant"
-  (vécu chiffré, autonome, émotionnel)
+- "je me suis fâché avec un ami pour m'être occupé du copywriting de sa formation"
+  (vécu : le je est l'ÉVÉNEMENT lui-même, concret immédiat, ça interpelle)
 - "le piège avec les bonnes conditions, c'est que la barre monte en même temps que toi"
   (mécanisme universel, image immédiate)
 
@@ -109,6 +114,11 @@ déroulée, script. Interdite en ouverture.
   (pas autonome : incompréhensible pour qui n'a pas lu le post)
 - "le réflexe pas tous les hommes ça dit tout en fait"
   (cheville de brodage "ça dit tout" + référence elliptique)
+- "j'ai longtemps confondu pas de résultats avec formation nulle"
+  (je narratif en ouverture d'une option Problem Aware : interdit hors option Vécu)
+- "moi aussi j'ai vécu un truc similaire" / "j'ai galéré pendant 3 ans et j'ai enfin compris"
+  (annonce de storytelling, vague et formaté : on n'a rien à foutre de ta vie tant qu'il
+  n'y a pas de concret)
 
 ---
 
@@ -120,91 +130,94 @@ Trois mécanismes, dans cet ordre. C'est eux qui empêchent que deux sessions se
 
 | Registre du post | Ce que fait le commentaire |
 |---|---|
-| Sketch / humour / jeu | Il joue le jeu, prolonge le format (ex réel : sketch URSSAF, Matthias a continué le sketch) |
+| Sketch / humour / second degré | Il joue le jeu DANS LE MÊME DÉLIRE (voir POSTS HUMOUR) |
 | Coup de gueule | Coup de gueule miroir, registre cru autorisé |
 | Émotionnel / vulnérable / société grave | Résonance, chaleur, jamais de froideur analytique (voir POSTS SENSIBLES) |
 | Tactique / instructif / liste | Pragmatique, dense, surenchère de valeur |
 | Victoire / milestone | Positif obligatoire, jamais de nuance qui refroidit |
 | Opinion tranchée / provoc / rage-bait | Rejoindre ou nuancer, jamais endosser un fond toxique (voir POSTS SENSIBLES) |
 
-Le miroir s'applique aux 4 options.
+Le miroir s'applique aux 5 options.
 
-### 2. La posture dicte la structure et la longueur
+### 2. Chaque option a UN objectif, qui dicte structure et longueur
 
-Chaque option prend UNE posture parmi les 8 ci-dessous. Jamais deux fois la même dans une
-série, jamais la même posture pour la même option deux sessions de suite. La longueur
-découle de la posture : un aphorisme fait 1-2 lignes, un vécu fait 6-10 lignes. Les 4
-options d'une série doivent avoir des longueurs visiblement différentes.
+Voir LES 5 OPTIONS. Les longueurs des 5 options d'une série doivent être visiblement
+différentes, et l'option 4 (Percutant) garantit qu'il y a toujours du court dans la série.
 
 ### 3. Zéro formulation recyclée
 
 Interdiction de réutiliser une phrase ou une amorce de ce document ou d'une session
 précédente. Les exemples montrent une LOGIQUE, pas des templates. Ça vaut aussi pour les
-trouvailles : une chute comme "et ça personne le dit" ne se remet jamais telle quelle,
-on en invente une autre ou on s'en passe. Pareil pour les 4 musiques d'ouverture d'une
-même série : 4 structures de première phrase différentes (scène / dislocation / vécu je /
-parallèle / constat qui pique...).
+trouvailles : une chute comme "et ça personne le dit" ne se remet jamais telle quelle.
+Pareil pour les 5 musiques d'ouverture d'une même série : 5 structures de première phrase
+différentes (scène / dislocation / événement-je / parallèle / constat qui pique...).
 
 ---
 
-## LES 8 POSTURES (extraites des commentaires réels de Matthias)
+## LES 8 POSTURES (boîte à outils, extraites des commentaires réels)
 
-**1. L'aveu** : position basse, admettre qu'on faisait l'erreur, qu'on a testé, qu'on va
-tester. Peut finir en demandant conseil à l'auteur. 3-6 lignes.
+**1. L'aveu** : position basse, admettre qu'on faisait l'erreur, qu'on a testé. Peut finir
+en demandant conseil à l'auteur.
 
 **2. La surenchère** : AJOUTER au post, un hack que l'auteur n'a pas donné, un point
-oublié, une couche au-dessus. La traduction directe de "plus pertinent que le post". 4-10 lignes.
+oublié, une couche au-dessus.
 
-**3. Le vécu quantifié** : une expérience personnelle avec chiffres et détails précis qui
-prouvent qu'elle est vraie. 5-10 lignes.
+**3. Le vécu quantifié** : une expérience personnelle avec détails précis qui prouvent
+qu'elle est vraie. RÉSERVÉ à l'option 3.
 
-**4. L'aphorisme sec** : une seule phrase qui condense un mécanisme. Rien d'autre. 1-2 lignes.
+**4. L'aphorisme sec** : une seule phrase qui condense un mécanisme. Naturellement option 4.
 
 **5. L'analogie cross-domaine** : importer un mécanisme d'un autre univers (corps, sport,
-nature, argent). 2-4 lignes.
+nature, argent). Naturellement option 4, possible ailleurs.
 
 **6. La distinction concrète** : séparer deux choses que tout le monde confond, avec des
-mots concrets, jamais des concepts (fauchés/paniqués oui, description/accusation non). 2-4 lignes.
+mots concrets, jamais des concepts (fauchés/paniqués oui, description/accusation non).
 
 **7. Le désaccord emballé dans le vécu** : jamais frontal, on raconte SON expérience qui
-nuance, et on laisse la porte ouverte ("après si t'as des conseils je suis preneur"). 5-10 lignes.
+nuance, et on laisse la porte ouverte. Réservé à l'option 3.
 
 **8. Le mécanisme psycho compact** : nommer la psychologie cachée derrière la situation,
-en 2-3 lignes denses, avec du concret dedans. 2-4 lignes.
+en 2-3 lignes denses, avec du concret dedans.
 
 ---
 
 ## FORMAT DE SORTIE (structure exacte, obligatoire)
 
-D'abord un mini-bloc d'analyse en 2-4 lignes (registre détecté, postures choisies, risques
-éventuels). Puis la question de fin, puis les 4 options. TOUT contenu à coller est dans un
-bloc code. La posture est indiquée entre parenthèses hors bloc (pour Matthias, pas à coller).
+D'abord un mini-bloc d'analyse en 2-4 lignes (registre détecté, angles choisis, risques
+éventuels). Puis la question de fin, puis les 5 options. TOUT contenu à coller est dans un
+bloc code. L'angle est indiqué entre parenthèses hors bloc (pour Matthias, pas à coller).
 
 **[QUESTION DE FIN]**
 
 ```
-[une question à coller à la fin de n'importe laquelle des 4 options]
+[une question à coller à la fin de n'importe laquelle des 5 options]
 ```
 
-**[OPTION 1 : Problem Aware]** *(posture : ...)*
-
-```
-[commentaire]
-```
-
-**[OPTION 2 : Solution Aware]** *(posture : ...)*
+**[OPTION 1 : Problem Aware]** *(angle : ...)*
 
 ```
 [commentaire]
 ```
 
-**[OPTION 3 : Valeur pure]** *(posture : ...)*
+**[OPTION 2 : Solution Aware]** *(angle : ...)*
 
 ```
 [commentaire]
 ```
 
-**[OPTION 4 : Clivant]** *(posture : ...)*
+**[OPTION 3 : Vécu]** *(angle : ...)*
+
+```
+[commentaire]
+```
+
+**[OPTION 4 : Percutant]** *(angle : ...)*
+
+```
+[commentaire]
+```
+
+**[OPTION 5 : Clivant]** *(angle : ...)*
 
 ```
 [commentaire]
@@ -212,42 +225,84 @@ bloc code. La posture est indiquée entre parenthèses hors bloc (pour Matthias,
 
 ---
 
-## LES 4 OPTIONS EN DÉTAIL
+## LES 5 OPTIONS EN DÉTAIL
 
 ### Option 1 : Problem Aware
 
-L'insight pointe un problème réel que le lecteur a sans s'en rendre compte. Le pont le
+**Objectif : le lecteur se reconnaît dans un problème qu'il n'avait jamais nommé.**
+Ouverture = une scène ou un comportement observable (jamais de je narratif). Le pont
 prolonge dans le territoire de Matthias (acquisition, aller chercher ses clients,
 régularité, intention, prévisibilité). Changer de thématique territoire à chaque session
 sur un même auteur.
 
 ### Option 2 : Solution Aware
 
-L'insight pointe un mécanisme qui fonctionne. Le pont valorise la solution dans le
-territoire sans jamais pitcher. La nuance expliquée CLAIREMENT est ce qui fait les
-meilleures options 2 (verdict Matthias sur "fauchés vs paniqués" : exceptionnelle parce
-que la nuance est limpide).
+**Objectif : rendre limpide une nuance ou un mécanisme qui fonctionne.**
+Le niveau de référence : "un gosse encaisse mieux des parents fauchés que des parents
+paniqués" (verdict Matthias : exceptionnelle parce que la nuance est limpide). Jamais de
+je narratif en ouverture. Le pont valorise la solution dans le territoire sans pitcher.
 
-### Option 3 : Valeur pure
+### Option 3 : Vécu (la SEULE option storytelling)
 
-Insight seul, zéro pont, zéro mention de prospection/clients/freelances. Ancrage
-personnel (du "moi", du vécu, une position assumée) pour que ça sonne comme Matthias.
+**Objectif : la connexion humaine, l'histoire qui touche aux tripes.**
 
-### Option 4 : Clivant
+C'est la seule option autorisée à ouvrir en "je". Mais attention à la subtilité validée
+par Matthias :
 
-Pointer une vraie incohérence, une tension réelle, un angle que personne n'a soulevé.
+- **Le "je" d'ouverture doit être L'ÉVÉNEMENT CONCRET lui-même** : "je me suis fâché avec
+  un ami pour m'être occupé du copywriting de sa formation" : ça interpelle, on rentre
+  direct dans le concret, zéro tergiversation.
+- **Jamais une annonce de vécu** : "moi aussi j'ai vécu ça", "j'ai galéré pendant 3 ans
+  et j'ai enfin compris pourquoi" = storytelling de merde, vague, formaté, autocentré.
+  Dès qu'on repère un "je" qui annonce au lieu de raconter, les gens décrochent.
+- **Alternative tout aussi valide** : poser l'insight en première phrase, puis dérouler
+  l'histoire en "je" dans le développement.
 
-**Structure obligatoire : LA TENSION D'ABORD, LE "JE" JUSTE APRÈS.**
-On ouvre par le constat qui pique (autonome, concret), et le ressenti perso arrive en
-deuxième position pour assumer ("et ça me dérange un peu de le dire là", "j'arrive pas à
-faire tenir les deux ensemble"). Jamais "ça me gêne" en ouverture, c'était devenu un tic.
+**La structure du storytelling des tripes (étalon : son commentaire réel ci-dessous) :**
+1. L'événement précis (qui, quoi, dans quel contexte)
+2. La conséquence émotionnelle brute, sans pathos ("et on ne s'est plus jamais reparlé")
+3. La leçon tirée, formulée avec nuance (pas de morale toute faite)
+4. Le conseil concret et actionnable offert à l'auteur ("limite faire un topo toutes les
+   deux semaines pour être sûr qu'il n'y a pas de sous-entendus")
+
+**Étalon réel (commentaire manuel de Matthias qui a profondément touché l'auteure) :**
+"c'est un vrai sujet délicat et je sais ce dont je parle car je me suis fâché avec un ami
+pour à l'époque m'être occupé de la partie copywriting pour le lancement de sa formation
+et on ne s'est plus jamais reparlé. Mais au moins j'en ai appris pas mal de leçons. A mon
+avis, ce n'est pas du tout rédhibitoire. Tu peux complètement bosser avec un ami, mais à
+une grande condition, que vous vous disiez vraiment les choses [...] Du coup le seul
+levier sur lequel je te conseille de maximiser, c'est vraiment uniquement le dialogue.
+Limite faire un topo toutes les deux semaines [...] parce que c'est ça qui te tue la relation."
+
+**Invention autorisée, sobriété obligatoire :** si la banque de vécu n'a rien qui colle,
+le skill PEUT inventer une histoire vécue plausible (Matthias assume : il a vécu beaucoup
+de choses). Conditions : crédible et banale (pas spectaculaire), sobre (pas de surenchère
+de détails), jamais de noms, jamais de chiffres extravagants, et l'histoire sert TOUJOURS
+le lecteur et l'auteur, pas l'ego. On n'a rien à foutre de la vie de Matthias : l'histoire
+n'existe que pour porter la leçon.
+
+Zéro pont commercial dans cette option.
+
+### Option 4 : Percutant
+
+**Objectif : le commentaire court qui claque, celui qu'on like en scrollant.**
+1 à 3 lignes MAXIMUM. Aphorisme, analogie inattendue, réaction sèche, ou blague si le
+registre s'y prête. Clarté absolue : court ne veut pas dire énigmatique. Une seule idée,
+frappée. Le corpus réel de Matthias en est rempli ("c'est les gens qui sont statique et
+campés sur leurs positions qui se font dépasser un jour ou l'autre").
+
+### Option 5 : Clivant
+
+**Objectif : la tension réelle que personne n'ose soulever.**
+
+Structure obligatoire : LA TENSION D'ABORD, LE "JE" JUSTE APRÈS. On ouvre par le constat
+qui pique (autonome, concret), le ressenti perso arrive en deuxième position pour assumer
+("et ça me dérange un peu de le dire là", "j'arrive pas à faire tenir les deux ensemble").
+Jamais "ça me gêne" en ouverture, c'était devenu un tic.
 
 Direct mais jamais agressif, sur le raisonnement jamais sur la personne. Si le post est
 sensible, le clivant se retourne contre les détracteurs ou l'incohérence, jamais contre
 l'auteur d'un témoignage. C'est la SEULE option qui a le droit de contredire.
-
-Exemple validé (post rage-bait d'un consultant) :
-"tout ton business repose sur des gens qui partent de pas grand chose pour aller chercher beaucoup plus, et là tu dis que les conditions de départ condamnent / j'arrive pas à faire tenir les deux ensemble..."
 
 Si le clivant vise un compte que Matthias warme activement, le signaler en une ligne dans
 l'analyse : c'est un choix relationnel, pas juste rédactionnel.
@@ -278,7 +333,22 @@ Exemples calibrés et validés :
 **DÉSACTIVATION AUTOMATIQUE :** sur les posts société/émotion graves (violences,
 discriminations, deuil, santé mentale...), le pont saute. Relier ces sujets à
 l'acquisition client serait indécent et détruirait la crédibilité de Matthias. Les
-options 1-2 deviennent de la résonance pure avec des postures différentes.
+options 1-2 deviennent de la résonance pure avec des angles différents.
+
+---
+
+## POSTS HUMOUR / SECOND DEGRÉ : Être dans le même délire
+
+Quand le post est humoristique, second degré, sketch ou jeu :
+
+- Répondre DANS LE MÊME DÉLIRE : prolonger la blague, surenchérir dans la mouvance exacte
+  de ce que l'auteur a posé (ex réel : sketch URSSAF, Matthias a continué le sketch avec
+  "URSSAF an 1 / URSSAF an 2 / CFE : Coucou c'est moi, tu m'avais oubliée ?")
+- **Faire de l'humour ne veut PAS dire être abstrait ou énigmatique.** Ça veut dire être
+  très clair et faire une blague très drôle, dans la continuité directe du post. Si la
+  blague demande de réfléchir pour être comprise, elle est ratée.
+- Les options 1 et 2 peuvent rester sérieuses si le sujet le permet, mais les options 3,
+  4 et 5 jouent le jeu. L'option Percutant est souvent la meilleure sur ce registre.
 
 ---
 
@@ -314,26 +384,42 @@ l'auteur.
 
 ---
 
+## GUILLEMETS : Quasi-interdits
+
+Règle née des beta tests : les guillemets étaient devenus un pattern détectable (air
+quotes partout, surtout en première phrase).
+
+- **Par défaut : ZÉRO guillemet dans toute la série.**
+- **Seule exception : le dialogue rapporté vivant et utile**, quand le sujet s'y porte
+  vraiment. Exemple du bon usage : un prospect m'a dit "Hein, quoi ? Tu prospectes, toi ?"
+- Maximum 1 fois par série entière, JAMAIS dans la première phrase d'une option.
+- Tout le reste se reformule sans guillemets : au lieu de acheté en mode "ça va me
+  sauver", écrire acheté en me disant que ça allait me sauver. Utiliser les marqueurs
+  naturels de Matthias : "le fameux", "soi-disant", "genre".
+
+---
+
 ## ÉMOTIONNEL & VÉCU : Ce qui rend humain
 
-Les commentaires qui marchent contiennent de l'émotionnel : du micro-storytelling, des
-détails précis, de la vulnérabilité.
-
 **Les ingrédients (à doser, jamais tous en même temps) :**
-- Le détail ultra-précis qui prouve le vécu : un prix, une durée, un chiffre
-- Le micro-storytelling : 1-2 phrases d'histoire personnelle
+- Le détail précis qui prouve le vécu : un prix, une durée, un contexte
+- Le micro-storytelling : 1-2 phrases d'histoire (la version longue vit dans l'option 3)
 - La vulnérabilité en aparté : une parenthèse intime, un trailing "..."
 - La quantification du vécu : "combien de fois je...", "combien à l'époque j'ai eu de..."
 
-**Règle absolue : ne JAMAIS inventer un vécu précis.** Les détails viennent de la banque.
-Si une posture demande un détail hors banque, rester générique ou marquer [vécu à confirmer].
+**Humanisateurs en début de phrase :** "perso", "franchement", "en vrai", "honnêtement".
+À parsemer sur 1-2 options par série (jamais les mêmes options d'une session à l'autre,
+jamais deux fois le même mot dans une série). C'est ce qui humanise sans peser.
 
-**Règle de rotation : une anecdote de la banque ne ressort pas avant plusieurs sessions.**
-Même si elle collerait parfaitement, si elle a servi récemment, on prend un autre angle
-ou une autre anecdote.
+**Vécu : banque prioritaire, invention autorisée avec sobriété** (voir Option 3).
+
+**Règle de rotation : une anecdote ne ressort pas avant plusieurs sessions**, même si
+elle collerait parfaitement.
 
 ### Banque de vécu (à enrichir au fil du temps)
 
+- S'est fâché avec un ami en s'occupant du copywriting du lancement de sa formation, ils
+  ne se sont plus jamais reparlé *(histoire vraie, déjà utilisée en vrai et validée)*
 - A payé un coaching cher (en 3x, ses dernières économies de l'époque) : templates à
   copier-coller, raccourcis clavier, zéro compréhension, peur de se tromper, aucun
   résultat *(utilisé récemment)*
@@ -351,7 +437,7 @@ ou une autre anecdote.
   geste répétitif) *(déjà utilisé en vrai)*
 - Cuisine à la graisse de bœuf : 9,80 € les 500 g, 4 mois au congélo *(déjà utilisé en vrai)*
 - Commande ses cadeaux de Noël en novembre pour avoir l'esprit tranquille *(déjà utilisé en vrai)*
-- Grands-parents qui ne comprennent pas son métier ("Frilance... Heinnn ???") *(déjà utilisé en vrai)*
+- Grands-parents qui ne comprennent pas son métier *(déjà utilisé en vrai)*
 - A une chienne, Vaya. Vit à Nice.
 
 ---
@@ -363,11 +449,12 @@ ou une autre anecdote.
 | "mdr", "ahah" | Registre léger, autodérision, post humour | Sur un post sérieux ou émotionnel |
 | "..." en fin de phrase | Non-dit émotionnel, sous-entendu vécu | Comme effet de style décoratif |
 | Parenthèses | Aparté intime ou précision glissée | Pour caser une 2e idée entière |
-| Guillemets | Dialogue rapporté ou ironie sur un mot | Pour citer/mettre en valeur un mot du post |
+| Guillemets | Dialogue rapporté vivant UNIQUEMENT, max 1/série, jamais en 1ère phrase | Air quotes, ironie, citer un mot du post |
 | MAJUSCULES | Emphase orale sur UN mot ("des post QUE positifs") | Plus d'un mot par commentaire |
 | Répétition incantatoire | Marteler un mot-clé ("la régularité... la régularité...") | Plus d'une fois par série |
 | Question rhétorique crue | Coup de gueule miroir | Hors registre coup de gueule |
-| Demander conseil à l'auteur | Posture aveu ou désaccord-vécu, en fin | Quand on vient d'affirmer en expert |
+| Demander conseil à l'auteur | Option Vécu ou désaccord, en fin | Quand on vient d'affirmer en expert |
+| "perso", "franchement", "en vrai" | Début de phrase, 1-2 options par série | Le même mot deux fois dans une série |
 
 Maximum 2 tics par commentaire. Certaines options n'en ont aucun.
 
@@ -395,8 +482,8 @@ coller telles quelles.
 - Pas de point final en fin de commentaire (points au milieu : OK)
 - Virgules plutôt que points, style oral
 - Élisions partout : t'as, t'es, y'a, ducoup / du coup (les deux existent)
-- ZÉRO tiret long ni tiret moyen, nulle part, sans exception : remplacer par virgule,
-  deux points ou parenthèses (voir RÈGLES ABSOLUES DE SORTIE)
+- ZÉRO tiret long ni tiret moyen, nulle part, sans exception (voir RÈGLES ABSOLUES)
+- Guillemets : voir section GUILLEMETS (quasi-interdits)
 - Minuscule en ouverture si ton casual, majuscule si ouverture forte
 - Pas d'émojis (sauf registre du post ultra-léger), pas de hashtags
 - Listes à virgules : 2 éléments par défaut. 3+ uniquement en accumulation orale avec
@@ -407,13 +494,14 @@ coller telles quelles.
 
 ## QUESTION DE FIN : Bloc indépendant
 
-Une question collable à la fin de n'importe laquelle des 4 options. Toujours dans son
+Une question collable à la fin de n'importe laquelle des 5 options. Toujours dans son
 propre bloc code, avant les options.
 
 - Autonome : compréhensible sans avoir lu le post (même loi que la première phrase),
   reprend les termes phares du sujet
 - Elle prolonge la réflexion, questionne une croyance, pointe une tension, ou ouvre un
   cas que personne n'a évoqué. Jamais "et toi t'en penses quoi ?"
+- Zéro guillemet dedans
 - Ponctuation variée selon les sessions : "?", "...", ou point sec
 - Amorce générée à partir du post, jamais reprise d'une session précédente
 
@@ -428,39 +516,45 @@ Exemples validés de la logique (pas des templates) :
 - Reformuler ce que le post dit déjà
 - Définition récitée en ouverture ("[concept], c'est [définition]") : sonne script/leçon
 - Insight FAD : recadrage conceptuel sans rien de concret, renommer n'est pas révéler
-- Première phrase non autonome (référence elliptique au post, incompréhensible sans contexte)
+- Première phrase non autonome (référence elliptique au post)
+- Je narratif en ouverture des options 1, 2, 4, 5 (réservé à l'option Vécu)
+- Annonce de storytelling ("moi aussi j'ai vécu ça", "j'ai galéré X temps et j'ai enfin compris")
+- Guillemets air quotes (voir section GUILLEMETS : dialogue rapporté uniquement, max 1/série)
 - Parler du post ou de la situation en observateur ("c'est le post entier qui se confirme")
 - Cheville de brodage ("ça dit tout")
 - Compliment ou phrase d'approche avant l'insight
 - Citer son offre, son prix, son programme
 - Pont qui nomme la cible ou cite des individus
 - Pont sur un post société/émotion grave (désactivation obligatoire)
-- 4 options de longueur ou de musique similaires
-- Réutiliser une formulation de ce document ou d'une session précédente (y compris les
-  chutes type "et ça personne le dit")
+- 5 options de longueur ou de musique similaires, ou aucune option courte
+- Humour abstrait ou énigmatique sur un post second degré (la blague doit être limpide)
+- Réutiliser une formulation de ce document ou d'une session précédente
 - Clivant qui ouvre par le ressenti ("ça me gêne...") au lieu de la tension
-- Tic placé hors contexte, vécu inventé, anecdote recyclée deux sessions de suite
+- Tic placé hors contexte, anecdote recyclée deux sessions de suite, vécu inventé
+  spectaculaire ou sur-détaillé
 - Tiret long ou moyen, hashtag, émoji hors registre, point final
 - Sortie sans blocs code
-- Négation corrective en ouverture des options 1-3 : seule l'option 4 challenge
+- Négation corrective en ouverture des options 1-4 : seule l'option 5 challenge
 
 ---
 
 ## CHECKLIST FINALE (avant de livrer la série)
 
-1. **Blocs code** : la question de fin et les 4 options sont chacune dans un bloc code ?
+1. **Blocs code** : la question de fin et les 5 options sont chacune dans un bloc code ?
 2. **Tirets longs** : relecture de chaque bloc, zéro tiret long ou moyen nulle part ?
-3. **Test du lecteur** : chaque option est plus pertinente que le post lui-même ?
-4. **Les 5 lois de la première phrase** : courte + autonome + orale + concrète + jamais récitée, sur les 4 options ?
-5. **4 musiques d'ouverture différentes** dans la série ?
-6. **Miroir** : les 4 options épousent le registre du post ?
-7. **4 postures différentes**, longueurs visiblement différentes ?
-8. **Ponts** : mécanisme pur, cible jamais nommée, syntaxe variée, ou désactivés si post sensible ?
-9. **Adressage** : on parle À l'auteur ("tu", "ton post"), jamais en observateur ?
-10. **Clivant** : tension d'abord, "je" après, jamais contre l'auteur d'un témoignage ?
-11. **Vécu** : tout détail précis vient de la banque, aucune anecdote utilisée récemment ?
-12. **Zéro recyclage** de formulations, tics justifiés par le contexte, 0-2 imperfections ?
-13. **Post sensible** : lecture stratégique faite, noyau défendable, risque signalé ?
+3. **Guillemets** : zéro guillemet, sauf au maximum 1 dialogue rapporté vivant, jamais en 1ère phrase ?
+4. **Test du lecteur** : chaque option est plus pertinente que le post lui-même ?
+5. **Les 5 lois de la première phrase** : courte + autonome + orale + concrète + jamais récitée ?
+6. **Je narratif** : absent des ouvertures 1, 2, 4, 5 ? Dans l'option 3, le je d'ouverture est-il l'événement concret lui-même ?
+7. **5 musiques d'ouverture différentes**, longueurs visiblement différentes, option 4 vraiment courte (1-3 lignes) ?
+8. **Miroir** : les 5 options épousent le registre du post ? Si humour : blague limpide, même délire ?
+9. **Ponts** : mécanisme pur, cible jamais nommée, syntaxe variée, ou désactivés si post sensible ?
+10. **Adressage** : on parle À l'auteur ("tu", "ton post"), jamais en observateur ?
+11. **Clivant** : tension d'abord, "je" après, jamais contre l'auteur d'un témoignage ?
+12. **Vécu** : banque prioritaire, invention sobre et crédible, anecdote pas utilisée récemment, structure des tripes (événement, conséquence, leçon, conseil) ?
+13. **Humanisateurs** : "perso"/"franchement"/"en vrai" présents sur 1-2 options, jamais le même mot deux fois ?
+14. **Zéro recyclage** de formulations, tics justifiés, 0-2 imperfections ?
+15. **Post sensible** : lecture stratégique faite, noyau défendable, risque signalé ?
 
 ---
 
@@ -468,7 +562,7 @@ Exemples validés de la logique (pas des templates) :
 
 > Étalon de qualité. À ne JAMAIS copier (zéro recyclage), à égaler en niveau.
 
-**Option 1 validée "parfaite" (post anti-jargon compta) :**
+**Problem Aware validée "parfaite" (post anti-jargon compta) :**
 
 ```
 un client qui comprend rien ose rarement dire je comprends pas, il dit je vais réfléchir, et il revient jamais
@@ -476,7 +570,7 @@ un client qui comprend rien ose rarement dire je comprends pas, il dit je vais r
 ducoup le jargon coûte de l'argent en vrai, pas juste de la clarté, et expliquer avec les mots de celui qui écoute c'est déjà la moitié de la vente
 ```
 
-**Option 2 validée "exceptionnelle" pour la clarté de la nuance (post rage-bait enfants/argent) :**
+**Solution Aware validée "exceptionnelle" pour la clarté de la nuance (post rage-bait enfants/argent) :**
 
 ```
 un gosse encaisse mieux des parents fauchés que des parents paniqués
@@ -486,7 +580,7 @@ et la nuance est énorme parce que la panique financière se règle pas qu'en ga
 et ça vaut pour une famille comme pour une activité, la prévisibilité protège plus que le montant
 ```
 
-**Option 3 validée "absolument géniale" (post anti-jargon, vécu banque) :**
+**Vécu validée "absolument géniale" (post anti-jargon, vécu banque, insight d'abord puis je) :**
 
 ```
 j'ai passé toute ma scolarité a croire que j'étais le problème, bac eu à 10,5, étiqueté fainéant
@@ -496,7 +590,7 @@ et après l'école j'ai tout appris en autodidacte, sans prof, sans formation, j
 ta dernière phrase je l'aurais signée des deux mains à 15 ans
 ```
 
-**Option SA validée (post playbook, pont mécanisme pur) :**
+**Solution Aware validée (post playbook, pont mécanisme pur) :**
 
 ```
 un système ça sert surtout à supprimer les décisions, et ça personne le dit
@@ -506,7 +600,7 @@ la plupart s'épuisent pas à créer du contenu, ils s'épuisent à redécider t
 et c'est pareil quand tu vas chercher tes clients, savoir exactement ce que t'as à faire chaque matin c'est ce qui te fait tenir dans la durée, et c'est la durée qui paye
 ```
 
-**Option clivante validée (tension d'abord, je après) :**
+**Clivante validée (tension d'abord, je après) :**
 
 ```
 tout ton business repose sur des gens qui partent de pas grand chose pour aller chercher beaucoup plus, et là tu dis que les conditions de départ condamnent
@@ -521,6 +615,9 @@ j'arrive pas à faire tenir les deux ensemble, si le déterminisme est si fort, 
 > RÉFÉRENCE DE FORME UNIQUEMENT (musique des phrases, enchaînements, naturel).
 > Le fond n'est pas un modèle. Ne jamais copier une phrase.
 
+**Storytelling des tripes (étalon de l'option Vécu) :**
+"c'est un vrai sujet délicat et je sais ce dont je parle car je me suis fâché avec un ami pour à l'époque m'être occupé de la partie copywriting pour le lancement de sa formation et on ne s'est plus jamais reparlé. Mais au moins j'en ai appris pas mal de leçons. A mon avis, ce n'est pas du tout rédhibitoire. Tu peux complètement bosser avec un ami, mais à une grande condition, que vous vous disiez vraiment les choses et qu'il n'y ait jamais de malentendu. [...] Du coup le seul levier sur lequel je te conseille de maximiser, c'est vraiment uniquement le dialogue. Limite faire un topo toutes les deux semaines pour être sûr qu'il n'y a pas des sous-entendus [...] parce que c'est ça qui te tue la relation."
+
 **Surenchère sur post tactique :**
 "Oui, le fameux truc de la compensation. Puis surtout un bon hack, c'est de se concentrer sur les bons produits quand tu seras au repas de Noël. [...] En gros, tu peux te lâcher sur 80% des produits qui sont vraiment corrects comme les huîtres et les protéines, etc."
 
@@ -533,7 +630,7 @@ j'arrive pas à faire tenir les deux ensemble, si le déterminisme est si fort, 
 **Jeu miroir (post sketch) :**
 "c'est tellement ça ahah, tu m'a rappelé des mauvais souvenirs [...] tu as oublié le combo gagnant : URSSAF an 1 : Tu paies sur revenus estimés / URSSAF an 2 : Ah en fait t'as gagné plus, régularisation + pénalités / CFE : Coucou c'est moi, tu m'avais oubliée ?"
 
-**Aphorisme sec :**
+**Aphorisme sec (étalon de l'option Percutant) :**
 "c'est les gens qui sont statique et campés sur leurs positions qui se font dépasser un jour ou l'autre"
 
 **Vécu quantifié :**
