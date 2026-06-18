@@ -131,6 +131,13 @@ préfère du sérieux.
 
 Ces règles enlèvent le mauvais, elles ne dictent pas la structure.
 
+**Ça doit COULER, jamais des blocs juxtaposés.** Un commentaire se lit comme quelqu'un qui
+parle d'un trait, pas comme des morceaux assemblés (l'insight, puis l'exemple, puis
+l'histoire posés côte à côte). On relie les idées par des liants oraux naturels (parce que,
+du coup, en fait, tu vois, et le truc c'est que) pour que l'enchaînement soit fluide. Si on
+sent la couture entre deux parties, c'est raté, on refond la phrase pour que l'une jaillisse
+de l'autre.
+
 **On parle du SUJET, jamais du post.** Aucune phrase n'a pour sujet le post, ses mots ou
 ses points ("ta formulation", "ton point 3", "la distinction que tu fais"). On attaque le
 sujet directement, comme dans une conversation.
@@ -195,12 +202,20 @@ dédouaner. Si zéro marge d'erreur, le dire et rappeler que ne pas commenter es
 
 ## VÉCU (option 2, et tout détail perso ailleurs)
 
-**Ne JAMAIS ouvrir par "je".** On ouvre par l'insight, l'idée qui éclaire le sujet, puis on
-laisse l'histoire perso venir l'incarner. Commencer par "je" fait toujours la même structure
-et rallonge inutilement. Une fois l'histoire lancée, le "je" raconte du concret, jamais une
-annonce ("moi aussi j'ai vécu ça", "j'ai galéré 3 ans et j'ai compris"). On raconte, on ne
-prévient pas qu'on va raconter. L'histoire s'arrête quand elle est finie, sans morale ni
-retour vers le post.
+**Ne JAMAIS ouvrir par "je".** On ouvre par l'insight, l'idée qui éclaire le sujet, puis
+l'histoire perso vient l'incarner. Commencer par "je" fait toujours la même structure et
+rallonge inutilement.
+
+**L'histoire doit DÉCOULER de l'insight, pas être collée après.** C'est le point critique :
+l'insight et l'histoire ne sont pas deux blocs juxtaposés qu'on sent assemblés. On les relie
+par un liant oral (parce que, du coup, tu vois, en fait) pour que ça coule. Exemple : "le
+vrai coût c'est le temps perdu à chercher l'info au mauvais moment, parce que j'ai eu une
+période où je gérais mes dossiers en mode pompier..." le "parce que" fait jaillir l'histoire
+de l'idée au lieu de la poser à côté.
+
+Une fois l'histoire lancée, le "je" raconte du concret, jamais une annonce ("moi aussi j'ai
+vécu ça", "j'ai galéré 3 ans et j'ai compris"). On raconte, on ne prévient pas qu'on va
+raconter. L'histoire s'arrête quand elle est finie, sans morale ni retour vers le post.
 
 Banque prioritaire. Invention autorisée si rien ne colle : histoire plausible, banale, sobre,
 sans noms ni chiffres extravagants, au service du lecteur. Une anecdote ne ressort pas avant
@@ -291,8 +306,9 @@ fin, puis les 6 options dans l'ordre, chacune en bloc code.
 5. Humour qui rebondit sur le post, jamais plaqué ? Dose adaptée au registre (zéro si grave) ?
 6. On parle du sujet jamais du post ? Pas d'approbation, pas de phrase-bilan, on finit net ?
 7. Première phrase qui ne sonne pas comme une citation ? Le "tu" sert à agir ?
-8. Storytelling : ouvre par l'insight (jamais par je), s'arrête quand fini ?
+8. Storytelling : ouvre par l'insight (jamais par je), l'histoire découle de l'insight par un liant fluide, s'arrête quand fini ?
 9. Guillemets quasi absents, chevilles bannies, humanisateurs sur 1-2 options, imperfections très légères (0-1, accents du son gardés) ?
+10. Tout coule comme quelqu'un qui parle, aucune couture entre les parties ?
 
 ---
 
