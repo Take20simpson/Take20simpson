@@ -15,8 +15,6 @@ Pas une formation théorique. Une méthode concrète + 2 outils IA pour :
 
 Tu l'appliques seule, à ton rythme. Tout est fait pour réduire au maximum le moment où tu bloques (la page blanche, "je sais pas quoi dire", "j'ose pas").
 
-**Ce que ce kit n'est PAS :** un accompagnement. Ici, c'est toi face à la méthode. Pas de suivi, pas de correction au fil de l'eau. Si un jour tu veux qu'on construise ça ensemble dans la durée, qu'on ajuste en direct et qu'on aille jusqu'au closing de tes premiers gros clients — c'est l'étape d'après (l'accompagnement). Mais commence par là. Applique. Obtiens tes premiers résultats par toi-même.
-
 ---
 
 ## PARTIE 1 — LE DÉCLIC : TU NE "DÉRANGES" PAS, TU T'INTÉRESSES
@@ -98,7 +96,7 @@ Une fois que t'as commenté quelqu'un et qu'il y a eu un petit échange, tu peux
 - Si tu sens une vraie douleur → tu peux glisser : "tu sais que c'est exactement ce que je fais pour les indépendants ? Si ça t'intéresse, on peut en parler 10 min."
 - Si la personne va bien avec son admin → tu la remercies, tu notes l'info, et tu passes à autre chose. Pas de forcing.
 
-**Important :** on s'arrête là volontairement. Comment mener la conversation en profondeur, poser les bonnes questions au bon moment, amener un appel et closer — c'est tout un art (le setting et le closing). Ça, c'est le cœur de l'accompagnement. Ici, ta mission c'est : être visible, créer du lien, récolter de la data, et repérer les gens qui ont une vraie douleur.
+Ta mission à cette étape : être visible, créer du lien, récolter de la data, et repérer les gens qui ont une vraie douleur. À partir de là, la conversation se construit naturellement, au feeling, à partir de ce que la personne te raconte.
 
 ---
 
@@ -133,12 +131,8 @@ Les deux skills sont dans des fichiers séparés. Pour les utiliser :
 
 ---
 
-## PARTIE 5 — ET APRÈS ?
+## PARTIE 5 — À TOI DE JOUER
 
-Applique cette méthode. Sérieusement, régulièrement, pendant quelques semaines. Tu vas créer du lien, récolter de la data, et avoir tes premières vraies conversations.
+Applique, régulièrement, pendant quelques semaines. Le seul truc qui te séparait de l'action, c'était de savoir quoi faire et de pas bloquer sur le "quoi dire". Maintenant t'as les deux.
 
-Le jour où tu veux passer la vitesse supérieure — qu'on travaille ensemble ta façon de mener les conversations, d'amener les appels, de closer tes prospects, avec un suivi et des corrections en direct — c'est l'accompagnement. Mais rien ne presse. D'abord, fais tes preuves à toi-même avec ce kit.
-
-Tu peux le faire. Le seul truc qui te séparait de l'action, c'était de savoir quoi faire et de pas bloquer sur le "quoi dire". Maintenant t'as les deux.
-
-À toi de jouer.
+Vas-y.
