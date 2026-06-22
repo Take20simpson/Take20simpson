@@ -1468,7 +1468,8 @@ Ce repository est en phase initiale. Au fur et a mesure que des outils, scripts,
 - **QCM termine** — Session de 50 questions de clarification completee le 15 fevrier. Comprehension 360° atteinte. Sujets couverts : offres, clients, outils, process, contenu, closing, mindset, vision, finances, entourage, erreurs, objections, framework.
 - **Frameworks LinkedIn integres** — Framework Commentaires LinkedIn (patterns authentiques, 6 types de pepites adjacentes, case studies reels, workflow generation) et Master Prompt Posts LinkedIn v3.0 (15 patterns stylistiques, bataille de croyances, 7 types d'accroches, anatomie post en 6 blocs, workflow generation) integres dans CLAUDE.md (Parties 15 et 16).
 - **Mars 2026** — Fichier dedie cree : `METHODOLOGIE_ACCOMPAGNEMENT.md`. Couvre les 6 etapes transmises aux clients (sourcing, profil LinkedIn, setting DM, pre-appel, closing, suivi). Inclut les problemes identifies et pistes d'amelioration. Fichier separe du CLAUDE.md pour plus de clarte.
+- **Juin 2026** — Skill commentaires LinkedIn refondu (v2 puis v3 apres 4 tests calibres en live) : `SKILL_COMMENTAIRES_LINKEDIN.md`. La v1 produisait toujours les memes formulations (banque d'exemples a musique unique, listes fermees de formules, structure de pont unique). La v2 est construite sur l'analyse du corpus de commentaires manuels de Matthias : variation par registre du post (miroir systematique) + 8 postures (aveu, surenchere, vecu quantifie, aphorisme, analogie, distinction semantique, desaccord-vecu, mecanisme psycho compact). 4 options au lieu de 5 (PA, SA, Valeur pure, Clivant), pont mecanisme pur (jamais nommer la cible), banque de vecu reel (jamais inventer), tics contextuels, imperfections de frappe generees (0-2 par commentaire).
 
 ---
 
-*Derniere mise a jour : 9 mars 2026*
+*Derniere mise a jour : 11 juin 2026*
