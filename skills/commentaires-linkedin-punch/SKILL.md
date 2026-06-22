@@ -196,8 +196,19 @@ ses points ("ta formulation", "ton point 3", "la distinction que tu fais"). On a
 sujet directement, comme dans une conversation.
 
 **Le "tu" adressé à l'auteur ne sert qu'à FAIRE quelque chose** : poser une question, donner
-un conseil, challenger. S'il ne fait qu'approuver ou enjoliver, on le coupe. Jamais l'auteur
-à la troisième personne.
+un conseil, challenger. S'il ne fait qu'approuver ou enjoliver, on le coupe.
+
+**JAMAIS parler de l'auteur à la troisième personne.** L'auteur LIT le commentaire, donc on
+ne dit jamais elle a fait ça, il explique que, ni le prénom de l'auteur comme sujet d'une
+phrase (Iryna a testé), même quand le post est signé d'un prénom ou raconte le parcours de
+quelqu'un de nommé. Le commentaire est lu EN MÊME TEMPS par l'auteur et par tous ceux qui
+passent sur le post, il doit sonner naturel pour les deux à la fois. Donc on s'adresse à
+l'auteur en tu quand on le vise (ce que t'as vécu, t'as testé), et on parle du sujet en
+général pour l'audience (les gens qui débarquent en mode..., quand t'es forcé de...). Au
+lieu de si Iryna avait eu le choix elle aurait jamais testé, écrire si t'avais pas choisi
+cette voie au départ t'aurais peut-être jamais testé, ou les gens qui tombent sur un truc
+par obligation finissent souvent par y trouver leur place. Cette bascule entre le tu et le
+général doit rester fluide, jamais mécanique.
 
 **On finit quand l'idée est finie.** Pas de phrase de clôture, pas de morale, pas de
 phrase-bilan qui résume ou prend de la hauteur. L'humour poussé finit SUR la vanne, sec.
@@ -363,7 +374,7 @@ fin, puis les 6 options dans l'ordre, chacune en bloc code.
 3. Chaque option pertinente ET (pour les slots humour) vraiment drôle ?
 4. Option 3 plus poussée que l'option 1 (intensité, pas même mécanique) ?
 5. Humour qui rebondit sur le post, jamais plaqué ? Dose adaptée au registre (zéro si grave) ?
-6. On parle du sujet jamais du post ? Pas d'approbation, pas de phrase-bilan, on finit net ?
+6. On parle du sujet jamais du post ? JAMAIS l'auteur à la 3e personne ni son prénom comme sujet (on dit tu, ou on généralise) ? Pas d'approbation, pas de phrase-bilan, on finit net ?
 7. Première phrase orale et jetée (JAMAIS un début thèse/abstrait concept + verbe savant) ? Le "tu" sert à agir ?
 8. Storytelling : ouvre par l'insight (jamais par je), l'histoire découle de l'insight par un liant fluide, s'arrête quand fini ?
 9. ZÉRO guillemet, y compris pour les pensées/paroles rapportées (en mode, genre, sans guillemets) ? Chevilles bannies, humanisateurs sur 1-2 options, imperfections très légères (0-1, accents du son gardés) ?
