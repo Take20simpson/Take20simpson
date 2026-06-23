@@ -51,7 +51,7 @@ Pas "je propose du support administratif". Mais : la charge mentale de la papera
 
 Quand une personne lit ça et se reconnaît → elle te suit, elle commente, et un jour elle te contacte.
 
-**Pour ne plus jamais bloquer sur la page blanche :** utilise le skill Posts (fichier `SKILL_POSTS_EMMANUELLE.md`). Tu lui donnes une idée brute (même un vocal retranscrit), il te sort des accroches, tu choisis, il te génère le post. Tu ajustes avec tes mots et tu publies.
+**Pour ne plus jamais bloquer sur la page blanche :** utilise le skill Posts (fichier `SKILL_POSTS_EMMANUELLE.md`). Tu lui donnes une idée brute (même un vocal retranscrit), et il te sort un plan détaillé : l'angle, des accroches au choix, et le déroulé du post étape par étape. Tu écris le post avec tes mots et tu publies.
 
 **Rythme conseillé :** 1 post par jour pour commencer. Régulier > parfait. Arrête de recommencer 30 fois : le skill te donne une base solide, tu la retouches 5 min, tu postes.
 
