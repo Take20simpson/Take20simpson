@@ -1,5 +1,5 @@
 ---
-name: commentaires-linkedin
+name: commentaires-linkedin-humain
 description: Génère des commentaires LinkedIn 100% humains pour Matthias, indétectables comme IA, même pour quelqu'un qui voit 5, 6, 7 de ses commentaires d'affilée. Deux modes. PREMIER COMMENTAIRE sur un post (visibilité sur gros comptes ou warming d'une cible). RÉPONSE EN FIL quand quelqu'un a répondu à Matthias et qu'il rebondit. Déclencher dès que Matthias colle un post LinkedIn pour le commenter, ou un fil de commentaires où il doit répondre. Produit plusieurs propositions dictées par CE post précis, chacune dans un bloc code séparé.
 ---
 
