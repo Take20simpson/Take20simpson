@@ -1,6 +1,6 @@
 ---
 name: posts-linkedin
-description: Génère des posts LinkedIn pour Matthias. Produit 8 accroches (4 courtes + 4 moyennes) puis 3 versions du post en blocs code (storytelling Théo Rossi / structuré Mathis Clouet / mix). S'inspire des patterns de Théo Rossi et Mathis Clouet adaptés à la voix authentique de Matthias, celle qui sonne humaine et pas IA.
+description: Génère des posts LinkedIn pour Matthias. Produit 8 accroches (4 courtes + 4 moyennes) puis 3 approches du même post en blocs code (clivante/agressive, normale, Mathis Clouet tiré à la ligne). Voix 100% humaine et orale, chaque phrase se dit à voix haute, zéro punchline, zéro rime, zéro phrase qui sonne IA, et aucun appel à l'action (Matthias les ajoute lui-même).
 ---
 
 # SKILL - POSTS LINKEDIN MATTHIAS
@@ -28,54 +28,80 @@ Règles absolues :
 
 ---
 
-## TON & VOIX DE MATTHIAS (à lire en premier, ça prime sur tout le reste)
+## TON & VOIX DE MATTHIAS (à lire en premier, ça prime sur absolument tout)
 
-Un post est plus travaillé qu'un commentaire : il a une accroche, un rythme, de l'aération, une
-structure, un CTA. Ça on garde. Mais la PHRASE, elle, doit sonner comme un truc que Matthias
-dirait à l'oral, jamais comme une punchline de copywriter LinkedIn.
+C'est LA section la plus importante du skill. Un post peut respecter toutes les autres règles et
+partir à la poubelle si une seule phrase sonne robot. L'objectif final, tout le temps : que
+Matthias puisse lire le post à voix haute et se dire "ça, je pourrais le dire tel quel à
+quelqu'un en face de moi". Si une phrase ne passe pas ce test, elle est refaite. Point.
 
-**La règle d'or : l'IA construit, l'humain balance.** L'ennemi c'est la voix générique lissée,
-celle qui bâtit de jolies formules équilibrées, aligne les aphorismes, boucle proprement chaque
-idée. Tout le monde la sent maintenant, c'est la voix de l'IA et des 4000 coachs LinkedIn
-interchangeables. Toi tu balances la pensée directe, comme si tu parlais. Tu enlèves, tu ne
-rajoutes jamais. Le réflexe de trouver la belle formule, c'est précisément ce qui crame.
+**LE TEST À VOIX HAUTE (la règle maîtresse).** Avant de valider chaque phrase, lis-la à voix
+haute. Est-ce que Matthias la dirait comme ça, à l'oral, à un pote, dans une vraie conversation ?
+Si oui c'est bon. Si ça sonne écrit, travaillé, fait pour être screenshoté, c'est mort, on refait.
 
-**Le test avant de valider une phrase :** lis-la à voix haute. Si Matthias la dirait comme ça à
-un pote, c'est bon. Si ça sonne comme une phrase faite pour être screenshotée sur fond beige,
-c'est mort, tu refonds.
+**INTERDICTION ABSOLUE : la punchline, la phrase chantante.** C'est ce que Matthias déteste le
+plus, zéro tolérance. Une punchline c'est une phrase construite pour claquer : du parallélisme, de
+la symétrie, une quasi-rime, une mise en forme. Personne ne parle comme ça à l'oral. Exemples de
+ce qui est MORT :
+- "La première, ça se travaille en remettant tout en question. La deuxième, ça se règle en
+  changeant une seule chose." (parallélisme robotique)
+- "Le bon mois, ce n'est pas une récompense. C'est le moment le plus dangereux de ton activité."
+  (mise en forme, antithèse pour faire joli)
+- "Ce n'est pas de pas plaire. C'est de pas être vu." (opposition creuse pour faire punchy)
+Exemple de ce qui est VIVANT (même fond, dit comme on parle, c'est LE standard) :
+- "Tant que t'as pas compris ça, tu vas passer ta vie de freelance à alterner entre l'euphorie et
+  la panique." (tu pourrais la dire à l'oral telle quelle)
+La différence : la punchline est écrite POUR toi, pour t'impressionner. La phrase vivante est dite
+À quelqu'un, pour lui faire comprendre un truc. Dans le doute, tu dis les choses telles qu'elles
+sont, platement, sans forme. On n'est pas là pour faire des formules, on est là pour faire
+comprendre.
+
+**NOMME LES CHOSES, dis les termes.** Le contraire du vague. Jamais "ce n'est pas le mauvais mois,
+c'est le bon d'avant" (de quoi tu parles ?). Tu nommes direct la situation concrète : "le mois qui
+te met dans la merde, c'est celui où t'es trop content parce que t'as enfin assez de clients". Le
+lecteur doit voir exactement de quoi tu parles, tout de suite. Et quand un mot est trop pauvre
+pour être clair, tu le nommes plusieurs fois avec des synonymes (le trou, le creux, le mois à sec)
+pour qu'on capte du premier coup.
+
+**Ça coule, ça ne hache pas.** Ne découpe pas chaque idée en petits bouts avec des points partout
+(Un mois. Zéro client. Tu paniques.). À l'oral tu enchaînes, tu relies avec des virgules et des
+liants (parce que, du coup, et là, sauf que, alors que). Une phrase peut être longue si elle
+coule. ATTENTION : plus court ne veut PAS dire des phrases sèches sans atmosphère. On garde le
+souffle, on va juste plus droit au but.
+
+**Va droit au but, zéro rondeur.** Pas de tournures pour meubler, pas de chemins de traverse. À
+l'oral, Matthias ne prend pas trois détours pour dire un truc. Si tu parles beaucoup pour dire pas
+grand-chose, tu coupes et tu dis le fond direct, concret, tranchant. Plus clivant, plus humain.
+
+**Du vécu, partout, même dans le clivant.** Glisse de l'expérience réelle. Le moment où tu signes
+deux clients et tu le racontes à ton entourage, tout fier que ça se débloque enfin. Le calcul de
+fin de mois, la boule au ventre. La panique de repartir de zéro. Tu l'as vécu, ça se sent, et
+c'est ça qui touche. Toujours dans le respect de la règle absolue : aucun chiffre ni résultat
+inventé.
+
+**La négation à l'écrit.** Contrairement au commentaire jeté sur mobile, un post garde ses
+négations complètes : "ce n'est pas", "un client ne signe pas en deux jours", "tant que ce
+truc-là n'est pas réglé". Ça se mélange naturellement avec de l'oral (t'as pas envie, y'a plus
+rien), mais le "ne" est présent, on ne le mange pas partout.
 
 **Expression n'est pas enrobage.** Coller des marqueurs oraux (perso, franchement, tu vois) sur
 une phrase construite ne la rend pas humaine, ça fait une phrase de copywriter avec un chapeau.
-Le test : enlève le marqueur du début, ce qui reste doit être une pensée jetée et concrète,
-jamais une belle construction ou une antithèse-maxime. Si en dessous c'est bâti, c'est mort.
+Enlève le marqueur : ce qui reste doit être une pensée jetée et concrète, jamais une belle
+construction. Si en dessous c'est bâti, c'est mort.
 
-**Première personne VÉCUE, pas positionnement.** Il y a deux "je" : le positionnement (les
-freelances que j'accompagne) qui reste de la posture, et le vécu brut (moi j'ai envoyé 30
-messages et zéro réponse, j'avais la boule au ventre) qui crédibilise et touche le ventre. Sur
-le Problem Aware et le Personal Brand surtout, privilégie le vécu brut. Le lecteur doit sentir
-que t'as vécu son truc de l'intérieur, pas que tu l'observes d'en haut.
+**Première personne VÉCUE, pas positionnement.** Deux "je" très différents : le positionnement
+(les freelances que j'accompagne) qui reste de la posture, et le vécu brut (moi je me suis fait
+avoir exactement comme ça) qui crédibilise et touche. Privilégie toujours le vécu.
 
-**Anti-narrateur / anti-dissertation.** Jamais surplomber le sujet comme une voix off (ce qui
-frappe, ce qu'il faut comprendre c'est que). Jamais le début abstrait (la prospection
-transforme, redéfinit, repose sur). Tu es dedans, tu réagis, tu racontes. Tu coupes tôt : dès
-que l'idée est passée, stop, jamais une phrase-bilan qui prend de la hauteur.
+**Anti-narrateur.** Jamais surplomber le sujet comme une voix off (ce qui frappe, ce qui est fou,
+ce qu'il faut comprendre c'est que). Jamais le début abstrait (la prospection transforme,
+redéfinit, repose sur). Tu es dedans, tu réagis, tu racontes.
 
-**La texture orale de Matthias.** Ses liants font couler la pensée : bah, en fait, du coup, tu
-vois, franchement, perso, sauf que, au final. "c'est pas", "t'as", "y'a" sont autorisés dans le
-CORPS du post (ton post de référence le fait déjà : c'est pas fait pour toi, t'as pas le côté
-commercial). L'accroche peut rester un cran plus propre pour le punch sec, mais le corps se
-parle.
-
-**L'antithèse et l'aphorisme : rare, délibéré, jamais la texture.** La formule binaire (La
-prospection ne dérange pas. La mauvaise version, oui.) est un outil puissant EN ACCROCHE ou EN
-CHUTE. Mais c'est le tell d'IA numéro un dès qu'elle devient la texture de tout le post. Donc :
-maximum une par post, à un endroit qui claque, jamais ligne après ligne, jamais la version
-creuse qui fait joli sans rien dire. Entre les deux, tu déballes ton idée comme tu la dirais.
-
-**Ce qui NE transfère PAS du commentaire.** Un post reste PROPRE : pas de fautes volontaires, pas
-d'accents sautés, pas de majuscules oubliées, pas de mdrr ni de ^^ en rafale. Un emoji ponctuel
-à la rigueur si le post est léger (Personal Brand, Belle, Nice), sinon rien. L'aération, les
-blancs, les ellipses de rythme, les formats restent : c'est le code du post.
+**Le post reste PROPRE.** Contrairement au commentaire, pas de foutoir orthographique. Majuscules
+normales en début de phrase, accents en place. Au maximum une ou deux petites imperfections dans
+tout le post (une majuscule oubliée quelque part), jamais du minuscule systématique ni des accents
+sautés partout, ça se voit et ça énerve. Les "..." varient : trois points la plupart du temps,
+parfois deux, parfois une petite faute à quatre, jamais toujours pareil.
 
 **Le test de l'interchangeabilité.** Si une phrase pourrait être signée par n'importe quel coach
 LinkedIn sans que ça change rien, elle est morte. Chaque phrase doit sentir Matthias, son vécu,
@@ -321,29 +347,28 @@ ressent un freelance avec un système qui tourne.
 5. Afficher : "Ce que j'ai capté : [Big Idea en 1 phrase]" puis "Catégorie : [catégorie] -
    Thématique : [thématique], Angle [n°]". Puis les 8 accroches.
 6. Matthias choisit un numéro.
-7. Rédiger 3 versions. Même accroche, formats et styles différents. Chaque version dans un bloc
-   code.
+7. Rédiger 3 approches du MÊME post, même sujet, même accroche de départ possible. Chaque approche
+   dans un bloc code. Les trois passent le test à voix haute, aucune ne contient de punchline ni
+   de CTA.
 8. Afficher le bloc tracking mis à jour.
 
-**VERSION 1 - STORYTELLING (style Théo Rossi).** Blocs purs, narration reconnaissable, pivot
-"Sauf que", "Rien de plus" ou "C'est tout." en conclusion. Émotion avant tout. Pas de liste. Le
-lecteur se reconnaît dans chaque phrase.
+Les 3 approches ne sont pas trois formats décoratifs, ce sont trois FAÇONS DE DIRE le même truc :
 
-```
-[post complet]
-```
+**APPROCHE 1 - CLIVANTE / AGRESSIVE.** On attaque frontalement, souvent à l'impératif (Arrête de
+te reposer sur tes lauriers dès que t'as deux ou trois clients). Ton plus dur, plus direct, on
+secoue. Du vécu dedans quand même. On nomme le comportement et sa conséquence sans ménagement.
+Toujours sans punchline construite : c'est agressif dans le FOND, pas dans la forme travaillée.
 
-**VERSION 2 - STRUCTURÉ (style Mathis Clouet).** Liste numérotée ou tirets avec développement
-court. Intro en blocs purs, liste au centre, conclusion tranchée. Plus visuel, plus scannable.
-Idéal pour les solutions concrètes et les étapes.
+**APPROCHE 2 - NORMALE.** Le storytelling posé, comme Matthias le raconterait tranquillement. On
+nomme la situation direct dès l'accroche, on déroule la scène concrète avec le vécu, on va droit
+au but sans rondeur. Émotion et clarté. C'est la version la plus fluide.
 
-```
-[post complet]
-```
+**APPROCHE 3 - MATHIS CLOUET (tiré à la ligne, concret).** Intro en blocs purs, puis une liste à
+tirets courts qui énumère du concret (les comportements, les étapes, les conséquences), puis une
+conclusion nette mais parlée. Plus scannable, très direct. La liste doit rester orale, jamais des
+items qui sonnent slogan.
 
-**VERSION 3 - MIX.** Combine l'énergie émotionnelle du storytelling et la lisibilité de la
-structure. Peut commencer en blocs purs narratifs puis basculer sur une liste courte, ou
-l'inverse. Garde le rythme dans les transitions.
+Pour chacune :
 
 ```
 [post complet]
@@ -368,13 +393,14 @@ RÈGLES ABSOLUES :
    "ne te fait pas peur" plutôt que "te fait pas peur". Mais "c'est pas", "t'as", "y'a" sont
    autorisés partout dès que c'est plus naturel, y compris en accroche quand le ton l'appelle
    (ton post de référence le fait). On ne sacrifie jamais le naturel à une règle de grammaire.
-8. **Jamais de tiret long.** Jamais nulle part, ni accroche, ni post, ni CTA.
+8. **Jamais de tiret long.** Jamais nulle part, ni dans l'accroche, ni dans le post.
 9. **Première personne dans 60-70% des accroches**, et privilégier le vécu (moi j'ai galéré)
    quand c'est possible, pas juste le positionnement.
-10. **Précision dans les conclusions.** Jamais "voici le système" mais "voici le système exact que
-    j'utilise". Pas "incroyable", pas "game changer".
-11. **Vocabulaire du quotidien.** Se faire ghoster, la boule au ventre, avoir honte, je connais le
-    film.
+10. **Nomme la situation direct, jamais vague.** Pas "ce n'est pas le mauvais mois, c'est le bon
+    d'avant" (on comprend rien). Mais "le mois qui te met dans la merde, c'est celui où t'es trop
+    content parce que t'as enfin assez de clients". On voit tout de suite de quoi tu parles.
+11. **Vocabulaire du quotidien.** Se faire ghoster, la boule au ventre, avoir honte, être à sec,
+    le calcul de fin de mois.
 12. **Longueur.** Courtes = 1 phrase autonome et complète (max 20 mots). Moyennes = 2 à 3 phrases
     collées, pas de saut de ligne, max 40 mots.
 
@@ -410,11 +436,15 @@ Format de présentation :
 
 - **La Big Idea portée du début à la fin.** Chaque phrase sert la même idée centrale. Si une
   phrase peut être supprimée sans perdre le sens, elle est supprimée.
-- **La phrase binaire aphorisme.** Deux phrases courtes, opposition nette, mémorable. PUISSANT
-  mais dangereux : maximum une par post, en accroche ou en conclusion, jamais la texture ligne
-  par ligne, jamais la version creuse. Voir Ton & Voix.
-- **"Je connais le film".** Narrer une scène reconnaissable que le lecteur vit lui-même. Le
-  décrire suffit, pas besoin de "ça t'est arrivé ?".
+- **L'antithèse binaire : ultra dangereuse.** Deux phrases en opposition (X non, Y oui). Ça paraît
+  malin mais c'est le tell d'IA numéro un et Matthias déteste. Par défaut tu ne l'utilises PAS.
+  Tolérée une fois maximum, uniquement si elle nomme quelque chose de concret ET passe le test à
+  voix haute. Jamais pour faire joli, jamais la version vague. Dans le doute, tu nommes la chose
+  directement au lieu de faire une opposition.
+- **La scène reconnaissable.** Décrire une situation précise que le lecteur vit, sans l'annoncer,
+  le décrire suffit. Mais JAMAIS avec une phrase signature récurrente type "je connais le film" :
+  cette formule est bannie, elle revient tout le temps et ça crame. Tu entres dans la scène
+  directement, différemment à chaque post.
 - **"Sauf que" comme pivot.** Après la croyance dominante, "Sauf que" introduit le reframe.
   Court, tranchant.
 - **"Rien de plus" / "C'est tout."** Après une explication, réduire au minimum absolu. Effet de
@@ -467,66 +497,44 @@ professoral, "premièrement deuxièmement", "En conclusion", phrases de plus de 
 coupure, fluff et généralités, les aphorismes en rafale, les formules faites pour le screenshot
 qui sonnent creux, toute phrase interchangeable signable par n'importe quel coach LinkedIn.
 
-**Marqueurs d'oralité** (dispo, RAREMENT, jamais mécaniquement à chaque post) : Je connais le
-film. / Sauf que. / Rien de plus. / C'est tout. / C'est normal. Et surtout les vrais liants de
-Matthias qui font couler : bah, en fait, du coup, tu vois, franchement, perso, au final.
+**Marqueurs d'oralité** (dispo, RAREMENT, jamais deux posts de suite, jamais de phrase signature
+récurrente) : Sauf que. / Rien de plus. / C'est tout. Et surtout les vrais liants de Matthias qui
+font couler : bah, en fait, du coup, tu vois, franchement, perso, au final, et là. Aucune formule
+ne doit revenir de post en post, sinon tes posts se ressemblent tous et c'est exactement ce qu'on
+fuit.
 
 ---
 
-## LE CTA
+## PAS DE CTA
 
-Dans 80% des posts. Toujours différent d'un post à l'autre. Séparé du corps par une ligne vide.
-1-2 lignes max.
-
-Hiérarchie, dans cet ordre de priorité :
-1. **Commente X + je te montre** (prioritaire) : "Commente PROSPECTION et je te montre exactement
-   comment je la structure." "Montrer" toujours > "expliquer". Le commentaire > le DM.
-2. **Commente X + je t'envoie** : "Commente SYSTÈME et je t'envoie exactement comment je procède."
-3. **Question d'engagement** : "Tu te reconnais dans ça ? Dis-moi en commentaire."
-4. **Invitation douce** : "Si tu veux qu'on regarde ça ensemble, mon DM est ouvert." Avec
-   parcimonie.
-
-Jamais : liens externes, "contacte-moi en message privé" sans raison, CTA générique plaqué sans
-lien avec le sujet.
+Zéro appel à l'action à la fin des posts. Jamais de "commente X", jamais de "je te montre / je
+t'envoie", jamais de "mon DM est ouvert", jamais de question d'engagement plaquée. C'est Matthias
+qui les ajoute lui-même s'il en ressent le besoin, ce n'est pas le rôle du skill. Le post se
+termine sur sa dernière idée, une phrase qu'on pourrait dire à l'oral, et c'est tout.
 
 ---
 
-## EXEMPLE DE RÉFÉRENCE (post validé, référence absolue de style)
+## EXEMPLE DE RÉFÉRENCE (référence de VOIX, jamais de structure à copier)
+
+Attention : cet exemple montre le NIVEAU de fluidité et de naturel à atteindre. Ne recopie ni sa
+structure, ni ses phrases, ni son sujet. Sers-t'en juste pour calibrer l'oreille.
 
 ```
-Tu n'as jamais détesté prospecter. Tu as détesté avoir honte à chaque message envoyé.
+En freelance, le mois qui te met vraiment dans la merde, c'est celui où t'es trop content parce que t'as enfin assez de clients.
 
-Je connais le film.
+Tu signes deux ou trois personnes, tu le dis à ton entourage, tu te sens lancé. Et sans t'en rendre compte, tu arrêtes d'aller en chercher d'autres, parce que là tout de suite t'en as pas le temps et pas le besoin.
 
-Tu ouvres LinkedIn. Tu copies le message qu'un coach t'a filé. Tu changes juste le prénom. Tu l'envoies à 30 inconnus.
+Le problème, c'est que c'est le meilleur moment pour prospecter, et c'est pile là que tout le monde lâche. Moi le premier, à une époque.
 
-Et tu attends.
+Deux ou trois mois plus tard, le taf se termine, t'as plus rien devant toi, et tu te remets à chercher dans l'urgence. Sauf qu'un client ne signe pas en deux jours, donc t'enchaînes direct sur un mois à sec.
 
-Personne ne répond. Ou pire... ils te remettent à ta place.
-
-Et tu conclus que la prospection, c'est pas fait pour toi. Que t'as pas le côté commercial. Que c'est pour les autres.
-
-Sauf que le problème, ce n'est pas toi.
-
-C'est qu'on t'a appris la pire version possible d'une des meilleures stratégies qui existe pour avoir des clients rapidement.
-
-La vraie prospection, ce n'est pas envoyer 50 messages génériques en espérant que ça morde.
-
-C'est une conversation avec quelqu'un qui a un problème précis que tu sais résoudre.
-
-Rien de plus.
-
-Quand tu prospectes comme ça, tu ne déranges plus. Tu aides.
-
-C'est exactement ce que j'apprends aux freelances que j'accompagne. Les résultats sont complètement différents.
-
-Commente PROSPECTION et je te montre exactement comment je la structure.
+Le bon mois et le mauvais mois te tombent dessus de la même façon. La seule chose qui change, c'est d'avoir continué à aller chercher des clients pendant que tout allait bien. Et c'est là que presque personne tient, parce que quand ça roule, prospecter c'est la dernière chose dont t'as envie.
 ```
 
-Pourquoi ça marche : Big Idea unique du début à la fin. Émotion dès l'accroche (honte). Narration
-reconnaissable (je connais le film). Pivot "Sauf que". "Rien de plus" en minimum absolu. Première
-personne en conclusion. CTA avec "montrer" et mot-clé. Et surtout, ça se parle : "c'est pas fait
-pour toi", "t'as pas le côté commercial", du vrai oral, pas du copywriter lissé.
+Pourquoi ça marche : l'accroche nomme la situation direct (le mois où t'es trop content), pas de
+vague. Du vécu (Moi le premier, à une époque). Ça coule, aucune phrase hachée. Zéro punchline
+construite, zéro rime, chaque phrase se dit à voix haute. La négation est à l'écrit (ne signe
+pas). Ça finit sur une vérité concrète et parlée, sans CTA, sans morale.
 
 ---
 
@@ -536,15 +544,22 @@ pour toi", "t'as pas le côté commercial", du vrai oral, pas du copywriter liss
 - Big Idea : une seule idée du début à la fin, chaque phrase la sert.
 - Accroche : comprise en une fraction de seconde, émotion présente, pas de suspense creux, pas de
   tiret long.
-- Voix : ça se lit comme Matthias qui parle, pas comme un copywriter LinkedIn. Test à voix haute
-  passé. Aucune phrase interchangeable.
-- Enrobage : aucune antithèse-maxime en texture (max 1 aphorisme, en accroche ou chute), aucun
-  début narrateur (ce qui frappe) ni abstrait, on coupe tôt.
+- Voix : ça se lit comme Matthias qui parle, chaque phrase passe le test à voix haute, aucune
+  phrase interchangeable signable par un coach LinkedIn.
+- Punchline : ZÉRO phrase construite pour claquer, zéro rime, zéro parallélisme, zéro opposition
+  pour faire joli. On dit les choses telles qu'elles sont.
+- Nommer : la situation est nommée direct et concrètement, jamais du vague. Synonymes pour ce qui
+  est trop pauvre.
+- Fluidité : ça coule, pas de points qui hachent en petits bouts, négation à l'écrit présente
+  (ne...pas / ne...rien).
+- Enrobage : aucune antithèse en texture, aucun début narrateur (ce qui frappe) ni abstrait, on
+  coupe tôt, on finit sur une phrase concrète et parlée.
 - Première personne : présente dans 70-80%, vécu brut plutôt que positionnement.
 - Format : différent du post précédent, choisi pour une raison précise.
 - Fond : idée de Matthias respectée, aucun chiffre inventé, "comment" complet jamais révélé en
   Product Aware.
 - Style mécanique : -> jamais la flèche unicode, jamais tiret long, MAJUSCULES 1 mot max, post
   propre (pas de fautes ni de mdrr, c'est pas un commentaire).
-- CTA : "Commente X et je te montre" en priorité, cohérent avec le sujet, jamais générique.
+- Pas de CTA du tout, aucun appel à l'action à la fin. Le post finit sur sa dernière idée.
+- 3 approches livrées (clivante, normale, Mathis Clouet), toutes sans punchline et sans CTA.
 - Ton : tutoiement, vocabulaire quotidien, empathie naturelle, jamais condescendant.
