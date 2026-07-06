@@ -69,4 +69,13 @@ Ne jamais repeter la meme phrase — faire tourner ces 6 angles pour varier sans
 
 ---
 
+## STATUT DE L'OFFRE 450-600€ : FALLBACK OPPORTUNISTE, PAS UN CANAL
+
+- Contenu, sourcing, discours actif = 100% tourne vers la nouvelle cible (1500-3000€/mois). Jamais recree de message ou de sourcing vise "debutant sans budget".
+- Si un profil sans budget arrive de lui-meme (inbound, contact existant, quelqu'un qui te trouve tout seul) et que le 2000€ ne passe pas → le 450-600€ reste disponible, tu la sors.
+- Ce n'est jamais une priorite ni un objectif de volume. Des qu'elle devient un canal actif de prospection, on recree exactement le probleme de dispersion qu'on vient de corriger.
+- Le pricing du 2000€ ne bouge pas sans data reelle (resistance constatee sur plusieurs appels) — pas de decision theorique avant un appel.
+
+---
+
 *Document de travail — a mettre a jour au fur et a mesure des tests terrain.*
