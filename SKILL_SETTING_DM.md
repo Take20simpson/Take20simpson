@@ -3,6 +3,8 @@
 > Ce document donne a Claude la capacite COMPLETE de generer des reponses de setting DM exactement comme Matthias le ferait, en appliquant la methodologie Enzo Racine.
 > Ce n'est PAS un document theorique. C'est un MOTEUR DE DECISION en temps reel.
 
+**A lire avant utilisation :** `TEASING_METHODE_DM.md` (brique teasing de methode, integree ci-dessous en Regle 13 + Situation 3 revisee) et `TRONC_CENTRAL_YADULINK.md` (architecture externe analysee : phases, signaux, standards qualite — reference complementaire, entonnoir classique uniquement).
+
 ---
 
 ## COMMENT UTILISER CE DOCUMENT
@@ -295,6 +297,39 @@ On ne propose JAMAIS "on se fait un call ?" ou "tu veux qu'on en parle ?" de man
 
 ---
 
+### Regle 13 — Teasing de methode (extension de la rondeur, pas un pitch)
+
+> Brique ajoutee en juillet 2026. Rationale complete et etudes de cas dans `TEASING_METHODE_DM.md`. Cette regle ne remplace aucune des 12 precedentes, elle s'insere dedans.
+
+**Le principe :** Le teasing n'est PAS une explication de methode ni une demonstration de resultats. C'est une vulnerabilite en miroir, 2-3 phrases max : le prospect vient de reveler une galere ou une peur, tu montres que t'es passe par la meme forme de chemin (galere → stabilite → ca marche), sans jamais expliquer le COMMENT, et tu refermes TOUJOURS en rendant la parole au prospect par une question.
+
+**Declencheur — ne jamais initier seul :**
+- Reciprocite directe : le prospect pose une question sur ta situation/methode ("et toi tu fais comment ?")
+- Reciprocite indirecte : une auto-derision/minimisation volontaire de ta part ("j'ai pas assez de CA pour etre debordee") declenche une relance curieuse du prospect
+- Jamais sans signal : si rien n'a ete demande, on reste en creusage (Regles 1-12)
+
+**Calibrage — le tease n'est jamais plus precis que la question qui l'a appele :**
+- Question vague/curiosite generale → rester au niveau de la FORME (trajectoire, emotion), zero chiffre
+- Question frontale et precise (montant, duree, mode de vie) → repondre avec des chiffres reels et coherents avec la situation actuelle de Matthias
+
+**Registre emotionnel — gouverne le dosage global :**
+- Conversation legere/banter → le tease peut arriver tot et plusieurs fois
+- Conversation lourde/vulnerable (peur, epuisement, syndrome de l'imposteur) → rester en creusage prolonge, teaser seulement si le prospect ouvre lui-meme la porte emotionnellement, jamais initier
+
+**Format obligatoire :** [Validation courte] → [Miroir en 2-3 phrases max, forme du chemin pas la methode] → [Question qui rend la parole au prospect]
+
+**Ne jamais teaser deux fois de suite** — apres un tease, revenir au creusage (Regles 1-12) avant d'en reposer un.
+
+---
+
+### Point en tension a trancher — annonce de prix en DM
+
+La Regle 7 de la Partie 5 dit "JAMAIS annoncer le prix en DM". Un cas reel observe (conversation Fanny Roos, juillet 2026) montre Matthias donnant son prix (2000 EUR / 8000 EUR brut) directement en DM, en reponse a une question tres frontale et dans un contexte de rapport tres eleve — et ca n'a pas fait fuir la prospect, au contraire. Ca rentre dans la logique de calibrage de la Regle 13 (question frontale → reponse precise).
+
+**Ce n'est pas tranche : est-ce que c'est desormais une variante calibree acceptable de la Regle 13 (prix = un chiffre comme un autre, uniquement si la question est ultra-frontale et le rapport tres etabli), ou est-ce que ca reste une exception ponctuelle a ne pas reproduire systematiquement ?** Tant que Matthias n'a pas explicitement valide l'un ou l'autre, la Regle 7 reste la regle par defaut — ne pas annoncer de prix en DM sauf reciprocite ultra-frontale deja confirmee comme fonctionnant.
+
+---
+
 ## PARTIE 2 : L'ARBRE DECISIONNEL
 
 > A chaque message de prospect, passer par cet arbre AVANT de generer la reponse.
@@ -452,12 +487,14 @@ Ok je comprends totalement. Juste par curiosite, si ca fait [X temps] que tu gal
 
 ### Situation 3 : Le prospect dit "et toi tu fais quoi ?"
 
-**Reponse :**
+**Reponse par defaut (question vague/premiere fois) :**
 ```
-En gros j'aide les freelances a trouver des clients de maniere constante via LinkedIn, sans attendre que le contenu fasse le job tout seul. Mais du coup toi [question qui reprend le fil]
+J'accompagne et j'explique. Mais du coup toi [question qui reprend le fil]
 ```
 
 **La cle :** Reponse BREVE + retourner la question pour reprendre le lead. Ne PAS developper. Rester vague, piquer la curiosite, revenir sur elle.
+
+**Variante teasing (Regle 13) — si la question est plus frontale/precise ou si un signal de douleur a deja ete pose juste avant :** appliquer le format Regle 13 — validation courte, miroir de 2-3 phrases sur TA propre trajectoire (jamais le detail de la methode), puis rendre la question au prospect. Voir `TEASING_METHODE_DM.md` pour les exemples reels (Marion, Fanny, Florence).
 
 ---
 
@@ -538,6 +575,28 @@ Honnetement j'ai pas regarde en detail ce qu'il/elle propose donc je vais pas co
 **Reponse (Regle 9 — ramener au bon timing) :**
 ```
 Exactement. Et c'est la que la diff se fait en fait. Le principe tu l'as capte, mais l'execution au quotidien c'est la que tout se joue. T'as eu le temps d'y reflechir a comment tu voudrais resoudre ca ?
+```
+
+---
+
+### Situation 10bis : Relancer une conversation laissee a l'abandon
+
+**Regles (voir `TEASING_METHODE_DM.md` Partie 8) :**
+1. Pas de framing temporel ("ca faisait un moment") si la pause fait moins d'une semaine
+2. Rebondir sur un element specifique et memorable de la conversation, jamais une reprise generique
+3. Une seule question par message, jamais deux empilees
+4. Ne jamais reposer la meme question restee sans reponse — changer d'angle
+5. Si le dernier echange etait emotionnellement charge (vulnerabilite, fatigue exprimee) → relancer par une AFFIRMATION de care, pas une question
+6. Ton decontracte, jamais "je reviens vers toi comme convenu"
+
+**Exemple registre leger (callback humour) :**
+```
+Haha je suis tombe sur une infographie ultra illisible aujourd'hui, direct pense a toi et ton coup des vieux
+```
+
+**Exemple registre vulnerable (affirmation, zero question) :**
+```
+Hey [prenom], j'espere que t'as pu un peu souffler.
 ```
 
 ---
@@ -631,7 +690,7 @@ Bon deja bonne nouvelle : ton probleme c'est pas que tu sais pas te vendre. C'es
 - **Taille :** 300-5000 connexions, idealement < 1000 abonnes
 - **Plateforme :** 100% LinkedIn DM
 - **Volume :** 50 messages/semaine (10/jour)
-- **Offre principale :** Accompagnement complet (500 EUR+)
+- **Offre principale :** Accompagnement complet (2000 EUR, 3 mois avec suivi reel — prix monte progressivement depuis 350 EUR)
 - **Le manifeste :** Utilise dans ~10% des cas seulement, quand desengagement
 
 ### Ce que Matthias vend VRAIMENT
@@ -676,6 +735,9 @@ Quand on en parle au prospect, on ne dit PAS "j'ai un outil IA". On dit "j'ai un
 - [ ] Si 2-3 questions d'affilee precedemment → empathie ajoutee
 - [ ] Si prise de conscience → possibilite de ramener vers l'offre
 - [ ] Si pattern detecte dans 2+ contextes → pattern-linking possible
+- [ ] Si signal de reciprocite present (question frontale ou relance apres auto-derision) → teasing possible (Regle 13) ; sinon rester en creusage
+- [ ] Si teasing utilise → verifie que c'est un miroir de 2-3 phrases max, pas une explication de methode, et que ca se referme par une question
+- [ ] Pas deux teasings d'affilee sans creusage entre les deux
 
 ---
 
@@ -783,5 +845,6 @@ Exactement. Et c'est la que tout se joue en fait. Le principe tu l'as capte, le 
 ---
 
 *Document cree le 17 mars 2026*
-*Base sur les 12 regles de Matthias + Methodologie Enzo Racine + Conversations reelles analysees*
+*Mis a jour le 10 juillet 2026 : ajout Regle 13 (teasing de methode) et Situation 10bis (relance conversations abandonnees) — voir `TEASING_METHODE_DM.md` pour le detail complet et `TRONC_CENTRAL_YADULINK.md` pour l'architecture externe de reference*
+*Base sur les 12+1 regles de Matthias + Methodologie Enzo Racine + Conversations reelles analysees*
 *A utiliser comme moteur de decision pour CHAQUE reponse de setting DM*
