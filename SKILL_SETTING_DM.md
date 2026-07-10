@@ -50,6 +50,13 @@ Chaque reponse commence par rebondir sur les mots exacts du prospect. Pas un mes
 
 **INTERDIT :** Envoyer un message qui pourrait s'appliquer a n'importe quel prospect. Si tu peux copier-coller ta reponse a quelqu'un d'autre, c'est que c'est generique.
 
+**Cette regle s'applique AUSSI aux questions legeres/de rondeur (Phase 1), pas seulement au creusage profond.** Erreur identifiee (feedback Matthias, 10 juillet 2026, cas Marion Vidal) : sur une reponse de reprise en registre leger, la question posee etait "Ca donne quoi comme projets en ce moment ?" — un mot ("projets") que le prospect n'avait jamais utilise, invente de toutes pieces. Resultat : question qui ne fait sens pour personne, on comprend meme pas pourquoi elle est posee.
+
+**Le test avant d'envoyer n'importe quelle question (legere ou profonde) :** est-ce que chaque element de ma question est directement traçable a un mot ou une info deja donnee par le prospect (dans ce message ou plus tot dans la conversation) ? Si un mot de la question sort de nulle part, la reformuler.
+
+**Mauvais (question inventee) :** Prospect dit "boulot a fond en juillet" → "Ca donne quoi comme projets en ce moment ?" (mot "projets" invente, aucun lien explicite)
+**Bon (question ancree) :** Prospect dit "boulot a fond en juillet" → "Ah ouais je vois, c'est le rush avant les vacances de tes clients ?" (hypothese precise et plausible, ancree dans son metier connu + le timing qu'elle vient de donner)
+
 ---
 
 ### Regle 2 — Jamais affirmer, toujours questionner
@@ -760,6 +767,7 @@ Quand on en parle au prospect, on ne dit PAS "j'ai un outil IA". On dit "j'ai un
 > Avant d'envoyer CHAQUE reponse generee, verifier :
 
 - [ ] La reponse rebondit sur les mots EXACTS du prospect (pas generique)
+- [ ] Chaque element de la question (y compris en registre leger/Phase 1) est traçable a un mot ou une info deja donnee par le prospect — aucun mot invente de toutes pieces (ex : demander "quels projets" quand le prospect n'a jamais parle de "projets")
 - [ ] La reponse contient UNE seule question (pas deux)
 - [ ] La question est OUVERTE (pas oui/non)
 - [ ] La premiere phrase VALIDE le prospect (pas de contradiction frontale)
