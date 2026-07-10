@@ -196,8 +196,9 @@ Apres 2-3 questions qui creusent, le prospect se sent "interroge". Il faut ajout
 - Prospect qui met plus de temps a repondre
 - Sujet emotionnellement charge (echec, argent, peur)
 - Apres une question particulierement directe
+- Enchainement de plusieurs questions de quantification d'affilee (Regle 6), meme si chacune semble anodine individuellement — c'est le CUMUL qui cree l'effet interrogatoire, pas une seule question isolee
 
----
+**Cas reel (Florence Androlus, 10 juillet 2026) :** 3 questions de quantification enchainees dans la meme sequence (proportion des clients cheap → frequence par an → nombre de clients actifs), chacune suivie d'une reponse de plus en plus courte de sa part, jusqu'a un aveu bas ("3 maintenant et j'attends en retour devis"). Feedback Matthias : "ça devient trop question-reponse interrogatoire" — meme sans signal explicite de fatigue du prospect, 3 questions factuelles d'affilee suffisent a declencher la Regle 7. Reflexe a avoir : compter les questions consecutives, pas seulement observer les signaux de lassitude.
 
 ### Regle 8 — Faire vivre le coaching en temps reel
 
