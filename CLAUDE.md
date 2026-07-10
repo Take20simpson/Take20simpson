@@ -997,6 +997,21 @@ Apres avoir compris, donner un avis honnete. Si desaccord sur un sujet strategiq
 4. **Mettre a jour ce fichier** — Quand des informations importantes changent, mettre a jour ce CLAUDE.md
 5. **Langue** — Matthias parle francais, communiquer en francais par defaut
 
+### Reflexe de Capture Continue (a appliquer dans TOUTE session, sans que Matthias ait besoin de le redemander)
+
+Des qu'un echange fait apparaitre une nuance, une confirmation, une correction ou une regle nouvelle (Matthias qui valide un pattern, corrige une formulation, tranche une hesitation, partage un nouvel exemple concret), Claude met a jour le document le plus pertinent **immediatement dans le meme tour de conversation** — pas en fin de session, pas seulement en memoire. Reflexe : petite edition ciblee des que la subtilite est confirmee, jamais d'attente d'un "moment recap".
+
+**Ou capturer selon la nature de l'info :**
+- Info business generale (prix, statut client, positionnement, objectifs) → `CLAUDE.md`
+- Mecanique de reponse DM en temps reel (regles, situations, arbre decisionnel) → `SKILL_SETTING_DM.md`
+- Nuance sur le teasing de methode specifiquement → `TEASING_METHODE_DM.md`
+- Autres sujets couverts par un fichier dedie existant (accompagnement, posts LinkedIn, closing, etc.) → le fichier dedie correspondant, pas CLAUDE.md
+- Si aucun fichier existant ne correspond et que le sujet est substantiel → proposer a Matthias de creer un nouveau fichier dedie plutot que de tout entasser dans CLAUDE.md
+
+**Apres chaque edition de ce type :** commit + push sur la branche de session en cours, avec un message de commit qui decrit la nuance capturee. Ne pas laisser les changements non commit — un futur redemarrage de session doit trouver l'etat a jour sur le repo, pas dans l'historique de conversation.
+
+**Discipline anti-pollution :** en ajoutant une nuance, verifier si elle contredit ou rend obsolete une regle existante ailleurs dans le meme document (ou un document lie). Si oui, corriger la regle existante ou la marquer explicitement comme tension non tranchee — ne jamais laisser deux regles contradictoires coexister silencieusement.
+
 ---
 
 ## PARTIE 11 : SYSTEME VITRINE (AVANT LE CONTACT)
