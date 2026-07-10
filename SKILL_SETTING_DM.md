@@ -13,15 +13,15 @@ Quand Matthias colle un message de prospect et demande quoi repondre, Claude doi
 
 1. **Lire le message du prospect** — mot par mot
 2. **Passer par l'arbre decisionnel** (Partie 2)
-3. **Appliquer les 12 regles** (Partie 1) dans l'ordre
+3. **Appliquer les 13 regles** (Partie 1) dans l'ordre
 4. **Generer la reponse** selon le format (Partie 3)
 5. **Expliquer le POURQUOI** en dessous de la reponse (Partie 4)
 
 ---
 
-## PARTIE 1 : LES 12 REGLES D'EXECUTION
+## PARTIE 1 : LES 13 REGLES D'EXECUTION
 
-> Ces 12 regles sont appliquees A CHAQUE reponse generee. Pas une de moins. Dans l'ordre.
+> Ces 13 regles sont appliquees A CHAQUE reponse generee. Pas une de moins. Dans l'ordre. (La Regle 13 — teasing — ne s'applique que si son declencheur, Partie 1, est present ; sinon on reste sur les Regles 1-12.)
 
 ### Regle 1 — Repondre a ce qu'elle VIENT de dire, jamais generique
 
@@ -350,12 +350,14 @@ PHASE 3 — Questions profondes (qualification)
     → On REDUIT la rondeur (max 2 phrases entre chaque question)
     → Sequence : methode actuelle → resultats → satisfaction → objectif → blocage
     → 1 question = 1 message
+    → Si signal de reciprocite (Regle 13) : tease possible ici, calibre, puis question
 
 PHASE 4 — Creusage emotionnel
     → Challenger ce que le prospect fait
     → Chaine des "pourquoi"
     → Projection temporelle
     → Jauge d'empathie active
+    → Si le prospect ouvre lui-meme une vulnerabilite en retour : tease possible (Regle 13), sinon rester en creusage
 
 PHASE 5 — Proposition visio (ou pivot valeur gratuite)
     → Seulement si : pain point clair + interet + qualification OK
@@ -382,6 +384,10 @@ Consulter la grille de la Regle 4. Identifier la croyance.
 ### Etape 3 — Valider d'abord
 
 Formuler 1-2 phrases de validation (Regle 3).
+
+### Etape 3bis — Verifier le declencheur de teasing (Regle 13)
+
+Un signal de reciprocite est-il present (question frontale du prospect sur Matthias, ou relance apres auto-derision) ? Si oui, calibrer un tease (forme vs chiffres selon precision de la question, registre emotionnel) avant de passer a l'etape suivante. Si non, ignorer cette etape et continuer normalement.
 
 ### Etape 4 — Construire UNE question
 
@@ -422,7 +428,7 @@ Claude genere TOUJOURS :
 
 - **Mot cle detecte :** [le mot/phrase du prospect qui a guide la reponse]
 - **Croyance cachee :** [la croyance limitante identifiee]
-- **Regle(s) appliquee(s) :** [quelles regles parmi les 12]
+- **Regle(s) appliquee(s) :** [quelles regles parmi les 13]
 - **Phase actuelle :** [1/2/3/4/5]
 - **Pourquoi cette reponse :** [explication en 2-3 phrases]
 - **Prochaine etape probable :** [ce qu'on anticipe comme reaction + ce qu'on fera]
@@ -452,7 +458,7 @@ Claude genere TOUJOURS :
 
 ## PARTIE 4 : SITUATIONS SPECIALES — REPONSES TYPES
 
-> Pour chaque situation, la reponse respecte les 12 regles.
+> Pour chaque situation, la reponse respecte les 13 regles.
 
 ### Situation 1 : Le prospect se braque / detecte le pattern
 
@@ -635,7 +641,7 @@ Bon deja bonne nouvelle : ton probleme c'est pas que tu sais pas te vendre. C'es
 4. **JAMAIS critiquer un concurrent** → meme si le prospect s'en plaint. Se positionner en complement, pas en opposition.
 5. **JAMAIS envoyer une ressource sans demander l'accord** → "Je t'envoie le lien ou pas du tout ?"
 6. **JAMAIS poser 2 questions dans le meme message**
-7. **JAMAIS annoncer le prix en DM** → uniquement en visio
+7. **JAMAIS annoncer le prix en DM** → uniquement en visio (nuance non tranchee, voir "Point en tension" apres la Regle 13)
 8. **JAMAIS dire "le prix"** → dire "l'investissement"
 9. **JAMAIS etre condescendant** → position egale, jamais du haut vers le bas
 10. **JAMAIS supplier ou insister** → si refus clair apres la sequence de relance, reculer dignement
