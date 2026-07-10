@@ -1010,6 +1010,16 @@ Des qu'un echange fait apparaitre une nuance, une confirmation, une correction o
 
 **Apres chaque edition de ce type :** commit + push sur la branche de session en cours, avec un message de commit qui decrit la nuance capturee. Ne pas laisser les changements non commit — un futur redemarrage de session doit trouver l'etat a jour sur le repo, pas dans l'historique de conversation.
 
+**CRITIQUE — synchroniser aussi la branche par defaut du repo, pas seulement la branche de session.** Chaque nouvelle conversation Claude Code demarre depuis la branche par defaut du repo GitHub (verifiable avec `git remote show origin | grep "HEAD branch"`), qui peut etre differente de la branche sur laquelle la session en cours travaille. Un commit+push uniquement sur la branche de session ne suffit donc PAS a garantir qu'une future conversation verra les changements — incident reel constate le 10 juillet 2026 (une nouvelle session a lu une version de `SKILL_SETTING_DM.md` vieille de plusieurs commits car la branche par defaut n'avait pas ete mise a jour).
+
+**Reflexe a chaque fois :**
+1. Commit + push sur la branche de session en cours (comme d'habitude)
+2. Verifier la branche par defaut (`git remote show origin | grep "HEAD branch"`)
+3. Si la branche de session est en avance sur la branche par defaut (verifiable avec `git log <defaut>..<session> --oneline`), fusionner (fast-forward si possible) et pusher la branche par defaut aussi, dans la meme foulee, avant de rendre la main
+4. Si un fast-forward n'est pas possible (la branche par defaut a divergé, ex. deux sessions ont edite en parallele), faire un vrai merge et signaler le conflit a Matthias plutot que de forcer silencieusement
+
+Objectif : Matthias doit pouvoir ouvrir une nouvelle conversation a tout moment et retrouver l'etat le plus a jour, sans avoir a se souvenir de quelle branche contient quoi.
+
 **Discipline anti-pollution :** en ajoutant une nuance, verifier si elle contredit ou rend obsolete une regle existante ailleurs dans le meme document (ou un document lie). Si oui, corriger la regle existante ou la marquer explicitement comme tension non tranchee — ne jamais laisser deux regles contradictoires coexister silencieusement.
 
 ---
