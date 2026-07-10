@@ -7,14 +7,25 @@
 
 ---
 
+## PROCESSUS DE TRAVAIL SUR CE DOCUMENT
+
+Ce document se construit en continu, en collaboration directe avec Matthias — ce n'est pas Claude qui applique des regles figees dans son coin.
+
+- Matthias donne des conversations reelles de prospects et demande une reponse
+- Il dit explicitement ce qu'il faut repondre, ce qu'il ne faut pas repondre, et pourquoi
+- Chaque remarque, correction ou validation de pattern est capturee immediatement dans le document pertinent (SKILL_SETTING_DM.md, TEASING_METHODE_DM.md ou CLAUDE.md selon la nature), dans le meme tour de conversation — jamais en fin de session
+- L'objectif n'est pas seulement d'appliquer les regles mecaniquement, mais que Claude s'imprime du POURQUOI un message precis a ete choisi a un moment precis de la conversation, et pas un autre. C'est ce raisonnement-la qui doit devenir reproductible, pas juste le resultat final
+
+---
+
 ## COMMENT UTILISER CE DOCUMENT
 
 Quand Matthias colle un message de prospect et demande quoi repondre, Claude doit :
 
-1. **Lire le message du prospect** — mot par mot
+1. **Lire le message du prospect** — mot par mot, y compris l'historique complet de LA MEME conversation (pour eviter de repeter un emoji/une expression deja utilisee)
 2. **Passer par l'arbre decisionnel** (Partie 2)
 3. **Appliquer les 13 regles** (Partie 1) dans l'ordre
-4. **Generer la reponse** selon le format (Partie 3)
+4. **Generer la reponse** selon le format (Partie 3) — toujours un bloc ELAN (l'intention, pas la formulation) puis un bloc REPONSE (le message redige)
 5. **Expliquer le POURQUOI** en dessous de la reponse (Partie 4)
 
 ---
@@ -416,15 +427,25 @@ La reponse se termine TOUJOURS par une question ouverte. Pas une question fermee
 
 ### Structure de la reponse generee
 
-Claude genere TOUJOURS :
+Claude genere TOUJOURS, dans cet ordre :
 
-**1. La reponse DM (en bloc code)**
+**1. L'ELAN (en bloc code)**
+
+Pas la reponse redigee. La description claire et concise de CE QU'ON EST CENSE REPONDRE a ce moment precis — l'intention/la direction, pas la formulation. Matthias reformule ensuite lui-meme avec ses propres mots.
+
+```
+[Ex : Valider son aveu sans pitie. Quantifier le nombre reel de clients actuels. Ne pas encore parler de solution, juste faire monter le chiffre a la conscience.]
+```
+
+**2. La reponse DM (en bloc code)**
+
+Le message redige tel quel, pour reference — utile a Matthias pour voir un exemple concret, mais ce n'est pas ce qu'il doit envoyer mot pour mot.
 
 ```
 [Le message a envoyer tel quel — entre 1 et 6 lignes max]
 ```
 
-**2. L'analyse (en dessous)**
+**3. L'analyse (en dessous)**
 
 - **Mot cle detecte :** [le mot/phrase du prospect qui a guide la reponse]
 - **Croyance cachee :** [la croyance limitante identifiee]
@@ -453,6 +474,7 @@ Claude genere TOUJOURS :
 - **Adoucisseurs naturels :** "ok", "du coup", "en fait", "trop bien", "je vois"
 - **JAMAIS :** "je t'invite a", "n'hesite pas", "je me permets de", "je serais ravi"
 - **Emojis :** avec parcimonie (max 1 par message, et pas systematiquement)
+- **JAMAIS reutiliser un emoji ou une expression deja utilise plus haut dans LA MEME conversation** (par Matthias ou par le prospect) — relire l'historique de la conversation avant de rediger. Reprendre le meme "ahah"/le meme emoji qu'un message precedent rend la reponse scriptee et reperable comme generee. Toujours varier.
 
 ---
 
@@ -852,5 +874,6 @@ Exactement. Et c'est la que tout se joue en fait. Le principe tu l'as capte, le 
 
 *Document cree le 17 mars 2026*
 *Mis a jour le 10 juillet 2026 : ajout Regle 13 (teasing de methode) et Situation 10bis (relance conversations abandonnees) — voir `TEASING_METHODE_DM.md` pour le detail complet et `TRONC_CENTRAL_YADULINK.md` pour l'architecture externe de reference*
+*Mis a jour le 10 juillet 2026 (2) : ajout section "Processus de travail sur ce document" (construction collaborative iterative avec Matthias), ajout du bloc ELAN au format de reponse (Partie 3 — l'intention avant la formulation redigee), ajout regle anti-repetition d'emoji/expression au sein d'une meme conversation (Partie 3 — Ton et style)*
 *Base sur les 12+1 regles de Matthias + Methodologie Enzo Racine + Conversations reelles analysees*
 *A utiliser comme moteur de decision pour CHAQUE reponse de setting DM*

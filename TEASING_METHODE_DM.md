@@ -85,6 +85,8 @@ Exemple reel (Fanny Roos) :
 
 Avec Marion, la conversation etait lourde et vulnerable des le depart (syndrome de l'imposteur, epuisement, besoin de deconnexion des reseaux pour sa sante mentale). La aussi le teasing est arrive, mais seulement en reponse a une ouverture emotionnelle explicite du prospect — jamais impose. La regle : **si le registre est vulnerable et que rien n'a ete demande en retour, on reste en mode question/ecoute plus longtemps.** Teaser une methode sur une vulnerabilite non sollicitee ressemblerait a exploiter la confidence pour vendre.
 
+**Cas Florence Androlus (10 juillet 2026) — le cas qui clarifie le mieux la regle :** a un moment de la conversation, Florence enchaine plusieurs messages ou elle se livre longuement (deux cas clients concrets et detailles, deception, emojis de resignation), puis avoue en passant "j'ai pas tellement de clients". Aucune question en retour vers Matthias sur toute cette sequence. Meme si le moment semble ideal pour teaser (elle est ouverte, engagee, le sujet touche exactement le coeur de la douleur business que Matthias resout) — **c'est zero signal de reciprocite, donc zero place pour le teasing.** On reste a 100% sur les questions de creusage (Regles 1-12 du `SKILL_SETTING_DM.md`). Le fait qu'un prospect se livre abondamment ne remplace JAMAIS une question explicite ou un banter qui invite en retour — ce sont deux choses differentes (se livrer = donner de la matiere a creuser ; demander en retour = ouvrir la porte au tease).
+
 ---
 
 ## PARTIE 5 : LA REGLE DE CALIBRAGE — PROFONDEUR DU TEASE ∝ PRECISION DE LA QUESTION
