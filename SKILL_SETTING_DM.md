@@ -87,6 +87,16 @@ On ne contredit JAMAIS frontalement. Toujours : validation → puis redirection.
 
 **STRUCTURE OBLIGATOIRE :** [Validation 1-2 phrases] → [Redirection/Question]
 
+**Formulations de validation INTERDITES (trop generiques, sonnent comme un commentaire detache) :**
+- "C'est un vrai sujet en fait" → INTERDIT (feedback Matthias, 10 juillet 2026). Pourrait etre dit sur n'importe quel message de n'importe quel prospect, sans lien avec ce qui vient d'etre dit precisement. Test simple : si la validation pourrait exister seule, comme un commentaire independant sans rapport avec les mots exacts du prospect, elle est trop generique — la jeter.
+
+**Format prefere : validation ULTRA courte (1-3 mots), enchainee directement sur la question via un connecteur oral, plutot que deux phrases propres et separees.**
+Exemple donne par Matthias (10 juillet 2026), en reaction a l'aveu "j'ai pas tellement de clients" de Florence Androlus :
+```
+oki je comprends, parce que tu as combien de clients actifs en ce moment ?
+```
+Le "parce que" est grammaticalement bancal si on l'analyse — et c'est justement ca qui le rend authentique/oral plutot que redige. Ne pas corriger ce genre de connecteur imparfait vers une version plus "propre", ca sonnerait moins naturel.
+
 ---
 
 ### Regle 4 — Identifier la croyance limitante cachee
