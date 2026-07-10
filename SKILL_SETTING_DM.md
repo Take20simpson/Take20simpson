@@ -76,6 +76,8 @@ C'est le coeur d'Enzo. Quand TU dis quelque chose, le prospect resiste. Quand IL
 
 **EXCEPTION UNIQUE :** Quand le prospect a deja eu sa prise de conscience et qu'on est en phase de diagnostic/proposition de visio, on peut faire des mini-affirmations de diagnostic. Mais meme la, on finit par une question.
 
+**INTERDICTION ABSOLUE — ne jamais juger/evaluer un chiffre donne par le prospect comme suffisant ou insuffisant.** Erreur grave identifiee (feedback Matthias, 10 juillet 2026, cas Florence) : "3 c'est pas enorme" sur son nombre de clients actifs. C'est un jugement de valeur pose sans avoir le contexte complet (son tarif, ce qu'elle en fait, si ca lui convient) — 3 clients a 2000€ chacun c'est 6000€, largement suffisant selon les cas. On ne sait jamais si un chiffre est "bon" ou "mauvais" pour le prospect. On accueille le chiffre de facon neutre (ex : "Ah ok je vois"), sans qualificatif ("pas enorme", "c'est peu", "c'est deja bien"). C'est au prospect de qualifier lui-meme si ca lui convient ou pas — jamais a nous de le faire a sa place.
+
 ---
 
 ### Regle 3 — Valider AVANT de rediriger
@@ -173,6 +175,10 @@ Les chiffres confrontent mieux que les mots. C'est Enzo pur.
 - "Je galere" → "Depuis combien de temps ?"
 - "Ca marche pas" → "T'as eu combien de clients le mois dernier ?"
 - "J'ai pas assez" → "C'est combien 'assez' pour toi ?"
+
+**GARDE-FOU CRITIQUE (feedback Matthias, 10 juillet 2026, cas Florence) : quantifier n'est jamais un outil pour "titiller" ou faire mal.** Le but du creusage n'est JAMAIS de creuser de maniere insidieuse pour extraire une douleur — c'est de comprendre la situation reelle du prospect. Si une question est posee dans le seul but de provoquer une reaction emotionnelle inconfortable (ex : "ca doit stresser d'attendre la reponse non ?" sur un devis en cours), sans que ca serve une comprehension diagnostique claire, elle est a bannir. Chaque question de quantification doit servir a COMPRENDRE, jamais a EPROUVER le prospect.
+
+**Ne pas sur-appliquer la Regle 6 a un fil secondaire.** Ce n'est pas parce qu'un sujet (ex : les clients qui negocient le prix) a genere une bonne quantification qu'il faut le creuser en boucle. Revenir regulierement a la sequence prioritaire de la Phase 3 (Partie 2, Etape 0) : comprendre sa methode d'acquisition actuelle (bouche a oreille ? LinkedIn ? autre ?) avant d'aller plus loin sur un sous-sujet precis. Cette question sur la methode sert aussi de tremplin naturel vers la reciprocite qui debloque le teasing (Regle 13) — c'est pour ca qu'elle est prioritaire.
 
 ---
 
@@ -378,6 +384,12 @@ PHASE 2 — Transition
 PHASE 3 — Questions profondes (qualification)
     → On REDUIT la rondeur (max 2 phrases entre chaque question)
     → Sequence : methode actuelle → resultats → satisfaction → objectif → blocage
+    → "Methode actuelle" = LA priorite de debut de phase : comment le prospect trouve ses clients
+      aujourd'hui, simplement (bouche a oreille ? LinkedIn ? autre chose ?) — sans bombarder.
+      Objectif : comprendre sa strategie, PAS creuser une douleur ponctuelle en boucle. Cette
+      question sert aussi de tremplin naturel vers la reciprocite (Regle 13) : en lui demandant
+      comment ELLE fait, on ouvre la porte a ce qu'elle demande en retour "et toi comment tu fais ?"
+    → On ne creuse jamais pour titiller/faire mal — chaque question sert a comprendre, jamais a eprouver
     → 1 question = 1 message
     → Si signal de reciprocite (Regle 13) : tease possible ici, calibre, puis question
 
@@ -776,6 +788,8 @@ Quand on en parle au prospect, on ne dit PAS "j'ai un outil IA". On dit "j'ai un
 - [ ] Le ton est oral, decontracte, tutoiement
 - [ ] Pas de conseil actionable donne
 - [ ] Pas de mention de revenus/budget
+- [ ] Aucun jugement/qualificatif sur un chiffre donne par le prospect ("pas enorme", "c'est peu", "c'est deja bien") — accueil neutre uniquement, jamais a nous d'evaluer si ca lui suffit
+- [ ] La question sert a COMPRENDRE la situation, jamais a titiller/provoquer une reaction emotionnelle pour elle-meme
 - [ ] Pas de pitch si pas de prise de conscience
 - [ ] Pas de critique de concurrent
 - [ ] Posture d'offreur (pas demandeur)
