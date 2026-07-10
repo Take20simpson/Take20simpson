@@ -59,11 +59,11 @@ Contient toutes les informations sur sa vie, son business, ses objectifs, sa str
 
 ### Offre 1 : Accompagnement Complet (Coaching + Suivi)
 
-**Prix actuel :** 350 EUR (prix de lancement, augmentation progressive prevue)
-- Paiement en plusieurs fois possible (ex: 3x 116,67 EUR)
+**Prix actuel (juillet 2026) :** 2000 EUR — accompagnement sur 3 mois avec un vrai suivi, ou Matthias accompagne la personne a faire ce qu'il fait lui-meme. Augmente progressivement depuis fevrier 2026 (350 EUR au lancement).
+- Paiement en plusieurs fois possible
 - Moyen de paiement : virement bancaire
 
-**Statut :** 1 cliente (Lucille) signee a 350 EUR — close fin janvier/debut fevrier 2026
+**Statut :** 1 cliente (Lucille) signee a 350 EUR (ancien prix, close fin janvier/debut fevrier 2026, tarif conserve car signee avant l'augmentation)
 
 **Livrables (non fixes, adaptes a chaque client) :**
 1. Frameworks IA personnalises (setting, comments, documents sourcing/setting/closing)
@@ -330,7 +330,7 @@ La majorite des gens ne font pas assez de relances. C'est ce qui fait qu'ils n'o
 
 ### Execution Offre (Apres Closing)
 
-**Pour l'accompagnement complet (350 EUR) :**
+**Pour l'accompagnement complet (2000 EUR) :**
 1. Paiement recu (virement bancaire, possible en 3x)
 2. Creation groupe WhatsApp 3 canaux
 3. Envoi questionnaire Fillout
@@ -807,7 +807,7 @@ Quand Matthias mentionne qu'il a un appel/visio prevu avec un prospect, Claude d
 **3. Proposer une offre adaptee :**
 - Structure de base : Sourcing + Setting + Closing
 - Adapter les livrables selon le contexte specifique
-- Proposer un pricing coherent (actuellement 500 EUR+ pour l'accompagnement complet, ajuste au feeling selon l'appel)
+- Proposer un pricing coherent (actuellement 2000 EUR pour l'accompagnement complet sur 3 mois, ajuste au feeling selon l'appel)
 - Matthias valide ou ajuste avant de finaliser
 
 **4. Produire un deroule complet :**
@@ -863,14 +863,14 @@ Quand Matthias mentionne qu'il a un appel/visio prevu avec un prospect, Claude d
 
 ### Court Terme (2-4 semaines)
 
-1. Signer de nouveaux clients en accompagnement complet (prochain prix : 500 EUR+)
+1. Signer de nouveaux clients en accompagnement complet au prix actuel (2000 EUR)
 2. Atteindre volume 50 messages/semaine (10/jour) — maintenant que LinkedIn est debloque
 3. Continuer le suivi actif avec Lucille — l'aider a booker son premier appel
 4. Stabiliser les frameworks (reduire les bugs / mises a jour constantes)
 
 ### Moyen Terme (1-3 mois)
 
-- Augmenter progressivement le prix de l'accompagnement (500 EUR → 750 EUR → 1000 EUR+)
+- Prix deja monte progressivement jusqu'a 2000 EUR (juillet 2026) — continuer a tester la reception du marche a ce niveau avant d'envisager une nouvelle hausse
 - Obtenir feedbacks clients + temoignages (surtout de Lucille)
 - Systematiser le processus de vente
 - Peut-etre implementer systeme R1/R2 (2 appels) quand les prix augmentent
@@ -1468,7 +1468,9 @@ Ce repository est en phase initiale. Au fur et a mesure que des outils, scripts,
 - **QCM termine** — Session de 50 questions de clarification completee le 15 fevrier. Comprehension 360° atteinte. Sujets couverts : offres, clients, outils, process, contenu, closing, mindset, vision, finances, entourage, erreurs, objections, framework.
 - **Frameworks LinkedIn integres** — Framework Commentaires LinkedIn (patterns authentiques, 6 types de pepites adjacentes, case studies reels, workflow generation) et Master Prompt Posts LinkedIn v3.0 (15 patterns stylistiques, bataille de croyances, 7 types d'accroches, anatomie post en 6 blocs, workflow generation) integres dans CLAUDE.md (Parties 15 et 16).
 - **Mars 2026** — Fichier dedie cree : `METHODOLOGIE_ACCOMPAGNEMENT.md`. Couvre les 6 etapes transmises aux clients (sourcing, profil LinkedIn, setting DM, pre-appel, closing, suivi). Inclut les problemes identifies et pistes d'amelioration. Fichier separe du CLAUDE.md pour plus de clarte.
+- **Juillet 2026** — Prix de l'accompagnement complet monte progressivement jusqu'a 2000 EUR (accompagnement 3 mois, suivi reel). Lucille garde son tarif historique de 350 EUR (signee avant la hausse).
+- **Juillet 2026** — Nouvelle brique strategique identifiee : le "teasing de methode" en DM. Constat de Matthias : la prospection ne se limite pas au questionnement socratique classique (faire conscientiser la douleur par les questions). Il faut aussi, a des moments precis de la conversation, parler de sa propre methode et de ses resultats avec un vrai enthousiasme (le "pourquoi", jamais le "comment"), pour rendre l'offre desirable avant meme de la presenter. Mecanisme observe dans les conversations reelles (Marie Bello, Fanny Roos) : le teasing marche mieux quand il repond a une reciprocite naturelle du prospect (qui finit par demander "et toi, tu fais comment ?"), souvent declenchee par de l'auto-derision/minimisation plutot que par l'etalage de resultats. Travail en cours pour imbriquer ce bloc dans la trame de questions existante (doc externe analyse : "Yadulink v9 / Tronc Central", architecture d'agent de prospection avec phases/entonnoirs/signaux/qualification — dont on retient la mecanique entonnoir classique + rondeur + questions, en excluant l'entonnoir inverse/corporate hors scope pour l'instant). Tests en cours : relance de conversations LinkedIn laissees a l'abandon pour valider le pattern en conditions reelles.
 
 ---
 
-*Derniere mise a jour : 9 mars 2026*
+*Derniere mise a jour : 10 juillet 2026*
