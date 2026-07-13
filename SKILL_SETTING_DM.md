@@ -3,7 +3,7 @@
 > Ce document donne a Claude la capacite COMPLETE de generer des reponses de setting DM exactement comme Matthias le ferait, en appliquant la methodologie Enzo Racine.
 > Ce n'est PAS un document theorique. C'est un MOTEUR DE DECISION en temps reel.
 
-**A lire avant utilisation :** `TEASING_METHODE_DM.md` (brique teasing de methode, integree ci-dessous en Regle 13 + Situation 3 revisee) et `TRONC_CENTRAL_YADULINK.md` (architecture externe analysee : phases, signaux, standards qualite — reference complementaire, entonnoir classique uniquement).
+**A lire avant utilisation :** `TEASING_METHODE_DM.md` (brique teasing de methode + signal marche, integrees ci-dessous en Regle 13, Regle 14, Situation 3, Situation 3bis et Situation 10bis) et `TRONC_CENTRAL_YADULINK.md` (architecture externe analysee : phases, signaux, standards qualite — reference complementaire, entonnoir classique uniquement).
 
 ---
 
@@ -24,15 +24,17 @@ Quand Matthias colle un message de prospect et demande quoi repondre, Claude doi
 
 1. **Lire le message du prospect** — mot par mot, y compris l'historique complet de LA MEME conversation (pour eviter de repeter un emoji/une expression deja utilisee)
 2. **Passer par l'arbre decisionnel** (Partie 2)
-3. **Appliquer les 13 regles** (Partie 1) dans l'ordre
+3. **Appliquer les 14 regles** (Partie 1) dans l'ordre
 4. **Generer la reponse** selon le format (Partie 3) — toujours un bloc ELAN (l'intention, pas la formulation) puis un bloc REPONSE (le message redige)
 5. **Expliquer le POURQUOI** en dessous de la reponse (Partie 4)
+
+**Le tableau n'est pas la conversation (precision de Matthias, 13 juillet 2026) :** les 14 regles et les 5 phases sont une structure de reference pour analyser et decider, pas un script rigide que la conversation doit suivre message par message. Une vraie conversation peut faire 40 messages, changer de sujet, avoir des passages ou on discute simplement (par exemple un moment de teasing enjoue) sans qu'il y ait une question a chaque message. On ne supprime jamais les questions socratiques du processus global — elles restent le mode par defaut — mais il ne faut pas forcer une question a chaque tour si le moment appelle autre chose (rondeur longue, teasing, signal marche). Le test : est-ce que ca sonne comme une vraie conversation humaine, ou comme un interrogatoire qui coche des cases ?
 
 ---
 
 ## PARTIE 1 : LES 13 REGLES D'EXECUTION
 
-> Ces 13 regles sont appliquees A CHAQUE reponse generee. Pas une de moins. Dans l'ordre. (La Regle 13 — teasing — ne s'applique que si son declencheur, Partie 1, est present ; sinon on reste sur les Regles 1-12.)
+> Ces 14 regles sont appliquees A CHAQUE reponse generee. Pas une de moins. Dans l'ordre. (La Regle 13 — teasing — et la Regle 14 — signal marche — ne s'appliquent que si leur declencheur respectif, Partie 1, est present ; sinon on reste sur les Regles 1-12.)
 
 ### Regle 1 — Repondre a ce qu'elle VIENT de dire, jamais generique
 
@@ -211,6 +213,8 @@ Exemple corrige : "C'est clairement le jeu du freelance ca, jamais un rythme hyp
 
 **Affinage valide (meme fil, tour suivant) : la rondeur longue est encore meilleure quand elle nomme des choses CONCRETES plutot que de rester generale.** Matthias a repris une reponse ("carrement, la concurrence a 2€ c'est du grand n'importe quoi") en ajoutant "ça me tue a chaque fois les trucs comme Comeup, Malt etc." — au lieu de rester sur une formule abstraite, il nomme des plateformes reelles et donne une reaction personnelle dessus. Feedback : "très bien dans l'idée". La lecon : une fois qu'on tient le bon type de rondeur (observation/reaction genuine, pas de jugement sur le prospect), la rendre encore plus vivante en citant des elements concrets et specifiques (noms propres, details reels) plutot que de rester au niveau generique — ca sonne plus comme une vraie personne qui a un avis, moins comme une formule.
 
+**Distinction avec la Regle 13 (precision du 13 juillet 2026) :** un partage empathique/rassurant du style "moi aussi j'ai vecu ca, je sais ce que ca fait" releve de CETTE regle (rondeur longue), PAS de la Regle 13. Le teasing (Regle 13) n'est jamais rassurant sur un registre passe/empathique — il est enjoue et tourne vers ce qui MARCHE au present. Voir `TEASING_METHODE_DM.md` Partie 2bis pour la distinction complete.
+
 ### Regle 8 — Faire vivre le coaching en temps reel
 
 Au lieu de DIRE "je peux t'aider", tu MONTRES que tu l'aides deja dans la conversation.
@@ -339,9 +343,9 @@ On ne propose JAMAIS "on se fait un call ?" ou "tu veux qu'on en parle ?" de man
 
 ### Regle 13 — Teasing de methode (extension de la rondeur, pas un pitch)
 
-> Brique ajoutee en juillet 2026. Rationale complete et etudes de cas dans `TEASING_METHODE_DM.md`. Cette regle ne remplace aucune des 12 precedentes, elle s'insere dedans.
+> Brique ajoutee en juillet 2026, precisee le 13 juillet 2026. Rationale complete et etudes de cas dans `TEASING_METHODE_DM.md`. Cette regle ne remplace aucune des 12 precedentes, elle s'insere dedans.
 
-**Le principe :** Le teasing n'est PAS une explication de methode ni une demonstration de resultats. C'est une vulnerabilite en miroir, 2-3 phrases max : le prospect vient de reveler une galere ou une peur, tu montres que t'es passe par la meme forme de chemin (galere → stabilite → ca marche), sans jamais expliquer le COMMENT, et tu refermes TOUJOURS en rendant la parole au prospect par une question.
+**Le principe (precise le 13 juillet 2026) :** Le teasing n'est PAS une explication de methode, PAS une demonstration de resultats, et PAS un mode rassurant du style "moi aussi j'ai vecu ca" (ca, c'est de l'enrobage / rondeur longue — Regle 7, voir `TEASING_METHODE_DM.md` Partie 2bis pour la distinction complete). Le vrai teasing est ENJOUE et VISCERAL, tourne vers le PRESENT et vers ce qui MARCHE chez Matthias maintenant : 2-3 phrases max, avec une vraie energie/fierte sincere, qui nomment UN levier de sa methode (ex : "la quantite", "l'intention") sans jamais expliquer l'execution concrete — le detail du COMMENT reste toujours interdit. Toujours refermer en rendant la parole au prospect par une question.
 
 **Declencheur — ne jamais initier seul :**
 - Reciprocite directe : le prospect pose une question sur ta situation/methode ("et toi tu fais comment ?")
@@ -359,6 +363,26 @@ On ne propose JAMAIS "on se fait un call ?" ou "tu veux qu'on en parle ?" de man
 **Format obligatoire :** [Validation courte] → [Miroir en 2-3 phrases max, forme du chemin pas la methode] → [Question qui rend la parole au prospect]
 
 **Ne jamais teaser deux fois de suite** — apres un tease, revenir au creusage (Regles 1-12) avant d'en reposer un.
+
+---
+
+### Regle 14 — Signal marche (asymetrie d'info agregee, dit "off market")
+
+> Brique ajoutee le 13 juillet 2026, inspiree d'une methode observee chez une consoeur (Alexia Laneau, post LinkedIn) qui l'appelle "off market". Meme mecanique, nom different pour ne pas la confondre avec sa marque a elle. Detail complet dans `TEASING_METHODE_DM.md` Partie 10. Complementaire a la Regle 13, jamais un substitut.
+
+**Le principe :** contrairement au teasing (Regle 13, qui parle de MATTHIAS), le signal marche parle des AUTRES prospects que Matthias a eus. Une observation factuelle et agregee, jamais une confidence personnelle — glissee en 1 phrase, jamais developpee, toujours suivie d'une question qui recentre sur LA situation du prospect en face.
+
+**Pourquoi ca marche :** ca credibilise ("il connait ma niche") et ca cree l'effet "je ne peux pas ne pas repondre" — pas par peur de rater une offre, mais parce qu'une info reelle sur des gens comme elle existe deja et la concerne directement.
+
+**Declencheur — different de la Regle 13 :** ne necessite PAS de reciprocite. Ca ne coute rien a reveler (ca n'expose pas Matthias personnellement), donc ca peut etre initie par Matthias lui-meme. Seule condition : etre ancre sur ce que le prospect vient PRECISEMENT de dire. Pas de sujet reserve — tarifs, positionnement, qualite de client, acquisition, n'importe quel sujet ou un vrai pattern a deja ete observe chez plusieurs prospects similaires.
+
+**Exemple valide par Matthias (13 juillet 2026) :** *"ok, je comprends pourquoi tu dis ca, parce que moi j'ai discute avec deux personnes la semaine derniere qui etaient exactement dans ta niche et qui rencontraient [le meme probleme]"* — puis une question qui revient sur elle.
+
+**Format obligatoire :** [Validation courte] → [Fait de marche en 1 phrase] → [Question qui recentre sur SA situation].
+
+**Garde-fou d'integrite :** le fait doit etre REEL, jamais invente. Un chiffre ou un fait incoherent avec ce que Matthias observe vraiment fragilise tout le pilier de sincerite de la methode.
+
+**Ne jamais deux prises de parole d'affilee** (signal marche OU teasing, meme de nature differente) — toujours revenir au creusage entre les deux.
 
 ---
 
@@ -381,6 +405,7 @@ PHASE 1 — Superficielle (1-3 messages apres le premier DM)
     → Beaucoup de rondeur, s'interesser sincerement
     → Questions : "Tu fais quoi ?", "Depuis combien de temps ?"
     → Ton : decontracte, curieux, comme une pote
+    → Optionnel : question d'opinion pour amorcer la reciprocite tot (Situation 3bis), si ca sonne naturel
 
 PHASE 2 — Transition
     → LA question pivot : "Et du coup, ca va etre quoi ton focus cette annee ?"
@@ -396,7 +421,10 @@ PHASE 3 — Questions profondes (qualification)
       comment ELLE fait, on ouvre la porte a ce qu'elle demande en retour "et toi comment tu fais ?"
     → On ne creuse jamais pour titiller/faire mal — chaque question sert a comprendre, jamais a eprouver
     → 1 question = 1 message
-    → Si signal de reciprocite (Regle 13) : tease possible ici, calibre, puis question
+    → Si signal de reciprocite (Regle 13) : tease possible ici, enjoue/visceral, puis question
+    → Signal marche (Regle 14) possible des qu'un sujet revele un pattern deja observe chez d'autres —
+      n'importe quel sujet (tarifs, positionnement, acquisition, qualite client...), pas besoin de
+      reciprocite, toujours ancre + suivi d'une question sur elle
 
 PHASE 4 — Creusage emotionnel
     → Challenger ce que le prospect fait
@@ -431,9 +459,13 @@ Consulter la grille de la Regle 4. Identifier la croyance.
 
 Formuler 1-2 phrases de validation (Regle 3).
 
-### Etape 3bis — Verifier le declencheur de teasing (Regle 13)
+### Etape 3bis — Verifier le declencheur de teasing (Regle 13) et de signal marche (Regle 14)
 
-Un signal de reciprocite est-il present (question frontale du prospect sur Matthias, ou relance apres auto-derision) ? Si oui, calibrer un tease (forme vs chiffres selon precision de la question, registre emotionnel) avant de passer a l'etape suivante. Si non, ignorer cette etape et continuer normalement.
+**Teasing (Regle 13) :** un signal de reciprocite est-il present (question frontale du prospect sur Matthias, ou relance apres auto-derision) ? Si oui, calibrer un tease enjoue/visceral — jamais rassurant, voir Partie 2bis de `TEASING_METHODE_DM.md` — avant de passer a l'etape suivante.
+
+**Signal marche (Regle 14) :** le prospect vient-il de reveler quelque chose sur lequel Matthias a deja observe un vrai pattern chez d'autres prospects similaires, sur n'importe quel sujet ? Si oui, un fait de marche en 1 phrase est possible, sans attendre de reciprocite, toujours suivi d'une question qui recentre sur elle.
+
+**Dans les deux cas :** jamais deux prises de parole d'affilee. Si aucun declencheur n'est present, ignorer cette etape et continuer normalement sur les Regles 1-12.
 
 ### Etape 4 — Construire UNE question
 
@@ -557,7 +589,24 @@ J'accompagne et j'explique. Mais du coup toi [question qui reprend le fil]
 
 **La cle :** Reponse BREVE + retourner la question pour reprendre le lead. Ne PAS developper. Rester vague, piquer la curiosite, revenir sur elle.
 
-**Variante teasing (Regle 13) — si la question est plus frontale/precise ou si un signal de douleur a deja ete pose juste avant :** appliquer le format Regle 13 — validation courte, miroir de 2-3 phrases sur TA propre trajectoire (jamais le detail de la methode), puis rendre la question au prospect. Voir `TEASING_METHODE_DM.md` pour les exemples reels (Marion, Fanny, Florence).
+**Variante teasing (Regle 13) — si la question est plus frontale/precise ou si un signal de douleur a deja ete pose juste avant :** appliquer le format Regle 13 — enjoue/visceral sur TA propre trajectoire et ce qui MARCHE (jamais le detail de la methode, jamais un registre rassurant), puis rendre la question au prospect. Voir `TEASING_METHODE_DM.md` pour les exemples reels.
+
+---
+
+### Situation 3bis : Provoquer la reciprocite tot avec une question d'opinion
+
+**Nouveau pattern (13 juillet 2026).** Sur certains prospects, le teasing ne se case jamais naturellement — aucune reciprocite spontanee n'arrive dans toute la conversation. Plutot que d'attendre indefiniment, on peut provoquer la reciprocite avec une question d'OPINION generale (pas une question personnelle sur elle, qui ferait se braquer).
+
+**Exemple :**
+```
+c'est quoi ton avis sur la question au fait, y'en a qui jurent que par la prospection, d'autres que par le contenu, d'autres qui font les deux... j'avoue je vois tellement d'avis differents que je sais meme plus ce qu'il faut vraiment en penser
+```
+
+**Pourquoi ca marche :** une question d'opinion n'a pas le cout emotionnel d'une question personnelle — elle n'expose pas le prospect. Le flou assume ("je sais meme plus ce qu'il faut en penser") invite naturellement un retour du type "et toi tu fais comment alors ?" — qui devient le declencheur legitime du teasing (Regle 13).
+
+**Ou l'utiliser :** peut etre casee tot (Phase 1-2), y compris en ouverture de note vocale — contrairement au teasing et au signal marche qui restent des mecaniques de Phase 3-4.
+
+**Vigilance :** ne jamais la reformuler a l'identique a chaque conversation, adapter le sujet du debat au metier/contexte du prospect. Voir `TEASING_METHODE_DM.md` Partie 4.4 pour le detail complet.
 
 ---
 
@@ -651,6 +700,7 @@ Exactement. Et c'est la que la diff se fait en fait. Le principe tu l'as capte, 
 4. Ne jamais reposer la meme question restee sans reponse — changer d'angle
 5. Si le dernier echange etait emotionnellement charge (vulnerabilite, fatigue exprimee) → relancer par une AFFIRMATION de care, pas une question
 6. Ton decontracte, jamais "je reviens vers toi comme convenu"
+7. **Ne jamais ouvrir une relance avec un teasing ou un signal marche a froid** (precision du 13 juillet 2026) — meme validees, ces deux mecaniques ne peuvent jamais servir de premiere phrase apres un silence. Il faut d'abord rebondir sur un element specifique de LEUR conversation passee (regle 2) — teasing/signal marche ne s'inserent qu'une fois le fil renoue, jamais en premier message. Se mettre a la place d'un humain qu'on recontacte : personne n'apprecie qu'on arrive "avec des gros sabots".
 
 **Exemple registre leger (callback humour) :**
 ```
@@ -801,9 +851,10 @@ Quand on en parle au prospect, on ne dit PAS "j'ai un outil IA". On dit "j'ai un
 - [ ] Si 2-3 questions d'affilee precedemment → empathie ajoutee
 - [ ] Si prise de conscience → possibilite de ramener vers l'offre
 - [ ] Si pattern detecte dans 2+ contextes → pattern-linking possible
-- [ ] Si signal de reciprocite present (question frontale ou relance apres auto-derision) → teasing possible (Regle 13) ; sinon rester en creusage
-- [ ] Si teasing utilise → verifie que c'est un miroir de 2-3 phrases max, pas une explication de methode, et que ca se referme par une question
-- [ ] Pas deux teasings d'affilee sans creusage entre les deux
+- [ ] Si signal de reciprocite present (question frontale ou relance apres auto-derision) → teasing possible (Regle 13) ; sinon rester en creusage (ou envisager Situation 3bis pour provoquer la reciprocite)
+- [ ] Si teasing utilise → verifie que c'est enjoue/visceral et tourne vers ce qui MARCHE au present (pas un mode rassurant "moi aussi j'ai vecu ca" — ca, c'est de la rondeur longue, Regle 7), 2-3 phrases max, jamais d'explication du COMMENT, refermé par une question
+- [ ] Si le prospect vient de reveler un sujet ou un pattern deja observe chez d'autres → signal marche possible (Regle 14), pas besoin de reciprocite, ancre sur ses mots exacts, suivi d'une question sur elle
+- [ ] Pas deux prises de parole d'affilee (teasing ou signal marche, meme de nature differente) sans creusage entre les deux
 
 ---
 
@@ -913,5 +964,6 @@ Exactement. Et c'est la que tout se joue en fait. Le principe tu l'as capte, le 
 *Document cree le 17 mars 2026*
 *Mis a jour le 10 juillet 2026 : ajout Regle 13 (teasing de methode) et Situation 10bis (relance conversations abandonnees) — voir `TEASING_METHODE_DM.md` pour le detail complet et `TRONC_CENTRAL_YADULINK.md` pour l'architecture externe de reference*
 *Mis a jour le 10 juillet 2026 (2) : ajout section "Processus de travail sur ce document" (construction collaborative iterative avec Matthias), ajout du bloc ELAN au format de reponse (Partie 3 — l'intention avant la formulation redigee), ajout regle anti-repetition d'emoji/expression au sein d'une meme conversation (Partie 3 — Ton et style)*
-*Base sur les 12+1 regles de Matthias + Methodologie Enzo Racine + Conversations reelles analysees*
+*Mis a jour le 13 juillet 2026 : correction critique teasing vs enrobage (Regle 13 et Regle 7 precisees — voir `TEASING_METHODE_DM.md` Partie 2bis), ajout Regle 14 (signal marche / "off market", inspire d'une methode observee chez une consoeur), ajout Situation 3bis (question d'opinion pour provoquer la reciprocite), ajout garde-fou anti "gros sabots" sur les relances (Situation 10bis), precision "le tableau n'est pas la conversation" (structure de reference vs fluidite reelle d'une conversation de 40 messages)*
+*Base sur les 13+1 regles de Matthias + Methodologie Enzo Racine + Conversations reelles analysees*
 *A utiliser comme moteur de decision pour CHAQUE reponse de setting DM*

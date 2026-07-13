@@ -34,9 +34,25 @@ Erreur de depart a eviter absolument (identifiee et corrigee en cours de session
 
 ---
 
+## PARTIE 2BIS : TEASING VS ENROBAGE — LA DISTINCTION CRITIQUE
+
+> Correction de Matthias, 13 juillet 2026. Plusieurs exemples plus bas dans ce document (notamment l'exemple Marion sur la peur de monter ses tarifs, Partie 3) etaient a l'origine catalogues comme "teasing" alors qu'ils sont en realite de l'ENROBAGE. Les deux sont utiles, mais ce n'est pas la meme chose — ne plus les confondre.
+
+**Enrobage (= rondeur longue, Regle 7 de `SKILL_SETTING_DM.md`) :** "Moi aussi j'ai vecu ca, je sais ce que ca fait." Mode RASSURANT, tourne vers le passe et vers l'AUTRE (on valide ce qu'elle ressent). Objectif : faire retomber la pression, creer de la connexion emotionnelle.
+
+**Teasing (Regle 13, le vrai) :** mode ENJOUE et VISCERAL, tourne vers le PRESENT et vers CE QUI MARCHE chez Matthias, maintenant. Exemple donne par Matthias : *"je suis trop content la, je fais [X] par jour en ce moment et honnetement c'est la quantite qui a tout debloque chez moi."* Ce n'est pas une histoire de galere qu'on raconte pour rassurer — c'est un enthousiasme sincere et actuel pour ce qui fonctionne, avec assez de profondeur pour que ca sonne vrai (pas un slogan). Objectif : donner envie, pas rassurer.
+
+**Le test pour distinguer les deux :** la phrase rassure ("t'inquiete, moi aussi") ou elle donne envie ("putain ca a l'air de bien marcher chez lui") ? Rassure = enrobage. Donne envie = teasing.
+
+**Ce que le teasing peut reveler, precise :** il peut nommer LE LEVIER de sa methode (le principe qui marche — "la quantite", "l'intention", "la structure"), avec une vraie energie/fierte. Il ne doit toujours jamais expliquer l'execution concrete (le detail du COMMENT) — cette limite ne change pas. Nommer le levier avec enthousiasme ≠ expliquer la methode.
+
+---
+
 ## PARTIE 3 : CE QU'EST VRAIMENT LE TEASING — LE PRINCIPE CENTRAL
 
-**Le teasing est une vulnerabilite en miroir, courte (2-3 phrases max), qui ne s'active qu'en reponse a une ouverture du prospect, et qui se referme TOUJOURS en lui rendant la parole.**
+> Note : le declencheur (reciprocite) et le format (court, referme par une question) decrits ci-dessous restent valides. Ce qui a ete corrige le 13 juillet 2026, c'est le TON — voir Partie 2bis. Le premier exemple Marion juste en dessous reste un bon exemple de declencheur/format ; le second exemple Marion (peur de monter les tarifs) est en realite de l'enrobage (Regle 7), pas du teasing — conserve ici a titre historique.
+
+**Le teasing est une prise de parole courte (2-3 phrases max), qui ne s'active qu'en reponse a une ouverture du prospect, et qui se referme TOUJOURS en lui rendant la parole.**
 
 Preuve directe, extraite d'une transcription complete de vocaux (conversation avec Marion) :
 
@@ -54,6 +70,11 @@ Puis, plus tard, quand Marion revele sa peur de monter ses tarifs (syndrome de l
 4. Fermeture systematique par une question qui rend la parole au prospect ("toi c'est quoi derriere le truc ?")
 
 Aucune des deux fois il n'explique sa methode. Il montre juste qu'il est passe par la meme chose et que ca a fini par marcher. C'est ca, et uniquement ca, qui cree le "putain il a un systeme qui marche" chez le prospect — jamais une explication.
+
+**Exemple de vrai teasing enjoue (Matthias, 13 juillet 2026), a distinguer des deux exemples Marion ci-dessus :**
+> *"je suis trop content la, je fais [X] par jour en ce moment et honnetement c'est la quantite qui a tout debloque chez moi"*
+
+Note la difference de texture : pas de recit passe-present ("ca a ete la galere, maintenant c'est stable"), pas de validation d'une peur partagee. Juste de l'enthousiasme present, un levier nomme, et l'implicite que ca marche vraiment bien la, maintenant. C'est ce ton-la qu'il faut viser en priorite pour du VRAI teasing — l'enrobage empathique reste utile mais releve de la Regle 7, pas de la Regle 13.
 
 ---
 
@@ -86,6 +107,19 @@ Exemple reel (Fanny Roos) :
 Avec Marion, la conversation etait lourde et vulnerable des le depart (syndrome de l'imposteur, epuisement, besoin de deconnexion des reseaux pour sa sante mentale). La aussi le teasing est arrive, mais seulement en reponse a une ouverture emotionnelle explicite du prospect — jamais impose. La regle : **si le registre est vulnerable et que rien n'a ete demande en retour, on reste en mode question/ecoute plus longtemps.** Teaser une methode sur une vulnerabilite non sollicitee ressemblerait a exploiter la confidence pour vendre.
 
 **Cas Florence Androlus (10 juillet 2026) — le cas qui clarifie le mieux la regle :** a un moment de la conversation, Florence enchaine plusieurs messages ou elle se livre longuement (deux cas clients concrets et detailles, deception, emojis de resignation), puis avoue en passant "j'ai pas tellement de clients". Aucune question en retour vers Matthias sur toute cette sequence. Meme si le moment semble ideal pour teaser (elle est ouverte, engagee, le sujet touche exactement le coeur de la douleur business que Matthias resout) — **c'est zero signal de reciprocite, donc zero place pour le teasing.** On reste a 100% sur les questions de creusage (Regles 1-12 du `SKILL_SETTING_DM.md`). Le fait qu'un prospect se livre abondamment ne remplace JAMAIS une question explicite ou un banter qui invite en retour — ce sont deux choses differentes (se livrer = donner de la matiere a creuser ; demander en retour = ouvrir la porte au tease).
+
+### 4.4 — Provoquer la reciprocite par une question d'opinion (nouveau, 13 juillet 2026)
+
+Sur certains prospects, le teasing ne se case jamais naturellement — aucune reciprocite spontanee n'arrive sur toute la conversation. Plutot que d'attendre indefiniment, Matthias peut provoquer la reciprocite avec une question qui n'est PAS une question personnelle sur elle (ce qui la ferait se braquer), mais une question d'OPINION sur un sujet debattu ou Matthias a un avis tranche.
+
+**Exemple :**
+> "c'est quoi ton avis sur la question au fait, y'en a qui jurent que par la prospection, d'autres que par le contenu, d'autres qui font les deux... j'avoue je vois tellement d'avis differents que je sais meme plus ce qu'il faut vraiment en penser"
+
+**Pourquoi ca marche :** une question d'opinion generale n'a pas le cout emotionnel d'une question personnelle — elle n'expose pas le prospect, pas de reflexe de braquage. Et le flou assume ("je sais meme plus ce qu'il faut en penser") invite naturellement un retour du type "et toi tu fais comment alors ?" — qui devient le declencheur legitime du teasing (Regle 13).
+
+**Difference avec le teasing/signal marche :** contrairement aux deux autres mecaniques, celle-ci peut etre casee TOT — des la Phase 1-2, y compris en ouverture de note vocale — parce que ce n'est pas encore une revelation, juste une invitation a en creer une.
+
+**Vigilance :** ne jamais la reformuler a l'identique a chaque conversation, sinon elle devient un script detectable. Adapter le sujet du debat au metier/contexte du prospect (acquisition, tarifs, positionnement — selon ce qui est pertinent pour elle).
 
 ---
 
@@ -142,6 +176,7 @@ Testees et affinees en session sur des cas reels (Marie Bello, Marion) :
 4. **Ne jamais reposer la meme question a laquelle le prospect n'a pas repondu** (ex : Marion a fini sur un simple pouce sans repondre a la question business — relancer avec autre chose, jamais insister sur la meme)
 5. **Si le dernier echange etait emotionnellement charge, relancer par une affirmation de care, pas une question** (voir Partie 6)
 6. **Le ton doit rester decontracte, jamais transactionnel** — la relance ne doit jamais ressembler a "je reviens vers toi comme convenu"
+7. **Ne jamais ouvrir une relance avec un teasing ou un signal marche a froid** (precision du 13 juillet 2026) — meme validees, ces deux mecaniques ne peuvent jamais servir de premiere phrase apres un silence. "J'ai discute avec des devs la semaine derniere..." sorti de nulle part en ouverture, ca fait "gros sabots". Il faut d'abord rebondir sur un element specifique de LEUR conversation passee (regle 2 ci-dessus) — teasing/signal marche ne s'inserent qu'une fois le fil renoue, jamais en premier message. Se mettre a la place d'un humain qu'on recontacte.
 
 ---
 
@@ -159,26 +194,54 @@ Les vrais guillemets (« » ou " ") passent bien dans un message ponctuel, surto
 
 ---
 
-## PARTIE 10 : CHECKLIST OPERATIONNELLE RAPIDE
+## PARTIE 10 : SIGNAL MARCHE (DIT "OFF MARKET") — LA TROISIEME MECANIQUE
 
-Avant d'envoyer un message en Phase 3 (creusage), se demander :
+> Ajoutee le 13 juillet 2026, inspiree d'une methode observee chez une consoeur (Alexia Laneau, post LinkedIn) qui l'appelle "off market". Meme mecanique, nom different pour ne pas la confondre avec sa marque a elle. Formalisee en Regle 14 dans `SKILL_SETTING_DM.md`. Complementaire au teasing (Regle 13), jamais un substitut.
 
-1. Est-ce qu'un signal de reciprocite est present (question directe, banter qui invite en retour, auto-derision qui a genere une relance) ? → Si non, rester en creusage pur.
-2. Si oui : le registre est-il leger/neutre ou lourd/vulnerable ? → Lourd = rester prudent, tease seulement si le prospect a lui-meme ouvert la porte emotionnellement.
-3. Quelle est la precision de ce qui a ete demande ? → Calibrer le niveau de detail du tease en consequence (forme vague vs chiffres precis).
-4. Le tease fait-il moins de 2-3 phrases et se referme-t-il par une question qui rend la parole au prospect ? → Si le tease s'allonge ou se suffit a lui-meme sans redonner la main, le reformuler.
-5. Les chiffres/faits donnes sont-ils reellement coherents avec la situation actuelle de Matthias au moment de l'envoi ? → Verifier avant d'envoyer.
-6. Vient-on de teaser au message precedent ? → Si oui, laisser respirer, revenir au creusage avant un nouveau tease.
+**Le principe :** contrairement au teasing (Matthias parle de LUI), le signal marche c'est Matthias qui parle des AUTRES prospects qu'il a eus. Une observation factuelle et agregee, jamais une confidence personnelle — glissee en 1 phrase, jamais developpee, toujours suivie d'une question qui recentre sur LA situation du prospect en face.
+
+**Pourquoi ca marche :** ca credibilise ("il connait ma niche") et ca cree l'effet "je ne peux pas ne pas repondre" — pas par peur de rater une offre (comme la fausse rarete classique), mais parce qu'une info reelle sur des gens comme elle existe deja et la concerne directement, maintenant.
+
+**Declencheur — different du teasing :** le signal marche NE necessite PAS de reciprocite. Il ne coute rien a reveler (ca n'expose pas Matthias personnellement), donc il peut etre initie par Matthias lui-meme des que le sujet s'y prete. Seule condition : etre ancre sur ce que le prospect vient PRECISEMENT de dire — jamais random, jamais plaque.
+
+**Le gate n'est PAS limite a un sujet precis (correction de Matthias, 13 juillet 2026) :** au depart envisage comme reserve au sujet "methode d'acquisition", ce cadrage a ete explicitement rejete — les prospects a venir n'auront pas tous un probleme d'acquisition, certains auront un probleme de qualite de client, de tarifs, de positionnement, etc. Le declencheur reste le meme quel que soit le sujet : "elle vient de reveler quelque chose sur lequel j'ai deja observe un vrai pattern chez d'autres prospects similaires." Les patterns eux-memes ne s'inventent pas a l'avance — ils se construisent au fil des vraies conversations traitees.
+
+**Exemple valide par Matthias (13 juillet 2026) :** prospect qui vient de decrire un probleme specifique a sa niche → *"ok, je comprends pourquoi tu dis ca, parce que moi j'ai discute avec deux personnes la semaine derniere qui etaient exactement dans ta niche et qui rencontraient [le meme probleme qu'elle vient de decrire]"* — puis une question qui revient sur elle.
+
+**Format obligatoire :** [Validation courte] → [Fait de marche en 1 phrase, jamais chiffre a l'exces sauf si le sujet appelle vraiment un chiffre precis et verifiable] → [Question qui recentre sur SA situation].
+
+**Garde-fou d'integrite :** le fait doit etre REEL — un pattern vraiment observe sur plusieurs prospects similaires, jamais invente. Si les faits/chiffres donnes ne sont pas coherents avec ce que Matthias observe reellement, ca fragilise tout le pilier de sincerite de la methode (meme logique que le point de vigilance de la Partie 5 pour le teasing).
+
+**Discipline anti-surcharge :** jamais deux prises de parole d'affilee (signal marche OU teasing, meme de nature differente) — toujours revenir au creusage entre les deux.
+
+**A ecarter — ce qu'on ne reprend PAS de la methode d'Alexia :** la fausse rarete mise en scene ("je n'ai teste ca que sur 4 personnes", "bientot je vais devoir arreter d'en parler"). Pas transposable sans mentir, et pas necessaire : la vraie asymetrie d'info de Matthias (50 DM/semaine sur des profils similaires) suffit seule, sans artifice.
 
 ---
 
-## PARTIE 11 : CE QUI RESTE A TESTER
+## PARTIE 11 : CHECKLIST OPERATIONNELLE RAPIDE
 
-- Le volume ideal de teasing par conversation (frequence maximale avant que ca sonne repetitif)
+Avant d'envoyer un message en Phase 3 (creusage), se demander :
+
+1. Est-ce qu'un signal de reciprocite est present (question directe, banter qui invite en retour, auto-derision qui a genere une relance) ? → Si non, pas de teasing (Regle 13), mais le signal marche (Regle 14, item 7 ci-dessous) reste possible sans reciprocite.
+2. Si teasing : le registre est-il leger/neutre ou lourd/vulnerable ? → Lourd = rester prudent, tease seulement si le prospect a lui-meme ouvert la porte emotionnellement.
+3. Le teasing envisage est-il enjoue/visceral et tourne vers ce qui MARCHE au present, ou glisse-t-il vers un mode rassurant ("moi aussi j'ai vecu ca") ? → Rassurant = ce n'est pas du teasing, c'est de la rondeur longue (Regle 7) — voir Partie 2bis.
+4. Le tease fait-il moins de 2-3 phrases et se referme-t-il par une question qui rend la parole au prospect ? → Si le tease s'allonge ou se suffit a lui-meme sans redonner la main, le reformuler.
+5. Les chiffres/faits donnes sont-ils reellement coherents avec la situation actuelle de Matthias au moment de l'envoi ? → Verifier avant d'envoyer.
+6. Vient-on de teaser (ou de sortir un signal marche) au message precedent ? → Si oui, laisser respirer, revenir au creusage avant une nouvelle prise de parole.
+7. Le prospect vient-il de reveler un sujet sur lequel un vrai pattern a deja ete observe chez d'autres prospects similaires (n'importe quel sujet, pas seulement l'acquisition) ? → Signal marche possible (Regle 14), ancre sur ses mots exacts, suivi d'une question sur elle.
+8. Si le teasing ne se declenche jamais naturellement sur ce prospect → envisager une question d'opinion (Partie 4.4) pour provoquer la reciprocite, sans la reformuler a l'identique d'une conversation a l'autre.
+
+---
+
+## PARTIE 12 : CE QUI RESTE A TESTER
+
+- Le volume ideal de teasing et de signal marche par conversation (frequence maximale avant que ca sonne repetitif)
 - Le taux de conversion reel des conversations relancees avec cette methode (tests en cours sur des conversations laissees a l'abandon)
-- Comment ce bloc s'integre formellement dans `SKILL_SETTING_DM.md` (le framework v4.0 actuel reste 100% question/qualification, cette integration n'a pas encore ete faite techniquement)
-- Le seuil precis "leger vs vulnerable" pour decider du dosage — actuellement juge au feeling, pas encore formalise en signaux detectables
+- Le seuil precis "leger vs vulnerable" pour decider du dosage du teasing — actuellement juge au feeling, pas encore formalise en signaux detectables
+- La bibliotheque de patterns reels pour le signal marche (Partie 10) — a construire au fil des conversations traitees, pas inventable a l'avance
+- L'efficacite reelle de la question d'opinion (Partie 4.4) pour provoquer la reciprocite sur les prospects ou le teasing ne se cale jamais naturellement
 
 ---
 
 *Document cree en session le 10 juillet 2026, a partir de l'analyse de 4 conversations reelles (Marie Bello, Fanny Roos, Marion, Florence Androlus) et du document externe "Yadulink v9 / Tronc Central".*
+*Mis a jour le 13 juillet 2026 : correction critique teasing vs enrobage (Partie 2bis — plusieurs exemples anterieurs etaient en realite de l'enrobage/Regle 7), ajout Partie 10 (signal marche / "off market", inspire d'un post LinkedIn d'Alexia Laneau), ajout question d'opinion pour provoquer la reciprocite (Partie 4.4), ajout garde-fou anti-ouverture-a-froid sur les relances (Partie 8, regle 7).*
