@@ -422,13 +422,20 @@ On ne propose JAMAIS "on se fait un call ?" ou "tu veux qu'on en parle ?" de man
 
 > Regle ajoutee le 13 juillet 2026, cas Manon Cressent.
 
-**Le principe :** avant de poser une question personnelle/identitaire (typiquement LA premiere question un peu intime d'une conversation — parcours, choix de vie, situation), partager d'abord une info personnelle courte et symetrique sur soi-meme. La question, posee seule et a froid, peut sonner comme un interrogatoire ("t'en es venue comment a devenir independante ?" tout sec). Avec un auto-partage avant, ca devient un echange naturel entre deux personnes, pas une fiche de qualification.
+**Le principe (ordre corrige le 13 juillet 2026, cas Marine Vonner — l'ordre initial etait invers) :** poser la question D'ABORD, puis enchainer IMMEDIATEMENT avec un partage personnel court en storytelling — jamais l'inverse. Raconter sa propre histoire AVANT d'avoir pose une question cree un reflexe "pourquoi il me raconte sa vie" chez le prospect, puisqu'aucun engagement n'a encore ete cree a ce moment-la. La question en premier cree l'attente/l'interet ; le storytelling qui suit vient l'enrichir et montrer l'humain derriere, sans jamais remplacer la question ni la precede.
 
-**Exemple donne par Matthias (13 juillet 2026) :**
-- Sans enrobage (a eviter en ouverture) : *"D'ailleurs, tu en es venue comment a faire ca, a devenir independante ?"*
-- Avec enrobage : *"Moi je me suis lance y'a 5 ans direct apres le bac, les etudes ca me correspondait pas du tout en fait. Toi ca s'est passe comment ?"*
+**Exemple reel (Marine Vonner, conversation du 1er juin 2026), 2 bulles envoyees a la suite :**
+```
+T'en es venu comment a etre independante ?
+```
+```
+Moi ca fait 4 ans que je me suis lance et je me suis lance direct apres mon bac, meme si ca a pas ete evident des le debut.
+```
+Deux messages distincts a la suite (pas un seul pave fusionne) — ca imite le rythme naturel d'une vraie conversation plutot qu'un texte explicatif.
 
-**Format obligatoire :** [Partage personnel court, 1-2 phrases, sur LE MEME sujet que la question] → [Question personnelle retournee au prospect, meme sujet].
+**Format obligatoire :** [Question personnelle] → [Partage personnel court/storytelling en message de suivi immediat, 1-2 phrases max, peut etre une bulle separee].
+
+**Nuance importante sur ce cas reel :** meme avec le bon ordre, ce message n'a PAS obtenu de reponse de Marine (voir Situation 10bis). Ce qui a reellement debloque une reponse chez elle plus tard, c'est un message ULTERIEUR totalement sans ask — un simple remerciement pour ses commentaires, zero question. **Lecon :** le bon ordre (Question → storytelling) reste la structure par defaut, mais sur un prospect identifie comme tres facilement braquable, meme cette structure peut rester "trop" pour declencher une reponse — parfois seul un message 100% desinteresse fonctionne (Principe #1, `CLAUDE.md` : "ne jamais montrer le besoin").
 
 **Difference avec la Regle 13 (teasing) :** la Regle 13 concerne la METHODE/les RESULTATS business de Matthias et est gated par une reciprocite du prospect (il faut qu'elle demande ou relance en premier). La Regle 15 concerne du personnel generique (parcours, gouts, mode de vie) — PAS gated par reciprocite, peut etre initiee par Matthias lui-meme des la Phase 1, precisement pour AMORCER une reciprocite plutot que pour la suivre.
 
@@ -769,6 +776,8 @@ Haha je suis tombe sur une infographie ultra illisible aujourd'hui, direct pense
 ```
 Hey [prenom], j'espere que t'as pu un peu souffler.
 ```
+
+**Cas particulier — prospect identifie comme facilement braquable, avec un pattern connu de non-reponse aux questions (Marine Vonner, 13 juillet 2026) :** sur ce type de profil, meme une question bien enrobee (Regle 15) peut rester ignoree. Si l'historique montre qu'un message SANS AUCUN ask (juste une appreciation, un remerciement, zero question) a deja genere une reponse la ou des questions directes ont ete ignorees, reproduire ce meme registre desinteresse en priorite sur la relance, plutot que de repartir sur une question — quitte a glisser une question seulement une fois qu'un nouvel echange chaleureux est reetabli.
 
 ---
 

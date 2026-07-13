@@ -162,7 +162,7 @@ Ne pas confondre avec le teasing (Regle 13) ni avec la rondeur reactive (Regle 7
 
 - **Regle 13 (teasing) :** parle de la METHODE/des RESULTATS de Matthias. Gated par reciprocite (le prospect doit demander/relancer en premier).
 - **Regle 7 (rondeur reactive) :** intervient APRES 2-3 questions seches, pour relacher une pression deja creee.
-- **Regle 15 (auto-partage preventif) :** parle de personnel generique (parcours, gouts, mode de vie) — PAS gated par reciprocite, utilisee EN AMONT de la premiere question personnelle/identitaire pour que cette question ne sonne jamais comme un interrogatoire des le depart. Exemple : partager en 1-2 phrases son propre parcours ("moi je me suis lance y'a 5 ans direct apres le bac...") avant de demander le sien au prospect, plutot que de poser la question a froid.
+- **Regle 15 (auto-partage preventif) :** parle de personnel generique (parcours, gouts, mode de vie) — PAS gated par reciprocite. Ordre correct (corrige le 13 juillet 2026) : la QUESTION d'abord, puis un storytelling personnel court en message de suivi immediat ("t'en es venu comment a etre independante ?" puis "moi ca fait 4 ans que je me suis lance direct apres mon bac..."). Jamais l'inverse — raconter sa vie avant d'avoir pose la question n'a aucun engagement a s'accrocher.
 
 ---
 
