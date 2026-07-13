@@ -87,6 +87,10 @@ Chaque reponse commence par rebondir sur les mots exacts du prospect. Pas un mes
 **Mauvais :** "Tu formes tes assistantes indep sur quoi concretement ?" (deja dans sa bio)
 **Bon :** "D'ailleurs, tu en es venue comment a faire ca, a devenir independante ?" (parcours, pas visible dans la bio)
 
+**Deuxieme piege identifie (meme cas Manon Cressent, message suivant, 13 juillet 2026) : une reference a la bio n'est legitime que si elle est CENTRALE/attendue a ce stade de la conversation, jamais si elle sert de detour humoristique sur un detail secondaire alors qu'aucune matiere conversationnelle reelle n'existe encore.** Erreur commise : blaguer sur "digital nomade" (bio) + partager un detail perso (la chienne de Matthias) pour demander sa localisation actuelle, alors que toute la conversation se resumait a un "Hello :)" — zero matiere reelle pour rebondir. Resultat juge par Matthias : ca sonne "chelou"/random, meme si l'info vient bien de son profil et meme si l'enrobage est techniquement present (Regle 15).
+
+**La regle affinee :** un hook base sur la bio est acceptable UNIQUEMENT pour le sujet central/attendu d'un premier vrai echange (son activite professionnelle, pourquoi/comment elle est independante — c'est ce a quoi on s'attend naturellement a ce stade). Un detour createur/drole sur un detail SECONDAIRE de la bio (voyage, mode de vie, loisir) doit attendre qu'un vrai element de la conversation en cours existe pour s'y accrocher — sinon, garder ce genre d'angle en reserve, et le sortir seulement une fois que le prospect a lui-meme amene la matiere (ex : si elle mentionne un voyage, LA on peut rebondir dessus avec Vaya).
+
 ---
 
 ### Regle 2 — Jamais affirmer, toujours questionner
@@ -431,6 +435,12 @@ On ne propose JAMAIS "on se fait un call ?" ou "tu veux qu'on en parle ?" de man
 **Difference avec la Regle 7 (jauge d'empathie) :** la Regle 7 est REACTIVE — on ajoute de la rondeur apres 2-3 questions seches qui ont deja cree une sensation d'interrogatoire. La Regle 15 est PREVENTIVE — on l'utilise en amont, avant meme la premiere question personnelle, pour ne jamais laisser cette sensation s'installer.
 
 **Dosage :** le partage doit rester court (1-2 phrases max), reel (pas invente), et ne jamais eclipser la question qui suit — l'auto-partage sert de tremplin, pas de sujet en soi.
+
+**Frequence — l'enrobage n'est pas reserve a LA premiere question personnelle, il doit rester quasi systematique, surtout en debut de conversation (precision du 13 juillet 2026).** Par defaut, quasiment CHAQUE question posee merite un enrobage (auto-partage, validation, rondeur) — pas seulement la toute premiere question intime. Le risque de braquer le prospect en etant trop sec est toujours plus couteux que le risque de "trop" enrober.
+
+**Seule exception : un tres bon feeling de conversation, quand le prospect repond avec richesse/enthousiasme (signe d'engagement fort).** Dans ce cas precis uniquement, on peut enchainer 1 a 3 questions maximum sans enrobage, sans teasing, sans signal marche — le rythme plus direct devient lui-meme un signe de complicite/fluidite. Des que l'engagement retombe (reponses plus courtes, plus neutres), revenir immediatement a l'enrobage systematique.
+
+**Reflexe par defaut en cas de doute : toujours mettre de l'enrobage.** Mieux vaut sur-enrober que sous-enrober.
 
 ---
 
