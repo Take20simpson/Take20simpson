@@ -420,6 +420,8 @@ On ne propose JAMAIS "on se fait un call ?" ou "tu veux qu'on en parle ?" de man
 
 **Garde-fou d'integrite :** le fait doit etre REEL, jamais invente. Un chiffre ou un fait incoherent avec ce que Matthias observe vraiment fragilise tout le pilier de sincerite de la methode.
 
+**Piege identifie (cas Audrey Mouton, 13 juillet 2026) : ne jamais souligner explicitement que le prospect fait deja ce qui est decrit dans le fait de marche ("comme toi").** Exemple a eviter : "ceux qui commentent avant COMME TOI ont un taux de reponse au-dessus de la moyenne" — ca la flatte artificiellement et la met sur un piedestal dont elle n'a pas besoin, comme si elle etait incapable de faire le lien seule. Enoncer le fait de marche de facon neutre, sans design la viser explicitement. Si son comportement correspond vraiment au pattern decrit, elle fera le rapprochement elle-meme — ce n'est jamais a nous de le pointer du doigt.
+
 **Ne jamais deux prises de parole d'affilee** (signal marche OU teasing, meme de nature differente) — toujours revenir au creusage entre les deux.
 
 ---
@@ -930,7 +932,7 @@ Quand on en parle au prospect, on ne dit PAS "j'ai un outil IA". On dit "j'ai un
 - [ ] Si pattern detecte dans 2+ contextes → pattern-linking possible
 - [ ] Si signal de reciprocite present (question frontale ou relance apres auto-derision) → teasing possible (Regle 13) ; sinon rester en creusage (ou envisager Situation 3bis pour provoquer la reciprocite)
 - [ ] Si teasing utilise → verifie que c'est enjoue/visceral et tourne vers ce qui MARCHE au present (pas un mode rassurant "moi aussi j'ai vecu ca" — ca, c'est de la rondeur longue, Regle 7), 2-3 phrases max, jamais d'explication du COMMENT, refermé par une question
-- [ ] Si le prospect vient de reveler un sujet ou un pattern deja observe chez d'autres → signal marche possible (Regle 14), pas besoin de reciprocite, ancre sur ses mots exacts, suivi d'une question sur elle
+- [ ] Si le prospect vient de reveler un sujet ou un pattern deja observe chez d'autres → signal marche possible (Regle 14), pas besoin de reciprocite, ancre sur ses mots exacts, suivi d'une question sur elle, JAMAIS souligne explicitement qu'elle correspond au pattern ("comme toi")
 - [ ] Pas deux prises de parole d'affilee (teasing ou signal marche, meme de nature differente) sans creusage entre les deux
 - [ ] Si c'est la premiere question personnelle/identitaire de la conversation → enrobage preventif (Regle 15, auto-partage court avant la question), pas une question seche a froid
 

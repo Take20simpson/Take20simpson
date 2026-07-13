@@ -230,6 +230,8 @@ Les vrais guillemets (« » ou " ") passent bien dans un message ponctuel, surto
 
 **Garde-fou d'integrite :** le fait doit etre REEL — un pattern vraiment observe sur plusieurs prospects similaires, jamais invente. Si les faits/chiffres donnes ne sont pas coherents avec ce que Matthias observe reellement, ca fragilise tout le pilier de sincerite de la methode (meme logique que le point de vigilance de la Partie 5 pour le teasing).
 
+**Ne jamais flatter explicitement le prospect en soulignant qu'il correspond deja au pattern decrit (cas Audrey Mouton, 13 juillet 2026).** Exemple a eviter : "ceux qui commentent avant COMME TOI ont un taux de reponse au-dessus de la moyenne". Ca la met sur un piedestal inutile, comme si elle avait besoin qu'on lui signale qu'elle fait deja bien les choses — condescendant, pas credible. Le fait de marche s'enonce de facon neutre, sans design pointer le prospect. Si son comportement correspond vraiment, elle fera le lien elle-meme.
+
 **Discipline anti-surcharge :** jamais deux prises de parole d'affilee (signal marche OU teasing, meme de nature differente) — toujours revenir au creusage entre les deux.
 
 **A ecarter — ce qu'on ne reprend PAS de la methode d'Alexia :** la fausse rarete mise en scene ("je n'ai teste ca que sur 4 personnes", "bientot je vais devoir arreter d'en parler"). Pas transposable sans mentir, et pas necessaire : la vraie asymetrie d'info de Matthias (50 DM/semaine sur des profils similaires) suffit seule, sans artifice.
