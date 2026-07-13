@@ -27,7 +27,7 @@ Quand Matthias colle un message de prospect et demande quoi repondre, Claude doi
 2. **Passer par l'arbre decisionnel** (Partie 2)
 3. **Appliquer les 15 regles** (Partie 1) dans l'ordre
 4. **Generer la reponse** selon le format (Partie 3) — toujours un bloc ELAN (l'intention, pas la formulation) puis un bloc REPONSE (le message redige)
-5. **Expliquer le POURQUOI** en dessous de la reponse (Partie 4)
+5. **Faire le raisonnement complet en interne (mot cle, croyance cachee, regle(s) appliquee(s), phase, pourquoi, prochaine etape probable) mais NE PLUS L'ECRIRE dans la reponse (precision de Matthias, 13 juillet 2026)** — il ne la lit jamais. Le raisonnement reste indispensable pour construire une bonne reponse, il est juste garde pour soi, pas redige. Voir Partie 3 pour le detail.
 6. **Etre proactif, pas juste executant (precision du 13 juillet 2026, cas Manon Cressent).** Ne pas se limiter a produire LA reponse qui coche mecaniquement les regles. Anticiper les problemes avant que Matthias ait besoin de les relever (ex : une question dont la reponse est deja publique sur le profil, un ton qui sonne script), proposer spontanement des alternatives de format (texte vs message vocal) quand ca peut faire une vraie difference, et brainstormer des angles que Matthias n'a pas suggeres. Matthias attend un vrai collaborateur qui challenge et propose — pas quelqu'un qui attend d'etre corrige apres coup pour s'ameliorer.
 
 **Le tableau n'est pas la conversation (precision de Matthias, 13 juillet 2026) :** les 14 regles et les 5 phases sont une structure de reference pour analyser et decider, pas un script rigide que la conversation doit suivre message par message. Une vraie conversation peut faire 40 messages, changer de sujet, avoir des passages ou on discute simplement (par exemple un moment de teasing enjoue) sans qu'il y ait une question a chaque message. On ne supprime jamais les questions socratiques du processus global — elles restent le mode par defaut — mais il ne faut pas forcer une question a chaque tour si le moment appelle autre chose (rondeur longue, teasing, signal marche). Le test : est-ce que ca sonne comme une vraie conversation humaine, ou comme un interrogatoire qui coche des cases ?
@@ -587,14 +587,9 @@ Le message redige tel quel, pour reference — utile a Matthias pour voir un exe
 [Le message a envoyer tel quel — entre 1 et 6 lignes max]
 ```
 
-**3. L'analyse (en dessous)**
+**3. L'analyse — NE PLUS L'ECRIRE (correction de Matthias, 13 juillet 2026)**
 
-- **Mot cle detecte :** [le mot/phrase du prospect qui a guide la reponse]
-- **Croyance cachee :** [la croyance limitante identifiee]
-- **Regle(s) appliquee(s) :** [quelles regles parmi les 15]
-- **Phase actuelle :** [1/2/3/4/5]
-- **Pourquoi cette reponse :** [explication en 2-3 phrases]
-- **Prochaine etape probable :** [ce qu'on anticipe comme reaction + ce qu'on fera]
+> Matthias ne lit jamais cette section. Le raisonnement (mot cle detecte, croyance cachee, regle(s) appliquee(s), phase actuelle, pourquoi cette reponse, prochaine etape probable) reste **obligatoire a faire en interne** — c'est ce qui garantit la qualite de l'ELAN et de la reponse — mais il ne doit **plus jamais etre redige/affiche** dans la reponse. Format desormais : ELAN + REPONSE DM uniquement, rien en dessous.
 
 ### Longueur des messages
 
@@ -1048,5 +1043,6 @@ Exactement. Et c'est la que tout se joue en fait. Le principe tu l'as capte, le 
 *Mis a jour le 10 juillet 2026 : ajout Regle 13 (teasing de methode) et Situation 10bis (relance conversations abandonnees) — voir `TEASING_METHODE_DM.md` pour le detail complet et `TRONC_CENTRAL_YADULINK.md` pour l'architecture externe de reference*
 *Mis a jour le 10 juillet 2026 (2) : ajout section "Processus de travail sur ce document" (construction collaborative iterative avec Matthias), ajout du bloc ELAN au format de reponse (Partie 3 — l'intention avant la formulation redigee), ajout regle anti-repetition d'emoji/expression au sein d'une meme conversation (Partie 3 — Ton et style)*
 *Mis a jour le 13 juillet 2026 : correction critique teasing vs enrobage (Regle 13 et Regle 7 precisees — voir `TEASING_METHODE_DM.md` Partie 2bis), ajout Regle 14 (signal marche / "off market", inspire d'une methode observee chez une consoeur), ajout Situation 3bis (question d'opinion pour provoquer la reciprocite), ajout garde-fou anti "gros sabots" sur les relances (Situation 10bis), precision "le tableau n'est pas la conversation" (structure de reference vs fluidite reelle d'une conversation de 40 messages)*
+*Mis a jour le 13 juillet 2026 (2) : l'analyse (Partie 3, point 3) n'est plus redigee dans la reponse — Matthias ne la lit jamais. Le raisonnement reste fait en interne (obligatoire), juste plus ecrit. Format de reponse desormais : ELAN + REPONSE DM uniquement.*
 *Base sur les 15 regles de Matthias + Methodologie Enzo Racine + Conversations reelles analysees*
 *A utiliser comme moteur de decision pour CHAQUE reponse de setting DM*
