@@ -164,6 +164,7 @@ Derriere chaque message du prospect, il y a une croyance. Le job c'est de la rep
 | "Le probleme c'est LinkedIn qui me bloque" | C'est la faute de l'outil | "Et avant le blocage, t'avais combien de clients ?" |
 | "Je poste regulierement" | Poster = prospecter | "Et du coup, ca te donne quoi concretement en termes de clients ?" |
 | "Les gens ne repondent pas a mes DM" | Le probleme c'est les autres | "Tu leur ecris quoi comme premier message ?" |
+| "Je me forme sur [nouvel outil/competence, ex: no-code, IA]" | Il faut maitriser un outil avant de s'attaquer au vrai probleme (dispersion deguisee en productivite) | "Ca va t'aider comment concretement sur [son vrai objectif, ex: ses posts/son acquisition] ?" |
 
 **Process :**
 1. Lire le message
@@ -395,6 +396,10 @@ On ne propose JAMAIS "on se fait un call ?" ou "tu veux qu'on en parle ?" de man
 **Format obligatoire :** [Validation courte] → [Miroir en 2-3 phrases max, forme du chemin pas la methode] → [Question qui rend la parole au prospect]
 
 **Ne jamais teaser deux fois de suite** — apres un tease, revenir au creusage (Regles 1-12) avant d'en reposer un.
+
+**Garde-fou anti-sur-teasing / sous-creusage (cas Marie Bello, 13 juillet 2026) :** un tres bon rapport (beaucoup de teasing, d'humour, de vocaux, prospect visiblement conquise) n'egale PAS une progression de qualification. Une conversation peut etre un succes relationnel total et un echec de conversion complet si elle s'installe durablement en banter/teasing sans jamais revenir creuser un vrai point de douleur avec quantification (Regle 6) ou chaine des "pourquoi" (Phase 4). Reflexe a avoir periodiquement, meme (surtout) quand tout se passe bien : ai-je reellement creuse un point de douleur recemment, ou est-ce que je suis juste en train de papoter/teaser en boucle ? Si la reponse est non depuis plusieurs echanges, revenir deliberement en creusage (Regles 1-12), quitte a mettre le teasing en pause volontairement le temps de rattraper le retard de qualification.
+
+**Technique utile dans ce cas :** revisiter une matiere emotionnelle deja donnee PLUS TOT dans la conversation (parfois plusieurs jours avant) mais jamais quantifiee, plutot que d'attendre un nouveau signal frais. Le prospect a souvent deja livre un vrai point de douleur en passant (frustration, chiffre, aveu) sans qu'on l'ait pousse — revenir dessus explicitement, meme tardivement, est plus solide que d'inventer un nouvel angle.
 
 ---
 
