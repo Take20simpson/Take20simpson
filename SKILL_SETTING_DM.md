@@ -32,6 +32,26 @@ Quand Matthias colle un message de prospect et demande quoi repondre, Claude doi
 
 ---
 
+## LECTURE DU FORMAT COPIER-COLLER LINKEDIN (piege a eviter)
+
+> Correction de Matthias, 13 juillet 2026, suite a une erreur reelle de Claude (cas Manon Cressent) : des emojis ont ete analyses comme un message du prospect alors que c'etait une suggestion d'interface.
+
+**Quand Matthias colle une conversation LinkedIn, la structure est TOUJOURS :**
+1. Nom du prospect + niveau de relation (1er/2e/3e)
+2. Headline/bio LinkedIn du prospect
+3. Un horodatage (jour ou "Aujourd'hui")
+4. "Matthias Heilles Jourde" + heure → **message envoye par Matthias**
+5. "Voir le profil de [Prenom]" → marque le tour du PROSPECT qui commence
+6. Nom du prospect + heure → **message du prospect**
+
+**Piege critique : des emojis isoles, qui reviennent seuls sur leur propre ligne, sans rapport les uns avec les autres (typiquement 3 d'affilee), juste AVANT le vrai message texte du prospect, ne sont PAS un message envoye par le prospect.** C'est l'interface LinkedIn qui affiche ses suggestions de reaction rapide au dernier message de Matthias (l'equivalent des reactions iMessage) — un artefact du copier-coller, pas du contenu.
+
+**Reflexe a chaque lecture de conversation collee :** ignorer purement et simplement ces emojis suggeres, ne jamais les integrer dans "mot cle detecte" ni dans l'analyse du ton du prospect. Ne considerer comme message reel que le texte qui suit, attribue au nom du prospect avec un horodatage.
+
+**Exemple reel (Manon Cressent, 13 juillet 2026) :** Claude a lu "🙌 🤡 😩" comme un message enjoue/chaotique de Manon et a construit toute la reponse autour de cette energie. En realite, Manon a seulement repondu "Hello :)" (avec un smiley texte à l'ancienne) — rien d'autre. Les 3 emojis etaient des suggestions d'interface, pas son message.
+
+---
+
 ## PARTIE 1 : LES 13 REGLES D'EXECUTION
 
 > Ces 14 regles sont appliquees A CHAQUE reponse generee. Pas une de moins. Dans l'ordre. (La Regle 13 — teasing — et la Regle 14 — signal marche — ne s'appliquent que si leur declencheur respectif, Partie 1, est present ; sinon on reste sur les Regles 1-12.)
