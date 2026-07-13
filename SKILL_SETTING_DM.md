@@ -452,6 +452,8 @@ Deux messages distincts a la suite (pas un seul pave fusionne) — ca imite le r
 
 **Seule exception : un tres bon feeling de conversation, quand le prospect repond avec richesse/enthousiasme (signe d'engagement fort).** Dans ce cas precis uniquement, on peut enchainer 1 a 3 questions maximum sans enrobage, sans teasing, sans signal marche — le rythme plus direct devient lui-meme un signe de complicite/fluidite. Des que l'engagement retombe (reponses plus courtes, plus neutres), revenir immediatement a l'enrobage systematique.
 
+**Cas reel validant l'exception (Marie Bello, 13 juillet 2026) :** sur une relance avec un rapport deja tres fort (rires, vocaux, teasing abondant), une phrase de bridge/enrobage ("Ah ca a l'air hyper complementaire avec ce que tu fais") a ete jugee de trop par Matthias — pas besoin d'enrobage supplementaire quand l'engagement est deja evident. La bonne execution : sauter directement a la question de creusage ancree sur une matiere deja donnee ("tu me disais que les impressions ca te frustrait pas mal, ca a un peu bougé depuis ?"), sans couche de politesse en plus.
+
 **Reflexe par defaut en cas de doute : toujours mettre de l'enrobage.** Mieux vaut sur-enrober que sous-enrober.
 
 ---
@@ -612,6 +614,7 @@ Le message redige tel quel, pour reference — utile a Matthias pour voir un exe
 - **JAMAIS :** "je t'invite a", "n'hesite pas", "je me permets de", "je serais ravi"
 - **Emojis :** avec parcimonie (max 1 par message, et pas systematiquement)
 - **JAMAIS reutiliser un emoji ou une expression deja utilise plus haut dans LA MEME conversation** (par Matthias ou par le prospect) — relire l'historique de la conversation avant de rediger. Reprendre le meme "ahah"/le meme emoji qu'un message precedent rend la reponse scriptee et reperable comme generee. Toujours varier.
+- **Les fautes/imperfections casuelles sont OK, les accents NON (precision du 13 juillet 2026) :** minuscules manquantes, petites inversions de mots, fautes de frappe legeres — tout ca passe et rend meme le message plus authentique/oral. **Mais les accents (aigu/grave/circonflexe) doivent toujours etre corrects** ("bouge" au lieu de "bougé" par exemple, a corriger). Erreur reelle : "ca a un peu bouge" au lieu de "ca a un peu bougé".
 
 ---
 
