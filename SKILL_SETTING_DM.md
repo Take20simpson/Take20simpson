@@ -14,6 +14,7 @@ Ce document se construit en continu, en collaboration directe avec Matthias — 
 - Matthias donne des conversations reelles de prospects et demande une reponse
 - Il dit explicitement ce qu'il faut repondre, ce qu'il ne faut pas repondre, et pourquoi
 - Chaque remarque, correction ou validation de pattern est capturee immediatement dans le document pertinent (SKILL_SETTING_DM.md, TEASING_METHODE_DM.md ou CLAUDE.md selon la nature), dans le meme tour de conversation — jamais en fin de session
+- **Les exemples valides captures dans ce document illustrent une energie/un principe a reproduire avec ses propres mots a chaque fois — ce ne sont JAMAIS des scripts a copier-coller mot pour mot d'une conversation a l'autre** (precision du 13 juillet 2026). Le but n'est pas de reutiliser la formulation exacte, mais de comprendre pourquoi ce message-la fonctionnait a ce moment precis, pour recreer la meme energie dans un contexte different.
 - L'objectif n'est pas seulement d'appliquer les regles mecaniquement, mais que Claude s'imprime du POURQUOI un message precis a ete choisi a un moment precis de la conversation, et pas un autre. C'est ce raisonnement-la qui doit devenir reproductible, pas juste le resultat final
 
 ---
@@ -447,6 +448,8 @@ Deux messages distincts a la suite (pas un seul pave fusionne) — ca imite le r
 **Difference avec la Regle 7 (jauge d'empathie) :** la Regle 7 est REACTIVE — on ajoute de la rondeur apres 2-3 questions seches qui ont deja cree une sensation d'interrogatoire. La Regle 15 est PREVENTIVE — on l'utilise en amont, avant meme la premiere question personnelle, pour ne jamais laisser cette sensation s'installer.
 
 **Dosage :** le partage doit rester court (1-2 phrases max), reel (pas invente), et ne jamais eclipser la question qui suit — l'auto-partage sert de tremplin, pas de sujet en soi.
+
+**Ajouter une reaction/opinion courte apres la question ouvre encore plus (cas Gaelle Valera, 13 juillet 2026) :** coller un tag reactif genre "je trouve que c'est un sacre changement quand meme, non ?" juste apres la question principale n'est PAS une deuxieme question (Regle 5 respectee) — c'est une reaction/opinion avec un tag rhetorique qui renforce l'authenticite et la curiosite genuine, plutot qu'une question neutre de pure collecte d'info. Exemple valide : *"Ah au fait ça t'a amenee comment a passer de 23 ans a faire tourner une classe a devenir assistante virtuelle ? Je trouve que c'est un sacre changement quand meme, non ?"*
 
 **Frequence — l'enrobage n'est pas reserve a LA premiere question personnelle, il doit rester quasi systematique, surtout en debut de conversation (precision du 13 juillet 2026).** Par defaut, quasiment CHAQUE question posee merite un enrobage (auto-partage, validation, rondeur) — pas seulement la toute premiere question intime. Le risque de braquer le prospect en etant trop sec est toujours plus couteux que le risque de "trop" enrober.
 
