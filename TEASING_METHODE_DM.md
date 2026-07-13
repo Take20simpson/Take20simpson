@@ -154,6 +154,18 @@ Le ratio questions/teasing n'est pas une formule fixe. Il depend du ton general 
 
 ---
 
+## PARTIE 6BIS : DISTINCTION AVEC LA REGLE 15 (AUTO-PARTAGE PREVENTIF)
+
+> Ajoutee le 13 juillet 2026, cas Manon Cressent. Formalisee en Regle 15 dans `SKILL_SETTING_DM.md`.
+
+Ne pas confondre avec le teasing (Regle 13) ni avec la rondeur reactive (Regle 7) :
+
+- **Regle 13 (teasing) :** parle de la METHODE/des RESULTATS de Matthias. Gated par reciprocite (le prospect doit demander/relancer en premier).
+- **Regle 7 (rondeur reactive) :** intervient APRES 2-3 questions seches, pour relacher une pression deja creee.
+- **Regle 15 (auto-partage preventif) :** parle de personnel generique (parcours, gouts, mode de vie) — PAS gated par reciprocite, utilisee EN AMONT de la premiere question personnelle/identitaire pour que cette question ne sonne jamais comme un interrogatoire des le depart. Exemple : partager en 1-2 phrases son propre parcours ("moi je me suis lance y'a 5 ans direct apres le bac...") avant de demander le sien au prospect, plutot que de poser la question a froid.
+
+---
+
 ## PARTIE 7 : RONDEUR → TEASING, UNE EXTENSION, PAS UN BLOC SEPARE
 
 Rappel du systeme de rondeur (issu du Tronc Central Yadulink, toujours valable et complementaire) :

@@ -24,7 +24,7 @@ Quand Matthias colle un message de prospect et demande quoi repondre, Claude doi
 
 1. **Lire le message du prospect** — mot par mot, y compris l'historique complet de LA MEME conversation (pour eviter de repeter un emoji/une expression deja utilisee)
 2. **Passer par l'arbre decisionnel** (Partie 2)
-3. **Appliquer les 14 regles** (Partie 1) dans l'ordre
+3. **Appliquer les 15 regles** (Partie 1) dans l'ordre
 4. **Generer la reponse** selon le format (Partie 3) — toujours un bloc ELAN (l'intention, pas la formulation) puis un bloc REPONSE (le message redige)
 5. **Expliquer le POURQUOI** en dessous de la reponse (Partie 4)
 6. **Etre proactif, pas juste executant (precision du 13 juillet 2026, cas Manon Cressent).** Ne pas se limiter a produire LA reponse qui coche mecaniquement les regles. Anticiper les problemes avant que Matthias ait besoin de les relever (ex : une question dont la reponse est deja publique sur le profil, un ton qui sonne script), proposer spontanement des alternatives de format (texte vs message vocal) quand ca peut faire une vraie difference, et brainstormer des angles que Matthias n'a pas suggeres. Matthias attend un vrai collaborateur qui challenge et propose — pas quelqu'un qui attend d'etre corrige apres coup pour s'ameliorer.
@@ -53,9 +53,9 @@ Quand Matthias colle un message de prospect et demande quoi repondre, Claude doi
 
 ---
 
-## PARTIE 1 : LES 13 REGLES D'EXECUTION
+## PARTIE 1 : LES 15 REGLES D'EXECUTION
 
-> Ces 14 regles sont appliquees A CHAQUE reponse generee. Pas une de moins. Dans l'ordre. (La Regle 13 — teasing — et la Regle 14 — signal marche — ne s'appliquent que si leur declencheur respectif, Partie 1, est present ; sinon on reste sur les Regles 1-12.)
+> Ces 15 regles sont appliquees A CHAQUE reponse generee. Pas une de moins. Dans l'ordre. (La Regle 13 — teasing — et la Regle 14 — signal marche — ne s'appliquent que si leur declencheur respectif, Partie 1, est present ; sinon on reste sur les Regles 1-12. La Regle 15 — auto-partage preventif — s'applique specifiquement avant une question personnelle/identitaire, surtout la premiere d'une conversation.)
 
 ### Regle 1 — Repondre a ce qu'elle VIENT de dire, jamais generique
 
@@ -414,6 +414,26 @@ On ne propose JAMAIS "on se fait un call ?" ou "tu veux qu'on en parle ?" de man
 
 ---
 
+### Regle 15 — Auto-partage avant la question (enrobage preventif, pas reactif)
+
+> Regle ajoutee le 13 juillet 2026, cas Manon Cressent.
+
+**Le principe :** avant de poser une question personnelle/identitaire (typiquement LA premiere question un peu intime d'une conversation — parcours, choix de vie, situation), partager d'abord une info personnelle courte et symetrique sur soi-meme. La question, posee seule et a froid, peut sonner comme un interrogatoire ("t'en es venue comment a devenir independante ?" tout sec). Avec un auto-partage avant, ca devient un echange naturel entre deux personnes, pas une fiche de qualification.
+
+**Exemple donne par Matthias (13 juillet 2026) :**
+- Sans enrobage (a eviter en ouverture) : *"D'ailleurs, tu en es venue comment a faire ca, a devenir independante ?"*
+- Avec enrobage : *"Moi je me suis lance y'a 5 ans direct apres le bac, les etudes ca me correspondait pas du tout en fait. Toi ca s'est passe comment ?"*
+
+**Format obligatoire :** [Partage personnel court, 1-2 phrases, sur LE MEME sujet que la question] → [Question personnelle retournee au prospect, meme sujet].
+
+**Difference avec la Regle 13 (teasing) :** la Regle 13 concerne la METHODE/les RESULTATS business de Matthias et est gated par une reciprocite du prospect (il faut qu'elle demande ou relance en premier). La Regle 15 concerne du personnel generique (parcours, gouts, mode de vie) — PAS gated par reciprocite, peut etre initiee par Matthias lui-meme des la Phase 1, precisement pour AMORCER une reciprocite plutot que pour la suivre.
+
+**Difference avec la Regle 7 (jauge d'empathie) :** la Regle 7 est REACTIVE — on ajoute de la rondeur apres 2-3 questions seches qui ont deja cree une sensation d'interrogatoire. La Regle 15 est PREVENTIVE — on l'utilise en amont, avant meme la premiere question personnelle, pour ne jamais laisser cette sensation s'installer.
+
+**Dosage :** le partage doit rester court (1-2 phrases max), reel (pas invente), et ne jamais eclipser la question qui suit — l'auto-partage sert de tremplin, pas de sujet en soi.
+
+---
+
 ### Point en tension a trancher — annonce de prix en DM
 
 La Regle 7 de la Partie 5 dit "JAMAIS annoncer le prix en DM". Un cas reel observe (conversation Fanny Roos, juillet 2026) montre Matthias donnant son prix (2000 EUR / 8000 EUR brut) directement en DM, en reponse a une question tres frontale et dans un contexte de rapport tres eleve — et ca n'a pas fait fuir la prospect, au contraire. Ca rentre dans la logique de calibrage de la Regle 13 (question frontale → reponse precise).
@@ -544,7 +564,7 @@ Le message redige tel quel, pour reference — utile a Matthias pour voir un exe
 
 - **Mot cle detecte :** [le mot/phrase du prospect qui a guide la reponse]
 - **Croyance cachee :** [la croyance limitante identifiee]
-- **Regle(s) appliquee(s) :** [quelles regles parmi les 13]
+- **Regle(s) appliquee(s) :** [quelles regles parmi les 15]
 - **Phase actuelle :** [1/2/3/4/5]
 - **Pourquoi cette reponse :** [explication en 2-3 phrases]
 - **Prochaine etape probable :** [ce qu'on anticipe comme reaction + ce qu'on fera]
@@ -575,7 +595,7 @@ Le message redige tel quel, pour reference — utile a Matthias pour voir un exe
 
 ## PARTIE 4 : SITUATIONS SPECIALES — REPONSES TYPES
 
-> Pour chaque situation, la reponse respecte les 13 regles.
+> Pour chaque situation, la reponse respecte les 15 regles.
 
 ### Situation 1 : Le prospect se braque / detecte le pattern
 
@@ -883,6 +903,7 @@ Quand on en parle au prospect, on ne dit PAS "j'ai un outil IA". On dit "j'ai un
 - [ ] Si teasing utilise → verifie que c'est enjoue/visceral et tourne vers ce qui MARCHE au present (pas un mode rassurant "moi aussi j'ai vecu ca" — ca, c'est de la rondeur longue, Regle 7), 2-3 phrases max, jamais d'explication du COMMENT, refermé par une question
 - [ ] Si le prospect vient de reveler un sujet ou un pattern deja observe chez d'autres → signal marche possible (Regle 14), pas besoin de reciprocite, ancre sur ses mots exacts, suivi d'une question sur elle
 - [ ] Pas deux prises de parole d'affilee (teasing ou signal marche, meme de nature differente) sans creusage entre les deux
+- [ ] Si c'est la premiere question personnelle/identitaire de la conversation → enrobage preventif (Regle 15, auto-partage court avant la question), pas une question seche a froid
 
 ---
 
@@ -993,5 +1014,5 @@ Exactement. Et c'est la que tout se joue en fait. Le principe tu l'as capte, le 
 *Mis a jour le 10 juillet 2026 : ajout Regle 13 (teasing de methode) et Situation 10bis (relance conversations abandonnees) — voir `TEASING_METHODE_DM.md` pour le detail complet et `TRONC_CENTRAL_YADULINK.md` pour l'architecture externe de reference*
 *Mis a jour le 10 juillet 2026 (2) : ajout section "Processus de travail sur ce document" (construction collaborative iterative avec Matthias), ajout du bloc ELAN au format de reponse (Partie 3 — l'intention avant la formulation redigee), ajout regle anti-repetition d'emoji/expression au sein d'une meme conversation (Partie 3 — Ton et style)*
 *Mis a jour le 13 juillet 2026 : correction critique teasing vs enrobage (Regle 13 et Regle 7 precisees — voir `TEASING_METHODE_DM.md` Partie 2bis), ajout Regle 14 (signal marche / "off market", inspire d'une methode observee chez une consoeur), ajout Situation 3bis (question d'opinion pour provoquer la reciprocite), ajout garde-fou anti "gros sabots" sur les relances (Situation 10bis), precision "le tableau n'est pas la conversation" (structure de reference vs fluidite reelle d'une conversation de 40 messages)*
-*Base sur les 13+1 regles de Matthias + Methodologie Enzo Racine + Conversations reelles analysees*
+*Base sur les 15 regles de Matthias + Methodologie Enzo Racine + Conversations reelles analysees*
 *A utiliser comme moteur de decision pour CHAQUE reponse de setting DM*
