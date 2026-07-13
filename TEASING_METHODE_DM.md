@@ -121,6 +121,10 @@ Sur certains prospects, le teasing ne se case jamais naturellement — aucune re
 
 **Vigilance :** ne jamais la reformuler a l'identique a chaque conversation, sinon elle devient un script detectable. Adapter le sujet du debat au metier/contexte du prospect (acquisition, tarifs, positionnement — selon ce qui est pertinent pour elle).
 
+**Tension identifiee, pas encore tranchee (13 juillet 2026, cas Manon Cressent) : le risque que la question sonne "tendancieuse".** La headline LinkedIn de Matthias affiche explicitement "prospection". Si le prospect le remarque, la question d'opinion peut paraitre biaisee/orientee ("il me demande mon avis mais il sait deja ce qu'il pense, et il vend justement ca") — ce qui casse l'effet de dedramatisation recherche et peut au contraire eveiller le soupcon.
+
+**Piste proposee (a tester, pas encore validee par Matthias) :** au lieu d'esquiver le biais, le nommer soi-meme avec humour/transparence — dans l'esprit du principe existant "transparence si detection de pattern" (`SKILL_SETTING_DM.md`, Situation 1). Ex : *"je sais que ma bio dit prospection donc tu vas peut-etre penser que je suis pas objectif, mais genuinement je vois tellement d'avis differents que je sais plus quoi en penser"*. Nommer le biais avant que le prospect le remarque lui-meme desamorce le soupcon, plutot que d'esperer qu'il ne le voie pas.
+
 ---
 
 ## PARTIE 5 : LA REGLE DE CALIBRAGE — PROFONDEUR DU TEASE ∝ PRECISION DE LA QUESTION

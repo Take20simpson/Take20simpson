@@ -27,6 +27,7 @@ Quand Matthias colle un message de prospect et demande quoi repondre, Claude doi
 3. **Appliquer les 14 regles** (Partie 1) dans l'ordre
 4. **Generer la reponse** selon le format (Partie 3) — toujours un bloc ELAN (l'intention, pas la formulation) puis un bloc REPONSE (le message redige)
 5. **Expliquer le POURQUOI** en dessous de la reponse (Partie 4)
+6. **Etre proactif, pas juste executant (precision du 13 juillet 2026, cas Manon Cressent).** Ne pas se limiter a produire LA reponse qui coche mecaniquement les regles. Anticiper les problemes avant que Matthias ait besoin de les relever (ex : une question dont la reponse est deja publique sur le profil, un ton qui sonne script), proposer spontanement des alternatives de format (texte vs message vocal) quand ca peut faire une vraie difference, et brainstormer des angles que Matthias n'a pas suggeres. Matthias attend un vrai collaborateur qui challenge et propose — pas quelqu'un qui attend d'etre corrige apres coup pour s'ameliorer.
 
 **Le tableau n'est pas la conversation (precision de Matthias, 13 juillet 2026) :** les 14 regles et les 5 phases sont une structure de reference pour analyser et decider, pas un script rigide que la conversation doit suivre message par message. Une vraie conversation peut faire 40 messages, changer de sujet, avoir des passages ou on discute simplement (par exemple un moment de teasing enjoue) sans qu'il y ait une question a chaque message. On ne supprime jamais les questions socratiques du processus global — elles restent le mode par defaut — mais il ne faut pas forcer une question a chaque tour si le moment appelle autre chose (rondeur longue, teasing, signal marche). Le test : est-ce que ca sonne comme une vraie conversation humaine, ou comme un interrogatoire qui coche des cases ?
 
@@ -78,6 +79,13 @@ Chaque reponse commence par rebondir sur les mots exacts du prospect. Pas un mes
 
 **Mauvais (question inventee) :** Prospect dit "boulot a fond en juillet" → "Ca donne quoi comme projets en ce moment ?" (mot "projets" invente, aucun lien explicite)
 **Bon (question ancree) :** Prospect dit "boulot a fond en juillet" → "Ah ouais je vois, c'est le rush avant les vacances de tes clients ?" (hypothese precise et plausible, ancree dans son metier connu + le timing qu'elle vient de donner)
+
+**Nouveau piege identifie (cas Manon Cressent, 13 juillet 2026) : ne jamais poser une question dont la reponse est deja visible sur le profil/headline du prospect.** Erreur commise : "Tu formes tes assistantes indep sur quoi concretement ?" envoye a une prospect dont la headline dit deja "Formatrice pour assistantes indép'". Ce genre de question sonne comme si on n'avait pas lu son profil — ou pire, comme une question qui cache un agenda. Reaction typique attendue du prospect : "bah regarde mon profil", point barre.
+
+**La regle :** si l'info est deja publique (headline, bio), ne jamais la reposer telle quelle. Aller au-dela : interroger le PARCOURS/le "comment" (comment elle en est venue la, depuis quand, qu'est-ce qui a change) plutot que le "quoi" (ce qu'elle fait, deja ecrit noir sur blanc).
+
+**Mauvais :** "Tu formes tes assistantes indep sur quoi concretement ?" (deja dans sa bio)
+**Bon :** "D'ailleurs, tu en es venue comment a faire ca, a devenir independante ?" (parcours, pas visible dans la bio)
 
 ---
 
