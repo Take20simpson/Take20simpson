@@ -210,6 +210,23 @@ Au lieu de demander frontalement "t'as des problemes de clients ?", affirmer le 
 
 Les vrais guillemets (« » ou " ") passent bien dans un message ponctuel, surtout accompagnes d'un emoji, pour citer une phrase-cliche qu'on tourne en derision ensemble avec le prospect (ex : citer "c'est wordpress, ca doit pas etre cher"). A ne PAS systematiser : utilises a chaque message, ca sonne immediatement robotique/genere par IA.
 
+### La question-service (transformer un accord verbal en question d'interet concret)
+
+> Identifie et valide par Matthias le 13 juillet 2026, cas Celine Schwarzbach — jugee comme l'une des meilleures executions de la session ("meme moi je n'aurais pas pense a ca").
+
+**Le contexte qui declenche ce pattern :** un prospect ou un pair propose un echange de valeur (recommandation reciproque, mise en relation, service rendu, coup de main) — pas une demande d'aide pour SES propres problemes, mais une offre qu'IL fait a Matthias.
+
+**Le reflexe a eviter :** se contenter d'accepter verbalement ("oui carrement !", "avec plaisir", "top ca"). Ca reste une politesse abstraite, sans suite concrete.
+
+**Le mecanisme :** transformer immediatement cette acceptation en une question specifique et actionnable qui sert DIRECTEMENT l'interet de l'autre personne — pas une question de qualification deguisee, une vraie question utile pour realiser ce qu'elle vient de proposer (ex : Celine propose d'envoyer des clients en echange, Matthias demande "c'est quoi exactement ton client ideal ?" pour pouvoir vraiment le faire).
+
+**Pourquoi ca marche — triple effet simultane dans UNE seule question :**
+1. **Cree une urgence a repondre** : la question active concretement l'eventualite de recevoir quelque chose de valeur (des clients, une opportunite reelle) — le prospect ne veut pas laisser filer ca en ne repondant pas.
+2. **Credibilise Matthias** : il ne dit pas juste "oui carrement" en l'air, il agit dessus tout de suite — ca donne l'image de quelqu'un de fiable, coherent, serieux dans ce qu'il propose.
+3. **Cree une connexion authentique** : montrer un interet precis pour ELLE et son activite (pas une politesse generique) prouve un interet reel pour la personne, pas juste pour la transaction.
+
+**Le principe general a retenir :** des qu'un accord ou une proposition de valeur mutuelle est evoquee par le prospect, ne jamais la laisser au stade de l'intention verbale — la transformer tout de suite en une question d'action concrete qui sert l'autre en premier lieu. C'est ce geste (l'effort visible de vouloir bien faire les choses pour elle) qui produit les 3 effets a la fois.
+
 ---
 
 ## PARTIE 10 : SIGNAL MARCHE (DIT "OFF MARKET") — LA TROISIEME MECANIQUE

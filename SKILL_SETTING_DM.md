@@ -373,6 +373,8 @@ On ne propose JAMAIS "on se fait un call ?" ou "tu veux qu'on en parle ?" de man
 
 **Le test :** Si tu enleves ta phrase et que la conversation tient quand meme, c'est que ta phrase etait du remplissage needy. Chaque phrase doit apporter de la valeur ou poser une question.
 
+**Extension — la question-service (cas Celine Schwarzbach, 13 juillet 2026) :** quand un prospect/pair propose lui-meme un echange de valeur (recommandation, mise en relation), ne jamais se contenter d'accepter verbalement ("oui carrement !"). Transformer l'acceptation en une question concrete qui sert directement son interet a elle (ex : "c'est quoi exactement ton client ideal ?" pour pouvoir vraiment lui envoyer des contacts). Triple effet en une seule question : urgence a repondre (ca active une opportunite concrete pour elle), credibilite (on agit au lieu de juste dire), connexion authentique (interet reel pour elle, pas politesse generique). Detail complet dans `TEASING_METHODE_DM.md`, Partie 9.
+
 ---
 
 ### Regle 13 — Teasing de methode (extension de la rondeur, pas un pitch)
