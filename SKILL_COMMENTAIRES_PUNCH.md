@@ -128,6 +128,8 @@ L'ordre est fixe. L'intention est fixe. La forme est libre à chaque fois.
 
 L'humour n'est jamais plaqué : il rebondit toujours sur le post. S'il sonne forcé, on préfère du sérieux.
 
+**Une conviction sérieuse partagée par Matthias (banque CONVICTIONS) n'est jamais un signal pour baisser le dosage d'humour du post en cours.** Quand Matthias donne sa réaction "premier degré" sur un sujet pour nourrir la banque, ça enrichit la matière des options Insight/Clivant, ça ne change pas le registre du post lui-même. Le dosage reste dicté uniquement par le post, jamais par le ton du feedback donné entre deux séries.
+
 ### Les garde-fous anti-IA (ce qui élimine les tics, sans imposer de forme)
 
 Ces règles enlèvent le mauvais, elles ne dictent pas la structure.
