@@ -136,6 +136,10 @@ Ces règles enlèvent le mauvais, elles ne dictent pas la structure.
 
 **Ça doit COULER, jamais des blocs juxtaposés.** Un commentaire se lit comme quelqu'un qui parle d'un trait, pas comme des morceaux assemblés (l'insight, puis l'exemple, puis l'histoire posés côte à côte). On relie les idées par des liants oraux naturels (parce que, du coup, en fait, tu vois, et le truc c'est que) pour que l'enchaînement soit fluide. Si on sent la couture entre deux parties, c'est raté, on refond la phrase pour que l'une jaillisse de l'autre.
 
+**Une option juste sur le fond mais froide, ça manque.** Une observation vraie mais neutre, sans trace d'émotion ni de saveur humaine, reste plate même quand elle est pertinente. Chercher systématiquement où glisser une touche d'humain : un mot qui trahit un ressenti (honte, peur, malaise, agacement, tendresse), un petit aveu, une exagération assumée, une pointe perso. Le fond juste ne suffit pas, il faut aussi que ça sente vécu. Sur un post léger/ultra-léger, un petit emoji bien choisi ou un emoticon à l'ancienne en fin de phrase ( :) , ;) , (: ) peut suffire à apporter cette touche, en particulier sur l'humour poussé : ce n'est plus l'exception qu'on tolère à contrecoeur, c'est un outil valide pour l'émotionnel quand le registre du post le permet.
+
+**Bannir la formulation "c'est jamais un problème de X, c'est Y" / "ça c'est jamais le problème, c'est..." et toutes ses variantes ("le vrai souci c'est pas X, c'est Y").** C'est un attracteur de formulation qui revient mécaniquement dès qu'on veut poser un insight, et Matthias l'a identifié comme répétitif et bizarre à l'oreille. Poser l'idée directement (une phrase toute faite protège celui qui l'écrit, une phrase vraie expose un point de vue) plutôt que de l'encadrer par ce contraste artificiel.
+
 **Une vanne qui se justifie elle-même sonne construite, pas parlée.** Après avoir posé l'image ou le rapprochement, ne pas enchaîner une phrase qui explique pourquoi ça marche (et pourtant, donc en business c'est pareil, parce qu'on sait jamais lequel des dix trucs va foirer). Un français qui balance une vanne s'arrête sur l'image, il ne la justifie pas avec un raisonnement en trois étages accroché par des virgules dans le même souffle. Si la phrase empile setup, bascule ET justification en une seule fois, elle sonne traduite. Couper la justification, laisser l'image ou le rapprochement porter tout seul.
 
 **On parle du SUJET, jamais du post.** Aucune phrase n'a pour sujet le post, ses mots ou ses points ("ta formulation", "ton point 3", "la distinction que tu fais"). On attaque le sujet directement, comme dans une conversation.
@@ -256,6 +260,7 @@ Mini-analyse en 2-4 lignes (registre du post, dose d'humour, risques). Puis la q
 8. Storytelling : ouvre par l'insight (jamais par je), l'histoire découle de l'insight par un liant fluide, s'arrête quand fini ?
 9. ZÉRO guillemet, y compris pour les pensées/paroles rapportées (en mode, genre, sans guillemets) ? Chevilles bannies, humanisateurs sur 1-2 options, imperfections très légères (0-1, accents du son gardés) ?
 10. Tout coule comme quelqu'un qui parle, aucune couture entre les parties ?
+11. Y'a une touche humaine/émotionnelle qui empêche que ce soit juste juste vrai et froid (mot qui trahit un ressenti, petit aveu, ou emoji/emoticon si le post est léger) ? Aucune option n'utilise la formulation "c'est jamais un problème de X, c'est Y" ou une variante ?
 
 ### Style de Matthias : le ton, jamais la structure
 
@@ -284,6 +289,12 @@ Mini-analyse en 2-4 lignes (registre du post, dose d'humour, risques). Puis la q
 **21 juillet 2026 — Post Elora Baumchen (couteau suisse vs niche)**
 - Retour Matthias sur l'option Humour : la phrase "c'est pas très français", elle enchaîne l'image puis une justification logique en trois étages (et pourtant... en business c'est... parce que...) dans le même souffle. Pattern identifié : une vanne qui se justifie elle-même sonne construite, pas parlée. Nouveau garde-fou ajouté dans LES GARDE-FOUS ANTI-IA.
 - Matthias a partagé sa vraie reaction "premier degré" au post (dictée brute) : LinkedIn est dogmatique, une recette qui marche pour certains devient une regle absolue pour tous, exemple du niching mais aussi du personal branding presente comme obligatoire alors que des business entiers en font l'economie. Capturee comme premiere entree dans une nouvelle banque CONVICTIONS (options Insight/Clivant), referencee depuis les descriptions des options 4 et 5.
+- Precision demandee par Matthias : partager une conviction serieuse en feedback ne veut pas dire baisser le dosage humour du post traite. Regle ajoutee dans DOSAGE.
+
+**21 juillet 2026 — Post Elodie Masvigner (lettre de motivation)**
+- Option 1 (Humour) validee telle quelle : "vraiment fluide, des termes qu'il aurait employe personnellement". Confirme que le garde-fou anti-justification (pas de vanne qui s'auto-demontre) fonctionne.
+- Option 2 (Storytelling) et Option 6 (Percutant) : justes sur le fond mais jugees trop froides, "manque de personnalite / de saveur". Option 3 (Humour pousse) : meme remarque, avec suggestion concrete d'ajouter un emoji ou emoticon a l'ancienne en fin de phrase. Nouveau garde-fou ajoute : une option correcte sur le fond mais neutre reste plate, chercher une touche humaine/emotionnelle a chaque fois (mot qui trahit un ressenti, petit aveu, ou emoji/emoticon sur les posts legers).
+- Option 4 (Insight) explicitement pointee comme problematique : la formulation "ça c'est jamais le probleme, c'est une absence de machin" jugee "tres bizarre, tres repetitive". Ce tic avait deja failli se reproduire en option 5 lors de l'iteration precedente (repere et corrige avant livraison). Formulation desormais bannie explicitement dans LES GARDE-FOUS ANTI-IA.
 
 ---
 
