@@ -565,6 +565,13 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 
 > **Synthèse rapide sur ce lot de 22 posts :** le storytelling à suspense (#49) et les sondages "à propos de toi" (#48) drivent le plus de commentaires. Les coups de gueule contre LinkedIn engagent bien en reach mais pas toujours en commentaires — ça dépend si un enjeu concret pour l'audience est nommé (#45 sans enjeu nommé vs #34 du lot précédent avec enjeu nommé). Les sujets hors-ICP ne se valent pas : le foot (#40) fait exploser le reach (actualité grand public) sans engager la cible, la météo/actualité générale (#47) ne cartonne ni en reach ni en engagement. Les posts psychologiques longs et abstraits (#56, #57, et #10 du lot précédent) sous-performent systématiquement en reach malgré des idées souvent originales. Trois convictions reviennent en boucle sous plusieurs formats : "syndrome de l'imposteur = absence de système" (vidéo #17, Posts #8, #53), "lead magnets morts, teaser en DM" (vidéo #16, Posts #23, #52), "quantité + qualité" (vidéos #3/#8, Posts #37, #39) — piliers de conviction confirmés, mais #54 (3e répétition rapprochée du thème imposteur) performe le moins bien du trio, signal à surveiller sur l'espacement des répétitions d'un même message.
 
+### 22/07/2026 — Le plafond tarifaire (post proposé, pas encore publié)
+- Format : post
+- Accroche retenue : "J'ai un client qui refuse d'augmenter ses tarifs depuis deux ans, par peur de perdre ses clients actuels. Il gagne aujourd'hui moins qu'il y a deux ans, au même rythme de travail."
+- Mécanisme : storytelling avec retournement — le lecteur s'attend à ce que la prudence tarifaire protège, la chute révèle l'inverse (il gagne moins qu'avant, à rythme égal). 3 approches livrées (clivante, normale, Mathis Clouet).
+- Stats : pas encore publié — à mettre à jour dès que Matthias revient avec les chiffres réels.
+- Notes : premier post sur PA-9 (Le plafond tarifaire), thématique ajoutée au catalogue le 22 juillet suite au pivot ICP (exclusion des débutants, voir `CLAUDE.md`). Angle 1/3 utilisé — angle 2 (la peur de perdre le client actuel bloque le tarif du prochain) encore disponible pour un prochain post sans redite.
+
 ---
 
 *Document créé le 22 juillet 2026, dans le cadre de la nouvelle architecture à 4 pôles.*

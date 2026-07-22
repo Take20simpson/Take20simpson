@@ -83,17 +83,9 @@ Ces principes ne sont pas des règles mécaniques. Ils sont à comprendre profon
 
 ### Étape 0 — Tracking
 
-Au début de chaque session : si Matthias colle un bloc "POSTS DÉJÀ FAITS", le lire en priorité absolue. Ne jamais reproduire une combinaison thématique + angle déjà utilisée. S'il ne colle rien, lui demander avant de commencer.
+Le tracking se fait via `JOURNAL.md` (Journal Contenu), jamais via un bloc que Matthias colle ou qu'on lui affiche — ce fichier vit dans le repo et persiste d'une session à l'autre, lui n'a rien à gérer. Avant de proposer un angle, vérifier les entrées déjà présentes dans `JOURNAL.md` pour ne jamais reproduire une combinaison thématique + angle déjà utilisée (publiée ou déjà proposée). Dès qu'un post est finalisé (les 3 approches livrées), consigner l'entrée directement dans `JOURNAL.md` — catégorie, thématique, angle, accroche retenue — sans l'afficher à Matthias. Statut "pas encore publié" tant qu'il n'a pas donné les stats réelles ; l'entrée est mise à jour en place (pas dupliquée) le jour où il revient avec les chiffres.
 
-À la fin de chaque post généré, afficher le bloc mis à jour, prêt à copier :
-
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-POSTS DÉJÀ FAITS - NE PAS RÉPÉTER
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-[JJ/MM] | [Catégorie] | [Thématique] | Angle [n°] | [Accroche courte]
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+*(Règle du 22 juillet 2026 — Matthias a signalé que le bloc "POSTS DÉJÀ FAITS" affiché à chaque post était inutile : le vrai besoin c'est que Claude sache ce qui a déjà été fait, pas que Matthias gère un tracking manuel.)*
 
 ### Étape 1 — Classification
 
@@ -249,14 +241,14 @@ Fréquence max : 1 post tous les 10-14 jours. Ne jamais forcer.
 
 ### Processus complet
 
-1. Vérifier le bloc tracking (demander si absent).
+1. Vérifier `JOURNAL.md` pour les combinaisons thématique + angle déjà utilisées.
 2. Matthias donne son input (vocal retranscrit, idée en vrac, brouillon).
 3. Classifier en silence (catégorie + thématique + angle disponible non utilisé).
 4. Extraire en silence la Big Idea, le mécanisme, l'angle le plus fort, les éléments terrain.
 5. Afficher : "Ce que j'ai capté : [Big Idea en 1 phrase]" puis "Catégorie : [catégorie] - Thématique : [thématique], Angle [n°]". Puis les 8 accroches.
 6. Matthias choisit un numéro.
 7. Rédiger 3 approches du MÊME post, même sujet, même accroche de départ possible. Chaque approche dans un bloc code. Les trois passent le test à voix haute, aucune ne contient de punchline ni de CTA.
-8. Afficher le bloc tracking mis à jour.
+8. Consigner l'entrée dans `JOURNAL.md` (Journal Contenu), sans l'afficher à Matthias.
 
 Les 3 approches ne sont pas trois formats décoratifs, ce sont trois FAÇONS DE DIRE le même truc :
 
@@ -699,6 +691,11 @@ Exemple de fil (le ton conversationnel, court, joueur, cumulatif) : "ouah mais b
 > **Extrait dans un document dédié le 22 juillet 2026 : voir `SKILL_COMMENTAIRES_PUNCH.md`.** À la demande de Matthias, ce module a sa propre fonction unique et son propre fichier, vivant et édité en direct sur feedback — plus un module parmi trois ici. Ne pas reconstituer son contenu à partir de ce document ou d'une description ailleurs : `SKILL_COMMENTAIRES_PUNCH.md` est désormais l'unique source de vérité pour le registre punch, et son propre historique d'itérations y vit (dont les retours du 21 juillet sur les posts Elora Baumchen et Elodie Masvigner, déplacés là-bas).
 
 ---
+
+## HISTORIQUE DES ITÉRATIONS
+
+**22 juillet 2026 — Tracking déplacé sur `JOURNAL.md`, plus de bloc affiché (Module 1)**
+- Matthias a signalé que le bloc "POSTS DÉJÀ FAITS - NE PAS RÉPÉTER" affiché après chaque post ne servait à rien pour lui — le besoin réel c'est que Claude sache ce qui a déjà été fait, pas qu'il gère un tracking manuel côté client. Étape 0 et Étape 8 du processus réécrites : le tracking se fait en lisant/écrivant directement dans `JOURNAL.md` (déjà la mémoire persistante du Pôle 4), plus de bloc à coller ni à afficher.
 
 **22 juillet 2026 — Purge complète des angles "début d'activité" (Module 1)**
 - Suite au pivot ICP, Matthias a confirmé vouloir dégager tout ce qui suppose que le lecteur démarre son activité, sans regret ("tant mieux" si ça réduit le catalogue). PA-3 (piège du gratuit) supprimé du catalogue Problem Aware — entièrement redondant avec PB-2 Angle 1 qui couvre déjà le même thème en Personal Brand (raconté au passé, comme leçon). Vérification faite sur `SKILL_SETTING_DM.md` et `SKILL_COMMENTAIRES_PUNCH.md` : aucun contenu de qualification/ciblage n'y suppose un prospect débutant, rien à modifier là-bas.
