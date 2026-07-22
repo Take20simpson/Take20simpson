@@ -100,6 +100,31 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Accroche ou angle retenu : un prospect "trop gentil" qui accepte vite s'investit souvent moins et n'ose pas remonter les problèmes ; les objections filtrent les mauvais fits et développent la compétence de vente. Poster 4-5x/jour pré-traite les objections classiques en amont
 - Notes : bon complément à la Partie 5 (contenu qui fait monter en conscience) et au Framework CDD (Partie 6) — angle contre-intuitif à fort potentiel de post
 
+### Rattrapage #9 — Un seul conseil pour les posts : être précis et humain
+- Format : vidéo
+- Accroche ou angle retenu : arrêter les posts généralistes/distants, raconter du vécu précis (soi/collègue/client/prospect) ; la vraie question avant tout le reste : est-ce que l'humain en face se reconnaît, est-ce que ça sonne émotionnel
+- Notes : angle "anti-IA générique" à fort potentiel — connecte avec le fait que tout le monde utilise l'IA pour ses posts et uniformise le ton, contraste avec la banque de vécu perso de Matthias (voir aussi SKILL_CONTENU_LINKEDIN.md)
+
+### Rattrapage #10 — Ne jamais abandonner
+- Format : vidéo
+- Accroche ou angle retenu : 90% des freelances abandonnent après quelques mois/années par manque de clients réguliers ; le moment de doute maximal est justement le "pont de la mort" juste avant que ça débloque, pas le moment d'arrêter
+- Notes : storytelling persévérance, connecte à la propre histoire de Matthias et aux "3 erreurs identifiées" dans `CLAUDE.md` (manque de consistance = lâche trop tôt)
+
+### Rattrapage #11 — Se défaire du perfectionnisme
+- Format : vidéo
+- Accroche ou angle retenu : 3 ans de perfectionnisme qui rongent et bloquent ; méthode pour s'en défaire = légèreté + LinkedIn comme terrain de jeu (posts en note vocale en marchant, publiés en 5-15 min max, pas de sur-analyse en DM)
+- Notes : angle contre-courant peu traité ("tout le monde parle de passer à l'action, personne du perfectionnisme") ; bon candidat post, aussi utile en interne pour comprendre le process créatif réel de Matthias
+
+### Rattrapage #12 — Cultiver les bons problèmes
+- Format : vidéo
+- Accroche ou angle retenu : galérer en acquisition = bon signe, il faut se réjouir d'avoir des problèmes à améliorer ; distinction bons problèmes (satisfaisants, gérables) vs mauvais problèmes (charge mentale trop élevée) ; même en situation stable par bouche-à-oreille, construire quand même un vrai système
+- Notes : bon complément mindset à la Croyance Centrale (Partie 2) — recontextualise la galère comme signal positif plutôt que comme échec
+
+### Rattrapage #13 — La qualification du prospect compte plus que le nombre d'appels de closing
+- Format : vidéo
+- Accroche ou angle retenu : anecdote débuts landing pages — 30 appels en 2 mois, 0 client signé malgré bons patterns de closing, parce que les prospects n'étaient pas qualifiés/conscients en amont. La vraie compétence qui fait signer c'est le travail DM en amont, pas l'appel de closing
+- Notes : confirmation terrain forte du Système Vitrine (`SKILL_STRATEGIE.md` Partie 5) et de la distinction Obstacles/Objections (Partie 6) — rien à capturer de nouveau, mais bon matériau de post sur le mythe du "closer qui sauve tout"
+
 ---
 
 *Document créé le 22 juillet 2026, dans le cadre de la nouvelle architecture à 4 pôles.*
