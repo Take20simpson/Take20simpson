@@ -99,7 +99,7 @@ Auto-entrepreneur, paiement par virement bancaire. Pas de site web, pas de Calen
 | — | **Hub** | `CLAUDE.md` (ce fichier) | Identité + snapshot business + carte |
 | 1 | **Conseiller Stratégie** | `SKILL_STRATEGIE.md` | Le pôle le plus important. Vision macro + micro, doctrine (croyance centrale, philosophie, closing, KPIs, objectifs), et surtout comment Claude doit se comporter comme collaborateur. Ne fait ni setting, ni contenu, ni journal — il s'appuie sur eux. |
 | 2 | **Setting (prospection DM)** | `SKILL_SETTING_DM.md` + `TEASING_METHODE_DM.md` | Moteur de décision en temps réel pour répondre aux messages de prospects LinkedIn. |
-| 3 | **Contenu LinkedIn** | `SKILL_CONTENU_LINKEDIN.md` | Génération de posts, commentaires classiques et commentaires punch. |
+| 3 | **Contenu LinkedIn** | `SKILL_CONTENU_LINKEDIN.md` (posts + commentaires classique) + `SKILL_COMMENTAIRES_PUNCH.md` (commentaires punch, dédié, usage actif) | Génération de posts (hors périmètre actuellement, voir note dans le document), commentaires classiques et commentaires punch. |
 | 4 | **Journaux** | `JOURNAL.md` (résumé) + `ARCHIVE_CONVERSATIONS.md` + `ARCHIVE_CONTENU.md` (bruts) | `JOURNAL.md` = mémoire compacte (statut, patterns, prochaine étape) par prospect/contenu. Les deux `ARCHIVE_*` = matière brute complète et jamais résumée (transcripts DM nettoyés, textes de posts, transcriptions vidéo) — alimentée automatiquement à chaque conversation/post/vidéo traité via `SKILL_SETTING_DM.md` ou `SKILL_CONTENU_LINKEDIN.md`, sans que Matthias ait à le redemander. Sert de matière première au Pôle 1. |
 
 ### Règle d'exclusion (stricte)
@@ -136,11 +136,11 @@ Réflexes obligatoires à chaque conversation collée, sans que je le redemande 
 **Commentaires LinkedIn (pas de posts pour le moment, voir note) :**
 ```
 On continue les commentaires LinkedIn de Matthias (pas de rédaction de posts pour le moment).
-LECTURE OBLIGATOIRE en entier : SKILL_CONTENU_LINKEDIN.md, Module 2 (Classique) et Module 3 (Punch) uniquement. CLAUDE.md déjà chargé.
+LECTURE OBLIGATOIRE en entier : SKILL_COMMENTAIRES_PUNCH.md (module par défaut) + SKILL_CONTENU_LINKEDIN.md Module 2 uniquement (Classique, si je précise "classique"). CLAUDE.md déjà chargé.
 Module par défaut : Punch (6 options fixes : Humour, Storytelling, Humour poussé, Insight, Clivant, Percutant, chacune en bloc code + question de fin) sauf si je précise "classique" (warming, 4-6 registres selon le post).
-Réflexes obligatoires à chaque post collé pour commentaire, sans que je le redemande : produis les propositions ; si je signale un problème sur une proposition, corrige directement le Module concerné dans SKILL_CONTENU_LINKEDIN.md (même logique d'itération que le setting DM) ; archive le post source + les propositions retenues dans ARCHIVE_CONTENU.md ; crée une entrée dans JOURNAL.md (Journal Contenu) ; commit + push branche session puis sync branche par défaut.
+Réflexes obligatoires à chaque post collé pour commentaire, sans que je le redemande : produis les propositions ; si je signale un problème sur une proposition, corrige directement le document concerné (SKILL_COMMENTAIRES_PUNCH.md ou SKILL_CONTENU_LINKEDIN.md Module 2 selon le cas, même logique d'itération que le setting DM) ; archive le post source + les propositions retenues dans ARCHIVE_CONTENU.md ; crée une entrée dans JOURNAL.md (Journal Contenu) ; commit + push branche session puis sync branche par défaut.
 
-Note : Module 1 (Posts) reste dans le document mais hors périmètre tant que je ne demande pas explicitement de rédiger un post.
+Note : le Module 1 (Posts) de SKILL_CONTENU_LINKEDIN.md reste hors périmètre tant que je ne demande pas explicitement de rédiger un post.
 
 [Post à commenter, avec nom + headline de l'auteur, collé ci-dessous]
 ```
