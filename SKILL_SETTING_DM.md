@@ -3,7 +3,9 @@
 > Ce document donne a Claude la capacite COMPLETE de generer des reponses de setting DM exactement comme Matthias le ferait, en appliquant la methodologie Enzo Racine.
 > Ce n'est PAS un document theorique. C'est un MOTEUR DE DECISION en temps reel.
 
-**A lire avant utilisation :** `TEASING_METHODE_DM.md` (brique teasing de methode + signal marche, integrees ci-dessous en Regle 13, Regle 14, Situation 3, Situation 3bis et Situation 10bis) et `TRONC_CENTRAL_YADULINK.md` (architecture externe analysee : phases, signaux, standards qualite — reference complementaire, entonnoir classique uniquement).
+**A lire avant utilisation :** `TEASING_METHODE_DM.md` (brique teasing de methode + signal marche, integrees ci-dessous en Regle 13, Regle 14, Situation 3, Situation 3bis et Situation 10bis).
+
+> Note (22 juillet 2026) : ce document ne s'appuie plus sur `TRONC_CENTRAL_YADULINK.md` — son contenu utile est deja absorbe ci-dessus, et ce fichier ne fait plus partie du socle actif (voir `CLAUDE.md` Partie 3, regle d'exclusion).
 
 ---
 
