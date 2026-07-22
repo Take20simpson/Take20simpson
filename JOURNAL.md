@@ -85,6 +85,21 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Accroche ou angle retenu : 90% des freelances ne font pas l'effort d'aller discuter avec leur cible (café visio, pas pour vendre) — l'offre se construit sur la data récoltée en conversation, pas en 5 échanges
 - Notes : illustre directement le Système Vitrine (Partie 5) et la logique diagnostic-avant-prescription (Principe #5) ; bon candidat pour un post sur la construction d'offre
 
+### Rattrapage #6 — La sérénité vient du système, pas du nombre de clients
+- Format : vidéo
+- Accroche ou angle retenu : mea culpa — Matthias pensait que la sérénité venait de la quantité de clients, en fait c'est le système (contenu/prospection) qui compte, pas le nombre. Sans système, perdre un client ou augmenter ses tarifs devient risqué
+- Notes : bon post storytelling "je me suis planté" ; renforce l'idée de la Croyance Centrale (prospection/contenu structuré vs bouche-à-oreille/hasard, SKILL_STRATEGIE Partie 2)
+
+### Rattrapage #7 — Doser la valeur gratuite (prospection et closing)
+- Format : vidéo
+- Accroche ou angle retenu : ne pas casser une conversation DM déjà fluide en proposant un lead magnet trop tôt ; ne jamais coacher pendant un appel de closing
+- Notes : confirme deux règles déjà actées (manifeste envoyé ~10% des cas seulement dans `CLAUDE.md`, et "ne pas coacher pendant l'appel" dans `SKILL_STRATEGIE.md` Partie 6) — rien à capturer de nouveau, juste une validation terrain
+
+### Rattrapage #8 — Préférer un prospect qui objecte à un prospect trop lisse
+- Format : vidéo
+- Accroche ou angle retenu : un prospect "trop gentil" qui accepte vite s'investit souvent moins et n'ose pas remonter les problèmes ; les objections filtrent les mauvais fits et développent la compétence de vente. Poster 4-5x/jour pré-traite les objections classiques en amont
+- Notes : bon complément à la Partie 5 (contenu qui fait monter en conscience) et au Framework CDD (Partie 6) — angle contre-intuitif à fort potentiel de post
+
 ---
 
 *Document créé le 22 juillet 2026, dans le cadre de la nouvelle architecture à 4 pôles.*
