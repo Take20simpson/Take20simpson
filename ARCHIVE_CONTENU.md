@@ -1384,4 +1384,47 @@ pour moi le seul truc que tu peux vraiment contrôler, c'est pas la distance. C'
 
 ---
 
+> Premier post généré via `SKILL_CONTENU_LINKEDIN.md` Module 1 (posts) plutôt que rattrapé depuis un backlog déjà publié. Angle PA-9 (Le plafond tarifaire), ajouté au catalogue le 22 juillet suite au pivot ICP. 3 approches livrées, Approche 2 (Normale) choisie et publiée par Matthias — les 2 autres conservées ici pour référence/comparaison, non publiées.
+
+### [22/07/2026] — post — Plafond tarifaire, client qui n'augmente pas (Approche 2, publiée)
+J'ai un client qui refuse d'augmenter ses tarifs depuis deux ans.
+
+Chaque fois qu'on aborde le sujet, c'est la même réponse, il a peur de perdre les clients qu'il a déjà. Alors il reste sur le même chiffre, année après année, en se disant que c'est la version prudente.
+
+La semaine dernière on a fait le calcul ensemble. Au même rythme de travail, avec les mêmes horaires, il gagne aujourd'hui moins qu'il y a deux ans. Rien n'a changé dans son quotidien à part le prix des choses autour de lui, et son tarif à lui est resté figé pendant que tout le reste avançait.
+
+Personne ne lui a pris cet argent. Il ne l'a simplement jamais redemandé.
+
+Ce qu'il appelait de la prudence, c'était en fait le seul vrai risque qu'il prenait depuis deux ans.
+
+**Stats :** publié depuis environ 1h au moment de l'envoi, signal précoce positif (pas mal de likes selon Matthias), chiffres définitifs à venir.
+
+### [22/07/2026] — post — Plafond tarifaire, client qui n'augmente pas (Approche 1, Clivante, non publiée)
+Arrête de te dire qu'augmenter tes tarifs c'est risqué. Ne pas les augmenter, ça l'est encore plus, et tu le vois même pas.
+
+J'ai un client qui refuse de toucher à ses prix depuis deux ans. Chaque fois qu'on en parle, c'est la même excuse, il a peur de perdre ceux qu'il a déjà.
+
+Sauf que je viens de faire le calcul avec lui. Au même rythme de travail, avec les mêmes horaires, il gagne aujourd'hui moins qu'il y a deux ans. L'inflation a mangé sa marge pendant qu'il restait figé sur un chiffre fixé au tout début.
+
+Personne ne lui a pris son argent. Il ne l'a jamais réclamé.
+
+Tant que tu penses que ton tarif actuel te protège, tu regardes pas le vrai danger. Le vrai danger c'est de rester au même prix pendant que tout autour continue de monter.
+
+### [22/07/2026] — post — Plafond tarifaire, client qui n'augmente pas (Approche 3, Mathis Clouet, non publiée)
+J'ai un client qui ne touche plus à ses tarifs depuis deux ans.
+
+Toujours la même raison quand on en parle :
+
+- il a peur de perdre les clients qu'il a déjà
+- il se dit que c'est pas le bon moment pour tester
+- il préfère la sécurité du chiffre qu'il connaît
+
+Sauf qu'on a fait le calcul ensemble la semaine dernière. Même rythme de travail, mêmes horaires, et il gagne moins aujourd'hui qu'il y a deux ans.
+
+Rien ne lui a été pris. Il n'a jamais rien redemandé.
+
+La sécurité qu'il croyait avoir en gardant son prix, c'était exactement l'inverse.
+
+---
+
 *Document créé le 22 juillet 2026, en complément de `JOURNAL.md`, à la demande de Matthias (besoin d'une sauvegarde du contenu, posts et vidéos, plus détaillée que le résumé du journal, sans dupliquer les transcriptions mot pour mot).*
