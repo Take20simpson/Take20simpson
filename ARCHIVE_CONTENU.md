@@ -864,6 +864,524 @@ Merci LinkedIn, vraiment merci vous m'aidez bien, surtout quand une grande parti
 
 **Stats :** 1 réaction, 0 commentaire, 113 impressions.
 
+### [Rattrapage Posts #36] — post — La plus belle phrase de la langue française (devis)
+Vous connaissez la plus belle phrase de la langue française….
+
+« envoyez-moi votre devis »
+
+Ah lalalala qu'est-ce qu'elle est bonne celle-là !
+
+Tu peux être certaine d'une chose si tu ne prends pas connaissance avec ton prospect de ton offre et donc de ton devis tu peux être sûr d'avoir une infime chance de le convertir en client
+
+Pour la simple, et bonne raison que si tu lui envoies un devis, il est seul devant son écran avec plein d'objections en tête…
+
+« Mouais, bon, c'est cher quand même »
+
+« Mouais, est-ce que c'est vraiment une personne fiable ? »
+
+« Est-ce qu'elle a vraiment l'expérience ? »
+
+Et oui tu n'es pas là pour répondre aux objections donc c'est comme si la vente était foutue
+
+Il va te répondre (ou pas d'ailleurs) quelque chose comme…
+
+Merci pour votre mail, je reviens vers vous…
+
+Traduction..
+
+Au revoir et à jamais !!
+
+**Stats :** 9 réactions, 8 commentaires, 246 impressions.
+
+### [Rattrapage Posts #37] — post — Quantité vs qualité (métaphore du pilote)
+Tout le monde parle de faire de la QUALITÉ sur LinkedIn, mais personne ne parle de faire de la QUANTITÉ… pourquoi en fait ? ☹️
+
+Si tu fais de la quantité sans la qualité, évidemment que tu ne vas avoir aucun résultat.
+
+Mais si tu fais de la quantité avec de la qualité, tu apprends 10 fois plus vite que quelqu'un qui fait juste de la qualité.
+
+J'apprends encore tous les jours ce qui fonctionne sur LinkedIn en termes de posts, de commentaires, et j'en passe...
+
+Et je n'irais pas aussi vite si je ne faisais pas 4 posts par jour.
+
+Le gap il est immense, j'ai jamais eu autant de retours, de discussions que depuis que je fais de la quantité sur LinkedIn.
+
+Que ce soit en termes de commentaires, de posts, d'interactions en message privé.
+
+Faut pas rêver, si tu veux sortir du lot et avoir les résultats que la plupart des gens n'ont pas, il faut faire des choses que les gens ne font pas.
+
+Et la meilleure façon de se distinguer, c'est de faire de la quantité avec de la qualité pour apprendre plus vite, pour faire mieux.
+
+Un pilote qui enchaîne les heures de vol progresse plus vite qu'un pilote qui relit son manuel en boucle sans jamais décoller non ?
+
+**Stats :** 7 réactions, 8 commentaires, 117 impressions.
+
+### [Rattrapage Posts #38] — post — Merci LinkedIn (dopamine)
+Merci LinkedIn de m'avoir donner autant d'impression…
+Je vous parle pas de ma dopamine heinnn…. 🫪
+
+**Stats :** 7 réactions, 6 commentaires, 336 impressions.
+
+### [Rattrapage Posts #39] — post — Il fait chaud, la quantité provoque la qualité
+Il fait chaud en ce moment, vous trouvez pas ?
+C'est donc le bon moment pour rappeler queeee…..
+
+La quantité provoque la qualité et non pas l'inverse.
+
+En gros, fais des choses que les gens ne font pas…
+
+Typiquement, tu peux faire comme moi, poster 4 à 5 fois par jour
+
+Et tu vas itérer beaucoup plus vite, et surtout comprendre ce qui fonctionne beaucoup plus vite
+
+…Et donc avoir des résultats beaucoup plus vite
+
+Franchement elle est pas belle la vie ☀️⛱️
+
+**Stats :** 6 réactions, 17 commentaires, 330 impressions.
+
+### [Rattrapage Posts #40] — post — L'arbitre du France-Maroc (actualité, hors business)
+🚨🚨 Ce soir l'arbitre du France-Maroc c'est un Argentin. Et pas que lui, les deux assistants et le 4eme arbitre aussi, ils sont tous argentins… aïe aïe aïe 😫
+
+Et en même temps mardi, sur Argentine-Égypte, la FIFA a mis un arbitre français.
+
+Franchement quand j'ai vu ça hier je me suis dit ok, ils ont fait exprès, genre un miroir, histoire de bien montrer que personne favorise personne…. Mouaisssssss 🤨
+
+Sauf que bah c'est l'inverse qui s'est passé. Direct hier soir tout le monde parlait complot sur les réseaux, et les Bleus ont même dû sortir en conf de presse pour dire qu'il fallait pas tomber dans la parano.
+
+Et moi ça me fait marrer parce que le truc censé calmer tout le monde, c'est exactement le truc qui a foutu le bordel.
+
+Plus t'essaies de prouver que t'as rien à cacher, plus les gens se disent "attends, pourquoi il insiste autant".
+
+Alors ce soir j'espère juste que Raul Tello et toute sa bande de………
+
+oh pardon 😅
+
+…ils sifflent le match et qu'ils ferment leur bouche, parce qu'avec la revanche de 2022 et Hakimi qui va défier Mbappé sur le terrain, on n'a pas besoin en plus que l'arbitrage devienne le sujet de la soirée.
+
+**Stats :** 3 réactions, 2 commentaires, 670 impressions.
+
+### [Rattrapage Posts #41] — post — On t'a menti sur l'algorithme de LinkedIn
+On t'a menti sur l'algorithme de LinkedIn. Tout le monde t'a fait croire que c'était simple... il suffisait de faire de bons posts.
+
+Et la théorie qu'on t'a vendue derrière, c'est que LinkedIn donne ton post à un petit échantillon de personnes pour voir s'il y a des likes et des commentaires.
+
+Si ça matche, il le pousse à un peu plus de monde. Et si ça matche encore, il le pousse encore plus large. Un effet boule de neige.
+
+Eh bien je suis désolé, mais c'est faux.
+
+Y'a plein de fois où tu parles d'un sujet sensible, censé faire réagir, censé cartonner. L'accroche est parfaite, le contenu est clair, une seule idée du début à la fin. Et le post flop complètement.
+
+À l'inverse, y'a des fois où t'as plein de likes, plein de commentaires... et des impressions catastrophiques. Donc non, il n'y a pas de corrélation évidente.
+
+Un truc beaucoup plus fiable, c'est la qualité de tes posts et de ton message.
+
+Si tu parles vraiment d'un sujet sensible, si tu parles vraiment à ta cible, évidemment que ça marchera beaucoup mieux qu'un post généraliste sur l'entrepreneuriat.
+
+Oui, l'algorithme de LinkedIn est complètement incompréhensible, et c'est fait exprès.
+
+Ce serait trop facile s'il fallait juste rentrer dans les clous en parlant de tel ou tel sujet pour avoir toujours le même nombre d'impressions.
+
+**Stats :** 7 réactions, 10 commentaires, 229 impressions.
+
+### [Rattrapage Posts #42] — post — LinkedIn est un vrai jeu
+LinkedIn est un vrai jeu pour moi, bien plus qu'un travail.
+
+Je ne dis pas ça pour faire genre, mais parce que c'est la réalité.
+
+Quand je commente un post, je le vois comme une action en plus comme dans un jeu vidéo
+
+Quand je fais un post comme celui-ci, je ne commence pas à me prendre au sérieux à faire des belles phrases ou je-ne-sais-quoi
+
+Je cherche uniquement à être Claire, à parler à ma cible et être concret
+
+Et franchement je me suis posé la question et le fait de commenter, de poster ou autre ne me dérange pas, je le prends à la légère (dans le bon sens du terme)
+
+C'est d'ailleurs pour ça que mes postes fonctionnent si bien et mes commentaires également
+
+Soyez humains, Claire, et ne vous prenez pas trop la tête
+
+**Stats :** 7 réactions, 5 commentaires, 162 impressions.
+
+### [Rattrapage Posts #43] — post — Les 4 paliers d'un business en solo (sondage)
+Personne ne parle des vrais paliers d'un business en solo, juste du "avant/après".
+
+Arrête de te comparer au mec qui explose sur LinkedIn. Regarde plutôt où t'en es vraiment, parce que ya 4 paliers, et tu es forcément à un des quatre.
+
+Premier palier, tu galères. Zéro client ou presque, tu doutes de tout, tu te demandes si t'as fait le bon choix.
+
+Deuxième palier, t'as des clients, mais ça va, ça vient. Un bon mois, un mois à sec, jamais de visibilité sur celui d'après
+
+Troisième palier, t'as un revenu stable. Pas énorme, mais stable, et ça change tout dans ta tête même si personne autour de toi comprend pourquoi t'es soulagé pour "pas grand-chose".
+
+Quatrième palier, tes revenus commencent sérieusement à monter, et là le vrai sujet c'est plus d'en trouver, c'est de choisir les bons clients et d'augmenter tes prix sans avoir peur de perdre les autres.
+
+Et à chaque palier y'a une bataille différente. Celui qui galère et celui qui doit augmenter ses prix, c'est pas du tout le même combat, alors arrête de te juger avec la mauvaise grille de lecture.
+
+T'es à quel palier aujourd'hui ?
+
+**Sondage : "T'es à quel palier aujourd'hui dans ton activité d'indépendant ? (Lis le post)"**
+- 1er palier — 38%
+- 2ème palier — 50%
+- 3ème palier — 13%
+- 4ème palier — 0%
+8 votes • Sondage fermé
+
+**Stats :** 1 réaction, 0 commentaire, 186 impressions.
+
+### [Rattrapage Posts #44] — post — Sondage temps passé sur LinkedIn
+👇
+Vous passez combien de temps sur LinkedIn en ce moment ?
+
+**Sondage :**
+- Moins d'une heure, pas le time — 0%
+- Entre une et deux heures — 27%
+- Plus de deux heures — 73%
+11 votes • Sondage fermé
+
+**Stats :** 0 réaction affichée, 13 commentaires, 154 impressions.
+
+### [Rattrapage Posts #45] — post — Les bugs de LinkedIn
+Je n'en peux plus des bugs de LinkedIn, s'il vous plaît, payer des développeurs compétents parce que là je commence à en avoir sérieusement marre
+
+Tous les jours, j'upload ma vidéo pour le lendemain, et à chaque fois c'est la croix et la bannière.
+
+« veuillez laisser l'application ouverte » (ça a dû en général 25 minutes)
+
+La barre de téléchargement qui n'avance pas pendant 10 minutes alors que je suis avec la fibre
+
+La barre de téléchargement qui des fois arrive à 90 %, et tu sais pas pourquoi elle passe à 62 % d'un coup.
+
+Je savais pas que les téléchargements régressait
+
+Bref, ça plus tous les bugs au niveau des likes, des commentaires, des messages privés, vraiment j'en peux plus et c'est pas comme si c'était Nouveau
+
+Donc je vous en supplie LinkedIn, mettez du budget dans l'interface parce que là c'est vraiment plus possible
+
+**Stats :** 5 réactions, 2 commentaires, 357 impressions.
+
+### [Rattrapage Posts #46] — post — L'IA sur LinkedIn, ça ne passe pas
+Il y a un truc que les gens n'ont vraiment pas compris sur l'IA et LinkedIn
+
+Les gens pensent que ça passe de faire des postes avec de l'IA et de faire des illustrations avec de l'IA
+
+Je vous le dis très clairement, NON ça ne passe pas !
+
+les gens le voient très bien quand c'est une image ou un texte fait avec l'IA
+
+Et en faisant ça vous ne faites qu'une chose : décrédibiliser votre nom et votre profil
+
+**Stats :** 6 réactions, 11 commentaires, 302 impressions.
+
+### [Rattrapage Posts #47] — post — Yann Barthès et la canicule (actualité, hors business)
+Yann Barthès dit qu'on est tous logés à la même enseigne face à la canicule. C'est faux, et la vraie raison n'a rien à voir avec l'argent…
+
+Il a dit ça sur son plateau climatisé, en pleine canicule, en se foutant un peu des gens qui vivent sous les toits et qui le rappellent à chaque fois qu'on les interview
+
+Ça a fait un tollé, tout le monde s'est écharpé sur qui a raison blablabla….
+
+Sauf que sur un point, il a raison. Tout le monde a chaud le jour. Bernard Arnault, ton voisin, toi, moi. Ça, personne ne peut dire le contraire.
+
+Le problème, c'est que ce n'est jamais la chaleur du jour qui tue pendant une canicule
+
+C'est ce qui se passe la nuit.
+
+Ton corps a besoin que la température redescende sous un certain seuil pour récupérer.
+
+… Si ça redescend pas, tu accumules la chaleur jour après jour et à un moment ton organisme lâche.
+
+C'est exactement ce qu'on a vu en 2003…
+
+Et là, plus personne n'est logé à la même enseigne.
+
+Un appart climatisé, la température redescend la nuit sans effort.
+
+Un appart sous un toit en zinc, sans clim, sans vraie isolation, la chaleur reste enfermée toute la nuit, elle n'a jamais le temps de sortir.
+
+D'ailleurs y'a une étude sur la canicule de 2003 qui montre un risque de surmortalité multiplié par 4 chez les gens qui vivaient sous les toits, donc bon t'as compris heinnn 🤨
+
+Donc Barthès a raison sur le jour et à côté de la plaque sur ce qui compte vraiment.
+
+Et ce n'est même pas une histoire d'argent en soi, c'est une histoire de matériaux et d'isolation.
+
+Sauf que dans les faits, ça tombe presque toujours sur les mêmes.
+
+D'après moi ce qui me dérange le plus, c'est pas la blague….
+
+C'est qu'on débatte une semaine entière pour savoir s'il a le droit de la faire, pendant que personne ne parle du seul chiffre qui dit vraiment qui va tenir cette canicule et qui non…
+
+Enfin bon bref la politique et les débats……..
+
+**Stats :** 1 réaction, 2 commentaires, 97 impressions.
+
+### [Rattrapage Posts #48] — post — Sondage décontraction
+👇
+Vous faites quoi à côté du travail pour vous décontracter ?
+
+**Sondage :**
+- Famille — 30%
+- Jeux vidéo — 26%
+- Sorties extérieures — 9%
+- Films/Séries — 13%
+- Autres ? — 22%
+23 votes • Sondage fermé
+
+**Stats :** 3 réactions, 26 commentaires, 184 impressions.
+
+### [Rattrapage Posts #49] — post — Le trafic du Dark Web pour Netflix à 16 ans (storytelling, hors business)
+À 16 ans j'ai basculé sans le savoir dans un trafic du Dark Web pour un abonnement Netflix à 6€/mois.
+
+Retour en arrière...
+
+Mes parents avaient Canal+, décodeur, abonnement à 50€/mois etc.…
+
+Moi je voulais Netflix, c'était pas inclus.
+
+Et puis je tombe sur une vidéo YouTube en rapport avec Netflix, je laisse un commentaire un peu con : "j'échange mon compte Canal+ contre un compte Netflix." Aïe aïe aïe 🫣
+
+Quelqu'un répond et on part discuter sur Instagram…
+
+Il me dit qu'il a un compte Netflix nickel, il me donne direct ses identifiants. Je teste, ça marche, génial 🥳
+
+Alors je lui donne mes identifiants Canal+ en échange.
+
+Je me connecte à son compte Netflix, je lance une série. Un samedi après-midi, en pleines vacances.
+
+Et là, 20 minutes plus tard, je reçois un SMS d'un numéro 07 inconnu.
+
+"C'est terminé pour toi. J'ai ton adresse IP, je viens de prévenir la gendarmerie !!"
+
+Sueur froide. La plus grosse de ma vie 😶‍🌫️
+
+Quelques minutes après, ce même numéro m'appelle. Je décroche, la voix qui tremble, il me ressert le même discours.
+
+Je lui explique, complètement paniqué, que je voulais juste échanger un abonnement contre un autre, rien de plus.
+
+Et là il se calme un peu. Il comprend que je suis pas un hacker, juste un ado naïf qui a fait une grosse connerie.
+
+Parce que le mec au téléphone, c'est pas le mec d'Instagram.
+
+C'est le vrai propriétaire du compte Netflix. Celui qu'on m'avait "donné".
+
+Lui, il a de vraies compétences en informatique. C'est comme ça qu'il a repéré une IP inconnue en train d'utiliser son compte, et qu'il est remonté jusqu'à moi.
+
+…. Il m'a d'ailleurs prouvé en me donnant ma position exacte.
+
+Et c'est là qu'il m'apprend un truc que j'avais pas vu venir.
+
+Le mec d'Instagram, celui qui m'a filé "son" Netflix, c'était pas son compte à lui non plus.
+
+C'était un revendeur de comptes piratés sur le Dark Web. (Y'a zéro vanne)
+
+Et mes identifiants Canal+, ceux que je lui avais donnés en échange, ils sont déjà quelque part sur le Dark Web. Donc je suis mort.
+
+Le vrai proprio du Netflix me dit qu'il faut tout changer. Pas juste le mot de passe. Le décodeur, et résilier l'abonnement.
+
+Sauf que mes parents étaient engagés dessus pour plus d'un an.
+
+Je lui passe mon père. Il lui explique tout, calmement.
+
+Et ben j'ai jamais eu aussi peur pour une connerie aussi bête.
+
+Et le pire, c'est que j'ai eu de la chance. Lui, il a été bienveillant.
+
+Les gens qui ont joué avec le feu à un moment de leur vie savent exactement ce que c'est, cette sueur froide-là qui te traverse le corps.
+
+**Stats :** 8 réactions, 26 commentaires, 292 impressions.
+
+### [Rattrapage Posts #50] — post — Les appels de closing sont surcotés
+Les appels de CLOSING sont ultra surcotés, simplement parce que c'est pas la chose la plus importante à traquer.
+
+Tout le monde cherche à avoir toujours plus d'appels de closing, mais c'est vraiment pas la première chose à avoir...
+
+Parce que franchement, pour l'avoir vécu, au début t'es tout content, t'arrives à décrocher quelques appels...
+
+... sauf que derrière, pour réussir à convertir un prospect en client, c'est pas la même histoire.
+
+Ce qu'il faut, c'est avoir un process très précis pour qualifier le prospect et le rendre conscient que tu es LA bonne personne pour résoudre sa problématique.
+
+Si tu fais PAS ça, je peux te promettre que même le meilleur closeur du monde n'arrivera à rien
+
+Ce que je regarde toujours en premier chez mes clients, c'est la qualité des prospects qui arrivent aux appels.
+
+Est-ce que ces prospects sont dans les meilleures conditions pour qu'on leur présente quelque chose...
+
+Et ça, c'est pas de la magie, ça se construit grâce à une prospection très spécifique, qui n'a rien à voir avec la prospection classique d'ailleurs...
+
+Et grâce à ton contenu LinkedIn aussi.
+
+**Stats :** 5 réactions, 3 commentaires, 92 impressions.
+
+### [Rattrapage Posts #51] — post — La vente diabolisée
+Pourquoi on nous a fait croire que pour avoir des clients il fallait user de stratagèmes vicieux, malhonnêtes déshumanisés ?
+
+Quand t'y penses, pourquoi la vente a toujours été vendue comme quelque chose d'immoral ?
+
+Le fameux vendeur qui utilise des stratégies psychologiques pour te faire céder et acheter
+
+Ça me rend fou, parce que ces gens-là ont diaboliser la vente, et de ce fait…… soit les gens en ont peur, soit les gens sont complètement réfractaire
+
+Pourquoi la vente ce n'est pas juste être humain, compréhensif et honnête ?
+
+J'aimerais bien savoir ce que t'en penses ?
+
+**Stats :** 6 réactions, 0 commentaire, 149 impressions.
+
+### [Rattrapage Posts #52] — post — Les lead magnets pourris
+Franchement, j'en ai marre des Lead Magnet pourris sur LinkedIn… du coup plus de personne ni porte d'intérêt.
+
+Et j'ai pas peur de dire que le lead magnet ne sert plus à rien dans l'état actuel des choses
+
+pourquoi je te dis ça ?
+
+Parce que je suis convaincu qu'il y a quelque chose de beaucoup plus puissant à aller chercher
+
+Très sincèrement, c'est éclaté au sol d'envoyer un PDF, un Notion, ou même une vidéo personnalisée
+
+Le truc qui marche bien mieux, c'est d'apporter de la valeur dans une conversation en message privé
+
+Valeur + Teasing de ta méthode
+
+Voilà ça, c'est la recette qui me permet d'avoir un prospect engagé en DM Et qui me demande de lui-même, qu'est-ce que je propose comme accompagnement ?
+
+Tout simplement parce que c'est humain et pas distant
+
+parce que quand tu envoies un document ou une vidéo, la personne en face, la regarde tout seul dans son coin
+
+quand tu as une vraie conversation avec lui, c'est complètement différent
+
+Viens en message privé, je te montre exactement comment je mets ça en place…
+
+**Stats :** 11 réactions, 5 commentaires, 168 impressions.
+
+### [Rattrapage Posts #53] — post — Le syndrome de l'imposteur n'existe pas (v3)
+Pour moi, le syndrome de l'imposteur n'existe pas… parce que ça cache un mal-être bien plus profond….
+
+Les gens qui disent être atteint par ce syndrome sont en réalité, enfermée dans une relation toxique avec leur business
+
+Pourquoi d'après toi, les gens ont peur d'augmenter leurs tarifs ?
+
+Tout simplement, parce que ils ont peur de perdre le client en face.
+
+Et pourquoi ils ont peur de perdre le client en face ?
+
+Parce que si ils le perdent, ils sont dans la merde financièrement
+
+Et comme la plupart des freelance dépendent du bouche-à-oreille et des recommandations ils n'ont pas de réel, système en place qui leur permet d'avoir des clients
+
+Il est là le vrai problème derrière le soi-disant syndrome de l'imposteur
+
+Je pense qu'il faut arrêter de croire que c'est un syndrome qui vient parce que tu n'as pas confiance en tes capacités ou en toi
+
+Absolument pas, ce syndrome se manifeste tout simplement parce que tu as la boule au ventre de perdre un client, c'est tout
+
+**Stats :** 6 réactions, 4 commentaires, 149 impressions.
+
+### [Rattrapage Posts #54] — post — Augmenter ses tarifs sans peur
+J'ai trouvé la solution pour augmenter mes tarifs sans avoir peur de l'annoncer à mon client….
+
+la solution, c'est de ne pas avoir peur de perdre mon client
+
+Ça peut paraître con dit comme ça, mais si tu ne comptes pas que sur le bouche-à-oreille et ta base client actuelle, tu n'as plus de raison d'avoir peur
+
+Parce que ce que Personne ne dit c'est que derrière l'augmentation du prix de ton offre se cache une peur viscérale de perdre un client…
+
+… parce que tu sais très bien que tu n'en retrouveras pas un directement après
+
+C'est pour ça que je ne répéterai jamais assez d'avoir un système que tu maîtrises, et où tu sais que ça t'apportera des clients
+
+**Stats :** 6 réactions, 5 commentaires, 82 impressions.
+
+### [Rattrapage Posts #55] — post — Sondage vacances
+👇
+Comment se passent vos vacances ?
+
+**Sondage :**
+- Trop bien c'est génial 👍 — 17%
+- Nul il fait trop chaud 🥵 — 8%
+- C'est les vacances ? 🤨 — 75%
+12 votes • Sondage encore actif (il restait 4 jours au moment de la capture)
+
+**Stats :** 0 réaction affichée, 5 commentaires, 130 impressions.
+
+### [Rattrapage Posts #56] — post — Les milieux durs produisent des gens qui mentent mieux
+Les milieux les plus durs niveau jugement, familles critiques, LinkedIn, ne produisent pas des gens plus vrais, ils produisent des gens qui savent mieux mentir.
+
+On part tous du principe que si on ne se sentait pas jugé, on arrêterait de raconter des histoires, d'enjoliver, de mentir un peu sur notre parcours.
+
+Sauf que le jugement qu'on fuit, c'est presque jamais celui qu'on croit.
+
+Quand tu enjolives une histoire devant quelqu'un, tu penses fuir son regard à lui.
+
+En vrai, cette personne s'en fout largement plus que toi de ton échec
+
+Elle a ses propres problèmes, elle t'écoute à moitié. Le juge le plus sévère dans la pièce, c'est toi !
+
+Tu utilises l'autre comme miroir, et c'est ton propre regard qui te fait mentir, pas le sien.
+
+Et ce mensonge-là, c'est pas de la lâcheté. C'est un calcul de survie très très ancien
+
+Pendant des millénaires, être exclu du groupe voulait dire mourir.
+
+Ton cerveau a gardé ce logiciel. Il calcule en une fraction de seconde le risque d'exclusion si tu dis la vérité brute, et il choisit systématiquement la version qui protège ta place plutôt que la version exacte des faits.
+
+Donc plus t'es entouré de gens qui jugent fort, plus ce logiciel tourne à fond.
+
+… Familles ultra critiques, milieux hyper compétitifs, réseaux sociaux (LinkedIn mdr)
+
+On pourrait croire que ces environnements-là forcent les gens à être plus vrais, par peur d'être démasqués.
+
+C'est l'inverse.
+
+Ils produisent des gens de plus en plus doués pour raconter une histoire crédible, parce que c'est la seule stratégie qui a jamais marché pour survivre là-dedans
+
+Le truc que j'ai mis du temps à comprendre c'est que tu ne peux pas juste décider d'arrêter de mentir aux autres tant que t'as pas réglé le jugement que tu te portes à toi-même en premier
+
+Les gens qui paraissent les plus bruts, les plus vrais, c'est pas les plus courageux. C'est ceux qui ont arrêté de se juger eux-mêmes.
+
+Le reste suit tout seul après 🙂
+
+**Stats :** 6 réactions, 1 commentaire, 57 impressions.
+
+### [Rattrapage Posts #57] — post — Le sentiment de retard (comparaison sociale)
+Que tu progresses vraiment ou pas, le sentiment de retard reste identique. Parce que ton cerveau garde toujours la même distance entre toi et la prochaine personne à envier
+
+C'est pour ça qu'on pense tous que se comparer c'est un problème de mindset. Genre si t'avais moins de complexes, tu ne regarderais plus les autres
+
+En vrai c'est pas ça…. C'est un mécanisme, et il tourne pareil chez tout le monde.
+
+Ton cerveau compare jamais au hasard. Il choisit systématiquement quelqu'un une marche au-dessus de toi….
+
+… Pas dix marches, pas cent. Une seule. Assez proche pour que ça paraisse atteignable, assez loin pour que tu te sentes en retard
+
+Le jour où tu rattrapes cette personne-là, un truc bizarre se passe... Tu ne sens pas la victoire longtemps.
+
+Ton cerveau a déjà recalculé une nouvelle cible, pile à la même distance qu'avant.
+
+T'as progressé, objectivement. Mais le sentiment de retard, lui, il a pas bougé d'un pouce
+
+C'est ça le vrai piège. C'est pas que t'avances pas. C'est que le mécanisme est calibré pour recréer le même écart à chaque fois que tu le combles.
+
+Et plus t'as de contenu sous les yeux, plus le mécanisme a de la matière première.
+
+Avant, tu te comparais à trois personnes dans ta ville.
+
+Aujourd'hui ton cerveau a accès à des milliers de marches au-dessus de toi en continu, donc il en trouve toujours une nouvelle en quelques secondes.
+
+Le truc qui m'a le plus marqué là-dedans c'est que ce n'est pas un bug.
+
+C'est littéralement ce qui a permis à l'espèce humaine d'avancer pendant des millénaires.
+
+Un cerveau qui se satisfait jamais, qui vise toujours un cran au-dessus, c'est ce qui pousse à chasser plus loin, construire plus solide, apprendre plus vite
+
+Sauf qu'aujourd'hui, ce mécanisme conçu pour te faire progresser sur des générations, il tourne à l'échelle d'un scroll de 10 secondes sur LinkedIn 🫣
+
+Donc tant que tu attends que ce sentiment de retard disparaisse pour te sentir légitime, t'attends un truc qui a été conçu pour jamais s'arrêter.
+
+pour moi le seul truc que tu peux vraiment contrôler, c'est pas la distance. C'est ce que tu fais pendant qu'elle est là.
+
+**Stats :** 5 réactions, 2 commentaires, 70 impressions. Posté il y a environ 1 jour (au moment de l'envoi).
+
 ---
 
 *Document créé le 22 juillet 2026, en complément de `JOURNAL.md`, à la demande de Matthias (besoin d'une sauvegarde du contenu, posts et vidéos, plus détaillée que le résumé du journal, sans dupliquer les transcriptions mot pour mot).*
