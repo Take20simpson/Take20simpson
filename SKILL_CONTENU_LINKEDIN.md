@@ -128,13 +128,6 @@ Ratio hebdomadaire cible : 40% Problem Aware / 40% Solution + Product Aware / 20
 - Angle 4 : La prospection apprend ce que le contenu ne peut pas apprendre.
 - Angle 5 : Storytelling personnel (8 mois de posts, 0 flux régulier).
 
-**PA-3 - Le piège du gratuit.** Travailler sans facturer pour "créer sa crédibilité", rester à 0 euro.
-- Angle 1 : 12 prestations gratuites, 4 témoignages 5 étoiles, 0 euro.
-- Angle 2 : La vraie raison du gratuit (éviter d'annoncer un prix).
-- Angle 3 : Le gratuit attire les mauvais profils.
-- Angle 4 : Commencer à 20-35 euros plutôt que 0 euro.
-- **Note du 22 juillet 2026 (pivot ICP) :** cet angle cible quelqu'un qui bosse gratuit AUJOURD'HUI pour se faire un nom — ce n'est plus la cible actuelle (freelances déjà 4-6 mois+ d'activité, déjà facturés). Reste utilisable uniquement en Personal Brand (PB-2, parcours/erreur passée racontée au passé, "voilà ce que j'ai appris"), jamais en Problem Aware où le lecteur est censé s'identifier à un problème qu'il vit là maintenant.
-
 **PA-4 - Volume sans intention.** Prospecter 50-100 profils/semaine en cochant des cases, se sentir productif sans résultats.
 - Angle 1 : 30 minutes bien utilisées > 3h sur un outil d'automatisation.
 - Angle 2 : La question qu'on ne se pose jamais avant d'envoyer une demande de connexion.
@@ -234,7 +227,7 @@ Fréquence max : 1 post tous les 10-14 jours. Ne jamais forcer.
 - Angle 2 : Le flip quantifié (coût du statu quo calculé en direct).
 
 **PB-2 - Parcours et vraies erreurs.**
-- Angle 1 : Le piège du gratuit, histoire complète.
+- Angle 1 : Le piège du gratuit, histoire complète. **Seul angle valide pour ce thème depuis le pivot ICP du 22 juillet 2026 (l'ancien PA-3 Problem Aware a été retiré du catalogue)** — uniquement racontable au passé, comme une leçon tirée, jamais comme un problème que le lecteur est censé vivre aujourd'hui.
 - Angle 2 : Le mythe de la prospection de masse.
 - Angle 3 : "T'iras nulle part", bac à 10,5, 4 ans plus tard, business solo 0 diplôme 0 mentor.
 
@@ -707,10 +700,11 @@ Exemple de fil (le ton conversationnel, court, joueur, cumulatif) : "ouah mais b
 
 ---
 
-## HISTORIQUE DES ITÉRATIONS
+**22 juillet 2026 — Purge complète des angles "début d'activité" (Module 1)**
+- Suite au pivot ICP, Matthias a confirmé vouloir dégager tout ce qui suppose que le lecteur démarre son activité, sans regret ("tant mieux" si ça réduit le catalogue). PA-3 (piège du gratuit) supprimé du catalogue Problem Aware — entièrement redondant avec PB-2 Angle 1 qui couvre déjà le même thème en Personal Brand (raconté au passé, comme leçon). Vérification faite sur `SKILL_SETTING_DM.md` et `SKILL_COMMENTAIRES_PUNCH.md` : aucun contenu de qualification/ciblage n'y suppose un prospect débutant, rien à modifier là-bas.
 
 **22 juillet 2026 — Pivot ICP : exclusion des débutants (Module 1)**
-- Matthias ne veut plus cibler les freelances qui démarrent (pas de budget, pas d'urgence, engagement faible). Nouvelle cible : minimum 4-6 mois d'activité (jusqu'à 1-2 ans+), génère déjà du CA mais pas assez, ou bloqué sur ses tarifs, ou veut des clients plus qualitatifs. Source de vérité : `CLAUDE.md` Partie 2. Répercussions ici : paragraphe "Sa cible" resynchronisé, PA-3 (piège du gratuit) et PA-7 (stress financier) annotés comme inadaptés en Problem Aware sous leur forme actuelle (angles de début d'activité), deux nouveaux angles ajoutés (PA-9 plafond tarifaire, PA-10 mauvais fit client) directement dérivés des pain points donnés par Matthias. `SKILL_STRATEGIE.md` (sourcing, grille de maturité) mis à jour en miroir.
+- Matthias ne veut plus cibler les freelances qui démarrent (pas de budget, pas d'urgence, engagement faible). Nouvelle cible : minimum 4-6 mois d'activité (jusqu'à 1-2 ans+), génère déjà du CA mais pas assez, ou bloqué sur ses tarifs, ou veut des clients plus qualitatifs. Source de vérité : `CLAUDE.md` Partie 2. Répercussions ici : paragraphe "Sa cible" resynchronisé, PA-7 (stress financier) recentré sur un stress de plateau plutôt que de survie, deux nouveaux angles ajoutés (PA-9 plafond tarifaire, PA-10 mauvais fit client) directement dérivés des pain points donnés par Matthias. `SKILL_STRATEGIE.md` (sourcing, grille de maturité) mis à jour en miroir.
 
 **22 juillet 2026 — Corrections d'exécution sur la génération d'accroches (Module 1)**
 - Retour de Matthias sur une première salve de 8 accroches (thème "piège du gratuit") : 4 corrections capturées. (1) "Résultat" comme mot-pivot est un tell IA même hors la forme question déjà interdite ("Résultat ?") — élargi dans les Interdits absolus. (2) Négations mangées à répétition ("construit pas", "vaut rien" au lieu de "ne construit pas", "ne vaut rien") — erreur systématique signalée, ajout d'un point de vigilance explicite dans Ton & Voix (vérifier chaque négation une par une avant de livrer). (3) "book" utilisé comme mot vague/anglicisme que l'audience ne visualise pas instinctivement — ajouté en exemple dans la règle accroche 6. (4) Manque général de tranchant alors que le mécanisme clivant était pourtant identifié dans la section Patterns de performance — ajout d'un test d'exécution (l'accroche tiendrait-elle sur un ton neutre ? si oui, pas assez clivante).
