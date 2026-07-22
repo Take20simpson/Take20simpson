@@ -155,6 +155,78 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Accroche ou angle retenu : persévérance superficielle (répéter la même erreur/schéma 46 fois, machinalement) vs persévérance en profondeur (46 posts différents, en analysant à chaque fois les retours) — pas de recette magique, ce qui compte c'est la conscience mise dans l'exécution sur la durée, IA ou pas
 - Notes : à rapprocher du Rattrapage #11 (perfectionnisme) — nuance à clarifier avec Matthias si l'un des deux devient un post : #11 dit d'aller vite à l'écriture sans sur-analyser avant publication, #19 dit d'analyser en profondeur après coup. Pas forcément contradictoire (moments différents) mais assez proche pour mériter d'être précisé
 
+> Rattrapage backlog posts écrits (22 juillet 2026) — posts déjà publiés, du plus ancien au plus récent, stats incluses (republications exclues des stats sur demande de Matthias). Texte intégral dans `ARCHIVE_CONTENU.md`.
+
+### Rattrapage Posts #1 — Témoins de Jéhovah / appât
+- Format : post
+- Accroche ou angle retenu : storytelling choc (jeune fille envoyée comme appât par des Témoins de Jéhovah), inquiétude pour elle plutôt que colère contre la méthode, angle instrumentalisation
+- Stats : 1 réaction, 22 commentaires, 1 685 impressions — meilleur ratio commentaires/impressions du lot, format storytelling personnel fort qui sort du sujet business
+
+### Rattrapage Posts #2 — Le soir de doute, freelance
+- Format : post
+- Accroche ou angle retenu : storytelling vulnérabilité (23h, doute sur le choix du freelancing) → bascule sur "problème de méthode, pas de valeur" (pas de système pour aller chercher les clients)
+- Stats : 4 réactions, 2 commentaires, 144 impressions
+
+### Rattrapage Posts #3 — Question sur l'intérêt du guide prospection
+- Format : post (question ouverte, pas de sondage natif)
+- Accroche ou angle retenu : teste l'intérêt réel pour le guide gratuit avant de le pousser davantage
+- Stats : 1 réaction, 0 commentaire, 90 impressions — faible engagement, format question simple sans sondage moins efficace que la version sondage (#4)
+
+### Rattrapage Posts #4 — Sondage intérêt guide prospection
+- Format : post (sondage LinkedIn natif)
+- Accroche ou angle retenu : même question que #3 mais en sondage natif — 100% "j'aimerais l'avoir" sur 7 votes
+- Stats : 3 réactions, 8 commentaires, 218 impressions — meilleur engagement que #3 sur la même question, le format sondage natif marche mieux que la question ouverte
+
+### Rattrapage Posts #5 — Le vrai métier du freelance
+- Format : post
+- Accroche ou angle retenu : liste rythmée de ce qui est vraiment dur en freelance (tenir le prix, la solitude, refuser un client toxique, tenir dans l'incompréhension) — "le reste, ça s'apprend"
+- Stats : 3 réactions, 2 commentaires, 164 impressions
+
+### Rattrapage Posts #6 — 280 abonnés, réseau trié
+- Format : post
+- Accroche ou angle retenu : contre l'équation "plus d'abonnés = plus de clients" — trie ses connexions chaque semaine, préfère un petit réseau ciblé à un gros compte décoratif
+- Stats : 4 réactions, 2 commentaires, 182 impressions
+
+### Rattrapage Posts #7 — Le mec dans les commentaires qui a "tout faux"
+- Format : post
+- Accroche ou angle retenu : posture clivante face aux critiques systématiques (toujours un homme, jamais de contre-proposition) — assume de continuer les histoires vraies qui dérangent
+- Stats : 19 réactions, 34 commentaires, 1 485 impressions — un des meilleurs engagements du lot, format clivant/prise de position assumée qui performe fort
+
+### Rattrapage Posts #8 — Syndrome de l'imposteur = manque de retours
+- Format : post
+- Accroche ou angle retenu : distingue "je ne suis pas légitime" (sentiment invérifiable) de "je n'ai aucun retour" (fait mesurable, cause = tu parles à personne) — la légitimité suit l'action, jamais l'inverse
+- Stats : 6 réactions, 4 commentaires, 79 impressions
+
+### Rattrapage Posts #9 — Sondage camp de l'été
+- Format : post (sondage natif, léger/engagement)
+- Accroche ou angle retenu : sondage humoristique sans lien business direct, pour varier le registre
+- Stats : 4 commentaires, 148 impressions
+
+### Rattrapage Posts #10 — Stress et charge mentale plutôt que chiffre
+- Format : post
+- Accroche ou angle retenu : recadre l'objectif business — pas "plus d'argent" mais "moins de stress/charge mentale" ; description physique très concrète de l'angoisse financière (dimanche soir, 25 du mois, réveil à 5h)
+- Stats : 1 réaction, 2 commentaires, 70 impressions
+
+### Rattrapage Posts #11 — Syndrome de l'imposteur inversé
+- Format : post
+- Accroche ou angle retenu : concept inédit — attendre de se sentir légitime pour agir (au lieu d'agir pour devenir légitime) ; "le premier pas se fait toujours sans la confiance"
+- Stats : 5 réactions, 10 commentaires, 107 impressions — bon complément/suite du post #8 sur le même thème imposteur, angle différent (avant vs pendant l'action)
+
+### Rattrapage Posts #12 — Sondage prospects qualifiés par le contenu
+- Format : post (sondage natif)
+- Accroche ou angle retenu : mesure si l'audience track ses prospects qualifiés issus du contenu — 75% répondent 0 sur 4 votes (échantillon très faible)
+- Stats : 124 impressions, 4 votes seulement — échantillon trop petit pour tirer une vraie conclusion
+
+### Rattrapage Posts #13 — Deux types d'accompagnement LinkedIn
+- Format : post
+- Accroche ou angle retenu : oppose script générique (accompagnement qui lâche après livraison) vs suivi réel (ajustement en direct sur les vraies conversations) — pitch indirect de l'offre de Matthias
+- Stats : 4 réactions (dont Matthias lui-même), 91 impressions, 0 commentaire affiché
+
+### Rattrapage Posts #14 — Sondage fréquence de publication
+- Format : post (sondage natif)
+- Accroche ou angle retenu : mesure le rythme de publication de l'audience — 80% postent 1x/jour sur 10 votes, contraste avec le rythme de 4-5 posts/jour de Matthias (Rattrapage vidéo #3, #8)
+- Stats : 1 réaction, 4 commentaires, 141 impressions
+
 ---
 
 *Document créé le 22 juillet 2026, dans le cadre de la nouvelle architecture à 4 pôles.*

@@ -95,4 +95,343 @@ Les gens n'ont pas compris ce qu'est vraiment la persévérance. Le conseil clas
 
 ---
 
+> **Rattrapage backlog posts écrits (22 juillet 2026) :** Matthias envoie ses posts déjà publiés, du plus ancien au plus récent, avec les stats (réactions, commentaires, impressions). Les republications ne sont pas comptées dans les stats (ce sont les siennes). Texte intégral conservé (règle "post écrit" du fichier). Dates exactes non fournies sauf mention contraire — numérotés `[Rattrapage Posts #N]`.
+
+### [Rattrapage Posts #1] — post — Témoins de Jéhovah / appât
+Je crois que les Témoins de Jéhovah m'ont envoyé un appât sexuel à domicile. et le pire, c'est qu'elle avait à peine 18 ans… (ou pas d'ailleurs)
+
+retour en arrière.
+
+il y a un an, un monsieur sonne chez moi.
+discours sur le seigneur, l'apocalypse, un prospectus dans la main.
+j'ai été correct, je l'ai écouté, je lui ai dit au revoir….
+
+en partant, il me glisse qu'il repassera.
+Bon ok next...
+
+deux semaines plus tard, on toque.
+c'est lui. mais cette fois il n'est pas seul ☹️
+
+derrière lui, une jeune fille. 18 ans, peut-être moins.
+bien habillée, maquillée mais pas trop, un sourire qui ne s'arrêtait jamais.
+elle me fixait dans les yeux pendant qu'il parlait
+
+la caricature exacte de la scène de secte qu'on voit dans les films.
+
+et là j'ai compris.
+
+la première fois, il était venu en repérage.
+il avait analysé qui j'étais : un jeune homme
+alors pour le deuxième passage, il a sorti sa meilleure carte.
+
+une fille de mon âge, pour m'appâter
+
+je leur ai dit que je n'étais pas intéressé, et j'ai refermé la porte.
+
+mais cette fille, elle, je n'arrive pas à l'oublier
+
+parce qu'on peut être en colère contre la méthode.
+moi je suis surtout inquiet pour elle.
+
+elle a quel âge quand on lui apprend que son sourire est un outil de recrutement ?
+
+qui décide que son rôle, c'est d'être l'appât ?
+
+et qui se lève pour ces filles-là, embrigadées avant même d'avoir choisi ?
+
+on parle beaucoup d'instrumentaliser les femmes.
+ce jour-là, j'en ai eu un exemple en chair et en os sur mon palier.
+
+et ça personne n'en parle 😒
+
+Je n'ose pas imaginer la suite si j'étais rentré dans leur jeu……
+
+Bref dites-moi ce que vous en pensez..
+
+**Stats :** 1 réaction, 22 commentaires, 1 685 impressions.
+
+### [Rattrapage Posts #2] — post — Le soir de doute, freelance
+Je me rappellerai toujours ce soir d'été, 23h, allongé dans mon lit, à me dire que j'avais peut-être fait une erreur en me lançant en freelance
+
+La fenêtre était entrouverte, j'entendais les gens dehors qui vivaient leur vie
+
+Et moi j'étais là, à fixer le plafond
+
+Ça faisait des mois que je m'accrochais, je bossais, je tentais des trucs, et les clients venaient pas
+
+Alors forcément, la nuit, ton cerveau fait le calcul à ta place
+
+"peut-être que t'es pas fait pour ça"
+"peut-être que les autres ont un truc que t'as pas"
+"peut-être que tu devrais juste arrêter et retourner faire comme tout le monde"
+
+Et le pire, c'est que tu le dis à personne
+
+Tu souris en journée, tu postes, tu réponds aux messages, t'as l'air d'aller bien, et le soir tu te demandes si t'es pas en train de gâcher ton temps
+
+J'ai mis du temps à comprendre un truc
+
+Ce soir-là, j'avais pas un problème de valeur, j'avais un problème de méthode
+
+Je savais faire mon métier, ça j'en doutais même pas, ce que je savais pas faire, c'était aller chercher les gens qui avaient besoin de moi
+
+Personne me l'avait jamais appris
+
+Et le jour où j'ai compris ça, tout a changé, parce que c'est pas toi qu'il faut réparer, c'est juste la façon dont tu vas chercher tes clients
+
+Si t'as déjà eu ce genre de soir, dis-le moi, t'es vraiment pas le seul
+
+**Stats :** 4 réactions, 2 commentaires, 144 impressions.
+
+### [Rattrapage Posts #3] — post — Question sur l'intérêt du guide prospection
+Je comprends pas pourquoi mais vous êtes nombreux à me demander en privé mon guide sur la prospection, et c'est avec grand plaisir que je vous l'envoie.
+
+Mais vous êtes tant intéressé que ça par la prospection ou c'est juste comme ça ?
+
+Vraie question pour le coup, répondez en commentaire parce que LinkedIn ne m'autorise pas à faire un sondage plus mettre une image
+
+**Stats :** 1 réaction, 0 commentaire, 90 impressions.
+
+### [Rattrapage Posts #4] — post — Sondage intérêt guide prospection
+Je reçois pas mal de demandes en DM pour mon guide gratuit sur la prospection, je voulais savoir si ça vous intéressiez vraiment ou si c'est juste comme ça par curiosité ?
+
+**Sondage : "Mon guide sur la prospection vous intéresse tant que ça ? 🙂"**
+- J'aimerais l'avoir moi aussi ! — 100%
+- Non, on s'en fout !!! — 0%
+7 votes • Sondage fermé
+
+**Stats :** 3 réactions, 8 commentaires, 218 impressions.
+
+### [Rattrapage Posts #5] — post — Le vrai métier du freelance
+Le plus dur en freelance, c'est pas de trouver des clients. C'est de continuer à y croire le mois où y'en a aucun.
+
+c'est d'annoncer ton prix sans baisser la voix sur le dernier chiffre.
+
+c'est de bosser seul toute la journée sans personne pour te dire que t'avances.
+
+c'est de pas répondre "oui" à un client toxique juste parce que t'as besoin de l'argent.
+
+c'est de tenir, alors que personne autour de toi comprend vraiment ce que tu fais.
+
+le reste, ça s'apprend.
+
+ça, c'est le vrai métier.
+
+**Stats :** 3 réactions, 2 commentaires, 164 impressions.
+
+### [Rattrapage Posts #6] — post — 280 abonnés, réseau trié
+J'ai 280 abonnés sur linkedin et assez de prospects entrants pour m'en foutre complètement du chiffre.
+
+on t'a vendu une équation simple : plus d'abonnés = plus de clients.
+
+c'est faux.
+
+j'ai 170 connexions et je ne les compte pas pour me rassurer, je les trie.
+
+chaque semaine, je vire :
+--> les relations avec qui je parle jamais
+--> les profils qui correspondent plus à ce que je fais
+--> tout ce qui pollue ce que l'algo décide de me montrer
+
+ce qui reste c'est…un réseau petit, mais vivant.
+
+et c'est exactement pour ça que ça marche
+
+parce que l'algo te montre à l'image de tes relations.
+170 personnes ciblées, c'est 170 fois la bonne audience.
+8000 fantômes, c'est juste un gros chiffre qui parle à personne.
+
+(et au passage : linkedin te plafonne à 30 000 connexions. autant trier maintenant que d'y être forcé plus tard.)
+
+le gros compte, c'est de la décoration.
+moi je préfère un petit réseau qui ramène des clients.
+
+C'est quoi ton avis là-dessus ?
+
+**Stats :** 4 réactions, 2 commentaires, 182 impressions.
+
+### [Rattrapage Posts #7] — post — Le mec dans les commentaires qui a "tout faux"
+à chaque fois que je raconte un truc personnel et un peu cash sur linkedin, y'a un mec dans les commentaires pour m'expliquer que j'ai "tout faux".
+
+jamais une femme. jamais quelqu'un qui propose autre chose.
+juste un type, seul, qui a besoin que tu aies tort pour se sentir mieux.
+
+et tu sais quoi ?
+
+je continuerai à raconter mes histoires vraies.
+parce que celles qui dérangent ce genre de profil sont exactement celles qui parlent à tout le monde.
+
+**Stats :** 19 réactions, 34 commentaires, 1 485 impressions.
+
+### [Rattrapage Posts #8] — post — Syndrome de l'imposteur = manque de retours
+Au début je croyais vraiment que je manquais de légitimité mais la vérité c'est que je montrais mon travail à personne.
+
+le syndrome de l'imposteur, on en parle partout…. mais on confond souvent deux choses très très différentes…
+
+1. "je ne suis pas légitime."
+un sentiment qui est dans ta tête. Impossible à vérifier tant que t'agis pas.
+
+2. "je n'ai aucun retour sur mon travail."
+un fait qui est mesurable, et il a une cause simple : tu parles à personne
+
+la plupart du temps, le 2 se déguise en 1.
+
+tu prends ton manque de contacts pour un manque de valeur.
+
+et le piège se referme :
+
+--> pas de clients, donc tu doutes
+--> tu doutes, donc t'agis moins
+--> t'agis moins, donc encore moins de clients
+
+la sortie, c'est pas de te convaincre que t'es légitime.
+c'est d'aller chercher assez de gens pour qu'un seul te le prouve.
+
+la légitimité suit toujours l'action, jamais l'inverse.
+
+**Stats :** 6 réactions, 4 commentaires, 79 impressions.
+
+### [Rattrapage Posts #9] — post — Sondage camp de l'été
+VRAIE QUESTION
+Vous allez faire partie de quel camp cet été ? (ne réponds pas la troisième c'est trop facile)
+
+**Sondage :**
+- Full focus bouloooootttttttttt — 50%
+- Fuuulll vacances — 10%
+- moitié moitié ...... — 40%
+10 votes • Sondage fermé
+
+**Stats :** 4 commentaires, 148 impressions.
+
+### [Rattrapage Posts #10] — post — Stress et charge mentale plutôt que chiffre
+Ton objectif ne devrait pas être d'avoir plus d'argent sur ton compte, mais de diminuer ton stress et ta charge mentale de 80%.
+
+Quand je me suis lancé en indé, je croyais vraiment que….
+
+"le jour où j'aurais assez de clients, assez d'argent qui rentre chaque mois, je serai tranquille."
+
+Alors j'ai couru après le chiffre
+
+sauf que le chiffre, c'est la partie visible et facile
+
+Mais la partie qu'on voit pas est bien plus vicieuse 😠
+
+c'est le dimanche soir, où t'arrives pas vraiment à profiter parce que demain faut s'y remettre.
+
+c'est la boule au ventre quand tu regardes ton compte le 25 du mois.
+
+c'est cette pensée qui revient juste avant de dormir.
+"comment je vais faire le mois prochain."
+
+et tu finis par t'endormir tard et mal.
+
+Tu te réveilles à 5h. tu dors plus vraiment, tu sais juste que t'as un truc à régler et que personne le fera à ta place.
+
+l'argent, ça se mesure.
+Mais ce poids-là, non. il reste dans ta tête et tu vis avec, parce qu'il faut bien.
+
+c'est ça le plus pervers.
+
+alors oui, c'est bien d'avoir des clients réguliers et de l'argent qui rentre…. ÉVIDEMMENT !
+
+mais la vraie finalité, c'est pas le chiffre.
+
+c'est de te recoucher le soir sans rien gérer dans ta petite tête 🗯️
+c'est de te réveiller sans cette pression dans la poitrine.
+
+et le jour où ça t'arrive, tu te sens plus léger.
+Tu redeviens quelqu'un de bien dans son quotidien.
+
+Tu vois de quoi je parle ?
+
+**Stats :** 1 réaction, 2 commentaires, 70 impressions.
+
+### [Rattrapage Posts #11] — post — Syndrome de l'imposteur inversé
+Tu connais le syndrome de l'imposteur inversé ? C'est attendre de te sentir légitime pour agir, alors que la légitimité vient en agissant.
+
+le syndrome de l'imposteur classique, tu le connais.
+
+t'as les compétences, les résultats, et pourtant tu te sens pas à ta place.
+
+l'inversé, c'est avant.
+
+c'est attendre de te sentir légitime pour commencer.
+
+"je prospecterai vraiment quand je serai plus à l'aise."
+"je posterai quand j'aurai un truc de plus solide à dire."
+"je me lancerai quand je me sentirai prêt."
+
+le souci la dedans, c'est que ce moment n'arrive jamais
+
+parce que la légitimité, c'est pas un prérequis.
+c'est une conséquence.
+
+elle vient après le premier message envoyé.
+après le premier post publié.
+après le premier client signé.
+
+jamais avant.
+
+tu attends un feu vert intérieur qui s'allumera pas tout seul.
+et plus t'attends, moins tu te sens prêt. parce que l'inaction nourrit le doute.
+
+Et pour le coup t'as pas besoin de te sentir légitime pour agir.
+
+t'as besoin d'agir pour te sentir légitime.
+
+c'est tout.
+
+le premier pas se fait toujours sans la confiance.
+
+La confiance elle arrive juste après…. à condition de l'avoir fait 😉
+
+**Stats :** 5 réactions, 10 commentaires, 107 impressions.
+
+### [Rattrapage Posts #12] — post — Sondage prospects qualifiés par le contenu
+👇
+Vous avez combien de nouveaux prospects qualifiés qui arrivent grâce à votre contenu ? (Par semaine)
+
+**Sondage :**
+- 0 — 75%
+- 1-3 — 0%
+- + de 3 — 0%
+- Je ne track pas — 25%
+4 votes • Sondage fermé
+
+**Stats :** 124 impressions.
+
+### [Rattrapage Posts #13] — post — Deux types d'accompagnement LinkedIn
+Il y a deux types d'accompagnement Linkedin. Celui qui te donne les outils et te laisse te débrouiller. Et celui qui reste avec toi jusqu'au premier client
+
+Le premier ressemble à ça...
+
+1. Tu reçois un script générique, pensé pour tout le monde donc pour personne.
+2. Tu l'envoies. Ça ne matche pas avec ta voix, ni avec ton prospect.
+3. Tu n'as personne pour te dire pourquoi ça n'a pas marché.
+
+Le deuxième, c'est celui-là....
+
+1. On regarde tes vrais échanges, pas des exemples génériques.
+2. Quand un prospect répond bizarrement, tu me l'envoies et on ajuste tout de suite.
+3. T'apprends pas une formule, tu apprends à lire une conversation.
+
+bref... prends un accompagnement qui ne te donne pas un script, mais un réel suivi.
+
+**Stats :** 4 réactions (dont Matthias), 91 impressions.
+
+### [Rattrapage Posts #14] — post — Sondage fréquence de publication
+👇
+Vous postez combien de fois par jour sur LinkedIn ?
+
+**Sondage :**
+- 0 — 0%
+- 1 — 80%
+- 2 — 10%
+- 3 et + — 10%
+10 votes • Sondage fermé
+
+**Stats :** 1 réaction, 4 commentaires, 141 impressions.
+
+---
+
 *Document créé le 22 juillet 2026, en complément de `JOURNAL.md`, à la demande de Matthias (besoin d'une sauvegarde du contenu, posts et vidéos, plus détaillée que le résumé du journal, sans dupliquer les transcriptions mot pour mot).*
