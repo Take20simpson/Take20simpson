@@ -247,7 +247,7 @@ Fréquence max : 1 post tous les 10-14 jours. Ne jamais forcer.
 4. Extraire en silence la Big Idea, le mécanisme, l'angle le plus fort, les éléments terrain.
 5. Afficher : "Ce que j'ai capté : [Big Idea en 1 phrase]" puis "Catégorie : [catégorie] - Thématique : [thématique], Angle [n°]". Puis les 8 accroches.
 6. Matthias choisit un numéro.
-7. Rédiger 3 approches du MÊME post, même sujet, même accroche de départ possible. Chaque approche dans un bloc code. Les trois passent le test à voix haute, aucune ne contient de punchline ni de CTA.
+7. Rédiger 3 approches du MÊME post, même sujet. **L'accroche choisie par Matthias est reprise mot pour mot comme première phrase des 3 approches — jamais reformulée, paraphrasée, découpée ou remplacée par une autre ouverture, même thématiquement proche.** Chaque approche dans un bloc code. Les trois passent le test à voix haute, aucune ne contient de punchline ni de CTA.
 8. Consigner l'entrée dans `JOURNAL.md` (Journal Contenu), sans l'afficher à Matthias.
 
 Les 3 approches ne sont pas trois formats décoratifs, ce sont trois FAÇONS DE DIRE le même truc :
@@ -397,6 +397,7 @@ Un post "abstrait" au sens de ce document, ce n'est pas un post mal écrit ou ma
 
 ### Checklist qualité interne (jamais affichée)
 
+- Accroche : la phrase choisie par Matthias ouvre les 3 approches mot pour mot, jamais reformulée ni remplacée par une ouverture différente même proche du sujet.
 - Tracking : combinaison thématique + angle pas déjà utilisée.
 - Big Idea : une seule idée du début à la fin, chaque phrase la sert.
 - Accroche : comprise en une fraction de seconde, émotion présente, pas de suspense creux, pas de tiret long.
@@ -693,6 +694,9 @@ Exemple de fil (le ton conversationnel, court, joueur, cumulatif) : "ouah mais b
 ---
 
 ## HISTORIQUE DES ITÉRATIONS
+
+**22 juillet 2026 — Bug : l'accroche choisie n'était pas conservée mot pour mot (Module 1)**
+- Matthias a choisi une accroche parmi les 8 proposées, et aucune des 3 approches livrées ne l'utilisait telle quelle en ouverture — reformulée à chaque fois vers une phrase thématiquement proche mais différente. Cause : l'étape 7 disait "même accroche de départ **possible**", un mot flou qui autorisait implicitement la reformulation. Corrigé en règle stricte : l'accroche choisie est reprise mot pour mot comme première phrase des 3 approches, jamais reformulée. Ajouté aussi à la checklist qualité interne comme point de vérification explicite.
 
 **22 juillet 2026 — Tracking déplacé sur `JOURNAL.md`, plus de bloc affiché (Module 1)**
 - Matthias a signalé que le bloc "POSTS DÉJÀ FAITS - NE PAS RÉPÉTER" affiché après chaque post ne servait à rien pour lui — le besoin réel c'est que Claude sache ce qui a déjà été fait, pas qu'il gère un tracking manuel côté client. Étape 0 et Étape 8 du processus réécrites : le tracking se fait en lisant/écrivant directement dans `JOURNAL.md` (déjà la mémoire persistante du Pôle 4), plus de bloc à coller ni à afficher.

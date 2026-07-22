@@ -1425,38 +1425,34 @@ Rien ne lui a été pris. Il n'a jamais rien redemandé.
 
 La sécurité qu'il croyait avoir en gardant son prix, c'était exactement l'inverse.
 
-### [22/07/2026] — post — Mauvais fit client, webdesign (Approche 1, Clivante)
-Arrête de garder un client juste parce qu'il paie bien. Le prix qu'il paie ne compte pas si le reste te coûte plus cher.
+### [22/07/2026] — post — Mauvais fit client, webdesign (Approche 1, Clivante) — corrigé, accroche conservée
+J'ai un client qui payait bien et qui m'a coûté plus cher en stress que n'importe quel mois sans lui.
 
-J'ai eu un client en webdesign qui payait bien, mais qui réécrivait mes sections lui-même avant de se plaindre que ça ne convertissait pas. Trois allers-retours par email pour un changement de dix mots. Des messages le dimanche soir. Et à chaque fois, moi qui recommençais un truc que j'avais déjà fait bien la première fois.
+Arrête de garder quelqu'un juste parce qu'il paie. Le prix qu'il paie ne compte pas si le reste te coûte plus cher.
 
-Ce client-là m'a coûté plus cher en stress que n'importe quel mois sans lui.
+Il réécrivait mes sections de site avant de se plaindre que ça ne convertissait pas. Trois allers-retours par email pour changer dix mots. Des messages le dimanche soir, et moi qui recommençais à chaque fois un travail que j'avais déjà fait bien la première fois.
 
 Le jour où j'ai arrêté, je n'ai pas perdu de chiffre. J'ai récupéré du temps, et ce temps-là a fini par rapporter plus que tout ce qu'il m'avait payé.
 
-### [22/07/2026] — post — Mauvais fit client, webdesign (Approche 2, Normale)
-J'ai eu un client en webdesign qui payait bien.
+### [22/07/2026] — post — Mauvais fit client, webdesign (Approche 2, Normale) — corrigé, accroche conservée
+J'ai un client qui payait bien et qui m'a coûté plus cher en stress que n'importe quel mois sans lui.
 
-Le problème c'est qu'il réécrivait mes sections avant de me les renvoyer, puis se plaignait que ça ne convertissait pas. Il fallait reprendre à chaque fois, expliquer pourquoi telle phrase marchait mieux que celle qu'il avait mise, recommencer un travail que j'avais déjà fait correctement la première fois.
+C'était un client en webdesign. Le problème, c'est qu'il réécrivait mes sections avant de me les renvoyer, puis se plaignait que ça ne convertissait pas. Il fallait reprendre à chaque fois, expliquer pourquoi telle phrase marchait mieux que celle qu'il avait mise, recommencer un travail que j'avais déjà fait correctement la première fois.
 
 Les messages arrivaient parfois un dimanche soir. Je répondais quand même, parce que c'était un bon client, celui qui payait sans retard, celui qu'on n'a pas envie de perdre.
 
-Ce client-là m'a coûté plus cher en stress que n'importe quel mois sans lui.
-
 J'ai fini par arrêter la collaboration. Et ce que j'ai récupéré en énergie a fini par rapporter plus que tout ce qu'il m'avait payé.
 
-### [22/07/2026] — post — Mauvais fit client, webdesign (Approche 3, Mathis Clouet)
-J'ai eu un client en webdesign qui payait bien.
+### [22/07/2026] — post — Mauvais fit client, webdesign (Approche 3, Mathis Clouet) — corrigé, accroche conservée
+J'ai un client qui payait bien et qui m'a coûté plus cher en stress que n'importe quel mois sans lui.
 
-Ce qu'il me faisait à chaque projet :
+C'était un client en webdesign. Ce qu'il me faisait à chaque projet :
 
 - il réécrivait mes sections avant de me les renvoyer
 - il se plaignait ensuite que ça ne convertissait pas
 - il m'écrivait parfois un dimanche soir, et je répondais quand même
 
 Trois allers-retours pour changer dix mots, à chaque fois.
-
-Ce client-là m'a coûté plus cher en stress que n'importe quel mois sans lui.
 
 J'ai fini par arrêter. Ce que j'ai récupéré en énergie a rapporté plus, sur la durée, que tout ce qu'il m'avait payé.
 
