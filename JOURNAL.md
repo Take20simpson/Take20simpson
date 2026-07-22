@@ -150,6 +150,11 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Accroche ou angle retenu : coup de gueule contre l'hypocrisie "il suffit d'être aligné" sur LinkedIn — trouver des clients seul est réellement dur, il faut se bouger, rien ne tombe du ciel. Deux pièges à éviter : forcer les heures sans deep work, et chercher indéfiniment le business parfaitement aligné
 - Notes : doublon thématique de Rattrapage #12 (bons problèmes), ton plus cash — confirme que c'est un message que Matthias tient à marteler sous plusieurs angles, bon signal de conviction forte
 
+### Rattrapage #19 — Les deux types de persévérance
+- Format : vidéo (dernière du backlog vidéo, 19/19)
+- Accroche ou angle retenu : persévérance superficielle (répéter la même erreur/schéma 46 fois, machinalement) vs persévérance en profondeur (46 posts différents, en analysant à chaque fois les retours) — pas de recette magique, ce qui compte c'est la conscience mise dans l'exécution sur la durée, IA ou pas
+- Notes : à rapprocher du Rattrapage #11 (perfectionnisme) — nuance à clarifier avec Matthias si l'un des deux devient un post : #11 dit d'aller vite à l'écriture sans sur-analyser avant publication, #19 dit d'analyser en profondeur après coup. Pas forcément contradictoire (moments différents) mais assez proche pour mériter d'être précisé
+
 ---
 
 *Document créé le 22 juillet 2026, dans le cadre de la nouvelle architecture à 4 pôles.*
