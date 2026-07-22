@@ -125,6 +125,31 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Accroche ou angle retenu : anecdote débuts landing pages — 30 appels en 2 mois, 0 client signé malgré bons patterns de closing, parce que les prospects n'étaient pas qualifiés/conscients en amont. La vraie compétence qui fait signer c'est le travail DM en amont, pas l'appel de closing
 - Notes : confirmation terrain forte du Système Vitrine (`SKILL_STRATEGIE.md` Partie 5) et de la distinction Obstacles/Objections (Partie 6) — rien à capturer de nouveau, mais bon matériau de post sur le mythe du "closer qui sauve tout"
 
+### Rattrapage #14 — Deux clés pour transformer un prospect en client
+- Format : vidéo
+- Accroche ou angle retenu : questions pour conscientiser la douleur + teasing de l'idéologie (pas de l'offre) en DM. Distinction offre (description factuelle) vs idéologie (conviction profonde) — parler offre braque, parler idéologie fait surenchérir
+- Notes : à combiner avec Rattrapage #16 (même thème) — bon candidat pour formaliser une mécanique de teasing dans `SKILL_SETTING_DM.md` si Matthias veut l'ajouter à sa méthode de setting
+
+### Rattrapage #15 — Question ouverte à l'audience sur ce qui marche vraiment
+- Format : vidéo (courte, probable hook d'engagement)
+- Accroche ou angle retenu : Matthias demande à son audience ce qui fonctionne vraiment sur LinkedIn (prospection/contenu/les deux), en rejetant les réponses vagues
+- Notes : pas de contenu doctrinal ici, probablement une accroche de post pour engagement/commentaires
+
+### Rattrapage #16 — Le déclin des lead magnets face au teasing d'idéologie en DM
+- Format : vidéo
+- Accroche ou angle retenu : les lead magnets (PDF/Notion) sont saturés et faits à l'IA, qualité en baisse. Meilleure approche : transposer valeur gratuite + teaser d'offre directement en conversation DM humaine (parler de son idéologie/convictions plutôt qu'envoyer un document), car ça engage la personne au lieu de la laisser seule face à un doc
+- Notes : même thème que #14 — recoupe aussi la logique manifeste ~10% des cas de `CLAUDE.md` (le manifeste = version "document" du teasing, à utiliser avec parcimonie face au DM direct)
+
+### Rattrapage #17 — Le "syndrome de l'imposteur" n'existe pas, c'est un problème de système
+- Format : vidéo
+- Accroche ou angle retenu : prise de position tranchée — la peur de perdre ses clients/d'augmenter ses tarifs n'est pas un "syndrome" mais la conséquence logique de n'avoir aucun système d'acquisition fiable (dépendance au bouche-à-oreille)
+- Notes : même message central que Rattrapage #6 (sérénité = système, pas volume) vu sous un angle différent — thème récurrent chez Matthias, candidat solide pour du contenu pilier/évergreen
+
+### Rattrapage #18 — "No pain no gain" et cultiver les bons problèmes
+- Format : vidéo
+- Accroche ou angle retenu : coup de gueule contre l'hypocrisie "il suffit d'être aligné" sur LinkedIn — trouver des clients seul est réellement dur, il faut se bouger, rien ne tombe du ciel. Deux pièges à éviter : forcer les heures sans deep work, et chercher indéfiniment le business parfaitement aligné
+- Notes : doublon thématique de Rattrapage #12 (bons problèmes), ton plus cash — confirme que c'est un message que Matthias tient à marteler sous plusieurs angles, bon signal de conviction forte
+
 ---
 
 *Document créé le 22 juillet 2026, dans le cadre de la nouvelle architecture à 4 pôles.*
