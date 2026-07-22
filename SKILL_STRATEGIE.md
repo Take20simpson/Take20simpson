@@ -216,6 +216,7 @@ Ne jamais dire "le prix". Toujours dire "l'investissement". Parce qu'il y a un r
 - Va sur comptes slowpreneurs/gros freelances (20+ likes par post)
 - Regarde dans les likes
 - Filtre selon criteres (moins de 1000 abonnes, poste regulierement, commente, belle banniere, promesse claire)
+- **Pivot du 22 juillet 2026 : voir `CLAUDE.md` Partie 2 (Cible ICP) pour le detail a jour.** Exclusion explicite des tout debutants (aucun client signe a ce jour) — priorite aux profils avec minimum 4-6 mois d'activite qui generent deja du CA (meme modeste/irregulier), ou bloques sur leurs tarifs, ou en recherche de clients plus qualitatifs. La duree d'activite seule ne suffit plus comme filtre, verifier aussi qu'il y a deja du CA reel.
 - Questions avant d'ajouter :
   1. "Si elle dit oui, je serais content de bosser avec elle 3 mois ?"
   2. "Elle a les 3 signaux ? (pain point + budget + urgence)"
@@ -256,6 +257,8 @@ Grille d'evaluation :
 - **Plus d'un an** = Tres mature (conscient du probleme, pret a agir)
 
 Plus c'est ancien, plus la douleur est profonde et plus la motivation d'achat est elevee. Maturite ≠ qualification. La maturite c'est la duree d'exposition au probleme. La qualification c'est la conscience du probleme.
+
+**Note du 22 juillet 2026 (pivot ICP) :** la duree d'activite seule ne suffit plus comme filtre d'entree. Voir `CLAUDE.md` Partie 2 — le critere ajoute est la generation deja effective de CA (meme modeste/irregulier), pas seulement le temps ecoule depuis le lancement.
 
 ### Contenu LinkedIn Strategique
 

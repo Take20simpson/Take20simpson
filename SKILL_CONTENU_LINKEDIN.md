@@ -23,7 +23,7 @@
 
 Matthias : 22 ans, Nice. Spécialiste acquisition client pour freelances et solopreneurs. Expert sur toute la chaîne : sourcing, setting DM, closing. Autodidacte complet, aucun diplôme, aucun mentor. Résultat concret de son accompagnement : les premiers appels qualifiés arrivent entre la semaine 2 et la semaine 3. À la fin de la semaine 3 : 2 à 3 appels. Après ça, ça ne fait qu'augmenter.
 
-Sa cible : freelances francophones (VA, copywriters, graphistes, coachs, consultants), majoritairement femmes, 3 à 9 mois d'expérience. Pain point principal : pas assez de clients, revenus instables, ne savent pas ce que va donner le mois prochain.
+Sa cible (pivot du 22 juillet 2026, voir `CLAUDE.md` Partie 2 pour le détail à jour) : freelances francophones (VA, copywriters, graphistes, coachs, consultants), majoritairement femmes, minimum 4-6 mois d'activité (jusqu'à 1-2 ans et plus) — jamais un débutant sans premier client. Ils génèrent déjà du chiffre d'affaires mais pas assez, ou n'arrivent pas à augmenter leurs tarifs malgré l'envie, ou veulent des clients plus qualitatifs. Pain point principal : plus "je n'ai aucun client", mais "je n'en ai pas assez, pas les bons, ou pas au bon prix" — l'inconsistance persiste malgré l'activité déjà lancée.
 
 Mission du module : transformer une idée brute, un vocal retranscrit ou un texte en vrac en post LinkedIn qui touche intellectuellement ET émotionnellement. Le lecteur doit finir le post en se disant "vu comme ça, c'est un game changer".
 
@@ -133,6 +133,7 @@ Ratio hebdomadaire cible : 40% Problem Aware / 40% Solution + Product Aware / 20
 - Angle 2 : La vraie raison du gratuit (éviter d'annoncer un prix).
 - Angle 3 : Le gratuit attire les mauvais profils.
 - Angle 4 : Commencer à 20-35 euros plutôt que 0 euro.
+- **Note du 22 juillet 2026 (pivot ICP) :** cet angle cible quelqu'un qui bosse gratuit AUJOURD'HUI pour se faire un nom — ce n'est plus la cible actuelle (freelances déjà 4-6 mois+ d'activité, déjà facturés). Reste utilisable uniquement en Personal Brand (PB-2, parcours/erreur passée racontée au passé, "voilà ce que j'ai appris"), jamais en Problem Aware où le lecteur est censé s'identifier à un problème qu'il vit là maintenant.
 
 **PA-4 - Volume sans intention.** Prospecter 50-100 profils/semaine en cochant des cases, se sentir productif sans résultats.
 - Angle 1 : 30 minutes bien utilisées > 3h sur un outil d'automatisation.
@@ -155,6 +156,7 @@ Ratio hebdomadaire cible : 40% Problem Aware / 40% Solution + Product Aware / 20
 - Angle 3 : Ne pas pouvoir se projeter (vacances, investissement).
 - Angle 4 : Le stress silencieux, sourire en surface, boule au ventre.
 - Angle 5 : "J'ai des clients" vs "je sais que j'en aurai le mois prochain".
+- **Note du 22 juillet 2026 (pivot ICP) :** la version "stress de survie" (est-ce que je vais payer mon loyer) correspond à un tout début d'activité, plus à la cible actuelle. Recentrer sur un stress de plateau — l'argent rentre, mais pas assez, ou pas au tarif qui correspond au travail réel fourni — plutôt qu'un stress de survie pure.
 
 **PA-8 - La légitimité brisée.** Douter de sa valeur parce que les clients ne viennent pas.
 - Angle 1 : "Peut-être que mon offre n'est pas bonne", le réflexe de tout remettre en question.
@@ -162,6 +164,16 @@ Ratio hebdomadaire cible : 40% Problem Aware / 40% Solution + Product Aware / 20
 - Angle 3 : Baisser ses tarifs alors que c'est la méthode qui est en cause.
 - Angle 4 : La confusion entre "personne ne veut de mon offre" et "je ne sais pas encore aller chercher mes clients".
 - Angle 5 : Le cercle vicieux : pas de clients -> doute -> encore moins d'action.
+
+**PA-9 - Le plafond tarifaire (ajouté 22 juillet 2026, pivot ICP).** Le freelance gagne déjà sa vie mais n'arrive pas à augmenter ses prix, malgré l'envie et parfois la légitimité (résultats clients, expérience accumulée). Blocage psychologique plus que technique.
+- Angle 1 : Le prix qu'on n'ose jamais annoncer, même en étant plein.
+- Angle 2 : Pourquoi la peur de perdre le client actuel bloque le tarif du prochain.
+- Angle 3 : Ce que "je vais perdre des clients si j'augmente" cache vraiment.
+
+**PA-10 - Le mauvais fit client (ajouté 22 juillet 2026, pivot ICP).** Le freelance a des clients, un CA correct, mais pas les bons — ceux qui prennent trop de temps, négocient tout, respectent pas le travail. Le problème n'est plus le volume, c'est le tri.
+- Angle 1 : Avoir des clients n'est pas le même problème que d'avoir les bons.
+- Angle 2 : Le client qui coûte plus cher en énergie qu'il ne rapporte en argent.
+- Angle 3 : Pourquoi dire non à un mauvais client attire les bons.
 
 ### Catalogue — Solution Aware
 
@@ -696,6 +708,9 @@ Exemple de fil (le ton conversationnel, court, joueur, cumulatif) : "ouah mais b
 ---
 
 ## HISTORIQUE DES ITÉRATIONS
+
+**22 juillet 2026 — Pivot ICP : exclusion des débutants (Module 1)**
+- Matthias ne veut plus cibler les freelances qui démarrent (pas de budget, pas d'urgence, engagement faible). Nouvelle cible : minimum 4-6 mois d'activité (jusqu'à 1-2 ans+), génère déjà du CA mais pas assez, ou bloqué sur ses tarifs, ou veut des clients plus qualitatifs. Source de vérité : `CLAUDE.md` Partie 2. Répercussions ici : paragraphe "Sa cible" resynchronisé, PA-3 (piège du gratuit) et PA-7 (stress financier) annotés comme inadaptés en Problem Aware sous leur forme actuelle (angles de début d'activité), deux nouveaux angles ajoutés (PA-9 plafond tarifaire, PA-10 mauvais fit client) directement dérivés des pain points donnés par Matthias. `SKILL_STRATEGIE.md` (sourcing, grille de maturité) mis à jour en miroir.
 
 **22 juillet 2026 — Corrections d'exécution sur la génération d'accroches (Module 1)**
 - Retour de Matthias sur une première salve de 8 accroches (thème "piège du gratuit") : 4 corrections capturées. (1) "Résultat" comme mot-pivot est un tell IA même hors la forme question déjà interdite ("Résultat ?") — élargi dans les Interdits absolus. (2) Négations mangées à répétition ("construit pas", "vaut rien" au lieu de "ne construit pas", "ne vaut rien") — erreur systématique signalée, ajout d'un point de vigilance explicite dans Ton & Voix (vérifier chaque négation une par une avant de livrer). (3) "book" utilisé comme mot vague/anglicisme que l'audience ne visualise pas instinctivement — ajouté en exemple dans la règle accroche 6. (4) Manque général de tranchant alors que le mécanisme clivant était pourtant identifié dans la section Patterns de performance — ajout d'un test d'exécution (l'accroche tiendrait-elle sur un ton neutre ? si oui, pas assez clivante).

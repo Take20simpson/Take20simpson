@@ -62,11 +62,13 @@ Alternative abordable aux coachings a 1500-3000 EUR.
 
 ### Cible (ICP)
 
-**Cible large, pas limitee aux assistantes virtuelles.** Freelances (tous secteurs), coachs, solopreneurs, petites agences (1-5 employes), France/francophones, 300-5000 connexions LinkedIn.
+**Pivot du 22 juillet 2026 : exclusion explicite des debutants.** Avant, la cible incluait les tout debuts d'activite (recherche des premiers clients). Matthias ne veut plus de ce profil : pas assez de budget, pas d'urgence reelle, engagement faible. Nouvelle regle : minimum 4-6 mois d'activite (jusqu'a 1-2 ans et plus), et surtout genere deja du chiffre d'affaires — meme modeste ou irregulier. Jamais un total debutant sans aucun client signe a ce jour.
 
-**Criteres :** actifs sur LinkedIn (postent 1x/semaine mini), profil soigne, commentent regulierement. Pas debutant complet, cree un minimum de contenu, a une offre deja definie.
+**Cible large sinon, pas limitee aux assistantes virtuelles.** Freelances (tous secteurs), coachs, solopreneurs, petites agences (1-5 employes), France/francophones, 300-5000 connexions LinkedIn.
 
-**Pain points frequents (par ordre) :** inconsistance de clients (feast or famine) → volume sans structure/intention → peur de vendre/facturer → deja accompagnes ailleurs sans resultats → dispersion strategique → mauvaise strategie pour leur contexte.
+**Criteres :** actifs sur LinkedIn (postent 1x/semaine mini), profil soigne, commentent regulierement, cree un minimum de contenu, a une offre deja definie. **Genere deja du CA (meme modeste/irregulier) — critere de filtre desormais aussi important que l'activite sur LinkedIn.**
+
+**Pain points frequents (par ordre, mis a jour 22 juillet 2026) :** inconsistance de clients malgre l'activite deja lancee (feast or famine) → volume sans structure/intention → tarifs bloques, n'arrive pas a augmenter ses prix malgre l'envie (blocage plus psychologique que technique) → clients pas assez qualitatifs, pas le bon profil → peur de vendre/facturer plus cher → deja accompagnes ailleurs sans resultats → dispersion strategique → mauvaise strategie pour leur contexte.
 
 ### Ressources Gratuites
 
