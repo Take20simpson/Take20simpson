@@ -572,6 +572,13 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Stats : signal précoce positif (pas mal de likes dans la première heure selon Matthias) — chiffres définitifs à mettre à jour dès qu'il revient avec.
 - Notes : premier post sur PA-9 (Le plafond tarifaire), thématique ajoutée au catalogue le 22 juillet suite au pivot ICP (exclusion des débutants, voir `CLAUDE.md`). Angle 1/3 utilisé — angle 2 (la peur de perdre le client actuel bloque le tarif du prochain) encore disponible pour un prochain post sans redite. Texte intégral et les 2 autres approches non retenues dans `ARCHIVE_CONTENU.md`.
 
+### 22/07/2026 — Le mauvais fit client (post proposé, pas encore publié)
+- Format : post
+- Accroche retenue : "J'ai un client qui payait bien et qui m'a coûté plus cher en stress que n'importe quel mois sans lui."
+- Mécanisme : storytelling avec retournement, ancré sur un vécu réel déjà validé (client webdesign qui réécrivait les sections puis se plaignait que ça ne convertissait pas, voir banque de vécu `SKILL_CONTENU_LINKEDIN.md` Module 2). Le lecteur s'attend à ce qu'un client qui paie bien soit un bon client, la chute révèle le coût en énergie. 3 approches livrées.
+- Stats : pas encore publié.
+- Notes : deuxième post généré via le module, angle PA-10 (Le mauvais fit client), Angle 1. Angle 2 (le client qui coûte plus cher en énergie qu'il ne rapporte en argent) encore disponible pour la suite sans redite.
+
 ---
 
 *Document créé le 22 juillet 2026, dans le cadre de la nouvelle architecture à 4 pôles.*
