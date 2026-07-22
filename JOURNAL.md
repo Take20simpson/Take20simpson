@@ -22,9 +22,12 @@
 ```
 ### [Date] — [thème/angle]
 - Format : post / commentaire classique / commentaire punch
-- Accroche ou angle retenu : [...]
-- Notes : [ce qui a marché, ce qui n'a pas marché, si connu]
+- Accroche : "[citation exacte du hook/de la première ligne]"
+- Mécanisme : [le ressort de copywriting/storytelling utilisé — pattern interrupt, vulnérabilité, contrarian take, chiffre choc, clivant, question/curiosité, etc. — et une lecture de pourquoi ça explique (ou pas) la performance]
+- Stats : [réactions, commentaires, impressions]
+- Notes : [comparaison avec d'autres posts si pertinent, ce qui reste à tester]
 ```
+*(Règle enrichie le 22 juillet 2026 — Matthias veut l'accroche citée + une analyse du mécanisme derrière chaque post, pas juste un angle en une ligne. Toujours pas de texte intégral ici, c'est le rôle d'`ARCHIVE_CONTENU.md`.)*
 
 Une entrée se met à jour en place (pas de duplication) quand une conversation avance — elle ne s'archive/se ferme que quand le fil est clos (closing, ghost définitif, disqualification).
 
@@ -159,73 +162,103 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 
 ### Rattrapage Posts #1 — Témoins de Jéhovah / appât
 - Format : post
-- Accroche ou angle retenu : storytelling choc (jeune fille envoyée comme appât par des Témoins de Jéhovah), inquiétude pour elle plutôt que colère contre la méthode, angle instrumentalisation
-- Stats : 1 réaction, 22 commentaires, 1 685 impressions — meilleur ratio commentaires/impressions du lot, format storytelling personnel fort qui sort du sujet business
+- Accroche : "Je crois que les Témoins de Jéhovah m'ont envoyé un appât sexuel à domicile. et le pire, c'est qu'elle avait à peine 18 ans… (ou pas d'ailleurs)"
+- Mécanisme : pattern interrupt total (accroche choc, zéro lien apparent avec le business) + structure "retour en arrière" qui crée une boucle ouverte tenue jusqu'à la chute + sujet polarisant (instrumentalisation, secte) qui pousse au débat en commentaire plus qu'au like rapide
+- Stats : 1 réaction, 22 commentaires, 1 685 impressions
+- Notes : meilleur ratio commentaires/impressions du lot avec #7 — les deux posts qui sortent le plus du sujet business/prospection pour aller sur du storytelling pur ou du clivant sont ceux qui performent le mieux
 
 ### Rattrapage Posts #2 — Le soir de doute, freelance
 - Format : post
-- Accroche ou angle retenu : storytelling vulnérabilité (23h, doute sur le choix du freelancing) → bascule sur "problème de méthode, pas de valeur" (pas de système pour aller chercher les clients)
+- Accroche : "Je me rappellerai toujours ce soir d'été, 23h, allongé dans mon lit, à me dire que j'avais peut-être fait une erreur en me lançant en freelance"
+- Mécanisme : vulnérabilité + scène sensorielle précise (heure, fenêtre entrouverte) pour incarner un doute universel, puis bascule vers un insight actionnable ("problème de méthode, pas de valeur")
 - Stats : 4 réactions, 2 commentaires, 144 impressions
+- Notes : bon mécanisme d'écriture mais engagement modeste — le sujet (doute intérieur) engage moins que le storytelling à rebondissement de #1 ou le clivant de #7
 
 ### Rattrapage Posts #3 — Question sur l'intérêt du guide prospection
 - Format : post (question ouverte, pas de sondage natif)
-- Accroche ou angle retenu : teste l'intérêt réel pour le guide gratuit avant de le pousser davantage
-- Stats : 1 réaction, 0 commentaire, 90 impressions — faible engagement, format question simple sans sondage moins efficace que la version sondage (#4)
+- Accroche : "Je comprends pas pourquoi mais vous êtes nombreux à me demander en privé mon guide sur la prospection, et c'est avec grand plaisir que je vous l'envoie."
+- Mécanisme : demande de feedback formulée en texte (répondre en commentaire) plutôt qu'en sondage — plus de friction pour l'audience (rédiger vs cliquer)
+- Stats : 1 réaction, 0 commentaire, 90 impressions
+- Notes : 0 commentaire confirme le mécanisme — sans sondage natif, une demande de feedback en texte ne convertit quasiment pas ; comparer directement à #4 (même question, format sondage)
 
 ### Rattrapage Posts #4 — Sondage intérêt guide prospection
 - Format : post (sondage LinkedIn natif)
-- Accroche ou angle retenu : même question que #3 mais en sondage natif — 100% "j'aimerais l'avoir" sur 7 votes
-- Stats : 3 réactions, 8 commentaires, 218 impressions — meilleur engagement que #3 sur la même question, le format sondage natif marche mieux que la question ouverte
+- Accroche : "Je reçois pas mal de demandes en DM pour mon guide gratuit sur la prospection, je voulais savoir si ça vous intéressiez vraiment ou si c'est juste comme ça par curiosité ?"
+- Mécanisme : même question que #3 mais en sondage natif — le vote 1-clic abaisse la friction d'engagement et LinkedIn pousse davantage les posts avec interaction rapide (sondages), ce qui explique la sur-performance
+- Stats : 3 réactions, 8 commentaires, 218 impressions (100% "j'aimerais l'avoir" sur 7 votes)
+- Notes : preuve empirique nette sur un test A/B involontaire — même sujet, +142% impressions et 8 commentaires (vs 0) juste en passant en sondage natif. À retenir : privilégier systématiquement le sondage natif pour toute question à l'audience
 
 ### Rattrapage Posts #5 — Le vrai métier du freelance
 - Format : post
-- Accroche ou angle retenu : liste rythmée de ce qui est vraiment dur en freelance (tenir le prix, la solitude, refuser un client toxique, tenir dans l'incompréhension) — "le reste, ça s'apprend"
+- Accroche : "Le plus dur en freelance, c'est pas de trouver des clients. C'est de continuer à y croire le mois où y'en a aucun."
+- Mécanisme : reformulation contre-intuitive ("c'est pas X, c'est Y") suivie d'une liste anaphorique ("c'est de...") qui martèle le rythme — technique classique pour créer un effet cumulatif d'identification
 - Stats : 3 réactions, 2 commentaires, 164 impressions
+- Notes : bonne structure mais engagement moyen — sujet plus générique/déjà-vu sur LinkedIn, sans storytelling personnel spécifique contrairement à #1/#2
 
 ### Rattrapage Posts #6 — 280 abonnés, réseau trié
 - Format : post
-- Accroche ou angle retenu : contre l'équation "plus d'abonnés = plus de clients" — trie ses connexions chaque semaine, préfère un petit réseau ciblé à un gros compte décoratif
+- Accroche : "J'ai 280 abonnés sur linkedin et assez de prospects entrants pour m'en foutre complètement du chiffre."
+- Mécanisme : chiffre choc contre-intuitif en ouverture (280 = très peu) + démontage d'une croyance répandue ("plus d'abonnés = plus de clients") + preuve chiffrée (170 connexions triées, 8000 fantômes, plafond 30 000)
 - Stats : 4 réactions, 2 commentaires, 182 impressions
+- Notes : bon mécanisme myth-busting mais engagement moyen — moins d'émotion/identification directe qu'un post storytelling ; le chiffre choc capte l'attention mais ne suffit pas seul à faire commenter
 
 ### Rattrapage Posts #7 — Le mec dans les commentaires qui a "tout faux"
 - Format : post
-- Accroche ou angle retenu : posture clivante face aux critiques systématiques (toujours un homme, jamais de contre-proposition) — assume de continuer les histoires vraies qui dérangent
-- Stats : 19 réactions, 34 commentaires, 1 485 impressions — un des meilleurs engagements du lot, format clivant/prise de position assumée qui performe fort
+- Accroche : "à chaque fois que je raconte un truc personnel et un peu cash sur linkedin, y'a un mec dans les commentaires pour m'expliquer que j'ai 'tout faux'."
+- Mécanisme : post clivant qui attaque un persona précis et reconnaissable (le contradicteur systématique), crée un camp "nous vs lui" qui pousse à réagir pour se ranger d'un côté, ajoute une couche de tension via le genre ("jamais une femme")
+- Stats : 19 réactions, 34 commentaires, 1 485 impressions
+- Notes : meilleur volume de commentaires du lot — confirme que le clivant/la prise de position assumée génère structurellement plus de commentaires qu'un conseil neutre, même à réactions ("likes") plus faibles
 
 ### Rattrapage Posts #8 — Syndrome de l'imposteur = manque de retours
 - Format : post
-- Accroche ou angle retenu : distingue "je ne suis pas légitime" (sentiment invérifiable) de "je n'ai aucun retour" (fait mesurable, cause = tu parles à personne) — la légitimité suit l'action, jamais l'inverse
+- Accroche : "Au début je croyais vraiment que je manquais de légitimité mais la vérité c'est que je montrais mon travail à personne."
+- Mécanisme : distinction conceptuelle en 2 points numérotés ("on confond souvent deux choses") + boucle causale en 3 étapes (le piège qui se referme) — structure pédagogique/actionnable
 - Stats : 6 réactions, 4 commentaires, 79 impressions
+- Notes : meilleur ratio réactions/impressions du lot (conversion forte sur peu de reach) mais impressions faibles — sujet peut-être trop traité ailleurs sur LinkedIn (syndrome de l'imposteur = terrain saturé) pour bien performer en reach
 
 ### Rattrapage Posts #9 — Sondage camp de l'été
 - Format : post (sondage natif, léger/engagement)
-- Accroche ou angle retenu : sondage humoristique sans lien business direct, pour varier le registre
+- Accroche : "VRAIE QUESTION — Vous allez faire partie de quel camp cet été ? (ne réponds pas la troisième c'est trop facile)"
+- Mécanisme : sondage humoristique sans lien business, permission ludique + facilité de vote — sert probablement à entretenir la relation avec l'audience plutôt qu'à driver du business direct
 - Stats : 4 commentaires, 148 impressions
+- Notes : pas de vraie leçon stratégique business ici, plutôt un post de respiration/proximité dans le calendrier
 
 ### Rattrapage Posts #10 — Stress et charge mentale plutôt que chiffre
 - Format : post
-- Accroche ou angle retenu : recadre l'objectif business — pas "plus d'argent" mais "moins de stress/charge mentale" ; description physique très concrète de l'angoisse financière (dimanche soir, 25 du mois, réveil à 5h)
+- Accroche : "Ton objectif ne devrait pas être d'avoir plus d'argent sur ton compte, mais de diminuer ton stress et ta charge mentale de 80%."
+- Mécanisme : reformulation contre-intuitive de l'objectif (même ressort que #5) + description sensorielle très précise de l'anxiété financière (dimanche soir, 25 du mois, réveil à 5h) pour créer une identification forte
 - Stats : 1 réaction, 2 commentaires, 70 impressions
+- Notes : pire performance du lot malgré une écriture soignée — signal possible que les posts longs/introspectifs sans liste ni sondage performent moins bien dans l'algo, ou redondance avec #2 (même thème du doute/de la nuit difficile) déjà traité juste avant
 
 ### Rattrapage Posts #11 — Syndrome de l'imposteur inversé
 - Format : post
-- Accroche ou angle retenu : concept inédit — attendre de se sentir légitime pour agir (au lieu d'agir pour devenir légitime) ; "le premier pas se fait toujours sans la confiance"
-- Stats : 5 réactions, 10 commentaires, 107 impressions — bon complément/suite du post #8 sur le même thème imposteur, angle différent (avant vs pendant l'action)
+- Accroche : "Tu connais le syndrome de l'imposteur inversé ? C'est attendre de te sentir légitime pour agir, alors que la légitimité vient en agissant."
+- Mécanisme : question hook + concept inventé/renversé ("syndrome inversé") qui crée de la curiosité par nouveauté, chute mémorable en miroir ("pas besoin de te sentir légitime pour agir, besoin d'agir pour te sentir légitime")
+- Stats : 5 réactions, 10 commentaires, 107 impressions
+- Notes : performe mieux que #8 sur le même thème général (imposteur) — le concept inventé/original capte davantage que la reformulation classique ; bon duo à retenir comme méthode (prendre un concept connu et en proposer un miroir/inversé)
 
 ### Rattrapage Posts #12 — Sondage prospects qualifiés par le contenu
 - Format : post (sondage natif)
-- Accroche ou angle retenu : mesure si l'audience track ses prospects qualifiés issus du contenu — 75% répondent 0 sur 4 votes (échantillon très faible)
-- Stats : 124 impressions, 4 votes seulement — échantillon trop petit pour tirer une vraie conclusion
+- Accroche : "Vous avez combien de nouveaux prospects qualifiés qui arrivent grâce à votre contenu ? (Par semaine)"
+- Mécanisme : sondage diagnostic déguisé en post — sert à collecter de la data sur l'audience (écho du principe "aller chercher la data" de `SKILL_STRATEGIE.md` Partie 5) plutôt qu'à générer de l'engagement pur
+- Stats : 124 impressions, 4 votes (75% répondent 0)
+- Notes : échantillon trop faible (4 votes) pour tirer un signal fiable — bonne intention de sondage diagnostic mais reach insuffisant pour être exploitable
 
 ### Rattrapage Posts #13 — Deux types d'accompagnement LinkedIn
 - Format : post
-- Accroche ou angle retenu : oppose script générique (accompagnement qui lâche après livraison) vs suivi réel (ajustement en direct sur les vraies conversations) — pitch indirect de l'offre de Matthias
+- Accroche : "Il y a deux types d'accompagnement Linkedin. Celui qui te donne les outils et te laisse te débrouiller. Et celui qui reste avec toi jusqu'au premier client"
+- Mécanisme : structure comparative en miroir (1/2/3 vs 1/2/3), pitch indirect de l'offre sans jamais nommer le prix — proche du Principe #7 de `SKILL_STRATEGIE.md` (vendre par le process, pas la promesse)
 - Stats : 4 réactions (dont Matthias lui-même), 91 impressions, 0 commentaire affiché
+- Notes : plus faible engagement des posts non-sondage du lot — confirme que les posts ouvertement commerciaux/structurés type "pitch d'offre" performent nettement moins que le storytelling ou le clivant (#1, #7)
 
 ### Rattrapage Posts #14 — Sondage fréquence de publication
 - Format : post (sondage natif)
-- Accroche ou angle retenu : mesure le rythme de publication de l'audience — 80% postent 1x/jour sur 10 votes, contraste avec le rythme de 4-5 posts/jour de Matthias (Rattrapage vidéo #3, #8)
-- Stats : 1 réaction, 4 commentaires, 141 impressions
+- Accroche : "Vous postez combien de fois par jour sur LinkedIn ?"
+- Mécanisme : sondage diagnostic simple pour mesurer où se situe l'audience par rapport à sa propre pratique de publication
+- Stats : 1 réaction, 4 commentaires, 141 impressions (80% répondent "1x/jour" sur 10 votes)
+- Notes : écart révélateur — 80% de l'audience poste 1x/jour, très loin du rythme de 4-5 posts/jour de Matthias (Rattrapage vidéo #3, #8) ; confirme que son rythme est un vrai différenciant, pas la norme
+
+> **Synthèse rapide sur ce lot de 14 posts (à discuter avec Matthias si utile) :** les 2 meilleurs posts en reach/engagement (#1, #7) sont du storytelling choc ou clivant, hors sujet business direct. Le seul post ouvertement commercial (#13) fait la pire performance hors sondages. Sur une même question testée en deux formats (#3 vs #4), le sondage natif écrase la question ouverte. Les posts sur le syndrome de l'imposteur (#8, #11) confirment qu'un concept retourné/original (#11) performe mieux qu'une reformulation classique (#8).
 
 ---
 
