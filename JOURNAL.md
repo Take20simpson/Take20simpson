@@ -58,7 +58,32 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 
 ## JOURNAL CONTENU
 
-*(Aucun post ni série de commentaires traité dans ce pôle pour l'instant — les premières entrées viendront au fil des sessions sur `SKILL_CONTENU_LINKEDIN.md`.)*
+> Rattrapage backlog vidéos en cours (22 juillet 2026) — dates réelles non fournies, numérotées par ordre chronologique d'envoi (`Rattrapage #N`, #1 = plus ancienne). Texte intégral dans `ARCHIVE_CONTENU.md`.
+
+### Rattrapage #1 — Productivité vs temps de travail
+- Format : vidéo
+- Accroche ou angle retenu : histoire vraie d'un client qui reportait ses actions chaque soir mais sans intensité (10 min au lieu de 30-60 min) → 0 résultat malgré la méthode fournie. Sert à justifier le suivi/accompagnement (pas que la stratégie qui compte)
+- Notes : matériau storytelling direct pour un post sur l'intention vs le volume creux ; connecté à la Croyance Centrale (SKILL_STRATEGIE Partie 2) et au Principe #4 (accompagnement, pas juste une méthode livrée seule)
+
+### Rattrapage #2 — L'action crée la clarté
+- Format : vidéo
+- Accroche ou angle retenu : contre l'idée qu'il faut réfléchir/chatGPT avant d'agir — la vraie clarté vient d'aller discuter avec sa cible (DM, visio) pas de la réflexion seule
+- Notes : renforce le Principe #3 et la logique sourcing/vitrine (Partie 5) ; anecdote perso réutilisable (visios "juste pour la data" au début)
+
+### Rattrapage #3 — Volume avec intention (posts/commentaires)
+- Format : vidéo
+- Accroche ou angle retenu : contre-pied des recommandations classiques ("1 post/jour, 5-10 commentaires") — Matthias fait 5 posts/jour (5 min chacun) et 30-40 commentaires/jour (2-3h), en insistant que ça ne sacrifie pas la qualité
+- Notes : tension potentielle à surveiller avec Principe #1 (ne jamais montrer le besoin — un volume aussi visible pourrait lire comme de la sur-sollicitation si mal exécuté) ; à challenger avec Matthias si l'occasion se présente plutôt qu'à trancher seul
+
+### Rattrapage #4 — Expérience vs compétence
+- Format : vidéo
+- Accroche ou angle retenu : la compétence se fait remplacer par l'IA à terme, l'expérience (capacité à décider) non — repositionne la vraie valeur de Matthias comme collaborateur/coach au-delà des frameworks IA qu'il livre
+- Notes : angle utile pour différencier l'offre accompagnement (2000 EUR) du framework seul (50 EUR, Partie 11 positionnement) — l'expérience justifie le suivi humain, pas juste l'outil
+
+### Rattrapage #5 — Discuter avec sa cible pour affiner l'offre
+- Format : vidéo
+- Accroche ou angle retenu : 90% des freelances ne font pas l'effort d'aller discuter avec leur cible (café visio, pas pour vendre) — l'offre se construit sur la data récoltée en conversation, pas en 5 échanges
+- Notes : illustre directement le Système Vitrine (Partie 5) et la logique diagnostic-avant-prescription (Principe #5) ; bon candidat pour un post sur la construction d'offre
 
 ---
 
