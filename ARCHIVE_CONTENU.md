@@ -432,6 +432,438 @@ Vous postez combien de fois par jour sur LinkedIn ?
 
 **Stats :** 1 réaction, 4 commentaires, 141 impressions.
 
+### [Rattrapage Posts #15] — post — Poster sur LinkedIn ne fonctionne plus (méta)
+Poster sur LinkedIn ne fonctionne plus. Voilà pourquoi….
+
+je vois passer ce genre de titre toutes les semaines.
+
+la semaine dernière c'était les posts. celle d'avant c'était la prospection en dm. avant ça, c'était les commentaires.
+
+chaque fois quelqu'un explique pourquoi la méthode est morte, dépassée, plus assez performante en 2026
+
+et chaque fois, dans les commentaires, des dizaines de personnes qui disent "ah bah du coup faut que je change ma stratégie".
+
+sauf que……
+
+j'ai vérifié un truc. les gens qui écrivent ces posts, ceux qui expliquent que telle méthode est finie…
+
+… ils ont tenu combien de temps dessus avant de l'abandonner ?
+
+3 semaines. 1 mois. le temps de voir que ça marchait pas assez vite à leur goût.
+
+personne n'a jamais construit quoi que ce soit en changeant de stratégie toutes les 3 semaines parce qu'un post lui a foutu la trouille de rater le prochain truc à la mode.
+
+la seule chose qui marche, c'est celle sur laquelle tu tiens assez longtemps pour voir si elle marche vraiment.
+
+peu importe si elle est oldschool. peu importe ce que dit le prochain post viral.
+
+Donc arrête de lire des titres accrocheurs et commence à tenir
+
+**Stats :** 5 réactions, 0 commentaire, 137 impressions.
+
+### [Rattrapage Posts #16] — post — Aller parler à 15-20 personnes de sa cible
+"vas parler à 15-20 personnes de ta cible. Sans objectif de vendre, juste comprendre leurs problèmes."
+
+c'est le conseil que j'ai donné à une freelance qui hésitait sur son offre.
+
+sa réponse : "ok jtente ça cette semaine mdr on verra bien"
+
+3 jours après, deuxième message.
+
+8 réponses sur 15. et 3 personnes qui lui ont raconté un problème qu'elle avait même pas identifié dans son offre de base.
+
+un truc autour du temps dans leur admin'
+
+elle l'aurait jamais eu, cette info, en réfléchissant seule dans son coin pendant 2 mois.
+
+Tu comprends maintenant pourquoi c'est tellement important d'aller au contact de sa cible
+
+**Stats :** 9 réactions, 10 commentaires, 243 impressions.
+
+### [Rattrapage Posts #17] — post — Les prospects proposent l'appel eux-mêmes
+Quelqu'un peut m'expliquer pourquoi ce sont mes prospects qui me proposent l'appel, et pas l'inverse ?
+
+Blague appart… j'ai supprimé un réflexe de mes conversations : demander.
+
+je qualifie toujours mon prospect, mais différemment….
+
+--> pas de question qui pousse dans ses retranchements
+--> pas d'urgence artificielle, pas de "tu vas rater un truc"
+--> de la délicatesse dans le flow, jamais un interrogatoire
+
+du coup la conversation ne ressemble plus à de la prospection. elle ressemble à une vraie discussion.
+
+et à un moment, le prospect revient de lui-même. il demande des précisions sur mon offre.
+
+c'est là qu'on cale l'appel. jamais avant.
+
+toutes ces méthodes qui misent sur la peur de rater un truc, la frustration, la pression. moi je fais l'inverse
+
+et ça marche largeeeeeee mieux.
+
+**Stats :** 3 réactions, 3 commentaires, 83 impressions.
+
+### [Rattrapage Posts #18] — post — Arrêter de vouloir plaire à tout le monde en DM
+J'ai arrêté de vouloir plaire à tout le monde en DM. Tout simplement parce que les gens ne me répondaient pas.
+
+Si aujourd'hui ta prospection est foireuse, c'est très probablement parce que tu essayes d'être trop lisse, trop gentil, d'avoir la formule parfaite ou je ne sais quoi.
+
+En réalité ce que je fais c'est très simple....
+
+Je suis moi-même, si j'ai un truc à dire je le dis. (Souvent avec humour d'ailleurs) Mais je le dis.
+
+Parce que des gens qui m'expliquent leur stratégie et qui sont complètement à côté de la plaque, j'en vois au moins 3 par jour
+
+Donc franchement je préfère largement être moi-même plutôt que de jouer un rôle, et d'être gentil avec la personne, d'aller dans son sens, et de me faire aimer bêtement.
+
+Parce qu'à un moment donné la personne le ressent, et ça fait foirer une collaboration.
+
+D'ailleurs dans les relations sociales c'est exactement la même chose. Quand tu essayes de plaire à tout le monde, tout le monde t'évite.
+
+Quand tu es toi-même, tu attires les gens qui te correspondent et qui sont dans ton délire. Elle est là, la vraie diff
+
+Donc il ne faut pas changer parce que LinkedIn est un réseau social. Absolument pas.
+
+Plus tu seras toi-même, que ce soit dans ton contenu, que ce soit dans ta prospection, plus les gens s'attacheront à toi
+
+ceux qui ne sont pas d'accord avec moi, venez en commentaire.
+
+**Stats :** 5 réactions, 2 commentaires, 102 impressions.
+
+### [Rattrapage Posts #19] — post — Un seul conseil pour les posts : sois précis
+Vous ne m'entendrez donner qu'un seul conseil pour vos posts LinkedIn, le voici...
+
+Sois précis, c'est tout.
+
+la différence entre un post qui marche et un post qu'on scroll, c'est jamais le sujet, c'est le niveau de détail….
+
+deux exemples précis :
+
+- "j'en ai marre qu'on me pose des lapins en visio" —> personne ne s'arrête. trop vague, ça pourrait être n'importe qui.
+
+- "un prospect m'a lâché à 5 minutes du call. il revient au deuxième rendez-vous, 7 minutes de retard, sans un mot d'excuse." —> là tu vois la scène. tu la reconnais peut-être.
+
+même chose sur un problème de ta cible :
+
+- "les PME galèrent avec l'administratif." —> c'est plat, tout le monde le sait déjà.
+
+- "un prospect m'a dit la semaine dernière que l'administratif lui prenait plus de 2h par jour." —> précis, chiffré, ça crédibilise direct tes propos
+
+D'ailleurs, quand tu parles avec quelqu'un d'un sujet intéressant, tu ne lui dis jamais…. « les gens manque de respect aux autres…. »
+
+Au contraire, tu lui dis plutôt « hier il y a Stéphane qui m'a manqué de respect en m'insultant…. »
+
+Tu comprends l'impact et la différence ?
+
+**Stats :** 3 réactions, 0 commentaire, 123 impressions.
+
+### [Rattrapage Posts #20] — post — La famille qui pense qu'il est "sur son téléphone"
+Ma famille pense encore que je suis "sur mon téléphone toute la journée".
+
+je l'ai entendue, cette phrase, tellement de fois que j'ai arrêté de la relever.
+
+Au début j'essayais de corriger. j'expliquais LinkedIn, la prospection avec intention. je voyais les yeux qui décrochaient au bout de deux phrases.
+
+Et puis j'ai compris une chose…
+
+- c'est pas un manque d'intérêt de leur part
+- c'est un métier qui parle une langue qu'ils ont jamais apprise
+- et moi j'ai plus l'énergie de traduire 5 ans de travail à chaque repas de famille
+
+je trouve que ce qui isole le plus dans ce métier, c'est pas forcément les mois sans client mais plutôt…
+
+…de rentrer chez des gens qui t'aiment et de sentir que ce que tu construis reste invisible pour eux, même quand ça marche vraiment.
+
+Pour finir j'ai arrêté de chercher à être compris à chaque repas. je préfère large qu'ils voient les résultats plutôt que d'entendre les mots
+
+**Stats :** 7 réactions, 14 commentaires, 176 impressions.
+
+### [Rattrapage Posts #21] — post — Problème de méthode vs problème de valeur
+Y'a une différence énorme entre "personne ne veut de mon offre" et "je sais pas encore aller chercher mes clients". Ne te trompe pas de combat..
+
+J'ai vu ça un nombre incalculable de fois… un freelance hyper compétent, un mois calme, et direct le doute qui prend toute la place
+
+"mon offre doit pas être bonne."
+
+Sauf qu'en creusant, c'est presque jamais l'offre le problème, c'est un des trois trucs suivants :
+
+- pas assez de personnes qualifiées contactées
+- des messages trop génériques pour créer une vraie conversation
+- aucune régularité, 3 semaines actives puis 3 semaines moyennes
+
+Ces trois problèmes sont des problèmes de méthode, absssooollument pas des problèmes de valeur
+
+et la différence elle est énorme, parce que le problème de méthode se règle avec un ajustement concret.
+
+Tandis que le problème de valeur te pousse à douter de toi à chaque appel, à chaque post, à chaque prix annoncé, etc….
+
+Donc avant de remettre en cause ce que tu proposes, regarde d'abord comment actuellement tu vas les chercher ces clients.
+
+**Stats :** 3 réactions, 0 commentaire, 92 impressions.
+
+### [Rattrapage Posts #22] — post — Posts généralistes sans émotion
+En ce moment il y a un truc qui me saoule sur LinkedIn, c'est les posts généralistes qui n'ont aucune émotion.
+
+Et qu'est-ce que j'en vois à la pelle, c'est fouuuu.
+
+Ce que j'appelle un post généraliste, sans émotion, c'est un post qui se contente de décrire une situation sans donner aucun exemple ni storytelling.
+
+Tu sais, ce post qui se contente de décrire une situation et hop, c'est fini.
+
+Alors que c'est si simple de prendre une expérience perso et de la raconter. Typiquement, au lieu de dire...
+
+Les freelances ont souvent un problème de prospection.
+
+Pourquoi ne pas tout simplement raconter....
+
+Hier j'ai discuté avec un freelance qui m'a expliqué exactement pourquoi prospecter était un vrai calvaire pour lui.
+
+... Et là, évidemment, tu commences à détailler pourquoi la prospection est si difficile pour la plupart des gens blablabla....
+
+Ça fait plaisir de voir ce genre de post, parce qu'on se connecte, il y a une émotion derrière. C'est beaucoup plus représentatif, on se reconnaît à travers l'histoire.
+
+Alors que si je vois un post qui me dit juste "la prospection est difficile pour les freelances", qu'est-ce que j'en ai à faire ? Il n'y a aucune émotion.
+
+Vous en pensez quoi d'ailleurs ?
+
+**Stats :** 9 réactions, 2 commentaires, 375 impressions.
+
+### [Rattrapage Posts #23] — post — Les posts faits avec Claude/ChatGPT, méthode réelle
+Les gens qui font leur post LinkedIn avec Claude ou ChatGPT, je vous hais 😩
+
+Non, en vrai, je vous comprends. Mais ça m'énerve quand même.
+
+Parce que moi aussi, il y a quelques mois, j'avais testé plusieurs posts avec de l'IA. Et évidemment, les résultats étaient exécrables.
+
+J'avais beau lui donner un bon prompt ou je ne sais quoi, le résultat était toujours robotique et anti-émotionnel.
+
+Maintenant j'aimerais vous prouver que vous pouvez produire des posts largement plus qualitatifs qu'avec l'IA, sans passer plus de temps ni plus d'efforts.
+
+C'est exactement la stratégie que j'utilise pour faire ce post que vous lisez.
+
+1. Je réfléchis à une idée de post dans ma tête, et puis avec ma dictée vocale, je balance tout ce qui me vient par la tête.
+
+2. Ensuite, je relis une fois. Je corrige les formulations. Mais je ne corrige pas tout de suite les fautes d'orthographe, les fautes de syntaxe et la clarté de mes propos.
+
+3. C'est une fois que j'ai fait ça que je donne à Claude, en lui disant très simplement : "Ne modifie rien de ce que j'ai dit, ni les tournures de phrases, etc. Juste donne-moi les éléments qui ne sont pas clairs et qui devraient être modifiés."
+
+Et c'est uniquement suite à ça que je finalise mon post.
+
+Donc pour être clair, premièrement vous réfléchissez à un sujet. Deuxièmement vous le mettez à l'écrit avec une note vocale (c'est bien plus simple qu'avec un clavier)
+
+Troisièmement, vous utilisez l'IA non pas pour faire à votre place, mais pour rendre vos mots plus compréhensibles et plus clairs pour tout le monde.
+
+Et là vous allez avoir des résultats.
+
+Et oui, c'est pas plus compliqué que ça. Ca me prend maximum 10/15 min par poste, pas plus.
+
+Dis moi en commentaire ce que tu fais actuellement d'ailleurs....
+
+**Stats :** 7 réactions, 8 commentaires, 215 impressions.
+
+### [Rattrapage Posts #24] — post — Sondage vidéos scriptées
+Vous en pensez quoi des vidéos scriptées sur LinkedIn ?
+
+Moi personnellement j'ai du mal même quand c'est bien fait.
+
+Parce que justement ça enlève tout le côté improvisation et humain.
+
+J'en ai vu plein des vidéos où la personne s'habille bien, et ou il y a deux angles de caméras, etc....
+
+Mais bon, je sais pas, j'arrive pas à m'y faire.
+
+**Sondage : "Qu'est-ce que vous pensez des vidéos scriptées sur LinkedIn ?"**
+- Je suis réfractaire — 20%
+- Quand c'est bien fait ça passe — 80%
+5 votes • Sondage fermé
+
+**Stats :** 2 réactions, 11 commentaires, 209 impressions.
+
+### [Rattrapage Posts #25] — post — Les idées de contenu viennent de la présence active sur LinkedIn
+Tout le monde cherche des idées de contenu pour ses posts LinkedIn, mais étonnamment 50% vient de ma simple présence sur linkedin
+
+Je traîne sur LinkedIn environ 2h tous les matins. Et le fait d'écrire un post me donne une idée pour un autre post.
+
+Le fait de voir le post de quelqu'un d'autre me donne aussi une idée, pas forcément sur le même sujet, mais sur une réflexion qui m'est propre.
+
+je pense qu'il faut être proactif sur LinkedIn. La plupart des gens le font passivement : ils lisent un post, ils scrollent, et puis plus rien.
+
+... Alors qu'il faut lire en étant actif, se dire "tiens, ça me fait penser à un sujet que je pourrais aborder".
+
+C'est comme ça que tu trouves des idées de contenu qui correspondent vraiment à ta cible et qui la touchent.
+
+L'autre partie qui m'inspire dans mon contenu, ce sont mes expériences personnelles, avec des prospects ou avec des gens avec qui je discute.
+
+Globalement ça vient toujours d'interactions, toujours, toujours, toujours.
+
+**Stats :** 3 réactions, 2 commentaires, 96 impressions.
+
+### [Rattrapage Posts #26] — post — Le mec qui niait ses commentaires IA
+Il y a 5 mois, un mec n'arrêtait pas de commenter tous mes posts avec de l'IA éclatée au sol, qui se voyait à 3000 km. J'en ai eu marre et j'ai fini par lui dire...
+
+Je n'ai pas retrouvé les conversations malheureusement, mais je lui avais dit poliment d'arrêter de commenter mes posts avec des commentaires ChatGPT qui se voyaient de manière extrêmement flagrante.
+
+Et le gars me répond... "pourquoi tu me dis ça ? Je n'utilise pas l'IA".
+
+Du coup je suis allé revoir ses commentaires et je me suis dit non, c'est pas possible. Il avait commenté plus de 7 posts que j'avais faits sur les 7 derniers jours. Ses commentaires étaient une catastrophe ambulante. Qu'est-ce qu'il venait me raconter ?
+
+Du coup, poliment (encore), je lui réponds en lui mettant un screen de son commentaire, que si ça c'est pas de l'IA, je sais pas ce que c'est.
+
+Et le mec continue de nier.
+
+Là j'en reviens pas, je me dis mais comment c'est possible de ne pas se remettre en question à ce point-là et d'être aussi buté.
+
+Bref, on échange pendant une dizaine de messages. Je finis par lui dire OK au revoir, tu fais ce que tu veux, mais arrête juste de mettre des commentaires comme ça sous mes posts.
+
+Et le mec se justifie encore et encore, en me soutenant que ce n'est pas de l'IA. (Moi qui voulais mettre fin au débat, lui continue.)
+
+Du coup je l'ai bloqué, et heureusement il n'a plus commenté mes posts.
+
+Mais franchement je trouve quand même ça dingue de devoir se battre parce que quelqu'un salit ton espace commentaire :(
+
+**Stats :** 5 réactions, 6 commentaires, 132 impressions.
+
+### [Rattrapage Posts #27] — post — LinkedIn n'est pas hypocrite (pour les vrais créateurs)
+Beaucoup de personnes disent que sur LinkedIn tout le monde est hypocrite… moi je suis pas du tout d'accord… ☹️
+
+Y en a même qui disent que les commentaires IA ne sont pas du tout problématiques, parce que dans tous les cas LinkedIn est un réseau de surface, peu pertinent.
+
+Et j'ai compris pourquoi ces gens-là sortaient des aberrations pareilles.
+
+Quand ça fait quelques mois que tu es sur LinkedIn, et que tu regardes un peu à droite à gauche, oui certains sont hypocrites, certains lissent leur image, etc etc…..
+
+Mais quand tu es sur ce réseau depuis plusieurs années, tu connais les VRAIS créateurs, tu développes des affinités avec certains, tu commences à comprendre le vrai visage des gens.
+
+Et oui, comme partout, il y aura toujours des gens qui feront "genre".
+
+Oui, y aura toujours des gens qui essaieront de trouver des raccourcis comme Claude ou ChatGPT.
+
+Mais quand tu commences à faire partie de ceux qui sont réellement sincères, bizarrement, tu ne vois plus LinkedIn comme un décor de cinéma, joli de face et vide derrière.
+
+En terme d'hypocrisie a choisi entre Insta TikTok et LinkedIn je pense qu'il n'y a pas trop photo 😉
+
+C'est quoi votre avis là-dessus ?
+
+**Stats :** 7 réactions, 10 commentaires, 327 impressions.
+
+### [Rattrapage Posts #28] — post — Faire l'exact opposé de la facilité
+Les gens se dirigent TOUJOURS vers la facilité. Donc si tu vois une tendance, tu dois faire l'exact opposé. Ca c'est le meilleur conseil que j'ai à te donner aujourd'hui...
+
+En ce moment la grande mode (parce que c'est très simple à faire), c'est de créer du contenu LinkedIn, posts ou visuels, avec ChatGPT ou Claude.
+
+Tout le monde le fait, c'est simple, c'est facile, et on pense que ça marche.
+
+Derrière, c'est bien plus vicieux. Les gens se rendent compte que c'est de l'IA, ils te font de moins en moins confiance, et ils te décrédibilisent petit à petit.
+
+Ducoup le jour où tu sors un post vraiment pertinent écrit par toi-même, les gens ne te font plus confiance.
+
+Donc quand quelqu'un te vante une stratégie facile, méfie-toi grandement.
+
+Parce que si c'est facile, soit tout le monde est déjà en train de le faire, soit tout le monde va bientôt le faire en masse.
+
+Si maintenant on prend l'opposé, faire une vidéo sur LinkedIn authentique, face cam, 98% des gens sur LinkedIn ne le font pas. Parce que ça demande du temps, de l'énergie, être à l'aise, parfois du montage etc....
+
+...Donc les gens ne le font pas.
+
+Et bien c'est justement sur ça qu'il faut capitaliser.
+
+Prends les choses que les gens n'aiment pas faire, et fais-les (bien évidemment)
+
+D'ailleurs, petite astuce : ce qui paraît insurmontable au début, comme le format vidéo sur LinkedIn, ça arrête d'être insurmontable et difficile dès que tu prends l'habitude. Ça devient même un jeu.😁
+
+Donc la réalité, c'est que les gens se font une montagne des choses, mais derrière c'est pas si catastrophique et chiant à faire que ça.
+
+**Stats :** 5 réactions, 4 commentaires, 105 impressions.
+
+### [Rattrapage Posts #29] — post — Marre du débat sur l'IA
+J'en ai marre de ce débat autour de l'IA.
+Les gens qui s'y connaissent disent que ce n'est pas l'IA le problème, mais la façon dont on l'utilise.
+
+Oui, je suis d'accord. Mais même si demain Claude ou ChatGPT était capable de faire n'importe quoi exactement comme un humain, je trouve que ce serait vraiment pas bon.
+
+Même si Claude était capable de faire les meilleurs commentaires du monde, les meilleurs posts LinkedIn du monde, je suis désolé, mais je trouve que c'est quelque chose qu'on doit laisser aux humains.
+
+L'IA c'est très bien pour automatiser pas mal de choses. Mais vouloir toujours pousser le bouchon plus loin, à un moment donné ça commence à énerver les gens, et on perd tout le sens de la chose.
+
+C'est ça qui est énervé, les gens et moi également.
+
+Je pense que la vraie question à se poser, c'est…
+
+Est-ce que l'ia devrait être présente dans 100% des domaines de l'humain ?
+
+Désolé, mais pour moi ce sera un grand NON
+
+**Stats :** 9 réactions, 9 commentaires, 328 impressions.
+
+### [Rattrapage Posts #30] — post — LinkedIn, meilleur réseau social
+LinkedIn est officiellement le meilleur réseau social… Oui oui c'est moi qui l'affirme !!!
+
+Tous ceux qui sont pas d'accord avec moi, je vous incite à aller revoir ce qui se passe vraiment sur Instagram TikTok, etc.
+
+Et on s'en reparle après 😉
+
+**Stats :** 3 réactions, 4 commentaires, 145 impressions.
+
+### [Rattrapage Posts #31] — post — Sondage temps passé pour trouver des clients
+Pour de vrai 👇
+Vous passez combien de temps par jour pour essayer d'avoir des clients sur LinkedIn
+
+**Sondage :**
+- Rien, ça vient tout seul ! — 19%
+- Moins d'1h par jour — 25%
+- Entre 1h et 2h par jour — 38%
+- + de 2h par jour — 19%
+16 votes • Sondage fermé
+
+**Stats :** 2 réactions, 5 commentaires, 216 impressions.
+
+### [Rattrapage Posts #32] — post — Sondage métier de l'audience
+👇
+Que faites-vous dans la vie ?
+
+**Sondage :**
+- Assistant(e) virtuelle — 31%
+- Copywriter — 8%
+- Designer — 0%
+- Site web — 15%
+- Autre chose ? 👇 — 46%
+13 votes • Sondage fermé
+
+**Stats :** 1 réaction, 4 commentaires, 152 impressions.
+
+### [Rattrapage Posts #33] — post — Les relances faussement sincères
+Moi ça m'énerve ce genre de relance, faussement sincère…
+
+Je sais pas comment vous réagissez à ça vous, mais ça se voit direct quand la personne fait genre d'être gentille, et tu sais très bien que derrière l'objectif est juste de te vendre quelque chose.
+
+Des messages comme ça j'en reçois à peu près trois par semaine
+
+Breffffffffff
+
+**Stats :** 3 réactions, 11 commentaires, 419 impressions.
+
+### [Rattrapage Posts #34] — post — Bloqué par LinkedIn (considéré comme un robot)
+Bon bah ça y est, LinkedIn me considère comme un robot, et c'est pas la première fois.
+
+Vas-y que je fais 30 commentaires vraiment pertinent aujourd'hui et vas-y qu'on me bloque
+
+Merci LinkedIn, vraiment merci vous m'aidez bien, surtout quand une grande partie de ma stratégie dépend des commentaires
+
+**Stats :** 4 réactions, 15 commentaires, 441 impressions.
+
+### [Rattrapage Posts #35] — post — Sondage stress avant appel de vente
+👇
+À quel point vous êtes stressés avant un appel de vente avec un prospect ?
+
+**Sondage :**
+- Je suis très stressé — 29%
+- Ça va, mais je suis stressé — 43%
+- A peine, casi rien — 14%
+- Je ne stresse jamais — 14%
+7 votes • Sondage fermé
+
+**Stats :** 1 réaction, 0 commentaire, 113 impressions.
+
 ---
 
 *Document créé le 22 juillet 2026, en complément de `JOURNAL.md`, à la demande de Matthias (besoin d'une sauvegarde du contenu, posts et vidéos, plus détaillée que le résumé du journal, sans dupliquer les transcriptions mot pour mot).*
