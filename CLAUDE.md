@@ -133,14 +133,16 @@ Réflexes obligatoires à chaque conversation collée, sans que je le redemande 
 [Conversation collée ci-dessous]
 ```
 
-**Contenu LinkedIn (posts / commentaires) :**
+**Commentaires LinkedIn (pas de posts pour le moment, voir note) :**
 ```
-On continue le contenu LinkedIn de Matthias.
-LECTURE OBLIGATOIRE en entier : SKILL_CONTENU_LINKEDIN.md. CLAUDE.md déjà chargé.
-Réflexes obligatoires à chaque post ou transcription vidéo (export captions VEED) collé, sans que je le redemande : produis ce qui est demandé (post / commentaire classique / commentaire punch) ; archive le texte brut intégral dans ARCHIVE_CONTENU.md ; crée une entrée dans JOURNAL.md (Journal Contenu) ; commit + push branche session puis sync branche par défaut.
+On continue les commentaires LinkedIn de Matthias (pas de rédaction de posts pour le moment).
+LECTURE OBLIGATOIRE en entier : SKILL_CONTENU_LINKEDIN.md, Module 2 (Classique) et Module 3 (Punch) uniquement. CLAUDE.md déjà chargé.
+Module par défaut : Punch (6 options fixes : Humour, Storytelling, Humour poussé, Insight, Clivant, Percutant, chacune en bloc code + question de fin) sauf si je précise "classique" (warming, 4-6 registres selon le post).
+Réflexes obligatoires à chaque post collé pour commentaire, sans que je le redemande : produis les propositions ; si je signale un problème sur une proposition, corrige directement le Module concerné dans SKILL_CONTENU_LINKEDIN.md (même logique d'itération que le setting DM) ; archive le post source + les propositions retenues dans ARCHIVE_CONTENU.md ; crée une entrée dans JOURNAL.md (Journal Contenu) ; commit + push branche session puis sync branche par défaut.
 
-[Module : post / commentaire classique / commentaire punch]
-[Contenu collé ci-dessous]
+Note : Module 1 (Posts) reste dans le document mais hors périmètre tant que je ne demande pas explicitement de rédiger un post.
+
+[Post à commenter, avec nom + headline de l'auteur, collé ci-dessous]
 ```
 
 **Stratégie business :**
