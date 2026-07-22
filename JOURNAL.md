@@ -1,6 +1,8 @@
 # JOURNAL — Prospection & Contenu
 
 > Pôle 4. Mémoire scannable des conversations de prospection traitées et des contenus produits. Pas les transcripts mot pour mot — un résumé compact par prospect/post, mis à jour à chaque fois qu'on retraite la conversation ou qu'on produit du contenu. C'est la donnée brute que le Pôle 1 (`SKILL_STRATEGIE.md`) utilise pour donner du feedback macro.
+>
+> **Depuis le 22 juillet 2026 :** la matière brute complète (transcripts DM nettoyés, textes de posts, transcriptions vidéo) est archivée séparément dans `ARCHIVE_CONVERSATIONS.md` et `ARCHIVE_CONTENU.md` — ce fichier-ci reste le résumé, ne duplique jamais le brut.
 
 ---
 

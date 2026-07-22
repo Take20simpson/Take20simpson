@@ -100,7 +100,7 @@ Auto-entrepreneur, paiement par virement bancaire. Pas de site web, pas de Calen
 | 1 | **Conseiller Stratégie** | `SKILL_STRATEGIE.md` | Le pôle le plus important. Vision macro + micro, doctrine (croyance centrale, philosophie, closing, KPIs, objectifs), et surtout comment Claude doit se comporter comme collaborateur. Ne fait ni setting, ni contenu, ni journal — il s'appuie sur eux. |
 | 2 | **Setting (prospection DM)** | `SKILL_SETTING_DM.md` + `TEASING_METHODE_DM.md` | Moteur de décision en temps réel pour répondre aux messages de prospects LinkedIn. |
 | 3 | **Contenu LinkedIn** | `SKILL_CONTENU_LINKEDIN.md` | Génération de posts, commentaires classiques et commentaires punch. |
-| 4 | **Journaux** | `JOURNAL.md` | Mémoire compacte : conversations de prospection traitées + contenus produits. Sert de matière première au Pôle 1. |
+| 4 | **Journaux** | `JOURNAL.md` (résumé) + `ARCHIVE_CONVERSATIONS.md` + `ARCHIVE_CONTENU.md` (bruts) | `JOURNAL.md` = mémoire compacte (statut, patterns, prochaine étape) par prospect/contenu. Les deux `ARCHIVE_*` = matière brute complète et jamais résumée (transcripts DM nettoyés, textes de posts, transcriptions vidéo) — alimentée automatiquement à chaque conversation/post/vidéo traité via `SKILL_SETTING_DM.md` ou `SKILL_CONTENU_LINKEDIN.md`, sans que Matthias ait à le redemander. Sert de matière première au Pôle 1. |
 
 ### Règle d'exclusion (stricte)
 
@@ -118,6 +118,40 @@ Si une tâche semble en avoir besoin, le dire à Matthias plutôt que d'aller y 
 2. Identifier le pôle concerné par la demande (stratégie / setting DM / contenu / journal) et lire le(s) document(s) correspondant(s) en entier
 3. Ne jamais se fier à une connaissance antérieure sur le contenu de ces documents — ils évoluent en continu, toujours relire la version actuelle
 4. Appliquer le réflexe de capture continue (Partie 4) dès qu'une nuance est validée par Matthias
+
+### Prompts de démarrage figés (par pôle)
+
+> Ajouté le 22 juillet 2026. Objectif : Matthias n'a plus à réexpliquer le contexte à chaque nouvelle conversation — il colle le bloc du pôle concerné, puis sa matière (conversation/post/vidéo/sujet). À faire évoluer ici si un bloc se révèle incomplet à l'usage.
+
+**Setting DM :**
+```
+On continue le setting DM de Matthias.
+LECTURE OBLIGATOIRE en entier (pas de connaissance antérieure) : SKILL_SETTING_DM.md + TEASING_METHODE_DM.md. CLAUDE.md est déjà chargé automatiquement.
+Réflexes obligatoires à chaque conversation collée, sans que je le redemande : génère la proposition de réponse (ELAN + REPONSE DM) ; archive les nouveaux messages dans ARCHIVE_CONVERSATIONS.md (nettoyés, jamais de duplication) ; crée/mets à jour l'entrée du prospect dans JOURNAL.md ; commit + push sur la branche de session en cours puis vérifie/synchronise la branche par défaut.
+
+[Prospect : Prénom Nom]
+[Conversation collée ci-dessous]
+```
+
+**Contenu LinkedIn (posts / commentaires) :**
+```
+On continue le contenu LinkedIn de Matthias.
+LECTURE OBLIGATOIRE en entier : SKILL_CONTENU_LINKEDIN.md. CLAUDE.md déjà chargé.
+Réflexes obligatoires à chaque post ou transcription vidéo (export captions VEED) collé, sans que je le redemande : produis ce qui est demandé (post / commentaire classique / commentaire punch) ; archive le texte brut intégral dans ARCHIVE_CONTENU.md ; crée une entrée dans JOURNAL.md (Journal Contenu) ; commit + push branche session puis sync branche par défaut.
+
+[Module : post / commentaire classique / commentaire punch]
+[Contenu collé ci-dessous]
+```
+
+**Stratégie business :**
+```
+On continue le travail sur la stratégie business de Matthias, pôle Conseiller Stratégie.
+LECTURE OBLIGATOIRE en entier (pas de connaissance antérieure) : SKILL_STRATEGIE.md. CLAUDE.md déjà chargé.
+Rôle de Claude ici : collaborateur, pas assistant qui exécute — réfléchir, challenger, être proactif, franchise 50/50, jamais acquiescer bêtement.
+Réflexe de capture obligatoire, dans le même tour dès qu'une décision/nuance se dégage : pivot de doctrine (positionnement, philosophie, closing, KPIs, posture attendue) → SKILL_STRATEGIE.md ; pivot de snapshot business (prix, offre, ICP) → CLAUDE.md. Puis commit + push branche session + sync branche par défaut.
+
+[Sujet du jour, ou ouvert si pas encore défini]
+```
 
 ---
 
