@@ -44,6 +44,13 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Prochaine étape probable : suivre le nouveau fil qu'elle a ouvert elle-même (concurrence/différenciation/"n'importe quoi" chez ses concurrents) plutôt que d'insister sur la question de planification qui n'a pas pris — creuser ce que "n'importe quoi" veut dire concrètement pour elle, terrain direct vers son vrai problème de différenciation
 - Dernière mise à jour : 24 juillet 2026
 
+### Marlène Leprovost — CGA Services, Assistante Administrative indépendante
+- Statut : Phase 1 (tout début, warming post-like, pas d'échange en commentaires préalable)
+- Dernier point : elle a liké un post de Matthias sur la peur d'augmenter ses prix (1400 impressions) sans se souvenir duquel — Matthias le lui a rappelé avec humour. Aucune question posée encore, on enclenche la 1ère question maintenant.
+- Patterns utilisés : Règle 14 (premier message = observation ciblée sur le like, jamais une question directe en ouverture)
+- Prochaine étape probable : 1ère vraie question Phase 1, ancrée sur le sujet du post liké (les prix) pour sonder une résonance possible sans présumer, tout en restant léger — surveiller si elle révèle un vrai blocage tarifaire (pain point ICP direct, voir `CLAUDE.md`)
+- Dernière mise à jour : 24 juillet 2026
+
 ### Maryline Leroy — Signe plus & mieux, aide les freelances/solopreneurs à leur CA en 60 jours
 - Statut : Phase 1-2, registre banter installé depuis le début (elle l'a chambré sur un ghost, il a assumé avec humour)
 - Dernier point : elle a demandé "et toi ton truc de signer plus et mieux, tu fais comment avec tes clientes ?" en miroir d'un tease sur le setting comme levier principal chez Matthias
