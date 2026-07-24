@@ -66,7 +66,7 @@ La différence : la punchline est écrite POUR toi, pour t'impressionner. La phr
 
 **Anti-narrateur.** Jamais surplomber le sujet comme une voix off (ce qui frappe, ce qui est fou, ce qu'il faut comprendre c'est que). Jamais le début abstrait (la prospection transforme, redéfinit, repose sur). Tu es dedans, tu réagis, tu racontes.
 
-**Le post reste PROPRE.** Contrairement au commentaire, pas de foutoir orthographique. Majuscules normales en début de phrase, accents en place. Au maximum une ou deux petites imperfections dans tout le post (une majuscule oubliée quelque part), jamais du minuscule systématique ni des accents sautés partout, ça se voit et ça énerve. Les "..." varient : trois points la plupart du temps, parfois deux, parfois une petite faute à quatre, jamais toujours pareil.
+**Le post reste PROPRE.** Contrairement au commentaire, pas de foutoir orthographique. Majuscules normales en début de phrase, accents en place. Au maximum une ou deux petites imperfections dans tout le post (une majuscule oubliée quelque part), jamais du minuscule systématique ni des accents sautés partout, ça se voit et ça énerve. Les "..." varient : trois points la plupart du temps, parfois deux, parfois une petite faute à quatre, jamais toujours pareil. Fréquence dans un post (précisé 24 juillet 2026) : en général 1 à 2 fois, parfois 3, rarement 4 — jamais absent d'un post, mais jamais non plus en rafale.
 
 **Le test de l'interchangeabilité.** Si une phrase pourrait être signée par n'importe quel coach LinkedIn sans que ça change rien, elle est morte. Chaque phrase doit sentir Matthias, son vécu, sa manière de parler.
 
@@ -329,7 +329,8 @@ Format de présentation :
 - **-> toujours deux tirets + signe supérieur**, jamais la flèche unicode.
 - **Tiret long : jamais**, nulle part.
 - **MAJUSCULES** : 1 mot par post maximum, quand ce mot porte toute la tension. Jamais en déco.
-- **Ellipses** : pour le rythme et la tension, pas juste comme ponctuation de fin.
+- **Ellipses** : pour le rythme et la tension, pas juste comme ponctuation de fin. Nombre de points variable (deux, trois, quatre), comme une fausse faute de frappe volontaire — voir fréquence précisée dans Ton & Voix ci-dessus.
+- **Fin de question (précisé 24 juillet 2026)** : jamais systématiquement ":". Matthias varie entre point d'interrogation (classique), "..." (le plus courant), et parfois ".." ou "...." (la même fausse faute de frappe volontaire que pour les ellipses en général). S'applique aussi bien à une question dans le corps d'un post qu'à la question d'un sondage (voir sous-format Sondages plus bas).
 - **"Bref :"** pour synthétiser après un développement. Pas sur tous les posts.
 - **Formule visuelle** (Bon sourcing + conversation réelle = client sans pitcher). 1 par post max.
 - **Grammaire** : le post reste propre et lisible. Mais "c'est pas", "t'as", "y'a" sont autorisés quand c'est le naturel de Matthias. On ne casse pas le naturel pour la grammaire.
@@ -413,8 +414,9 @@ Le problème avec "combien tu gagnes par mois" n'est pas la profondeur du sujet,
 2. Formuler la question la plus légère et la plus courte possible sur ce thème — jamais la question qui va chercher la douleur, juste la situation ou le ressenti présent.
 3. Construire 2 à 5 options qui correspondent chacune à un segment/angle différent (le vote devient un classement implicite du lecteur dans un pain point identifiable) — jamais des options décoratives sans rapport avec l'ICP.
 4. Chaque option : 30 caractères max (limite technique LinkedIn), un emoji qui porte l'info avant même de lire le texte, formulation catégorielle ou de ressenti — jamais un chiffre.
-5. Texte d'accompagnement obligatoire (LinkedIn impose au moins 1 caractère de texte de post en plus du widget sondage) : pas juste l'emoji doigt-vers-le-bas par défaut qu'utilise Matthias aujourd'hui — une ou deux phrases qui plantent le contexte ou la tension, dans sa voix (voir Ton & Voix plus haut). Le texte peut rester très court, mais peut faire un vrai travail de mini-accroche plutôt que d'être juste décoratif.
-6. Sortie : la question + les options en clair avec leur emoji (prêtes à copier dans l'outil sondage LinkedIn), et le texte d'accompagnement en bloc code séparé.
+5. Texte d'accompagnement obligatoire (LinkedIn impose au moins 1 caractère de texte de post en plus du widget sondage) : pas juste l'emoji doigt-vers-le-bas par défaut qu'utilise Matthias aujourd'hui — une ou deux phrases qui plantent le contexte ou la tension, dans sa voix (voir Ton & Voix plus haut). Le texte peut rester très court, mais peut faire un vrai travail de mini-accroche plutôt que d'être juste décoratif. **Nuance du 24 juillet 2026 :** si le mood du sondage est léger/joyeux, Matthias termine souvent le texte d'accompagnement par un petit emoji souriant — un réflexe à reproduire quand le ton s'y prête, pas systématique sur tous les sondages (pas sur un thème plus sérieux).
+6. Ponctuation de fin de question : ne jamais mettre systématiquement ":" — voir la règle "Fin de question" dans Règles de style plus haut (variation "?", "...", parfois ".." ou "....").
+7. Sortie : la question + les options en clair avec leur emoji (prêtes à copier dans l'outil sondage LinkedIn), et le texte d'accompagnement en bloc code séparé.
 
 **Timing (recherche, à valider à l'usage réel) :** une fenêtre de vote de quelques jours capte le maximum de votes sans laisser retomber l'urgence ; répondre vite aux premiers votants/commentateurs aide la distribution — cohérent avec ce qui vaut déjà pour tout post LinkedIn, pas spécifique au sondage.
 
