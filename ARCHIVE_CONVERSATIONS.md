@@ -149,6 +149,8 @@ Aujourd'hui (24 juillet)
 18:22 Marie : (réactions 🤌🤣🙌) Comme tu le vois, c'est un peu compliqué, surtout qu'il y a énormément de concurrence (et beaucoup de n'importe quoi). Enfin je pense que c'est pareil dans ton domaine
 18:29 Matthias : Ahah mdr, ça compte aussi comme réponse ça 😂 Et clairement pareil dans mon domaine, y'a un paquet de trucs génériques et de forcing qui tournent en boucle, c'est en partie pour ça que je fais tout à la main plutôt que d'automatiser comme beaucoup. Et toi ça ressemble à quoi concrètement le n'importe quoi que tu vois chez tes concurrents ?
 18:31 Marie : Je vais être crue : des facturations indécentes pour de la merde ou des personnes qui sous-pricent de fou... (réactions 🤌🤣🙌) Souvent, les prospects achètent un enrobage plutôt qu'une réelle expertise (j'en ai fait les frais pas plus tard que ce midi encore)
+18:48 Matthias : Ouais carrément, l'enrobage qui prend le dessus sur l'expertise c'est hyper vrai. Attends c'est passé aujourd'hui ça en plus ?! Il s'est passé quoi exactement à midi ?
+18:49 Marie : (réactions 🤌🤣🙌) Un super prospect qui m'est passé sous le nez parce qu'une nana à employé des termes incompréhensibles. Sentiment du prospect : elle maitrise de fou 👀 Alors que le feeling était là, on pouvait vraiment faire un super truc sur le long terme... Après c'est son choix et je le respecte à 300% ! Mais c'est frustrant 😅
 
 ---
 
