@@ -155,8 +155,10 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 
 ### Rattrapage #19 — Les deux types de persévérance
 - Format : vidéo (dernière du backlog vidéo, 19/19)
+- Accroche : "Les gens n'ont rien compris à la persévérance."
 - Accroche ou angle retenu : persévérance superficielle (répéter la même erreur/schéma 46 fois, machinalement) vs persévérance en profondeur (46 posts différents, en analysant à chaque fois les retours) — pas de recette magique, ce qui compte c'est la conscience mise dans l'exécution sur la durée, IA ou pas
-- Notes : à rapprocher du Rattrapage #11 (perfectionnisme) — nuance à clarifier avec Matthias si l'un des deux devient un post : #11 dit d'aller vite à l'écriture sans sur-analyser avant publication, #19 dit d'analyser en profondeur après coup. Pas forcément contradictoire (moments différents) mais assez proche pour mériter d'être précisé
+- Stats (24 juillet 2026, publiée) : 10 réactions, 6 commentaires, 1 republication, 277 impressions.
+- Notes : à rapprocher du Rattrapage #11 (perfectionnisme) — nuance à clarifier avec Matthias si l'un des deux devient un post : #11 dit d'aller vite à l'écriture sans sur-analyser avant publication, #19 dit d'analyser en profondeur après coup. Pas forcément contradictoire (moments différents) mais assez proche pour mériter d'être précisé. **Première donnée de perf réelle sur le format vidéo** (jusqu'ici absente, voir tension notée dans `SKILL_CONTENU_LINKEDIN.md`) : 277 impressions, au-dessus de la moyenne indiquée par Matthias pour ses vidéos (100-170 en général) — mais lui-même reste sceptique sur le format, y compris quand le ton est clivant, avec le sentiment qu'"il manque encore un truc". À traiter comme signal isolé, pas une conclusion — mais premier point de comparaison chiffré vidéo vs post.
 
 > Rattrapage backlog posts écrits (22 juillet 2026) — posts déjà publiés, du plus ancien au plus récent, stats incluses (republications exclues des stats sur demande de Matthias). Texte intégral dans `ARCHIVE_CONTENU.md`.
 
