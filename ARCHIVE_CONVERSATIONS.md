@@ -151,6 +151,8 @@ Aujourd'hui (24 juillet)
 18:31 Marie : Je vais être crue : des facturations indécentes pour de la merde ou des personnes qui sous-pricent de fou... (réactions 🤌🤣🙌) Souvent, les prospects achètent un enrobage plutôt qu'une réelle expertise (j'en ai fait les frais pas plus tard que ce midi encore)
 18:48 Matthias : Ouais carrément, l'enrobage qui prend le dessus sur l'expertise c'est hyper vrai. Attends c'est passé aujourd'hui ça en plus ?! Il s'est passé quoi exactement à midi ?
 18:49 Marie : (réactions 🤌🤣🙌) Un super prospect qui m'est passé sous le nez parce qu'une nana à employé des termes incompréhensibles. Sentiment du prospect : elle maitrise de fou 👀 Alors que le feeling était là, on pouvait vraiment faire un super truc sur le long terme... Après c'est son choix et je le respecte à 300% ! Mais c'est frustrant 😅
+18:52 Matthias : Ah zut, dommage surtout avec un feeling qui était bon. Ça t'arrive souvent ce genre de coup, de perdre un prospect face à quelqu'un qui sonne juste plus experte avec du vocabulaire ?
+18:53 Marie : Non c'est la première fois (réactions 🤌🤣🙌) Mais je ne vais pas me travestir en "mec qui s'étrangle avec sa cravate" pour prouver une compétence. Il est vrai que l'échange est toujours détendu mais c'est ma manière de communiquer, je veux pas en changer
 
 ---
 
