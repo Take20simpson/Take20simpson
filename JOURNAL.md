@@ -574,6 +574,13 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Stats (définitives, 24 juillet 2026) : 22 réactions, 20 commentaires, 1 401 impressions.
 - Notes : premier post sur PA-9 (Le plafond tarifaire), thématique ajoutée au catalogue le 22 juillet suite au pivot ICP (exclusion des débutants, voir `CLAUDE.md`). Angle 1/3 utilisé — angle 2 (la peur de perdre le client actuel bloque le tarif du prochain) encore disponible pour un prochain post sans redite. Texte intégral et les 2 autres approches non retenues dans `ARCHIVE_CONTENU.md`. **Performance très forte pour un post court** (Matthias signale être "choqué" du chiffre) : confirme et renforce le pattern déjà noté dans `SKILL_CONTENU_LINKEDIN.md` (Patterns de performance) — mentionner un client/une situation concrète tierce fait exploser les stats par rapport à un post générique, même sur un format court sans structure élaborée.
 
+### 25/07/2026 — Tour de France, double ascension Alpe d'Huez (actualité hors ICP, post proposé, pas encore publié)
+- Format : post
+- Accroche retenue : "Ce qui me plaît dans l'étape d'aujourd'hui sur le Tour de France, c'est que personne n'a jamais grimpé l'Alpe d'Huez deux fois d'affilée avant, alors le peloton improvise en vrai, en direct, sans plan."
+- Mécanisme : actualité hors ICP consensuelle à l'échelle du pays (Tour de France, étape 20 = première double ascension de l'Alpe d'Huez de l'histoire du Tour) + parallèle vécu (0 diplôme, 0 mentor, coaching à 1500 EUR sans compréhension derrière, 8 mois de prestations gratuites) — registre déjà validé par Rattrapage Posts #40 (actualité sportive grand public, record de reach du corpus). 3 approches livrées.
+- Stats : pas encore publié.
+- Notes : post choisi pour la cadence week-end (samedi 25/07, voir `SKILL_STRATEGIE.md` Partie 5 — pas de post-référence un jour à faible trafic). Accroche choisie par Matthias parmi 8 proposées (option 8/8). "Demain" corrigé en "aujourd'hui" dans les 3 approches pour coller à la date de publication réelle (l'étape a lieu le jour même de la publication, pas la veille).
+
 ### 22/07/2026 — Le mauvais fit client (post proposé, pas encore publié)
 - Format : post
 - Accroche retenue : "J'ai un client qui payait bien et qui m'a coûté plus cher en stress que n'importe quel mois sans lui."

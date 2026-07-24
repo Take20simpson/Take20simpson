@@ -1458,4 +1458,52 @@ J'ai fini par arrêter. Ce que j'ai récupéré en énergie a rapporté plus, su
 
 ---
 
+> Post généré via `SKILL_CONTENU_LINKEDIN.md` Module 1 (posts), cadence week-end (voir `SKILL_STRATEGIE.md` Partie 5). Actualité hors ICP (Tour de France, étape 20, première double ascension de l'Alpe d'Huez de l'histoire du Tour), parallèle avec le vécu personnel de Matthias (0 diplôme, 0 mentor, coaching à 1500 EUR sans compréhension derrière, 8 mois de prestations gratuites). Accroche choisie parmi 8 proposées. "Demain" corrigé en "aujourd'hui" dans les 3 approches — l'étape a lieu le jour même de la publication prévue (samedi 25/07), pas la veille. 3 approches livrées, non publiées à ce stade.
+
+### [25/07/2026] — post — Tour de France, Alpe d'Huez (Approche 1, Clivante) — non publiée
+Ce qui me plaît dans l'étape d'aujourd'hui sur le Tour de France, c'est que personne n'a jamais grimpé l'Alpe d'Huez deux fois d'affilée avant, alors le peloton improvise en vrai, en direct, sans plan.
+
+Toi t'attends quoi, exactement, pour te lancer ? La méthode parfaite, le mentor qui va tout t'expliquer, la formation qui va te donner le mode d'emploi complet ? Ça n'existe pas. Personne ne l'a, ce mode d'emploi, même les meilleurs du monde aujourd'hui sur ce vélo.
+
+Moi j'ai payé 1500 euros pour un coaching censé m'apprendre à vendre, on m'a filé des templates à copier-coller, zéro compréhension derrière. Ça ne m'a rien appris. Après ça j'ai enchaîné huit mois de prestations gratuites en me disant que ça allait construire ma crédibilité. Zéro euro sur le compte, et je tournais en rond...
+
+Le vrai déclic, c'est le jour où j'ai arrêté d'attendre qu'on me montre le chemin, et où j'ai avancé quand même, sans savoir si c'était le bon sens.
+
+Le peloton aujourd'hui, il fait pareil. Personne avant eux n'a de retour d'expérience sur cette étape-là. Ils grimpent quand même, à fond, sans filet.
+
+T'as un truc que personne n'a fait avant toi, à ta manière. Arrête de chercher le plan qui n'existe pas et avance.
+
+### [25/07/2026] — post — Tour de France, Alpe d'Huez (Approche 2, Normale) — non publiée
+Ce qui me plaît dans l'étape d'aujourd'hui sur le Tour de France, c'est que personne n'a jamais grimpé l'Alpe d'Huez deux fois d'affilée avant, alors le peloton improvise en vrai, en direct, sans plan.
+
+Y'a plus de cent ans d'histoire du Tour, des centaines de coureurs qui ont grimpé cette montagne, et pourtant aujourd'hui personne n'a de retour d'expérience sur ce qui les attend. Ils improvisent en pleine étape, devant des millions de gens, sur un truc que personne n'a jamais testé avant eux.
+
+Ça me parle parce que c'est exactement ce que j'ai vécu en montant mon activité. Je n'avais aucun mentor, aucun diplôme, personne pour me dire comment faire... J'ai payé un coaching à 1500 euros en pensant que ça allait me donner le mode d'emploi, et on m'a filé des templates à copier-coller, sans jamais m'expliquer pourquoi ça marchait ou pas. J'ai enchaîné huit mois de prestations gratuites en me disant que ça allait suffire à me faire connaître, et j'ai fini avec zéro euro sur le compte.
+
+Le truc, c'est que personne n'avait le mode d'emploi à me filer, parce que mon chemin n'existait pas encore avant que je le fasse.
+
+C'est ça que je vois dans l'étape d'aujourd'hui. Le peloton grimpe quand même, sans savoir exactement à quoi s'attendre, juste parce qu'il faut avancer pour le découvrir.
+
+### [25/07/2026] — post — Tour de France, Alpe d'Huez (Approche 3, Mathis Clouet) — non publiée
+Ce qui me plaît dans l'étape d'aujourd'hui sur le Tour de France, c'est que personne n'a jamais grimpé l'Alpe d'Huez deux fois d'affilée avant, alors le peloton improvise en vrai, en direct, sans plan.
+
+Personne dans le peloton n'a de retour d'expérience sur cette étape.
+
+Aucun coureur avant eux n'a fait ça.
+
+Ils vont juste avancer et découvrir en montant...
+
+Moi c'est exactement comme ça que j'ai construit mon activité :
+
+- zéro diplôme
+- zéro mentor
+- un coaching à 1500 euros qui ne m'a rien appris, juste des templates à copier-coller
+- huit mois de prestations gratuites, zéro euro sur le compte
+
+Personne n'avait le mode d'emploi à me filer, alors j'ai avancé sans, et j'ai appris en avançant.
+
+Le peloton fait pareil aujourd'hui sur cette montagne. Ils grimpent sans savoir, et ils apprennent en grimpant.
+
+---
+
 *Document créé le 22 juillet 2026, en complément de `JOURNAL.md`, à la demande de Matthias (besoin d'une sauvegarde du contenu, posts et vidéos, plus détaillée que le résumé du journal, sans dupliquer les transcriptions mot pour mot).*
