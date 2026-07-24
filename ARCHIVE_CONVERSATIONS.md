@@ -144,6 +144,8 @@ Jeudi (17 juillet)
 Aujourd'hui (24 juillet)
 08:03 Marie : Hello, je m'aperçois que j'ai lu ton dernier message et que je n'y ai pas répondu 🙊 Merci à toi surtout, tu likes souvent mes posts !! J'ai du mal à garder le rythme sur LinkedIn 😅 Pour répondre à ta question, comme pour le reste, je pense que ça va se faire au fil de l'eau, je teste et j'itère petit à petit.
 09:02 Matthias : (réactions 🤌🤣🙌) Yes je comprends
+18:05 Matthias : Et sinon avec ce rythme dur à tenir de ton côté, tu penses que le petit à petit ça va suffire à éviter qu'un nouveau creux revienne, ou tu sens quand même que ça va prendre un peu de temps avant que ce soit stable ?
+18:06 Marie : (réactions 🤌🤣🙌) Absolument aucune idée 😂
 
 ---
 
