@@ -182,6 +182,8 @@ Phase 1 (parcours/contexte, curiosite sincere, aucune qualification) → Phase 2
 
 Le teasing ne remplace jamais le creusage de la douleur. Il s'invite dedans, ponctuellement, jamais en boucle continue.
 
+**Confirmation validee par Matthias — "l'enrobage parfait" (cas Marie Bello, 24 juillet 2026) :** un message qui (1) valide/rebondit legerement sur ce que le prospect vient de reveler, (2) parle brievement de Matthias en miroir de la meme realite (teasing/auto-partage, sans pitcher), (3) se referme par une question qui recentre sur le prospect, produit ce que Matthias appelle "un enrobage parfait". Verbatim : *"tu mets de la rondeur, tu parles de moi, ce qui va enormement la rassurer. Et ensuite tu finis par une question."* Point cle a retenir : parler de soi en miroir de la frustration du prospect (pas en exposant un succes ou une legon) a un effet RASSURANT — le prospect se sent moins seul/juge — en plus de creer la connexion classique du teasing. Exemple concret : Marie se plaint de la concurrence et du "n'importe quoi" chez ses concurrents ; reponse validee = confirmer vivre la meme chose dans le domaine de Matthias (forcing, generique) + mentionner en une phrase faire les choses a la main plutot que d'automatiser (differenciateur, sans en faire un pitch) + refermer par une question sur ce qu'elle appelle concretement "n'importe quoi" chez elle.
+
 ---
 
 ## PARTIE 8 : REGLES DE RELANCE DE CONVERSATIONS ABANDONNEES
