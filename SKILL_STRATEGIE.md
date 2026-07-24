@@ -180,6 +180,7 @@ Voir Partie 2 ci-dessus. C'est la fondation de tous les autres principes.
   3. Detruit ta capacite a vendre
 - **Regle actuelle :** Facture des le premier client, point. Peut commencer bas mais jamais gratuit.
 - **Donnee validee le 24 juillet 2026 :** tarif bas teste concretement sur 3 mois d'accompagnement avec deux clientes (Lucille, Melanie, ~300-400 EUR) — juge invivable par Matthias, pas seulement insuffisant financierement. Sa motivation d'investissement personnel chute nettement en dessous de 2000 EUR, avec un impact direct sur la qualite de l'accompagnement fourni. C'est un fait vecu, pas une preference theorique — a ne pas re-tester comme option par defaut en cas de dilemme sur le pricing.
+- **Point ouvert, diagnostic en cours (24 juillet 2026) :** Matthias hesite entre garder 2000 EUR (0 client signe a ce tarif pour l'instant) ou baisser. Avis de Claude sur le moment : ne pas baisser (voir point ci-dessus + Principe #1), mais diagnostiquer d'abord si le blocage est en amont (volume/qualification de prospects, aucune visio realisee ce mois-ci) ou reellement sur le prix (visio realisee, prix annonce, objection prix confirmee). Chiffres demandes a Matthias et pas encore recus : prospects sourced/semaine, conversations qualifiees, visios bookees ce mois, et si visio il y a eu, ce qui a fait capoter. A reprendre en priorite a la prochaine session strategie tant que non tranche.
 
 ### Principe #5 : Diagnostiquer Avant de Prescrire (Analogie du Medecin)
 
