@@ -569,8 +569,8 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Format : post
 - Accroche : "J'ai un client qui refuse d'augmenter ses tarifs depuis deux ans."
 - Mécanisme : storytelling avec retournement — le lecteur s'attend à ce que la prudence tarifaire protège, la chute révèle l'inverse (il gagne moins qu'avant, à rythme égal). Approche 2 (Normale) choisie et publiée, sur les 3 livrées.
-- Stats : signal précoce positif (pas mal de likes dans la première heure selon Matthias) — chiffres définitifs à mettre à jour dès qu'il revient avec.
-- Notes : premier post sur PA-9 (Le plafond tarifaire), thématique ajoutée au catalogue le 22 juillet suite au pivot ICP (exclusion des débutants, voir `CLAUDE.md`). Angle 1/3 utilisé — angle 2 (la peur de perdre le client actuel bloque le tarif du prochain) encore disponible pour un prochain post sans redite. Texte intégral et les 2 autres approches non retenues dans `ARCHIVE_CONTENU.md`.
+- Stats (définitives, 24 juillet 2026) : 22 réactions, 20 commentaires, 1 401 impressions.
+- Notes : premier post sur PA-9 (Le plafond tarifaire), thématique ajoutée au catalogue le 22 juillet suite au pivot ICP (exclusion des débutants, voir `CLAUDE.md`). Angle 1/3 utilisé — angle 2 (la peur de perdre le client actuel bloque le tarif du prochain) encore disponible pour un prochain post sans redite. Texte intégral et les 2 autres approches non retenues dans `ARCHIVE_CONTENU.md`. **Performance très forte pour un post court** (Matthias signale être "choqué" du chiffre) : confirme et renforce le pattern déjà noté dans `SKILL_CONTENU_LINKEDIN.md` (Patterns de performance) — mentionner un client/une situation concrète tierce fait exploser les stats par rapport à un post générique, même sur un format court sans structure élaborée.
 
 ### 22/07/2026 — Le mauvais fit client (post proposé, pas encore publié)
 - Format : post
