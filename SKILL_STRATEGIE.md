@@ -276,6 +276,8 @@ Plus c'est ancien, plus la douleur est profonde et plus la motivation d'achat es
 
 **L'erreur du volume de vues :** Ce n'est pas le volume qui fait le chiffre, c'est la precision. Des posts a 500 vues qui parlent a ton vrai avatar client > des posts viraux a 50k vues avec des prospects pas qualifies.
 
+**Cadence par jour de la semaine (ajoute le 24 juillet 2026) :** samedi et dimanche = trafic LinkedIn le plus bas de la semaine, donc le moins de visibilite. Regle : ne jamais y placer un post-reference / un post sur lequel on mise beaucoup strategiquement (catalogues Solution Aware, Product Aware, ou les piliers Problem Aware type PA-1/PA-9) — ce serait cramer un bon post sur un jour ou peu de monde le voit. Le week-end sert plutot a du contenu plus decontracte (typiquement Personal Brand PB-4 "L'humain", ou un sondage leger) : ca coute moins cher en cas de sous-performance et ca garde le fil actif sans gaspiller les sujets forts. Volume cible : un ou plusieurs posts par jour le week-end, mais toujours selectionnes avec cette logique — la logique de selection prime sur le volume. Voir `SKILL_CONTENU_LINKEDIN.md` (Module 1) pour la note d'execution correspondante.
+
 ### Sophistication de Marche
 
 Le marche a evolue. Les prospects sont plus mefiants, plus eduques, ont deja ete exposes a des dizaines d'offres similaires. Ca impose :

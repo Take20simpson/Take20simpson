@@ -104,6 +104,8 @@ Règles de départage :
 
 Ratio hebdomadaire cible : 40% Problem Aware / 40% Solution + Product Aware / 20% Personal Brand.
 
+**Cadence week-end (ajoute le 24 juillet 2026, doctrine complete dans `SKILL_STRATEGIE.md` Partie 5) :** samedi et dimanche = trafic le plus bas de la semaine. Jamais un post-reference ou strategiquement important (Solution Aware, Product Aware, piliers Problem Aware) ces jours-la. Privilegier PB-4 "L'humain" (vecu reel de Matthias, jamais invente) ou un sondage leger (voir Sous-format Sondages plus bas). Un ou plusieurs posts par jour possible, mais la selection de l'angle prime toujours sur le volume.
+
 ### Catalogue — Problem Aware
 
 **PA-1 - Feast or Famine.** Certains mois 3 clients, d'autres mois zéro. Stress financier, inconsistance, 0 contrôle sur le timing.
