@@ -146,6 +146,7 @@ Aujourd'hui (24 juillet)
 09:02 Matthias : (réactions 🤌🤣🙌) Yes je comprends
 18:05 Matthias : Et sinon avec ce rythme dur à tenir de ton côté, tu penses que le petit à petit ça va suffire à éviter qu'un nouveau creux revienne, ou tu sens quand même que ça va prendre un peu de temps avant que ce soit stable ?
 18:06 Marie : (réactions 🤌🤣🙌) Absolument aucune idée 😂
+18:22 Marie : (réactions 🤌🤣🙌) Comme tu le vois, c'est un peu compliqué, surtout qu'il y a énormément de concurrence (et beaucoup de n'importe quoi). Enfin je pense que c'est pareil dans ton domaine
 
 ---
 
