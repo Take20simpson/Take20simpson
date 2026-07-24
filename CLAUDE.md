@@ -51,9 +51,9 @@ Hub central pour les assistants IA travaillant avec Matthias. Contient l'identit
 - **Statut actuel (24 juillet 2026) : 0 client signe a ce tarif.** Pipeline actif en cours (voir `JOURNAL.md`, Journal Prospection) mais aucune visio de closing realisee sur ce mois a ce stade — diagnostic volume/qualification vs prix en cours avec `SKILL_STRATEGIE.md`.
 - Livrables non figes, adaptes a chaque client : frameworks IA personnalises (setting, commentaires), 1-2 videos strategie, groupe WhatsApp (3 canaux), suivi proactif 2x/semaine
 
-### Offre 2 : Framework(s) IA Seuls (sans suivi)
+### Offre 2 : Framework(s) IA Seuls (sans suivi) — DISCONTINUEE (24 juillet 2026)
 
-- **Prix :** 50 EUR — vestige du debut, plus une priorite strategique (le focus est sur l'accompagnement complet)
+- **Ancien prix :** 50 EUR. Retiree de l'offre active : ne produisait pas de resultats concrets chez les clients qui l'avaient prise — le framework seul, sans le suivi/accompagnement, ne suffit pas a transformer. Matthias ne la propose plus du tout, y compris comme option d'entree de gamme ou porte d'acces a l'offre complete.
 
 ### Promesse Commune
 
