@@ -678,19 +678,15 @@ L'IA (Claude et outils en general) est un pilier fondamental a tous les niveaux 
 > Suivi des opportunites de visibilite externe (masterclass, collabs communautaires) qui ne rentrent ni dans le pipeline prospect (`JOURNAL.md`) ni dans le contenu LinkedIn (`SKILL_CONTENU_LINKEDIN.md`). Utile pour le principe #7 (vendre par le produit — montrer COMMENT il bosse, en live, devant une audience) sans que ce soit un pitch direct.
 
 **Ajoute le 24 juillet 2026 — Masterclass "Le Coin des VA" :**
-- **Organisateur :** Le Coin des VA (communaute d'assistantes virtuelles et independantes)
-- **Format :** Masterclass ~1h, via Zoom Pro, enregistree (replay illimite pour les adherentes). Matthias seul visible a l'ecran, cameras/micros public coupes, chat actif, Q&A en fin de session
-- **Date :** 3 novembre 2026, 12h15-13h15 (connexion a 12h)
-- **Conditions demandees par l'organisateur :**
-  - Remise exclusive membres (10% suggere) sur l'offre
-  - Soutien visibilite : partage/commentaire/republication ponctuelle de leurs publications
-  - Aucune retribution versee ni prelevee dans un sens ou l'autre (pas de commission sur ventes issues de l'expo)
-- **Livrables a fournir a l'organisateur :** contrat de partenariat signe, photo tete-hanches face camera, presentation courte (bio + activite), titre de la presentation, resume 4 points (ce que l'audience va apprendre), liens pro (LinkedIn/Insta/Facebook), telephone (CRM organisateur), confirmation SIRET
-- **Avis Claude (a trancher avec Matthias, pas encore valide) :**
-  - Remise 10% : ok pour une communaute ciblee/partenariat, tant que ce n'est jamais formule publiquement comme "je casse mon prix" — reste coherent avec Principe #1 (ne jamais montrer le besoin) et Principe #4 (jamais de baisse generale du prix de base, ceci est une exception ponctuelle et cadree, pas un nouveau palier)
-  - Audience "VA" = probablement melange de niveaux, certaines sous le seuil ICP actuel (debutantes sans CA, voir `CLAUDE.md` Partie 2). Pas un probleme en soi — c'est de la visibilite/autorite, pas un tunnel de vente direct — mais prevoir une re-qualification normale si des leads sortent de la masterclass, ne pas assouplir le filtre ICP juste parce que le lead vient d'une collab
-  - Partage/republication : cout faible, reciprocite standard, aucune tension avec Principe #2 (pas de critique de concurrent, ici juste du soutien) — a garder ponctuel pour ne pas diluer le positionnement propre
-- **Statut au 24 juillet 2026 :** email recu le 14 juillet (confirmation avec ~10 jours de delai avant reponse), rien renvoye a l'organisateur pour le moment. Prochaine etape : Matthias valide contrat + prepare les livrables (voir recap actions envoye le 24 juillet).
+- **Organisateur :** Le Coin des VA, communaute d'assistantes independantes, exploitee par Camila (Lazzarini) Martinez, EI (SIRET 88375270100028)
+- **Format :** Session bénévole ~1h en visio (Zoom), enregistree, replay accessible en illimite aux membres via leur plateforme communautaire Skool. Matthias seul visible a l'ecran, cameras/micros public coupes, chat actif, Q&A en fin de session
+- **Date corrigee le 24 juillet 2026 (email initial) : 12 novembre 2026** (initialement annoncee 3 novembre par l'organisateur, decale par elle)
+- **Nature juridique (contrat recu et lu le 24 juillet 2026) :** contrat-cadre "Intervention benevole en visioconference", 12 mois renouvelable tacitement (Art 13.1), resiliable avec 30 jours de preavis. Couvre potentiellement plusieurs sessions futures ("calendrier defini d'un commun accord"), pas seulement celle du 12 novembre. Aucune remuneration, aucune commission dans un sens ou l'autre (Art 2.3, 3.2, 7.6) — 100% non lucratif des deux cotes
+- **Ecart identifie entre l'email du 14 juillet et le contrat :** l'email evoquait une remise 10% membres + soutien visibilite (partages) en echange. Le contrat signe ne mentionne AUCUN des deux engagements — Art 3.2 dit meme explicitement qu'aucune contrepartie n'est due en cas de relation commerciale ulterieure. Decision prise avec Matthias (24 juillet) : signer tel quel, sans ajouter la remise en dur dans le contrat — garde la liberte de l'offrir plus tard ou pas, sans obligation ecrite
+- **Droits d'image (Art 7) :** autorisation large (illimitee, monde entier, tous supports actuels/futurs), MAIS avec garde-fou reel : tout extrait video/promo hors espace membre doit etre soumis a Matthias avant diffusion publique, il peut refuser/demander ajustement (Art 7.4.1). Le replay complet, lui, est diffusable aux membres sans validation prealable (normal, c'est le deal) — seuls les extraits promo externes sont proteges par ce droit de regard
+- **Points verifies avant signature :** adresse/SIRET du contrat (Matthias domicilie "LE BROC" dans le contrat vs Nice dans `CLAUDE.md` — a confirmer que c'est la bonne adresse pro declaree) ; usage de logo croise necessite un accord ecrit separe (Art 9)
+- **Avis Claude sur l'audience :** communaute "VA" probablement mixte niveau, certaines sous le seuil ICP actuel (debutantes sans CA, voir `CLAUDE.md` Partie 2). Pas un probleme — c'est de la visibilite/autorite (Principe #7 : montrer COMMENT il bosse), pas un tunnel de vente direct — mais re-qualifier normalement les leads qui en sortiraient, ne pas assouplir le filtre ICP juste parce que le lead vient d'une collab
+- **Statut au 24 juillet 2026 :** contrat recu, relu par Claude, points d'attention transmis a Matthias. Prochaine etape : Matthias signe (sans ajout sur la remise) et prepare les livrables de com' (photo, bio, titre, resume 4 points, liens pro, tel, SIRET — voir recap actions du 24 juillet).
 
 ---
 
