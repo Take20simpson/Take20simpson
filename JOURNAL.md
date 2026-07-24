@@ -584,7 +584,7 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 ### 25/07/2026 — Sondage feast or famine (PA-1, proposé pour dimanche, pas encore publié)
 - Format : post (sondage natif)
 - Question : "C'est quoi ton mois, en ce moment..."
-- Options : 🔥 Plein, je gère à peine / 😌 Ça tourne bien, tranquille / 🥶 Calme, un peu inquiet / 😬 Sec, zéro visibilité
+- Options : 🔥 Plein, je gère à peine / Ça tourne bien, tranquille ;) / Calme, un peu inquiet / Sec, zéro visibilité 😬 (position emoji volontairement variée — voir règle du 25/07 dans `SKILL_CONTENU_LINKEDIN.md`)
 - Texte d'accompagnement : "Y'a des mois où tout roule, et des mois où tu sais plus où donner de la tête. T'en es où là, maintenant..."
 - Mécanisme : premier sondage sur PA-1 (feast or famine), thème jamais testé en sondage jusqu'ici (distinct de #43 "4 paliers" qui portait sur la maturité globale du business, pas le ressenti du mois en cours). Options catégorielles/ressenti, aucun chiffre (voir Sous-format Sondages, `SKILL_CONTENU_LINKEDIN.md`) — chaque option est un signal de qualification exploitable en DM plus tard.
 - Stats : pas encore publié.
