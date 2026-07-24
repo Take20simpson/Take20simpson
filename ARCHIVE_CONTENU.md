@@ -1521,6 +1521,33 @@ Personne n'avait le mode d'emploi à me filer, alors j'ai avancé sans, et j'ai 
 
 Le peloton fait pareil aujourd'hui sur cette montagne. Ils grimpent sans savoir, et ils apprennent en grimpant.
 
+### [25/07/2026] — post — Tour de France, Alpe d'Huez — VERSION FINALE VALIDÉE PAR MATTHIAS, à publier samedi 25/07
+Aujourd'hui Pogačar grimpe l'Alpe d'Huez pour la deuxième fois en deux jours sur le Tour de France, un truc que personne n'a jamais fait en plus de cent ans de course
+
+les jambes qui ont déjà tout donné hier, et faut remonter quand même, sans savoir ce que ça va donner cette fois
+
+Je pense que les gars ont zéro plan et zéro recul, juste grimper et voir
+
+Ça me fait marrer parce que moi j'ai monté mon activité exactement de la même manière
+
+aucun mentor, aucun diplôme, personne pour me dire comment faire……
+
+Tiens d'ailleurs, le coaching à 1500 euros que j'avais payé en pensant enfin avoir le mode d'emploi, mais on m'a filé des templates à copier-coller, sans jamais rien m'expliquer...... brefff
+
+j'ai aussi enchaîné huit mois de prestations gratuites en me disant que ça allait suffire à me faire connaître, et j'ai fini avec zéro euro sur le compte 😆
+
+Bon ok next...
+
+Personne n'avait le mode d'emploi à me filer
+
+mon chemin n'existait pas encore avant que je le fasse
+
+Le peloton fait pareil aujourd'hui sur cette montagne
+
+ils grimpent sans savoir exactement à quoi s'attendre, juste parce qu'il faut avancer pour le découvrir
+
+> Itérée en direct avec Matthias sur plusieurs passes (accroche sans charnière analytique, ouverture en scène incarnée avec antagoniste nommé plutôt qu'exposition statistique, fragment "zéro plan zéro recul" enveloppé dans une phrase sujet/verbe). Tous les patterns dégagés capturés dans `SKILL_CONTENU_LINKEDIN.md`.
+
 ---
 
 *Document créé le 22 juillet 2026, en complément de `JOURNAL.md`, à la demande de Matthias (besoin d'une sauvegarde du contenu, posts et vidéos, plus détaillée que le résumé du journal, sans dupliquer les transcriptions mot pour mot).*
