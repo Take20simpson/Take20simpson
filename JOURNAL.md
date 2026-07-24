@@ -581,6 +581,15 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Stats : pas encore publié (prêt pour publication samedi 25/07).
 - Notes : post choisi pour la cadence week-end (samedi 25/07, voir `SKILL_STRATEGIE.md` Partie 5 — pas de post-référence un jour à faible trafic). Itéré en plusieurs passes avec Matthias jusqu'à validation finale : (1) espacement paragraphe par paragraphe, signal humain/IA distinct de "la phrase ne se hache pas" ; (2) charnières analytiques ("ce qui me plaît", "ça me parle") remplacées — nuance : les charnières physiques/viscérales ("ça me fait marrer") passent, pas les analytiques ; (3) vocabulaire/texture calqués sur Rattrapage Posts #1 (présent de narration, minuscule stratégique de continuation, marqueurs de tangente "Tiens d'ailleurs"/"Bon ok next", élongation de lettre "brefff") ; (4) ouverture recorrigée en scène incarnée avec antagoniste nommé (Pogačar) au lieu d'exposition statistique ("des centaines de coureurs depuis que le Tour existe") ; (5) fragment parallèle nu ("zéro plan, zéro recul") enveloppé dans une phrase sujet/verbe pour casser l'effet construit. Toutes les règles capturées dans `SKILL_CONTENU_LINKEDIN.md`. Version finale validée par Matthias archivée dans `ARCHIVE_CONTENU.md`.
 
+### 25/07/2026 — Sondage feast or famine (PA-1, proposé pour dimanche, pas encore publié)
+- Format : post (sondage natif)
+- Question : "C'est quoi ton mois, en ce moment..."
+- Options : 🔥 Plein, je gère à peine / 😌 Ça tourne bien, tranquille / 🥶 Calme, un peu inquiet / 😬 Sec, zéro visibilité
+- Texte d'accompagnement : "Y'a des mois où tout roule, et des mois où tu sais plus où donner de la tête. T'en es où là, maintenant..."
+- Mécanisme : premier sondage sur PA-1 (feast or famine), thème jamais testé en sondage jusqu'ici (distinct de #43 "4 paliers" qui portait sur la maturité globale du business, pas le ressenti du mois en cours). Options catégorielles/ressenti, aucun chiffre (voir Sous-format Sondages, `SKILL_CONTENU_LINKEDIN.md`) — chaque option est un signal de qualification exploitable en DM plus tard.
+- Stats : pas encore publié.
+- Notes : choisi pour la cadence week-end (dimanche 26/07). PA-9 et PA-10 écartés pour ce sondage car déjà couverts récemment par des posts complets (voir entrées 22/07/2026), risque de redite trop rapprochée.
+
 ### 22/07/2026 — Le mauvais fit client (post proposé, pas encore publié)
 - Format : post
 - Accroche retenue : "J'ai un client qui payait bien et qui m'a coûté plus cher en stress que n'importe quel mois sans lui."
