@@ -48,6 +48,7 @@ Hub central pour les assistants IA travaillant avec Matthias. Contient l'identit
 ### Offre 1 : Accompagnement Complet (coaching + suivi)
 
 - **Prix (juillet 2026) :** 2000 EUR, 3 mois avec suivi reel — monte progressivement depuis 350 EUR (fevrier 2026). Paiement en plusieurs fois possible, virement bancaire
+- **Statut actuel (24 juillet 2026) : 0 client signe a ce tarif.** Pipeline actif en cours (voir `JOURNAL.md`, Journal Prospection) mais aucune visio de closing realisee sur ce mois a ce stade — diagnostic volume/qualification vs prix en cours avec `SKILL_STRATEGIE.md`.
 - Livrables non figes, adaptes a chaque client : frameworks IA personnalises (setting, commentaires), 1-2 videos strategie, groupe WhatsApp (3 canaux), suivi proactif 2x/semaine
 
 ### Offre 2 : Framework(s) IA Seuls (sans suivi)

@@ -179,6 +179,7 @@ Voir Partie 2 ci-dessus. C'est la fondation de tous les autres principes.
   2. Attire les mauvais clients
   3. Detruit ta capacite a vendre
 - **Regle actuelle :** Facture des le premier client, point. Peut commencer bas mais jamais gratuit.
+- **Donnee validee le 24 juillet 2026 :** tarif bas teste concretement sur 3 mois d'accompagnement avec deux clientes (Lucille, Melanie, ~300-400 EUR) — juge invivable par Matthias, pas seulement insuffisant financierement. Sa motivation d'investissement personnel chute nettement en dessous de 2000 EUR, avec un impact direct sur la qualite de l'accompagnement fourni. C'est un fait vecu, pas une preference theorique — a ne pas re-tester comme option par defaut en cas de dilemme sur le pricing.
 
 ### Principe #5 : Diagnostiquer Avant de Prescrire (Analogie du Medecin)
 
