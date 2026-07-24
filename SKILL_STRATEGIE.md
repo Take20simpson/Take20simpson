@@ -673,6 +673,25 @@ Garder dans sa manche des ressources, des cadeaux, des choses qui n'etaient pas 
 
 L'IA (Claude et outils en general) est un pilier fondamental a tous les niveaux : livrables clients, process internes, automatisation, contenu. Utilisation maximale tant que c'est pertinent et solide. A terme, automatiser le maximum possible.
 
+### Partenariats & Visibilite Externe (Masterclass, Collabs)
+
+> Suivi des opportunites de visibilite externe (masterclass, collabs communautaires) qui ne rentrent ni dans le pipeline prospect (`JOURNAL.md`) ni dans le contenu LinkedIn (`SKILL_CONTENU_LINKEDIN.md`). Utile pour le principe #7 (vendre par le produit — montrer COMMENT il bosse, en live, devant une audience) sans que ce soit un pitch direct.
+
+**Ajoute le 24 juillet 2026 — Masterclass "Le Coin des VA" :**
+- **Organisateur :** Le Coin des VA (communaute d'assistantes virtuelles et independantes)
+- **Format :** Masterclass ~1h, via Zoom Pro, enregistree (replay illimite pour les adherentes). Matthias seul visible a l'ecran, cameras/micros public coupes, chat actif, Q&A en fin de session
+- **Date :** 3 novembre 2026, 12h15-13h15 (connexion a 12h)
+- **Conditions demandees par l'organisateur :**
+  - Remise exclusive membres (10% suggere) sur l'offre
+  - Soutien visibilite : partage/commentaire/republication ponctuelle de leurs publications
+  - Aucune retribution versee ni prelevee dans un sens ou l'autre (pas de commission sur ventes issues de l'expo)
+- **Livrables a fournir a l'organisateur :** contrat de partenariat signe, photo tete-hanches face camera, presentation courte (bio + activite), titre de la presentation, resume 4 points (ce que l'audience va apprendre), liens pro (LinkedIn/Insta/Facebook), telephone (CRM organisateur), confirmation SIRET
+- **Avis Claude (a trancher avec Matthias, pas encore valide) :**
+  - Remise 10% : ok pour une communaute ciblee/partenariat, tant que ce n'est jamais formule publiquement comme "je casse mon prix" — reste coherent avec Principe #1 (ne jamais montrer le besoin) et Principe #4 (jamais de baisse generale du prix de base, ceci est une exception ponctuelle et cadree, pas un nouveau palier)
+  - Audience "VA" = probablement melange de niveaux, certaines sous le seuil ICP actuel (debutantes sans CA, voir `CLAUDE.md` Partie 2). Pas un probleme en soi — c'est de la visibilite/autorite, pas un tunnel de vente direct — mais prevoir une re-qualification normale si des leads sortent de la masterclass, ne pas assouplir le filtre ICP juste parce que le lead vient d'une collab
+  - Partage/republication : cout faible, reciprocite standard, aucune tension avec Principe #2 (pas de critique de concurrent, ici juste du soutien) — a garder ponctuel pour ne pas diluer le positionnement propre
+- **Statut au 24 juillet 2026 :** email recu le 14 juillet (confirmation avec ~10 jours de delai avant reponse), rien renvoye a l'organisateur pour le moment. Prochaine etape : Matthias valide contrat + prepare les livrables (voir recap actions envoye le 24 juillet).
+
 ---
 
 *Document créé le 22 juillet 2026, à partir du contenu déjà validé de CLAUDE.md (parties stratégie/philosophie/closing/objectifs/posture), réorganisé en pôle dédié dans la nouvelle architecture à 4 pôles.*
