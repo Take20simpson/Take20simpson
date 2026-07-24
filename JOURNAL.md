@@ -35,6 +35,14 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 
 ## JOURNAL PROSPECTION
 
+### Marie Bello — Formatrice Qualiopi/OF, structuration pour infopreneurs et organismes de formation
+- Statut : Phase 3-4 avancée (creusage installé depuis le 6 juillet), rapport très fort mais qualification incomplète — correspond exactement au garde-fou "cas Marie Bello" déjà documenté dans `TEASING_METHODE_DM.md` (Partie 3) et `SKILL_SETTING_DM.md` (Règle 13) : beaucoup de teasing/rondeur/humour, à ne pas laisser tourner en boucle sans creusage réel
+- Dernier point : indépendante depuis 3 ans (ex-16 ans cabinet audit/expertise comptable, 1er business peinture chaussures/textiles), 100% bouche-à-oreille + LinkedIn comme vitrine plus que canal d'acquisition. A eu son 1er vrai creux en 3 ans (déjà en train de rentrer dans l'ordre), cause identifiée par elle-même : clients pas alignés sur la facturation qui ne la recommandaient pas — elle a corrigé ça (facture plus juste, moins de cadeaux). S'est dite intéressée par l'offre ("j'aimerais m'offrir ce service, c'est primordial") mais objection précoce budget/timing ("step by step"), et Matthias a lui-même désamorcé la pression ("aucune urgence de mon côté"). Réponse du jour : reste vague sur son plan de contenu ("au fil de l'eau, petit à petit"), avoue avoir du mal à garder le rythme sur LinkedIn.
+- Signaux de préqualification (voir `SKILL_SETTING_DM.md`) : Maturité 🟢 (3 ans d'activité) / Douleur 🔴-🟡 (creux déjà résolu de son propre aveu, se dit sereine, LinkedIn pas une source de stress) / Urgence 🔴 (explicitement "step by step", zéro urgence des deux côtés) — donc pas de proposition de visio à ce stade
+- Patterns utilisés : Règle 13 (teasing, plusieurs occurrences, réciprocité directe et banter), Règle 14 (signal marché sur le pipeline de recommandations qui se tarit), Règle 3/7 (validation + rondeur longue abondante), rapprochement silencieux amorcé (son objectif d'éviter le creux vs son plan flou "au fil de l'eau")
+- Prochaine étape probable : continuer le creusage doux sans pousser vers l'appel (signaux Douleur/Urgence encore rouges/jaunes) — surveiller si un vrai point de douleur réapparaît (ex. impressions toujours stagnantes, rythme de contenu qu'elle n'arrive pas à tenir) pour recreuser plutôt que de rester en pur rapport sympa
+- Dernière mise à jour : 24 juillet 2026
+
 ### Maryline Leroy — Signe plus & mieux, aide les freelances/solopreneurs à leur CA en 60 jours
 - Statut : Phase 1-2, registre banter installé depuis le début (elle l'a chambré sur un ghost, il a assumé avec humour)
 - Dernier point : elle a demandé "et toi ton truc de signer plus et mieux, tu fais comment avec tes clientes ?" en miroir d'un tease sur le setting comme levier principal chez Matthias
