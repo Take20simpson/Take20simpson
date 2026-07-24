@@ -1484,6 +1484,23 @@ Le truc, c'est que personne n'avait le mode d'emploi à me filer, parce que mon 
 
 C'est ça que je vois dans l'étape d'aujourd'hui. Le peloton grimpe quand même, sans savoir exactement à quoi s'attendre, juste parce qu'il faut avancer pour le découvrir.
 
+### [25/07/2026] — post — Tour de France, Alpe d'Huez (Approche 2, corrigée par Matthias — espacement + micro-retouches, probablement la version à publier)
+Ce qui me plaît dans l'étape d'aujourd'hui sur le Tour de France, c'est que personne n'a jamais grimpé l'Alpe d'Huez deux fois d'affilée avant, alors le peloton improvise en direct, sans plan
+
+Ya plus de cent ans d'histoire du Tour, des centaines de coureurs qui ont grimpé cette montagne, et pourtant aujourd'hui personne n'a de retour d'expérience sur ce qui les attend.
+
+Ils improvisent en pleine étape, devant des millions de gens, sur un truc que personne n'a jamais testé avant eux
+
+Ça me parle parce que c'est ce que j'ai vécu en montant mon activité. Je n'avais aucun mentor, aucun diplôme, personne pour me dire comment faire.... J'ai payé un coaching à 1500 euros en pensant que ça allait me donner le mode d'emploi, et on m'a filé des templates à copier-coller, sans jamais m'expliquer pourquoi ça marchait ou pas.
+
+J'ai enchaîné huit mois de prestations gratuites en me disant que ça allait suffire à me faire connaître, et j'ai fini avec zéro euro sur le compte 😆
+
+Je pense que personne n'avait le mode d'emploi à me filer, parce que mon chemin n'existait pas encore avant que je le fasse
+
+C'est ça que je vois dans l'étape d'aujourd'hui.
+
+Le peloton grimpe quand même, sans savoir exactement à quoi s'attendre, juste parce qu'il faut avancer pour le découvrir.
+
 ### [25/07/2026] — post — Tour de France, Alpe d'Huez (Approche 3, Mathis Clouet) — non publiée
 Ce qui me plaît dans l'étape d'aujourd'hui sur le Tour de France, c'est que personne n'a jamais grimpé l'Alpe d'Huez deux fois d'affilée avant, alors le peloton improvise en vrai, en direct, sans plan.
 
