@@ -363,6 +363,10 @@ Relier plusieurs comportements du prospect pour lui montrer un PATTERN qu'il ne 
 
 **ATTENTION :** Ne jamais formuler le pattern comme un reproche. Toujours comme une observation neutre + question.
 
+**Piege identifie (cas Marie Bello, 24 juillet 2026) : ne jamais deployer un pattern-linking juste apres une reponse purement blague/legere du prospect, meme si le pattern est reel et deja observe plusieurs fois dans la conversation.** Exemple rejete par Matthias ("trop directe ca ne peut pas passer a ce moment la de la conv") : Marie venait de repondre a une question de projection par une pirouette drole ("Absolument aucune idee 😂"), et la reponse proposee etait "ça doit être ta réponse un peu par défaut dès que ça touche à planifier un truc non, ou c'est cette question-là en particulier qui te fait dire ça ?" — une observation de comportement, meme enjouee et formulee en question, reste trop analytique pour ce moment precis. Le prospect vient de signaler par son ton qu'elle veut alleger, pas s'engager serieusement ; lui repondre par une lecture de son comportement (meme legere) la remet en question a un moment ou elle cherchait juste a decompresser.
+
+**La regle affinee :** apres une pirouette/blague pure du prospect, matcher son energie PUREMENT (validation courte et legere, zero analyse, zero observation de pattern) avant d'envisager quoi que ce soit d'autre — quitte a ne poser aucune question de fond sur ce message-la. Garder le pattern-linking en reserve pour un moment ou le prospect est deja engage plus substantiellement, jamais juste apres une esquive humoristique.
+
 ---
 
 ### Regle 12 — Posture d'offreur, jamais demandeur
