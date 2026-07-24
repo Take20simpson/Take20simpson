@@ -150,4 +150,13 @@ Aujourd'hui (24 juillet)
 
 ---
 
+### Marlène Leprovost
+
+24 juillet
+18:21 Matthias : Salut Marlène, merci pour ton like sous mon post de je sais plus quand d'ailleurs 😁
+18:27 Marlène : Salut Matthias, de rien ! Je ne sais plus de quel post il s'agit non plus 🫣
+18:30 Matthias : (réactions 🤌🤣🙌) Je crois que c'est celui où je parlais du fait d'augmenter ses prix.
+
+---
+
 *Document créé le 22 juillet 2026, en complément de `JOURNAL.md`, à la demande de Matthias (besoin d'une sauvegarde brute complète des conversations, pas seulement un résumé).*
