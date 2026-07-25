@@ -614,6 +614,13 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Stats : pas encore publié.
 - Notes : deuxième post généré via le module, angle PA-10 (Le mauvais fit client), Angle 1. Angle 2 (le client qui coûte plus cher en énergie qu'il ne rapporte en argent) encore disponible pour la suite sans redite.
 
+### 25/07/2026 — Prospection ≠ spam (SA-5, vidéo, validée par Matthias, pas encore tournée)
+- Format : vidéo
+- Angle retenu (dicté par Matthias) : "C'est trop marrant quand même, on a dramatisé le terme prospection, on a jeté des pierres dessus comme si c'était forcément être insistant, faire du forcing, du spam. Alors qu'en fait c'est quoi concrètement la prospection ? C'est savoir commenter de la bonne manière, savoir se connecter de la bonne manière, savoir discuter avec sincérité et de l'humain derrière. Et c'est jamais vendre en ouverture."
+- Mécanisme : catalogue SA-5 (Débunker la prospection), thème jamais traité en vidéo ni en post à ce jour. Reprend une conviction déjà évoquée par Matthias par le passé (pas récemment) — signalé par lui-même à la lecture du brief, mais jugé suffisamment espacé pour ne pas être une redite, angle jugé bien trouvé.
+- Stats : pas encore tournée.
+- Notes : premier test du nouveau format de brief vidéo (2-3 bullets max, zéro jargon, voir correction du 25/07 dans `SKILL_CONTENU_LINKEDIN.md`) qui a fonctionné — Matthias a su l'amener sans script. Consigner les stats réelles ici dès qu'il revient dessus.
+
 ---
 
 *Document créé le 22 juillet 2026, dans le cadre de la nouvelle architecture à 4 pôles.*
