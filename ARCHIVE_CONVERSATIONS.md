@@ -155,6 +155,9 @@ Aujourd'hui (24 juillet)
 18:53 Marie : Non c'est la première fois (réactions 🤌🤣🙌) Mais je ne vais pas me travestir en "mec qui s'étrangle avec sa cravate" pour prouver une compétence. Il est vrai que l'échange est toujours détendu mais c'est ma manière de communiquer, je veux pas en changer
 18:58 Matthias : Ouiiii carrément, te dénaturer pour ça ce serait contre-productif, l'authentique ça marche largement mieux que le charabia sur la durée. Je vois souvent ce réflexe chez les gens que j'accompagne, cette peur de manquer de sérieux si on reste soi-même. Toi tu dirais que c'est quoi qui rassure vraiment un prospect au final, si c'est pas le vocabulaire ?
 18:58 Marie : (réactions 🤌🤣🙌) Mon calme et mon expérience clairement / Et mon optimisme 😂 / C'est vrai, je prends tout du bon côté, la vie est courte on va pas se prendre la tête. Mais ça ne m'empêche pas d'être sérieuse et de vouloir bien faire mon travail
+19:02 Matthias : Ahah l'optimisme en plus, ça complète bien le trio 😄 Et clairement les deux se marient bien, être détendue empêche pas d'être rigoureuse, ça se sent direct rien qu'à ta façon d'en parler. Et avec un nouveau prospect, ça se ressent dès le premier échange ou faut un peu de temps pour que la confiance s'installe ?
+19:08 Marie : Non c'est direct parce que c'est comme LinkedIn je pars du principe que si les choses doivent se faire elles se feront
+19:10 Matthias : (réactions 🤌🤣🙌) Oui je vois
 
 ---
 
