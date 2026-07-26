@@ -629,6 +629,13 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Stats : pas encore publié.
 - Notes : 3 approches livrées (clivante, normale, Mathis Clouet), texte intégral dans `ARCHIVE_CONTENU.md`. Matthias choisit l'approche à publier.
 
+### 26/07/2026 — Volume avec intention, 110 demandes/semaine (SA-4, Angle 1, réécrit par Matthias, prêt pour mardi 28/07)
+- Format : post
+- Accroche : "J'ai envoyé 110 demandes de connexion par semaine pendant un mois, et voici ce qui s'est passé...."
+- Mécanisme : premier post Solution Aware (SA-4) du corpus, choisi par Claude sans idée de départ de Matthias (application de la nouvelle règle de choix autonome, voir Historique) — sert aussi à rééquilibrer le ratio après une série Problem Aware/Personal Brand. Accroche de Claude durcie par Matthias (110 au lieu de 100, "un mois" au lieu de "des mois") + suspense volontaire assumé comme exception ponctuelle (voir tension notée dans `SKILL_STRATEGIE.md`, Principe #7). Corps entièrement réécrit par Matthias lui-même pour démontrer en direct les mécanismes de fluidité humaine — texte intégral et détail des mécanismes dans `ARCHIVE_CONTENU.md`.
+- Stats : pas encore publié (prêt pour mardi 28/07).
+- Notes : moment de calibrage majeur sur le Ton & Voix — nuances capturées dans `SKILL_CONTENU_LINKEDIN.md` (points de suspension à longueur extrême en clôture, distribution asymétrique des emojis, parenthèses d'aparté, mise en garde sur la sur-utilisation de l'Approche 3/Mathis Clouet). Le "zéro client" mentionné est un fait réel déjà documenté (`CLAUDE.md`, Parcours), pas un chiffre inventé.
+
 ---
 
 *Document créé le 22 juillet 2026, dans le cadre de la nouvelle architecture à 4 pôles.*

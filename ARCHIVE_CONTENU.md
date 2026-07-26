@@ -1607,6 +1607,23 @@ Cette dernière ligne, c'est la seule qui a vraiment changé un truc chez moi. L
 
 > Post test/humour (photo de Matthias avec 26 billets de 50€, 1300€, posés sur son lit chez sa mère, décor et pose jouées 100% au premier degré, aucun clin d'œil visuel). Accroche affirme un chiffre gagné fictif ("gagné hier en une journée") — pas un vrai résultat business, décision assumée par Matthias malgré le risque signalé une fois par Claude (voir tension notée dans `SKILL_STRATEGIE.md`, Principe #7). Matthias choisit l'approche à publier.
 
+### [26/07/2026] — post — Volume avec intention, 110 demandes/semaine (SA-4, Angle 1) — VERSION FINALE ÉCRITE PAR MATTHIAS, prête pour mardi 28/07
+J'ai envoyé 110 demandes de connexion par semaine pendant un mois, et voici ce qui s'est passé....
+
+rien, rien et encore rien 😂
+
+Ahhh, mais tu croyais vraiment qu'on pouvait avoir des résultats avec ce genre de technique merdique ?
+
+En vrai arrête de croire que le nombre de demandes va te sauver. Le volume sans mettre de l'énergie, c'est du bruit, pas de la prospection
+
+J'ajoutais un peu n'importe qui... je commentais vite fait, je speedais pour cocher la case du jour
+
+Et du coup j'en ai eu plein des connexions (vraiment plein), mais aucune conversation qui aboutissait à quelque chose de concret.
+
+Trois mois plus tard, je n'ai envoyé que 40 connexions par semaine, en choisissant qui je contactais et pourquoi, j'ai eu 5x plus de réponses qu'avec les 110 par semaine réunis 🤣
+
+> Post généré via `SKILL_CONTENU_LINKEDIN.md` Module 1, catalogue Solution Aware SA-4 (Régularité + intensité > méthode parfaite), thème jamais traité en post jusqu'ici — choisi par Claude sans idée de départ de Matthias (nouvelle règle du process, voir Historique 26/07). Accroche initiale proposée par Claude ("100 demandes... des mois... zéro client") jugée trop fade/pas assez précise par Matthias, qui l'a durcie lui-même (110, "un mois" au lieu de "des mois") et a introduit volontairement le suspense "voici ce qui s'est passé" — exception ponctuelle à la règle anti-suspense-creux du Module 1, pas une réouverture générale de la règle (même traitement que la tension notée sur le post billets, `SKILL_STRATEGIE.md` Principe #7). Matthias a ensuite entièrement réécrit le corps lui-même pour servir de démonstration en direct des mécanismes de fluidité humaine (voir nuances capturées dans `SKILL_CONTENU_LINKEDIN.md`, section Ton & voix, 26/07/2026) : points de suspension de longueur variable dans le même post, minuscule volontaire sur un fragment qui rebondit ("rien, rien et encore rien"), emojis distribués au feeling et non à intervalle régulier, parenthèse d'aparté ("(vraiment plein)"), interjection orale en cours de post ("En vrai"). Le chiffre "zéro client" ancré sur le vécu réel déjà documenté de Matthias (voir `CLAUDE.md`, Parcours), pas un résultat inventé.
+
 ---
 
 *Document créé le 22 juillet 2026, en complément de `JOURNAL.md`, à la demande de Matthias (besoin d'une sauvegarde du contenu, posts et vidéos, plus détaillée que le résumé du journal, sans dupliquer les transcriptions mot pour mot).*
