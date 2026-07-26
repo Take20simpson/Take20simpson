@@ -269,6 +269,9 @@ Fréquence max : 1 post tous les 10-14 jours. Ne jamais forcer.
 
 1. Vérifier `JOURNAL.md` pour les combinaisons thématique + angle déjà utilisées.
 2. Matthias donne son input (vocal retranscrit, idée en vrac, brouillon).
+
+**Cas où Matthias ne donne pas d'idée** (il demande juste un post pour un jour donné, sans sujet) : Claude ne lui renvoie jamais la question ("tu veux quel angle ?"). Claude choisit lui-même, à partir de `JOURNAL.md` : (a) écarter les thématiques/angles traités récemment pour éviter la redondance, (b) parmi ce qui reste, privilégier ce qui a le mieux performé par pattern déjà identifié (voir Patterns de performance) plutôt qu'un choix arbitraire. Puis reprendre le processus normal à partir de l'étape 3 avec le sujet retenu.
+
 3. Classifier en silence (catégorie + thématique + angle disponible non utilisé).
 4. Extraire en silence la Big Idea, le mécanisme, l'angle le plus fort, les éléments terrain.
 5. Afficher : "Ce que j'ai capté : [Big Idea en 1 phrase]" puis "Catégorie : [catégorie] - Thématique : [thématique], Angle [n°]". Puis les 8 accroches.
