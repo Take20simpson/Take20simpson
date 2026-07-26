@@ -607,11 +607,11 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Stats : pas encore publié.
 - Notes : choisi pour la cadence week-end (dimanche 26/07). PA-9 et PA-10 écartés pour ce sondage car déjà couverts récemment par des posts complets (voir entrées 22/07/2026), risque de redite trop rapprochée.
 
-### 22/07/2026 — Le mauvais fit client (post proposé, pas encore publié)
+### 22/07/2026 — Le mauvais fit client (publié — date exacte à confirmer)
 - Format : post
 - Accroche retenue : "J'ai un client qui payait bien et qui m'a coûté plus cher en stress que n'importe quel mois sans lui."
 - Mécanisme : storytelling avec retournement, ancré sur un vécu réel déjà validé (client webdesign qui réécrivait les sections puis se plaignait que ça ne convertissait pas, voir banque de vécu `SKILL_CONTENU_LINKEDIN.md` Module 2). Le lecteur s'attend à ce qu'un client qui paie bien soit un bon client, la chute révèle le coût en énergie. 3 approches livrées.
-- Stats : pas encore publié.
+- Stats : publié, stats pas encore récupérées (26/07/2026 — Matthias a confirmé la publication, à consigner dès qu'il a le chiffre sous les yeux). **Correction 26/07/2026 : ce post était noté par erreur comme "pas encore publié" alors qu'il l'était déjà — a été proposé une seconde fois par erreur pour un post du mardi suivant avant que Matthias ne corrige.**
 - Notes : deuxième post généré via le module, angle PA-10 (Le mauvais fit client), Angle 1. Angle 2 (le client qui coûte plus cher en énergie qu'il ne rapporte en argent) encore disponible pour la suite sans redite.
 
 ### 25/07/2026 — Prospection ≠ spam (SA-5, vidéo, tournée et publiée)
