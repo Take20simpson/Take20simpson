@@ -634,7 +634,7 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Question : "Tes clients, aujourd'hui, ils arrivent surtout par où ?"
 - Options : 📝 Contenu (posts, vidéos) / Prospection directe (DM) 💬 / Le bouche à oreille / 💸 Pub ou tunnel de vente (position d'emoji variée sur les 4 options, voir règle du 25/07 dans `SKILL_CONTENU_LINKEDIN.md`)
 - Mécanisme : premier sondage sur SA-1 (les 5 stratégies d'acquisition comparées dans la Croyance Centrale, `SKILL_STRATEGIE.md` Partie 2), choisi par Claude sans thème donné par Matthias (nouvelle règle de choix autonome). Sondage diagnostic/factuel plutôt qu'opinion — sert avant tout à récupérer une vraie donnée de segmentation d'audience (qui croit encore au contenu/bouche-à-oreille vs qui est déjà convaincu par la prospection directe), pas juste à driver de l'engagement.
-- Stats : pas encore publié (prêt pour lundi 27/07).
+- Stats : pas encore publié (validé par Matthias le 26/07/2026 sans aucune retouche — question, options et texte d'accompagnement jugés "nickel" — prêt pour publication lundi 27/07).
 - Notes : thème jamais testé en sondage. Écarté volontairement : PA-1 (utilisé dimanche 26/07), PA-9/PA-10 (déjà couverts par des posts complets récents), SA-4 (post complet prévu mardi 28/07) — pas de redondance avec la semaine en cours.
 
 ### 26/07/2026 — Volume avec intention, 110 demandes/semaine (SA-4, Angle 1, réécrit par Matthias, prêt pour mardi 28/07)
