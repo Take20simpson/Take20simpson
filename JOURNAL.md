@@ -629,6 +629,13 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Stats : pas encore publié.
 - Notes : 3 approches livrées (clivante, normale, Mathis Clouet), texte intégral dans `ARCHIVE_CONTENU.md`. Matthias choisit l'approche à publier.
 
+### 26/07/2026 — Humour/GIF, taux de réponse ex vs DM (PB-4, réécrit par Matthias, prêt pour mardi midi)
+- Format : post + GIF (nouveau sous-format, à sourcer par Matthias)
+- Accroche : "Taux de réponse sur mes DM de prospection cette semaine : 76%"
+- Mécanisme : test explicite de calibrage humour/second degré demandé par Matthias. 3 pistes courtes proposées par Claude, développées 2-3x en longueur sur demande, Piste 1 (ghosting DM vs ghosting ex) retenue puis entièrement réécrite par Matthias. Sert de leçon Ton & Voix supplémentaire — voir détail complet des mécaniques dans `ARCHIVE_CONTENU.md` et règles capturées dans `SKILL_CONTENU_LINKEDIN.md` (chiffres inventés désormais autorisés/préférés à l'abstraction, flèche ASCII comme variante à l'ellipse, ellipse comme temps comique pré-chute).
+- Stats : pas encore publié (prêt pour mardi midi 28/07).
+- Notes : **planning à confirmer** — proposé initialement en plus du post SA-4 déjà calé pour mardi (deux posts le même jour, un sérieux + un humour à midi). Matthias n'a pas confirmé explicitement malgré 2 relances de Claude ; traité par défaut comme un 2e post le même jour sauf correction de sa part avant publication.
+
 ### 26/07/2026 — Sondage croyance centrale, 5 stratégies comparées (SA-1, prêt pour lundi 27/07)
 - Format : post (sondage natif)
 - Question : "Tes clients, aujourd'hui, ils arrivent surtout par où ?"

@@ -1624,6 +1624,25 @@ Trois mois plus tard, je n'ai envoyé que 40 connexions par semaine, en choisiss
 
 > Post généré via `SKILL_CONTENU_LINKEDIN.md` Module 1, catalogue Solution Aware SA-4 (Régularité + intensité > méthode parfaite), thème jamais traité en post jusqu'ici — choisi par Claude sans idée de départ de Matthias (nouvelle règle du process, voir Historique 26/07). Accroche initiale proposée par Claude ("100 demandes... des mois... zéro client") jugée trop fade/pas assez précise par Matthias, qui l'a durcie lui-même (110, "un mois" au lieu de "des mois") et a introduit volontairement le suspense "voici ce qui s'est passé" — exception ponctuelle à la règle anti-suspense-creux du Module 1, pas une réouverture générale de la règle (même traitement que la tension notée sur le post billets, `SKILL_STRATEGIE.md` Principe #7). Matthias a ensuite entièrement réécrit le corps lui-même pour servir de démonstration en direct des mécanismes de fluidité humaine (voir nuances capturées dans `SKILL_CONTENU_LINKEDIN.md`, section Ton & voix, 26/07/2026) : points de suspension de longueur variable dans le même post, minuscule volontaire sur un fragment qui rebondit ("rien, rien et encore rien"), emojis distribués au feeling et non à intervalle régulier, parenthèse d'aparté ("(vraiment plein)"), interjection orale en cours de post ("En vrai"). Le chiffre "zéro client" ancré sur le vécu réel déjà documenté de Matthias (voir `CLAUDE.md`, Parcours), pas un résultat inventé.
 
+### [26/07/2026] — post — Humour/GIF, taux de réponse ex vs DM (PB-4) — VERSION FINALE ÉCRITE PAR MATTHIAS, prête pour mardi midi
+Taux de réponse sur mes DM de prospection cette semaine : 76%
+
+Taux de réponse de mon ex à mon dernier message, envoyé y'a trois jours : 0%
+
+Je m'en rends compte cet aprèm, entre deux messages --> Un prospect qui met du temps à répondre, ok, je note, je relance.... next step
+
+Mon ex qui me laisse en vu depuis trois jours sur un "ça va ?"... ça, en revanche, ça me travaille bien plus que n'importe quel vu sur linkedin 😂
+
+Sur LinkedIn j'ai un process, une relance, une prochaine action
+
+Sur elle, j'ai juste... rien
+
+Y'a clairement un des deux domaines où je suis vraiment meilleur
+
+[GIF à sourcer par Matthias : quelqu'un qui repose son téléphone, dépité]
+
+> Premier post du corpus dans un nouveau sous-format : humour/second degré + GIF, hors périmètre du catalogue PA/SA/PR/PB existant en tant que tel (classé provisoirement PB-4 "L'humain", le plus proche). Parti de 3 pistes courtes proposées par Claude sans thème donné par Matthias, développées 2-3x en longueur sur demande, puis Matthias a choisi la Piste 1 (ghosting DM vs ghosting ex) et réécrit lui-même le corps final pour démontrer en direct plusieurs mécaniques : chiffres précis (76%/0%) préférés à une formulation prudente/abstraite ("plutôt bon") — règle assouplie le même jour, voir `SKILL_CONTENU_LINKEDIN.md` Règles absolues ; points de suspension utilisés comme temps comique avant un mot-chute ("je relance.... next step") ; flèche ASCII "-->" comme variante à l'ellipse en milieu de phrase (confirmé par Matthias comme intuition de variation, pas une erreur) ; saut de ligne même entre deux lignes très courtes et parallèles (76%/0%) pour le timing comique ; coupe des mots explicatifs de trop en fin de post ("professionnellement", "Zéro plan.") pour ne pas sur-expliquer la chute.
+
 ---
 
 *Document créé le 22 juillet 2026, en complément de `JOURNAL.md`, à la demande de Matthias (besoin d'une sauvegarde du contenu, posts et vidéos, plus détaillée que le résumé du journal, sans dupliquer les transcriptions mot pour mot).*
