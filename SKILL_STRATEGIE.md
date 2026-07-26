@@ -208,6 +208,8 @@ Ne jamais dire "le prix". Toujours dire "l'investissement". Parce qu'il y a un r
 - Montre COMMENT tu fais, pas juste ce que tu promets
 - Les reconnaissables vendent moins fort au debut, mais plus longtemps
 
+**Tension non tranchee, cas isole a garder en tete (26 juillet 2026) :** pour un post test/humour (photo avec des billets, voir `JOURNAL.md` 26/07/2026), Matthias a choisi une accroche qui affirme un chiffre gagne fictif ("voila ce que j'ai gagne hier, en une seule journee") — une vraie affirmation factuelle fausse sur un resultat business, pas juste une formulation ambigue. Claude a signale une fois le risque (si un prospect ressort ce post en DM/appel, ca peut couter la confiance au moment ou elle compte le plus, et ca contredit le message meme du post qui denonce ce genre de fausse promesse chiffree). Matthias a tranche de la garder pour maximiser l'effet putaclic sur ce post precis, en connaissance du risque. **Ce n'est pas une nouvelle regle generale** — la doctrine "ne jamais inventer de chiffre/resultat" reste la norme par defaut pour tout le reste du contenu. A ne pas reproduire par defaut sur un futur post sans en rediscuter explicitement avec Matthias.
+
 ### Principe #8 : La Vente S'apprend (Process > Talent)
 
 - 100% des mauvais vendeurs pensent que "pas tout le monde ne peut etre fort en vente"

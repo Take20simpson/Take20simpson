@@ -621,6 +621,14 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Stats : pas encore tournée.
 - Notes : premier test du nouveau format de brief vidéo (2-3 bullets max, zéro jargon, voir correction du 25/07 dans `SKILL_CONTENU_LINKEDIN.md`) qui a fonctionné — Matthias a su l'amener sans script. Consigner les stats réelles ici dès qu'il revient dessus.
 
+### 26/07/2026 — Photo billets, bait sincère "argent facile" (PB-3 Angle 4, post proposé, pas encore publié)
+- Format : post (photo de Matthias avec 26 billets de 50€, 1300€, posés sur son lit chez sa mère)
+- Accroche retenue : "Voilà ce que j'ai gagné hier, en une seule journée, sans rien faire de spécial."
+- Mécanisme : bait sincère assumé — accroche et photo jouées 100% au premier degré (zéro clin d'œil visuel ni textuel), pour reproduire fidèlement les codes des posts "argent facile" (liasse, phrase vague sur la mentalité) et ne révéler le vrai message (dénonciation du mécanisme + retour au vécu réel : coaching à 1500€, 8 mois de gratuit, déclic mode automatique -> mode intention) que plus loin dans le corps du texte. Nouvel angle du catalogue PB-3 (Opinions tranchées) du skill posts-linkedin (catalogue propre au skill, distinct de celui de `SKILL_CONTENU_LINKEDIN.md`).
+- Décision assumée avec risque signalé une fois par Claude, puis respecté (méthode de challenge, `SKILL_STRATEGIE.md` Partie 1) : l'accroche affirme un chiffre gagné fictif ("gagné hier en une journée") qui n'est pas un vrai résultat business — à l'origine l'argent n'a aucun sens business précis (juste des billets que Matthias avait chez lui). Matthias a tranché de garder l'affirmation fictive pour maximiser l'effet putaclic de ce post test/humour, en connaissance du risque si un prospect la ressort en DM ou en appel. Voir tension consignée dans `SKILL_STRATEGIE.md` (Principe #7).
+- Stats : pas encore publié.
+- Notes : 3 approches livrées (clivante, normale, Mathis Clouet), texte intégral dans `ARCHIVE_CONTENU.md`. Matthias choisit l'approche à publier.
+
 ---
 
 *Document créé le 22 juillet 2026, dans le cadre de la nouvelle architecture à 4 pôles.*

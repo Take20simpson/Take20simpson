@@ -1548,6 +1548,65 @@ ils grimpent sans savoir exactement à quoi s'attendre, juste parce qu'il faut a
 
 > Itérée en direct avec Matthias sur plusieurs passes (accroche sans charnière analytique, ouverture en scène incarnée avec antagoniste nommé plutôt qu'exposition statistique, fragment "zéro plan zéro recul" enveloppé dans une phrase sujet/verbe). Tous les patterns dégagés capturés dans `SKILL_CONTENU_LINKEDIN.md`.
 
+### [26/07/2026] — post — Photo billets, bait sincère "argent facile" (Approche 1, Clivante) — non publiée
+Voilà ce que j'ai gagné hier, en une seule journée, sans rien faire de spécial.
+
+Non, je déconne.
+
+Cet argent, il n'est pas tombé du ciel hier. C'est des billets que j'avais chez moi, je les ai sortis, posés sur mon lit, et j'ai fait la photo, exactement comme tout le monde la fait sur ce réseau.
+
+Et ça a marché sur toi. Avoue-le. T'as regardé la photo avant de lire la légende, et une partie de toi s'est dit qu'il avait peut-être trouvé un truc que t'as pas encore trouvé.
+
+Arrête deux secondes et regarde ce qu'on te vend avec ce genre de post. Une liasse, une bagnole, une phrase vague sur la mentalité, et t'as l'impression que cette personne détient un raccourci que toi t'as pas.
+
+Y'a pas de raccourci. Y'a des gens qui ont bossé un truc précis pendant longtemps, et d'autres qui ont acheté une liasse et un jean slim pour la photo.
+
+Moi j'ai galéré des mois à prospecter sans structure, zéro client à la clé. J'ai payé 1500 euros pour un coaching qui m'a filé des templates à copier-coller. J'ai bossé gratuit pendant 8 mois pour "me faire un nom", et sur mon compte ça donnait toujours zéro.
+
+Ce qui a changé, ce n'est pas une photo. C'est le jour où j'ai arrêté de prospecter en mode automatique et où j'ai commencé à le faire avec une vraie intention derrière chaque message.
+
+Ça, ça se prend pas en photo.
+
+### [26/07/2026] — post — Photo billets, bait sincère "argent facile" (Approche 2, Normale) — non publiée
+Voilà ce que j'ai gagné hier, en une seule journée, sans rien faire de spécial.
+
+En vrai non. Cet argent était déjà chez moi. Je l'ai sorti, je l'ai posé sur mon lit, j'ai pris la photo, et je me suis dit que j'allais tester un truc.
+
+Parce que ce genre de photo, on la voit tout le temps sur ce réseau. Une liasse de billets, une bagnole, parfois une villa en fond, et une légende du style "si toi aussi tu veux vivre comme moi". Et à chaque fois, ça capte l'attention, même la mienne, même en sachant très bien ce que c'est.
+
+Alors je voulais voir ce que ça faisait de la faire moi-même, en assumant direct que c'est du vent.
+
+Parce que la vraie histoire, elle est beaucoup moins photogénique. Y'a deux ans, je prospectais dans le vide, sans structure, sans intention, et j'avais zéro client. J'ai payé 1500 euros un coaching qui devait tout changer, et qui m'a donné des templates à copier-coller, sans comprendre pourquoi ça marchait ou pas. J'ai enchaîné 8 mois de prestations gratuites pour "me faire une crédibilité", et à la fin de chaque mois, le compte affichait zéro pareil.
+
+Ce qui a vraiment changé les choses, c'est pas un jour, c'est pas une photo. C'est le moment où j'ai arrêté de prospecter en mode automatique, et où j'ai commencé à le faire avec une intention précise derrière chaque message.
+
+Ça, ça tient pas sur une photo. Mais c'est ça qui a tout changé.
+
+### [26/07/2026] — post — Photo billets, bait sincère "argent facile" (Approche 3, Mathis Clouet) — non publiée
+Voilà ce que j'ai gagné hier, en une seule journée, sans rien faire de spécial.
+
+Sauf que non.
+
+Cet argent était déjà chez moi. Je l'ai juste sorti, posé sur mon lit, et pris en photo.
+
+Ce genre de post, tu le connais par cœur. Il coche toujours les mêmes cases :
+
+- une liasse de billets, ou une bagnole
+- une phrase vague sur "la mentalité" ou "l'état d'esprit"
+- jamais un chiffre vérifiable, jamais une méthode expliquée
+- une légende qui te fait sentir en retard sur ta vie
+
+Ce qu'il ne montre jamais, par contre :
+
+- les mois sans un seul client
+- le coaching à 1500 euros qui filait juste des templates à copier-coller
+- les 8 mois de prestations gratuites pour "se faire un nom", zéro euro à la fin
+- le jour où t'arrêtes le mode automatique et où tu commences enfin à prospecter avec une intention derrière chaque message
+
+Cette dernière ligne, c'est la seule qui a vraiment changé un truc chez moi. Le reste, c'est juste une photo.
+
+> Post test/humour (photo de Matthias avec 26 billets de 50€, 1300€, posés sur son lit chez sa mère, décor et pose jouées 100% au premier degré, aucun clin d'œil visuel). Accroche affirme un chiffre gagné fictif ("gagné hier en une journée") — pas un vrai résultat business, décision assumée par Matthias malgré le risque signalé une fois par Claude (voir tension notée dans `SKILL_STRATEGIE.md`, Principe #7). Matthias choisit l'approche à publier.
+
 ---
 
 *Document créé le 22 juillet 2026, en complément de `JOURNAL.md`, à la demande de Matthias (besoin d'une sauvegarde du contenu, posts et vidéos, plus détaillée que le résumé du journal, sans dupliquer les transcriptions mot pour mot).*
