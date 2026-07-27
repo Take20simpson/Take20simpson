@@ -744,6 +744,21 @@ Ok, ca fait combien de temps que t'es dans cette situation ? Et t'es satisfaite 
 
 ---
 
+### Situation 6bis : Le prospect a une conviction stable qui resiste au creusage direct (pas une defense fragile)
+
+**Contexte :** different de la Situation 6. Ici, plusieurs tentatives de "pourquoi"/quantification distinctes, sur des sujets differents, retombent systematiquement sur le meme socle philosophique du prospect (ex : fatalisme optimiste, "si ca doit se faire ca se fera"). Ce n'est pas une esquive tactique qui craquerait sous plus de pression — c'est authentique et stable. Continuer a pousser frontalement (Situation 6) devient contre-productif : ca commence a ressembler a du forcing, precisement ce que ce type de prospect denonce spontanement chez les autres prospecteurs.
+
+**Bascule recommandee (ajoutee le 27 juillet 2026, cas Marie Bello) :** arreter le creusage frontal ("pourquoi", quantification directe) et basculer sur de l'humour/callback qui cree une permission de se plaindre, plutot qu'une interrogation. Objectif : faire nommer un exemple concret et recent (un post precis, un moment precis) plutot qu'une reponse philosophique/abstraite. La question reste ouverte mais elle est deguisee en boutade complice, pas en question de qualification.
+
+**Exemple (contexte : prospect qui vient de reaffirmer sa philosophie positive apres un signal de frustration reelle) :**
+```
+Ahah, "toujours dans le positif" version officielle 😄 Mais entre nous y'a pas eu UN moment cette semaine où t'as fixe le chiffre des vues en mode "serieux ?"
+```
+
+**Pourquoi ca marche :** ca rebondit sur ses mots exacts (Regle 1), ca reste dans le registre complice deja installe plutot que de changer de ton, et ca demande un fait precis ("un moment", "un post") plutot qu'une explication — plus facile a admettre pour quelqu'un qui a horreur de sonner comme quelqu'un qui se plaint.
+
+---
+
 ### Situation 7 : Le prospect ghost apres une question
 
 **Sequence de relances :**
