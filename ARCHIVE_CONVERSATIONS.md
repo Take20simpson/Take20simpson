@@ -472,6 +472,8 @@ mardi (date exacte non précisée, ~22 juillet)
 09:45 Matthias : Alors, le fameux drame du mercredi, ça a donné quoi avec le devis finalement ?
 09:47 Florence : Hello / Ben envoyé devis mais pas avant septembre parce que part en vacances en août
 09:48 Florence : J'en avais un autre sur malt que j'ai fait début juillet devait me répondre le vendredi le lundi j'ai relancé devait me répondre ils attendaient d'autres devis j'ai re relancé le vendredi d'après et zéro réponse depuis
+09:51 Matthias : Ah ça c'est clairement le pire scénario, relancer plusieurs fois pour zéro retour au final. Plus je parle à des indés en sur-mesure, plus je vois ça revenir, le silence total après un devis, souvent pire qu'un vrai refus. Ça t'arrive dans combien de cas sur tes derniers devis, ce genre de silence ?
+09:59 Florence : Malt c'est régulier y a tellement de concurrence que les tarifs pratiqués ils prennent le moins cher mais il pourrait répondre c'est la moindre des choses
 
 ---
 
