@@ -656,6 +656,13 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Stats : pas encore publié (prêt pour mardi 28/07).
 - Notes : moment de calibrage majeur sur le Ton & Voix — nuances capturées dans `SKILL_CONTENU_LINKEDIN.md` (points de suspension à longueur extrême en clôture, distribution asymétrique des emojis, parenthèses d'aparté, mise en garde sur la sur-utilisation de l'Approche 3/Mathis Clouet). Le "zéro client" mentionné est un fait réel déjà documenté (`CLAUDE.md`, Parcours), pas un chiffre inventé.
 
+### 27/07/2026 — Léna Sun, expertise vs perception (lancement Contenu qui Vend)
+- Format : commentaire punch
+- Accroche du post commenté : "Des coachs qui passent 8 heures à préparer une séance exceptionnelle mais 8 minutes à expliquer pourquoi quelqu'un devrait travailler avec elles."
+- Mécanisme : post tactique/business (autrice +450 clients) avec promo de lancement de formation le lendemain — dosage humour qui marche (options 1 et 3) sans forcer sur un post par ailleurs sérieux, profondeur gardée sur insight/clivant/storytelling. Option 5 (clivant) pointe la tension entre le message ("le vrai sujet c'est la perception") et le timing promo (formation qui ouvre pile le lendemain), en restant sur le raisonnement.
+- Stats : pas de retour de performance pour l'instant (commentaire posté pour visibilité sur gros compte, pas un post de Matthias).
+- Notes : 6 options + question de fin générées via `SKILL_COMMENTAIRES_PUNCH.md`, aucune retouche demandée par Matthias sur cette série. Texte intégral du post + propositions dans `ARCHIVE_CONTENU.md`.
+
 ---
 
 *Document créé le 22 juillet 2026, dans le cadre de la nouvelle architecture à 4 pôles.*
