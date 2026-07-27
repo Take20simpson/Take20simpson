@@ -643,6 +643,7 @@ Le message redige tel quel, pour reference — utile a Matthias pour voir un exe
 - **INTERDIT — la formule "ca doit etre [emotion] de [situation]" (cas Marie Bello, 13 juillet 2026).** Exemple rejete : "Ah zut, ça doit être frustrant de mettre autant d'énergie dedans et de voir que ça bouge pas." Feedback de Matthias : "ça fait vraiment robotique et IA". Cette structure diagnostique l'emotion du prospect a sa place, un peu comme une reformulation de coach/therapeute — ca sonne scripte, jamais comme une vraie reaction humaine spontanee. Prefer une reaction directe et courte, comme on reagirait vraiment a l'oral (ex : "Ah zut ça bouge toujours pas", "Naan sérieux ça a pas bougé ?") plutot que de nommer/expliquer l'emotion supposee du prospect a sa place.
 
 - **Extension du meme interdit — meme une validation d'ouverture ne doit pas nommer/deviner une emotion non exprimee (2e occurrence cas Marie Bello, 13 juillet 2026).** Exemple corrige par Matthias lui-meme : proposition de Claude "Ah ouais je comprends que ça foute un peu les jetons quand même, surtout après 3 ans sans le moindre souci de ce genre" jugee "trop dans l'approbation, trop bizarre". Meme si ce n'est pas exactement la formule "ca doit etre", "je comprends que ca [emotion]" fait la meme erreur de fond : on attribue un ressenti ("les jetons") qu'elle n'a jamais formule. Correction de Matthias : couper court, garder l'accroche neutre et factuelle ("Ah ouais je comprends surtout après 3 ans sans le moindre souci de ce genre") sans qualificatif emotionnel invente, et enchainer plus vite sur la suite (ici, le signal marche) plutot que de s'attarder sur une validation longue. Le test : est-ce que je nomme un sentiment qu'elle n'a pas dit elle-meme ? Si oui, le couper.
+- **Eviter les guillemets qui encadrent un mot/une expression en plein milieu du message (correction du 27 juillet 2026, cas Marie Bello — jugee "trop repetee, mecanique, bizarre, pas naturel").** A l'oral, personne ne cite entre guillemets ce qu'il vient lui-meme de dire ou ce que dit le prospect. Reprendre le mot/l'expression directement integre dans la phrase, sans guillemets — ou le paraphraser. S'applique de facon generale, pas juste a ce cas precis. (Regle de style DM — probablement transposable aux commentaires LinkedIn, a confirmer/capturer cote `SKILL_CONTENU_LINKEDIN.md`/`SKILL_COMMENTAIRES_PUNCH.md` si Matthias le valide dans une session dediee a ce pole.)
 
 ---
 
@@ -752,7 +753,7 @@ Ok, ca fait combien de temps que t'es dans cette situation ? Et t'es satisfaite 
 
 **Exemple (contexte : prospect qui vient de reaffirmer sa philosophie positive apres un signal de frustration reelle) :**
 ```
-Ahah, "toujours dans le positif" version officielle 😄 Mais entre nous y'a pas eu UN moment cette semaine où t'as fixe le chiffre des vues en mode "serieux ?"
+Ahah toujours dans le positif version officielle 😄 Mais entre nous y'a pas eu UN moment cette semaine où t'as regarde tes vues en mode serieux la ?
 ```
 
 **Pourquoi ca marche :** ca rebondit sur ses mots exacts (Regle 1), ca reste dans le registre complice deja installe plutot que de changer de ton, et ca demande un fait precis ("un moment", "un post") plutot qu'une explication — plus facile a admettre pour quelqu'un qui a horreur de sonner comme quelqu'un qui se plaint.
