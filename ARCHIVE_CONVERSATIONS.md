@@ -288,7 +288,9 @@ mardi (date exacte non précisée, ~22 juillet)
 12:57 Matthias : 🫪
 🪉
 
-*(pas de réponse d'Alice depuis — conversation abandonnée, relance en cours le 27 juillet)*
+27 juillet
+09:23 Matthias : Plus sérieusement ça se passe comment ton mois d'août tu penses, ça va être calme avant la rentrée ou tu vises encore du gros ?
+09:44 Alice : Ah non non mais il faut arrêter maintenant hein
 
 ---
 
