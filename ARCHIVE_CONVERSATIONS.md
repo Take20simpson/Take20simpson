@@ -464,4 +464,112 @@ mardi (date exacte non précisée, ~22 juillet)
 
 ---
 
+### Virginia Prat (Miss Office)
+
+25 mai
+13:01 Matthias : Hello Virginia, au plaisir d'échanger
+
+26 mai
+09:22 Virginia : Bonjour Matthias, au plaisir :)
+09:26 Matthias : Yes carrément, t'en es venu comment toi à devenir indépendante ? Moi j'ai eu mon bac et je m'en suis direct lancé parce que j'en avais marre des études, haha.
+09:39 Virginia : Oui je te comprends ! Et tu as bien fait ! Moi je suis un peu plus vieille ;) J'en ai eu marre de galérer à m'organiser avec mon patron et mes collègues dès que j'avais besoin d'une journée ou même quelques heures
+10:19 Matthias : Oui, je comprends. C'est jamais facile ce genre de situation. Et du coup cette année ou dans les prochains mois c'est quoi ton focus ?
+10:27 Virginia : Dans l'immédiat, le focus c'est trouver mes clients et après ce sera d'automatiser au max pour augmenter les clients et donc les revenus sans faire plus d'heures
+10:28 Matthias : OK top, parce que pour bien comprendre t'as commencé depuis quand ?
+10:31 Virginia : ça fait un gros mois que je me suis lancée réellement
+10:39 Matthias : Ok top et t'as déjà mis des trucs en place ?
+10:49 Virginia : A quel niveau tu veux dire ?
+10:54 Matthias : Pour justement, essayer d'avoir tes premiers clients
+11:25 Virginia : Je suis en train de revoir mon offre pour qu'elle soit plus juste et plus attrayante, je fais une prospection suivie et ciblée (enfin j'essaie) et je post régulièrement
+11:56 Matthias : Ah top ça ! Donc tu parles avec ta cible en construisant ton offre, c'est absolument ce qu'il faut faire à mon sens
+15:22 Virginia : Oui je pense aussi et je suis impatiente que ça paie vraiment !
+
+27 mai
+09:53 Matthias : haha ok ok :p Et du coup avec ta prospection, t'as eu combien de conversations avec des prospects depuis que t'es lancée ?
+10:33 Virginia : De conversations, je dirais environ 20
+10:35 Matthias : C'est pas mal en vrai Et au niveau de l'avancement, tu commences à entrevoir des trucs intéressants avec certaines conversations ?
+12:07 Virginia : Oui il y a quelques profils pour qui ce serait intéressant mais pas tout de suite, j'ai envoyé un devis ce matin ...
+
+28 mai
+10:56 Matthias : Ok sympa, le devis c'est bon signe ! Et sur les 20 conversations en tout, t'as converti combien en clients jusqu'ici ?
+12:17 Virginia : Pour l'instant, aucun :( Sauf peut-être celui qui a eu le devis s'il valide 🤞
+12:35 Matthias : t'en penses quoi toi de ce ratio ? je croise les doigts avec toi pour le devis.
+12:38 Virginia : Il n'est pas terrible ce ratio 😅
+12:40 Matthias : à ton avis, c'est quoi le plus gros frein là dans tes conversations ? Ce qui fait que ça convertit pas encore ?
+12:42 Virginia : Je pense que je n'arrive pas au bon moment : souvent c'est trop tôt pour les prospects car pas encore le budget ou trop tard car déjà organisé. Il faut que je cible mieux par rapport au timing à mon avis
+12:49 Matthias : Et quand tu dis trop tôt ou trop tard, c'est eux qui formulent ça ou c'est ton interprétation de la conv ?
+12:50 Virginia : Un peu des deux
+12:55 Matthias : Pour bien que je comprenne quand c'est ton interprétation, ça ressemble à quoi ces conversations ? Il se passe quoi qui te fait sentir que c'est pas le bon moment ?
+14:15 Virginia : Je n'ai pas en tête les mots exacts mais les réponses sont évasives et en général ils dévient la conversation sur leur offre
+14:22 Matthias : OK c'est intéressant, ça veut beaucoup dire. Ça te dérange de juste me copier coller une conversation pour que je me rende compte réellement
+
+29 mai
+14:07 Virginia : Je suis désolée, j'avoue que je ne sais plus trop avec qui j'ai dit quoi 😅
+14:30 Matthias : En vrai n'importe laquelle c'est juste que je me fasse une idée sur ce qu'il va et ce qu'il va pas / Comme ça, si j'ai des tips à te donner, je te les donne
+14:33 Virginia : Ok, je vais regarder
+14:35 Matthias : Même si tu m'en mets deux ou trois ça me dérange pas l'objectif c'est que je capte l'énergie générale, et ne t'embête pas, tu fais juste un copier coller, ça marche très bien
+14:36 Virginia : Déjà une : [copie d'une conversation avec Lucien Arbieu — 11:28 Lucien : "Hello Virginia, j'ai vu que t'avais fait un tour sur mon profil. Si t'es tombé dessus par hasard, bienvenue. Et si tu cherchais quelqu'un pour un sujet web ou automatisation, t'es au bon endroit. Dis-moi si t'as un projet en tête, je te dirai en 2 min si je peux t'aider ou pas" / 11:40 Virginia : "Bonjour Lucien, je suis tombée sur ton profil hier en cherchant comment optimiser mon profil Malt (d'ailleurs les conseils que tu donnais dans un de tes posts a été utile, ma visibilité a augmenté 😁). Mon seul projet en tête pour le moment c'est que mon activité d'assistante de direction indépendante décolle (je viens de me lancer à mon compte). Tu peux peut-être m'aider sur ce point si tu as des conseils ou si tu pourrais avoir besoin de mes services pour déléguer quelques tâches chronophages puisque ton planning est plein... Au plaisir d'échanger, Virginia" / 11:52 Lucien : "Ravi que ça t'ai été utile :) Oui c'est compliqué de se lancer au début mais avec les bonnes stratégies ça peut aller assez vite" / 12:17 Virginia : "C'est ce que j'ai compris et que j'essaie de mettre en place en prenant des conseils un peu à droite à gauche et en regardant les profils similaires au mien qui fonctionnent bien." / (22 mai) 11:29 Virginia : "Hello ! Je repasse dire bonjour ! Depuis notre échange j'ai bien avancé sur mon positionnement et ma visibilité commence à décoller 🙌 Bon plus sur LinkedIn que sur Malt mais c'est déjà ça ;) J'ai affiné mon offre autour des fondateurs de startups, avec des ressources gratuites que je partage régulièrement. Le retour est plutôt positif. Je me suis dit que nos univers pourraient se croiser : toi sur le web et l'automatisation, moi sur la délégation et l'organisation des dirigeants. Si jamais tu as des clients qui galèrent côté admin ou organisation, je suis preneuse d'une mise en relation 😊 Et si toi tu as besoin de déléguer quoi que ce soit, l'offre tient toujours ! A très vite, Virginia" / 11:41 Lucien : "Hello Virginia pas de soucis c'est noté :)" / 11:50 Virginia : "🙏🤣👏 Merci à toi :)"]
+15:40 Matthias : [note vocale, 0:27]
+15:41 Matthias : [note vocale, 1:00] / [note vocale, 0:41]
+15:43 Matthias : [note vocale, 0:05]
+15:49 Virginia : Oui je vois tout à fait ce que tu veux dire et je suis d'accord, "j'attaque" trop rapidement. Je ne suis pas super bonne en prospection mais ça viendra à force 😀 Merci pour tes conseils !
+16:09 Matthias : Pour le coup la prospection c'est vraiment un art, il faut vraiment des mois si ce n'est des années d'expérience pour comprendre chaque rouage. Comprendre pourquoi dans cette situation tu lui poses cette question et pas une autre. Parce que vraiment la prospection c'est pas suivre un script bateau, c'est s'adapter à chaque prospect, parce que chaque prospect a des subtilités, chaque prospect a une personnalité en face, donc c'est pour ça que c'est un art / Mais tu es sur la bonne voie 😊
+16:12 Virginia : Oui c'est clair !! Merci beaucoup 😊
+16:20 Matthias : Pour bien me rendre compte, tu t'organises un petit peu comment au niveau de la prospection et même de manière plus générale les actions que tu fais pour essayer d'avoir des clients que ce soit de la création de contenu, prospection etc. Tu peux me dire un petit peu le temps que tu allous chaque jour ou pas pour que je me rende compte.
+
+1 juin
+13:30 Virginia : Plus ou moins, je fais 2 posts par semaine et, pour le moment, je passe presque 4h par jour en prospection (identification, ddes de connexion, conversations, commentaires, etc). Comme je n'ai qu'un client, une fois que mon travail pour lui est terminé, je passe le reste de mon temps dessus pour que ce soit plus "rapide" même si pour l'instant ce n'est pas vraiment le cas
+13:35 Matthias : Ok, top ! Franchement respect parce que c'est pas tout le monde qui commence qui met en ton énergie sur ce genre de tâches. Habituellement j'ai remarqué que les gens y vont progressivement et se trouvent pas mal d'excuses.
+13:43 Virginia : Ben je n'ai pas vraiment le choix si je veux que ça marche
+14:26 Matthias : Je suis d'accord.
+
+10 juin
+08:43 Matthias : hello Virginia, alors comment ça se passe de ton côté ? Ça va un peu mieux niveau prospection ? Tu arrives à te dépatouiller ?
+10:26 Virginia : Salut Matthias, Je me dépatouille, c'est le terme 😅 Je teste différentes approches mais je n'en ai pas encore trouvé une qui fonctionne vraiment ... J'essaie de passer à 3 posts par semaine (mon cerveau fume à force de chercher des idées, il n'a pas l'habitude de cet exercice 🤯
+10:33 Matthias : Ahah je comprends on est tous passé par là je penses 😄
+10:34 Matthias : C'est quoi le plus dur dans le fait de trouver la bonne approche en prospection ? Les gens ils te répondent pas ? Ils ne sont pas intéressés ? Ou c'est autre chose
+10:53 Virginia : Les pas intéressés, c'est pas trop grave encore, ce n'est pas toujours le bon moment mais c'est surtout qu'il y en a pas mal qui ne répondent pas du tout...
+11:08 Matthias : [note vocale, 0:50]
+11:10 Matthias : [note vocale, 0:29]
+11:11 Matthias : [note vocale, 0:40] / [note vocale, 0:23]
+13:52 Virginia : Ouais je vois le tableau, effectivement ce n'est pas simple tout ça mais je comprends un peu mieux certaines choses avec tes explications ;)
+14:27 Matthias : Bon bah je suis content si ça peut un peu t'éclairer
+14:36 Virginia : Yes ! Merci infiniment
+15:12 Matthias : avec plaisir 😊 Je suis content d'avoir pu échanger avec toi, comme ça on a pu creuser et voir vraiment ce qui pouvait être amélioré. Et si je t'ai posé aussi toutes ces questions, c'était pour voir si je pouvais t'apporter quelque chose, et je pense que oui pour le coup. ça te dit qu'on prenne 20 min en visio ? pour que je capte où t'en es précisement, et que je t'apporte quelque chose pour améliorer ton taux de réponses et l'engagement de tes prospects / je suis dispo jeudi fin de matinée ou vendredi matin au cas ou
+
+11 juin
+11:40 Virginia : Salut Matthias, désolée de ne pas avoir répondu avant. Je pense en effet que tu pourrais m'aider mais j'ai déjà un rendez-vous demain pour débuter un éventuel accompagnement plus général (offre, positionnement, prospection etc). En fonction, si le feeling n'y est pas, je reviendrai vers toi avec plaisir 😊 Merci en tous cas pour tous tes conseils, j'essaie déjà de les appliquer ;)
+11:42 Matthias : T'as 100% raison vas-y au feeling, tu le sentiras
+11:43 Virginia : Yes !
+
+12 juin
+17:04 Matthias : Alors ça s'est bien passé cet appel ?
+
+15 juin
+09:52 Virginia : Hello ! Oui nickel ;) Je pense qu'on va pouvoir avancer. Merci pour tout.
+09:52 Matthias : top ça! N'hésite pas à me tenir au courant de ton parcours.
+09:53 Virginia : Avec plaisir :)
+09:53 Matthias : 👍
+
+10 juillet
+19:22 Matthias : Hello, ça m'a bien fait marrer nos échanges en commentaire ahah
+19:31 Virginia : Hello, oui moi aussi ! Tu as une vraie plume dis donc 😅
+20:47 Matthias : Ah bon tu trouves c'est gentil / J'aime bien pousser les délires loin, ça me fait vraiment rigoler
+21:03 Virginia : Oui je vois ça ! Moi je n'ai pas du tout cette créativité/répartie dans les délires comme ça mais ça me fait bien rire en tous cas.
+21:14 Matthias : faut juste se lâcher faut vraiment aller chercher dans l'absurde, c'est ça qui est marrant
+
+13 juillet
+11:23 Matthias : Au fait, tu m'avais dit que tu me tiendrais au courant de ton parcours ;) ca donne quoi depuis le temps ?
+11:55 Virginia : Je t'avais dit ça ? Ben tu vois c'est le timing parfait parce que ça commence à bouger. J'ai 2 propositions de contrat en attente de signature :)
+12:03 Matthias : Ah mais nickel alors, félicitations !! Le timing est parfait, easy 😄 / Ça s'est débloqué comment, c'est ton accompagnement qui a payé ou ça vient d'ailleurs ?
+12:05 Virginia : Je pense que l'accompagnement m'aide bien (c'est encore en cours) mais surtout ma visibilité qui commence à être un peu plus importante et ma prospection
+12:12 Matthias : Ah trop bien, et concrètement qu'est-ce que t'as changé dans ta façon de prospecter, ça a débloqué quoi exactement ?
+12:35 Virginia : Ma façon d'écrire les messages, j'ai plus de réponses déjà et 2 propos envoyées ;)
+12:50 Matthias : Ah nickel, ça prouve que la manière d'écrire ça change vraiment tout. Trop content pour toi, continue comme ça !
+12:56 Virginia : Merci beaucoup :)
+
+*(pas de réponse de Virginia depuis — conversation abandonnée, relance en cours le 27 juillet)*
+
+---
+
 *Document créé le 22 juillet 2026, en complément de `JOURNAL.md`, à la demande de Matthias (besoin d'une sauvegarde brute complète des conversations, pas seulement un résumé).*
