@@ -195,4 +195,46 @@ mardi (date exacte non précisée)
 
 ---
 
+### Amanda Cascino
+
+9 juillet
+15:15 Matthias : Helloooo Amanda
+
+10 juillet
+09:09 Amanda : Hello !
+09:10 Matthias : Ça fait longtemps que tu es indépendante ?
+09:13 Amanda : Quelques mois
+09:31 Matthias : [note vocale, 0:13]
+09:47 Amanda : J'ai expliqué mon parcours dans ma bio 😉
+09:47 Matthias : Ah
+
+13 juillet
+11:43 Matthias : Ah ouais my bad, je vais aller lire ça direct 😄 Juste curieux comme question mais pourquoi le BTP et les architectes spécifiquement, t'as un lien avec ce milieu avant ?
+
+16 juillet
+11:37 Amanda : Bonjour Matthias, cela fait plus de 20 ans que je travaille dans le monde du bâtiment 😉
+
+mardi (date exacte non précisée, ~22 juillet)
+15:45 Matthias : Ah ouais 20 ans quand meme ! Et du coup qu'est-ce qui t'a decidee a te lancer en indé seulement maintenant, apres tout ce temps ? Je trouve ca un sacre grand saut perso
+15:51 Amanda : Ce qui m'a décidé, c'est mon âge "Sénior" qui fait peur aux recruteurs pour un poste salarié 😂
+15:57 Matthias : ahah non mais sérieux c'est un vrai fléau ça l'âgisme au recrutement en France, complètement absurde avec 20 ans d'expérience derrière en plus. et ça se passe comment pour toi depuis que t'as fait le switch, tu sens que ça matche mieux ce mode indé ?
+16:10 Amanda : Pour l'instant, je prospecte et cela n'a pas l'air d'etre un problème 😅 / Et toi, qu'est ce qui t'a poussé à te lancer ?
+16:16 Matthias : Moi perso j'ai eu mon bac avec genre 10,5 et tout le monde me disait que j'irais nulle part, ça m'a donné envie de prouver l'inverse en me lançant tout seul direct après / Et toi du coup ça donne quoi concrètement cette prospection, t'as déjà des clients qui en sont sortis ?
+16:17 Amanda : C'est chouette que tu ne te sois pas arrêté à ce que les autres disaient de toi ! Félicitations ! / Non, pour l'instant pas encore de client...
+16:21 Matthias : hahah merci, gentil ! / Ah ok, c'est hyper courant en début hein, personne démarre avec des clients direct. Ça fait combien de temps que tu prospectes activement du coup ?
+16:23 Amanda : Cela fait 2 petits mois...
+16:26 Matthias : Oui, en effet c'est tout récent. / Et toi tu vis ça comment ce rythme, ça te va pour le moment ou t'aimerais déjà voir des premiers résultats concrets ?
+16:26 Amanda : Dans le meilleur des mondes, j'aimerais déjà avoir mes premiers clients...
+16:34 Matthias : Oui normal Et c'est quoi le plus gros truc qui te bloque en ce moment pour atteindre ça ?
+16:35 Amanda : Passer plus de temps à commenter les posts des autres plus tôt qu'à prospecter
+16:36 Matthias : D'accord, mais pourquoi prospecter ne t'apporte pas de résultats
+16:39 Amanda : Parce qu'au début, j'ai essayé de prospecter les archi et les artisans du BTP sont peu ou pas sur LinkedIn. En ce qui concerne la méthode, j'ai suivi un coaching avec Clémentine Hédont mais je dois mal m'y prendre
+16:40 Matthias : Ah c'est intéressant ce que tu dis là mais c'est bizarre quand même t'as pas demandé à Clémentine ce qui clochait Elle devrait pouvoir t'aider sur ça non ?
+16:47 Amanda : Justement, on a un point vendredi 😉
+16:51 Matthias : Ah bon bah cool, tiens-moi au courant
+
+*(pas de réponse d'Amanda depuis — conversation abandonnée, relance en cours le 27 juillet)*
+
+---
+
 *Document créé le 22 juillet 2026, en complément de `JOURNAL.md`, à la demande de Matthias (besoin d'une sauvegarde brute complète des conversations, pas seulement un résumé).*

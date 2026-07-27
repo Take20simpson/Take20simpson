@@ -65,12 +65,13 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Dernière mise à jour : 21 juillet 2026
 
 ### Amanda Cascino — Assistante administrative indépendante pour les pros du BTP et architectes
-- Statut : Phase 3 (quantification en cours) — indépendante depuis quelques mois, prospecte depuis 2 mois, 0 client à ce stade
-- Dernier point : a révélé être passée indépendante à cause de l'âgisme au recrutement (avec autodérision). Séquence de quantification Enzo (0 client → 2 mois) posée. Dernière question envoyée : est-ce que ce rythme lui convient ou elle voudrait déjà des résultats concrets
-- Patterns utilisés : Règle 6 (quantification), Règle 7 (jauge d'empathie, rondeur substantielle), Règle 1 (rebond mots exacts), Règle 15 (auto-partage réciproque sur le parcours perso)
-- Erreur corrigée en session : affirmation condescendante sur le secteur BTP (elle a 20 ans d'expérience dedans) → capturée dans `SKILL_SETTING_DM.md` Règle 7
-- Prochaine étape probable : sa réponse sur "ça te convient ou pas" doit orienter vers Phase 4 (creusage émotionnel) si elle exprime une insatisfaction, ou vers un pivot si elle dit que ça lui va
-- Dernière mise à jour : 22 juillet 2026
+- Statut : Phase 3 avancée, conversation abandonnée après le dernier message de Matthias — relance en cours le 27/07 (Situation 10bis)
+- Dernier point : a confirmé le rythme (2 mois de prospection, pas encore de client, lui convient pas complètement — "j'aimerais déjà avoir mes premiers clients"). Blocage identifié par elle-même : passe trop de temps à commenter au lieu de prospecter, et sa niche (architectes/artisans BTP) est peu présente sur LinkedIn. A révélé avoir suivi un coaching avec une consœur (Clémentine Hédont) sans que ça résolve le problème ("je dois mal m'y prendre") — point qu'elle doit justement aborder avec sa coach "vendredi". Matthias a clos le fil sur "Ah bon bah cool, tiens-moi au courant", sans question, depuis silence côté Amanda.
+- Patterns utilisés : Règle 6 (quantification), Règle 7 (rondeur substantielle), Règle 1 (rebond mots exacts), Règle 15 (auto-partage réciproque). Relance du 27/07 = forme "curiosité concrète sur un projet mentionné" (`TEASING_METHODE_DM.md` Partie 8 point 8) — reprendre exactement le loop laissé ouvert par Matthias lui-même plutôt qu'un nouvel angle inventé ; pas de teasing/signal marché en ouverture de relance (Situation 10bis règle 7), gardés en réserve si elle rouvre sur son blocage
+- Point d'observation (pas encore validé par Matthias, à discuter si utile) : la réponse du 16/07 sur le coaching précédent ("t'as pas demandé à Clémentine ce qui clochait ?") a redirigé vers la coach plutôt que de creuser l'échec de l'accompagnement (Situation 5 attendait plutôt "c'est quoi qui a fait que ça n'a pas suffi ?"). Pas une erreur grave (aucune critique de concurrent, principe respecté) mais une occasion de creusage non saisie — à surveiller si le pattern se reproduit sur d'autres prospects déjà accompagnés ailleurs
+- Erreur corrigée en session (22/07) : affirmation condescendante sur le secteur BTP (elle a 20 ans d'expérience dedans) → capturée dans `SKILL_SETTING_DM.md` Règle 7
+- Prochaine étape probable : si elle répond sur son rdv avec Clémentine, évaluer si le vrai blocage est la méthode (mauvais canal pour sa niche BTP/archi) ou l'exécution — matière probable pour Phase 4 (creusage émotionnel) vu l'insatisfaction déjà exprimée
+- Dernière mise à jour : 27 juillet 2026
 
 ### Eléonore Moree — Responsable Learning & Development, indépendante dans ~1 mois (fin de CSP)
 - Statut : Phase 1-2, pas encore qualifiée (toujours salariée, transition CSP en cours, offre/site en construction)
