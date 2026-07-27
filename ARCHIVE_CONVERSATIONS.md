@@ -176,4 +176,23 @@ Samedi (26 juillet)
 
 ---
 
+### Charlotte Dimpre
+
+13 mai
+11:12 Matthias : hello, bravo ton post
+12:23 Charlotte : Merci 😉
+12:24 Matthias : Ça fait longtemps que tu as ton compte ?
+
+mardi (date exacte non précisée)
+14:32 Charlotte : Quelques années, et toi ?
+14:47 Matthias : Ah ça fait un bail que je t'avais envoyé un message MDR
+14:48 Charlotte : Oui désolé je reprends tous mes messages 😭
+15:39 Matthias : haha t'inquiète pas, ça arrive à tout le monde ça 😄 et du coup c'est quoi ton focus dans ton activité en ce moment ?
+18:12 Charlotte : Merci pour ta compréhension haha c'est cool de pouvoir reprendre la conversation comme ça / En ce moment, j'ai quelques side projects qui me prennent pas mal de temps mais on va dire que j'essaye d'axer davantage sur la création de sites (chose que je fais depuis des années, mais moins en presta officielle) plutôt que du SEO / Et toi ?
+18:36 Matthias : Ah ok cool
+
+*(pas de réponse de Charlotte depuis — Matthias n'a pas répondu à sa question "Et toi ?", conversation abandonnée, relance en cours le 27 juillet)*
+
+---
+
 *Document créé le 22 juillet 2026, en complément de `JOURNAL.md`, à la demande de Matthias (besoin d'une sauvegarde brute complète des conversations, pas seulement un résumé).*

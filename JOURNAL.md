@@ -79,6 +79,13 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Prochaine étape probable : suivre sa réponse sur sa prépa, rester en Phase 1-2 tant qu'elle n'est pas officiellement lancée (pas encore de vraie douleur d'acquisition active)
 - Dernière mise à jour : 21 juillet 2026
 
+### Charlotte Dimpre — Consultante SEO, créatrice de sites internet & formatrice (+150 missions)
+- Statut : Phase 1, conversation abandonnée deux fois — relance en cours le 27/07 (Situation 10bis)
+- Dernier point : premier contact 13 mai (compliment post), long silence jusqu'à un "mardi" ultérieur où elle revient d'elle-même en s'excusant de reprendre tous ses messages en retard. Le fil reprend bien ce jour-là (question focus business posée, elle répond avec un vrai partage — pivot SEO → création de sites — puis renvoie directement "Et toi ?"). Mais Matthias a raté cette réciprocité directe (Règle 13, déclencheur 4.1) en répondant seulement "Ah ok cool" sans rien partager de lui ni relancer — silence de son côté depuis.
+- Patterns utilisés : relance du 27/07 = reconnaître avec légèreté avoir zappé sa question la dernière fois (angle différent des autres relances du lot, pas un callback ni une ironie de métier) + déployer enfin le vrai teasing dû (Règle 13, forme/pas de chiffres car question d'origine vague) en miroir de son propre pivot (recentrage sur le contenu côté Matthias) + question fermée sur SON pivot SEO → sites pour relancer sur elle
+- Prochaine étape probable : si elle répond, créuser son pivot d'activité (pourquoi elle lâche le SEO, depuis quand) avant toute quantification ; profil pas encore qualifié ICP (CA/activité à confirmer)
+- Dernière mise à jour : 27 juillet 2026
+
 ---
 
 ## JOURNAL CONTENU
