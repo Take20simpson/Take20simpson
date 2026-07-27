@@ -380,6 +380,8 @@ mardi (date exacte non précisée, ~22 juillet)
 27 juillet
 09:35 Matthias : Alors ces calls après le changement d'offre, ça donne quoi ?
 09:36 Julie : Pas de oui, j'ai enregistré mes call et repéré les erreurs / Frustrant de ne pas avoir les reflexes commerciaux directement
+09:41 Matthias : Direct t'enregistrer et repérer tes erreurs toute seule, c'est un sacré réflexe franchement, la plupart des gens font même pas ça. Et sachant que t'as déjà su ajuster à fond ton offre y'a pas longtemps, c'est quoi qui te dit que le côté commercial ça marcherait pas pareil avec un peu de rodage ?
+09:45 Julie : Parce que je suis plus à l'aise sur mon clavier qu'en commercial
 
 ---
 
