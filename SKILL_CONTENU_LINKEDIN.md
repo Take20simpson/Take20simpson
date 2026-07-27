@@ -162,6 +162,8 @@ Ratio hebdomadaire cible : 40% Problem Aware / 40% Solution + Product Aware / 20
 - Angle 2 : Le coût caché du changement constant.
 - Angle 3 : Dispersion = absence d'intention partout.
 
+**Nuance ciblage, ajoutée le 27 juillet 2026 (réflexion de Matthias, à garder en tête pour tout futur angle sur "avoir un système").** L'audience qui lit Matthias sur LinkedIn est déjà Solution Aware sur le besoin d'avoir un système d'acquisition — elle est là précisément parce qu'elle l'a déjà conscientisé. Un angle qui vise à faire prendre conscience de CE besoin (variantes du "syndrome de l'imposteur = absence de système", déjà fait vidéo #6/#17 + Posts #8/#21/#53/#54, sur-répété et en perte de perf sur la 3e-4e déclinaison) est obsolète pour cette audience précise, pas juste redondant. Le vrai gap non couvert : cette audience est perdue sur QUELLE stratégie/mécanique fonctionne réellement (prospection vs contenu, quoi faire concrètement), pas sur le fait qu'il en faut une. Contrainte additionnelle posée par Matthias : ne pas combler ce gap en mode tutoriel/valeur explicite ("fais ci, fais ça") — ce format sous-performe chez lui (vidéo SA-5 prospection≠spam, 96 impressions, sous la moyenne). Piste de résolution à explorer : peindre/reconnaître la confusion elle-même (identification émotionnelle) plutôt que la résoudre avec une méthode.
+
 **PA-6 - "Ce n'est pas leur priorité".** Le freelance qui blâme la niche. Ne voit pas que la phase avant l'appel a failli.
 - Angle 1 : Le diagnostic des 3 excuses.
 - Angle 2 : Les 3 phases et leur rôle précis.
