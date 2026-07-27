@@ -386,6 +386,8 @@ mardi (date exacte non précisée, ~22 juillet)
 09:45 Julie : Parce que je suis plus à l'aise sur mon clavier qu'en commercial
 09:53 Matthias : Ouais je vois, mais au fond ton taf c'est littéralement convaincre les gens à l'écrit non ? Qu'est-ce qui fait que ça devient un truc totalement différent à l'oral pour toi ?
 09:54 Julie : Ca depend des gens justement, certains sont à l'aise à lécrit d'autres à l'oral
+09:56 Matthias : Ouais complètement, ça existe ces profils. Mais toi tu compares à quoi pour dire que t'es plutôt côté écrit, t'as vraiment mis autant d'effort sur l'oral que sur l'écrit jusqu'ici ?
+09:57 Julie : Plutôt dans le sens ou à l'écrit ça ne me deamnde aucun effort, et à l'oral beaucoup d'energie
 
 ---
 
