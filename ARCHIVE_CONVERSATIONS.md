@@ -237,4 +237,59 @@ mardi (date exacte non précisée, ~22 juillet)
 
 ---
 
+### Alice Perchaud
+
+14 mai
+10:05 Matthias : Hello Alice, cool notre échange en commentaire. Très pertinent ton poste.
+12:43 Alice : Hola ! Je te retourne le compliment, ton commentaire était très pertinent :) tu connais bien le SEO ?
+12:49 Matthias : Merci c'est gentil, j'accompagne deux clientes en SEO donc je commence à connaître un peu le domaine ahah
+
+18 mai
+09:41 Matthias : haha j'ai répondu à ta question et j'ai oublié de te la retourner :p toi c'est quoi ton focus du moment côté SEO ?
+
+19 mai
+12:01 Alice : Bahaha pas tout à fait la même question ! Mon focus n'est pas tant côté SEO (enfin, veille effrénée des dernières évolutions GEO mises à part) que côté business. Ca fait 6 ans que je suis free mais ces 2 dernières années j'avais un CDI à 80% à côté. Je suis de nouveau 100% free depuis quelques mois, donc je restructure tout et je m'applique à (re)construire ma crédibilité !
+14:54 Matthias : haha ok pas tout à fait la même question effectivement :p Et du coup "reconstruire la crédibilité" ça représente quoi pour toi ? T'as un objectif précis en tête x clients, une certaine visibilité, autre chose ?
+
+1 juin
+08:32 Matthias : Hello Alice comment ça va ?
+
+30 juin
+09:03 Alice : Hello Matthias, je reprends mes conv' Lk avec à peu près 3 siècles de retard, je m'en excuse ! "reconstruire ma crédibilité" = avoir un flot de demandes entrantes régulier, de gens qui savent déjà qu'ils veulent bosser avec moi (ou qui n'ont plus besoin de grand chose pour être convaincus). Ca passe principalement par une présence Lk, des vidéos et du réseau :)
+09:05 Matthias : Oui, merci pour ta réponse. Je n'ai même plus notre conversation en tête parce qu'on s'était laissé mi-mai je crois.
+09:08 Alice : Quelque chose comme ça oui
+09:08 Matthias : Et du coup, rappelle-moi là, t'es dans quelle situation ? T'as des clients régulièrement ou moyennement ?
+14:04 Alice : Le pic d'activité habituel de juin a été particulièrement fertile, je viens de signer 2 beaux projets et je vais probablement devoir arrêter les négociations avec un prospect par manque de bande passante !
+14:23 Matthias : Ah genial
+
+1 juillet
+15:43 Matthias : [note vocale, 0:24]
+
+6 juillet
+20:12 Matthias : Yo
+
+7 juillet
+11:58 Alice : Oups pardon j'avais pas écouté ton vocal, je suis de la team je bosse à fond juillet - août, je prends mes congés en juin et en septembre plutôt :)
+12:15 Matthias : T'as bien raison, tu fais partie des meilleurs
+
+8 juillet
+08:00 Alice : Ahaha ça veut dire que tu es dans la même team j'imagine ?
+08:27 Matthias : [note vocale, 0:33]
+
+13 juillet
+11:43 Matthias : 👋
+
+16 juillet
+18:27 Alice : 👋
+20:53 Matthias : 🫶
+
+17 juillet
+12:18 Alice : Oulah
+12:57 Matthias : 🫪
+🪉
+
+*(pas de réponse d'Alice depuis — conversation abandonnée, relance en cours le 27 juillet)*
+
+---
+
 *Document créé le 22 juillet 2026, en complément de `JOURNAL.md`, à la demande de Matthias (besoin d'une sauvegarde brute complète des conversations, pas seulement un résumé).*

@@ -73,6 +73,14 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Prochaine étape probable : si elle répond sur son rdv avec Clémentine, évaluer si le vrai blocage est la méthode (mauvais canal pour sa niche BTP/archi) ou l'exécution — matière probable pour Phase 4 (creusage émotionnel) vu l'insatisfaction déjà exprimée
 - Dernière mise à jour : 27 juillet 2026
 
+### Alice Perchaud — Freelance SEO/GEO BtoB, 60+ projets pilotés
+- Statut : Phase 2-3 avancée en contenu business, mais le fil est tombé en pur emoji depuis 2 semaines — relance en cours le 27/07 (Situation 10bis)
+- Dernier point : freelance depuis 6 ans, de nouveau 100% free depuis quelques mois après 2 ans de CDI à 80% à côté. Objectif exprimé : "reconstruire sa crédibilité" = flux de demandes entrantes régulier via présence LinkedIn + vidéos + réseau (pas de prospection directe — en tension avec la Croyance Centrale, `SKILL_STRATEGIE.md` Partie 2, mais elle semble déjà y arriver : pic de juin très fertile, 2 projets signés, a dû refuser un prospect par manque de bande passante). Sa question directe du 8/07 ("tu es dans la même team j'imagine ?", réciprocité directe Règle 13) n'a jamais reçu de vraie réponse textuelle (un vocal envoyé, jamais confirmé écouté) — le fil s'est ensuite délité en échanges 100% emoji (👋🫶Oulah🫪🪉) sans un seul mot depuis.
+- Patterns utilisés : relance du 27/07 = forme "meta-commentaire sur la conversation elle-même" (nouvelle forme, ajoutée au fil du lot de relances du 27/07, voir `TEASING_METHODE_DM.md` Partie 8 point 8) — assumer avec humour la dérive 100% emoji plutôt que l'ignorer, puis reprendre une vraie question business ancrée sur son rythme estival déjà connu (juillet-août à fond, congés en septembre)
+- Point de qualification à garder en tête : profil pas en douleur actuelle (CA généré, sélective sur ses clients, a dû refuser du monde) — pas un pain point ICP direct aujourd'hui, mais rapport chaleureux et intérêt mutuel réel à entretenir en veille plutôt qu'à forcer vers une qualification
+- Prochaine étape probable : si elle répond sur son rythme d'été/rentrée, rester en registre léger — pas de creusage business tant qu'aucun vrai signal de douleur n'apparaît (elle a explicitement une méthode contenu/réseau qui fonctionne pour l'instant)
+- Dernière mise à jour : 27 juillet 2026
+
 ### Eléonore Moree — Responsable Learning & Development, indépendante dans ~1 mois (fin de CSP)
 - Statut : Phase 1-2, pas encore qualifiée (toujours salariée, transition CSP en cours, offre/site en construction)
 - Dernier point : registre léger installé, l'a remerciée pour son soutien en commentaires (warming actif de son côté). Échange en cours sur l'été/le rythme business, teasing réciproque amorcé (elle demande comment ça se passe pour Matthias, il a répondu par un tease léger et lui a renvoyé la question sur sa préparation avant lancement)
