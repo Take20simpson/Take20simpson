@@ -377,7 +377,9 @@ mardi (date exacte non précisée, ~22 juillet)
 13:04 Julie : Non ça bloquait parce que je n'étais pas alignée avec mon offre. J'ai tout changé, j'ai des calls prévus et j'ai ressorti ton pdf, je te tiendrai au courant 😁
 14:41 Matthias : 👍
 
-*(pas de réponse de Julie depuis — conversation abandonnée, relance en cours le 27 juillet)*
+27 juillet
+09:35 Matthias : Alors ces calls après le changement d'offre, ça donne quoi ?
+09:36 Julie : Pas de oui, j'ai enregistré mes call et repéré les erreurs / Frustrant de ne pas avoir les reflexes commerciaux directement
 
 ---
 
