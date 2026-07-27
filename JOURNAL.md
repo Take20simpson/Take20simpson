@@ -51,11 +51,11 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Dernière mise à jour : 27 juillet 2026
 
 ### Marlène Leprovost — CGA Services, Assistante Administrative indépendante
-- Statut : Phase 1 (tout début, warming post-like, pas d'échange en commentaires préalable)
-- Dernier point : elle a liké un post de Matthias sur la peur d'augmenter ses prix (1400 impressions) sans se souvenir duquel — Matthias le lui a rappelé avec humour. Aucune question posée encore, on enclenche la 1ère question maintenant.
-- Patterns utilisés : Règle 14 (premier message = observation ciblée sur le like, jamais une question directe en ouverture)
-- Prochaine étape probable : 1ère vraie question Phase 1, ancrée sur le sujet du post liké (les prix) pour sonder une résonance possible sans présumer, tout en restant léger — surveiller si elle révèle un vrai blocage tarifaire (pain point ICP direct, voir `CLAUDE.md`)
-- Dernière mise à jour : 24 juillet 2026
+- Statut : Phase 1, conversation abandonnée — 1ère question posée le 24/07 (18:44) restée sans réponse, relance en cours le 27/07 (Situation 10bis)
+- Dernier point : elle a liké un post de Matthias sur la peur d'augmenter ses prix sans se souvenir duquel — Matthias le lui a rappelé avec humour, puis a demandé si le sujet des prix lui parlait ou si c'était passé par hasard dans son feed. Aucune réponse depuis (pause ~3 jours, sous le seuil d'une semaine).
+- Patterns utilisés : Règle 14 (premier message = observation ciblée sur le like) ; relance du 27/07 = Situation 10bis (pas de framing temporel, pause <1 semaine ; ne pas reposer la même question sur les prix ; changement d'angle complet vers l'ironie métier — organisation/administratif vs. post oublié — forme choisie pour varier dans le lot de relances traité le 27/07, voir `TEASING_METHODE_DM.md` Partie 8 point 8)
+- Prochaine étape probable : envoyer la relance proposée (angle organisation/scroll passif) ; si toujours pas de réponse, changer d'angle à la prochaine tentative (jamais rerepasser sur le sujet des prix ni sur ce même angle)
+- Dernière mise à jour : 27 juillet 2026
 
 ### Maryline Leroy — Signe plus & mieux, aide les freelances/solopreneurs à leur CA en 60 jours
 - Statut : Phase 1-2, registre banter installé depuis le début (elle l'a chambré sur un ghost, il a assumé avec humour)

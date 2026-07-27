@@ -169,7 +169,10 @@ Samedi (26 juillet)
 24 juillet
 18:21 Matthias : Salut Marlène, merci pour ton like sous mon post de je sais plus quand d'ailleurs 😁
 18:27 Marlène : Salut Matthias, de rien ! Je ne sais plus de quel post il s'agit non plus 🫣
-18:30 Matthias : (réactions 🤌🤣🙌) Je crois que c'est celui où je parlais du fait d'augmenter ses prix.
+18:30 Matthias : Je crois que c'est celui où je parlais du fait d'augmenter ses prix.
+18:44 Matthias : (réactions 🫠🤌🤣) mystère résolu alors 😄 Ce sujet des prix, ça t'a parlé un peu ou c'est passé par hasard dans ton feed ?
+
+*(pas de réponse de Marlène depuis — conversation abandonnée, relance en cours le 27 juillet)*
 
 ---
 
