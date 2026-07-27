@@ -381,4 +381,33 @@ mardi (date exacte non précisée, ~22 juillet)
 
 ---
 
+### Marine Vonner
+
+26 mai
+09:27 Matthias : Hello Marine, au plaisir d'échanger.
+
+1 juin
+08:23 Matthias : T'en es venu comment à être indépendante ? / Moi ça fait 4 ans que je me suis lancé et je me suis lancé direct après mon bac, même si ça n'a pas été évident dès le début.
+
+*(pas de réponse de Marine à cette question — jamais répondue)*
+
+11 juillet
+17:00 Matthias : Merci pour tous tes commentaires et ton soutien ça fait plaisir
+17:17 Marine : Avec plaisir Matthias ! 😊
+19:16 Matthias : 👍
+
+13 juillet
+10:58 Matthias : D'ailleurs, je voulais avoir ton avis. C'est quoi pour toi ce qui fonctionne vraiment sur les lignes pour avoir des clients ?
+11:00 Matthias : Parce que ça commence à vraiment me saouler. Il y a tous et son au contraire sur l'Indien, il y en a qui disent qu'il faut 100% se focus sur le contenu et c'est ça qui te rapporte des prospects. D'autres qui disent que c'est la prospection qui fait tout. Moi j'aurais tendance à dire que c'est un bon mix des deux mais c'est plus compliqué que ça, j'ai l'impression.
+13:06 Marine : Je te rejoins sur le fait que c'est plus compliqué que le débat "contenu vs prospection"... 😅 Pour moi, le contenu sert surtout à créer la confiance et à montrer son expertise. La prospection, elle, permet de créer des opportunités plus rapidement. L'un sans l'autre fonctionne rarement très longtemps. J'ai plutôt l'impression que ce qui fait la différence, c'est la régularité, la qualité des échanges et le réseau que tu construis au fil du temps. Les clients arrivent souvent par plusieurs points de contact, pas grâce à une seule action isolée
+14:48 Matthias : Ouais complètement d'accord avec toi sur les points de contact multiples, c'est hyper vrai en fait. Et concrètement toi en ce moment, ça se passe plutôt comment pour tes clients, surtout réseau/bouche à oreille comme tu dis, ou tu fais aussi un peu de direct ?
+19:23 Marine : Franchement, en ce moment, c'est surtout le réseau et le bouche-à-oreille qui m'apportent des opportunités. J'ai déjà eu quelques missions grâce à LinkedIn, mais rarement de manière directe après un seul post... Souvent, les personnes me suivent pendant plusieurs semaines, voire plusieurs mois, avant de me contacter. Ça rejoint justement ce qu'on disait sur les multiples points de contact. Après, je ne fais pas énormément de prospection pure non plus. Je suis davantage dans une logique d'échanges, de discussions et de création de liens. J'ai l'impression que ça correspond mieux à ma personnalité et que les collaborations qui en découlent sont souvent plus qualitatives. Et toi tu as l'impression que ce qui te rapporte le plus d'opportunités, c'est quoi ?
+19:58 Matthias : Perso ce qui me rapporte clairement le plus, c'est le mix quantité + intention, je vise un vrai volume de conversations mais jamais au hasard, une intention posée derrière chaque message, et ça tourne hyper bien pour moi en ce moment. / Et toi ce rythme plus lent, les gens qui te suivent des mois avant de te contacter, ça te va niveau volume, ou des fois t'aimerais que ça aille un peu plus vite ?
+20:48 Marine : Oui, clairement 😊 J'ai un peu ralenti cette partie-là ces derniers temps parce que je suis surtout à la recherche d'un poste stable en CDI. Du coup, je consacre davantage mon énergie à cette recherche qu'au développement de mon activité freelance. Après, je continue à entretenir mon réseau et à échanger avec les gens parce que j'aime vraiment cet aspect-là. Et puis on ne sait jamais d'où peut venir une opportunité ! Mais c'est vrai que si mon objectif principal était de développer mon activité, j'aurais probablement une approche plus proche de la tienne, avec davantage de volume et de prospection
+21:26 Matthias : 👍
+
+*(pas de réponse de Marine depuis — conversation abandonnée, relance en cours le 27 juillet)*
+
+---
+
 *Document créé le 22 juillet 2026, en complément de `JOURNAL.md`, à la demande de Matthias (besoin d'une sauvegarde brute complète des conversations, pas seulement un résumé).*
