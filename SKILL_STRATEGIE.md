@@ -189,6 +189,14 @@ Voir Partie 2 ci-dessus. C'est la fondation de tous les autres principes.
   - **TRANCHE par Matthias (24 juillet 2026, meme session) :** ni un probleme de volume/qualification, ni de prix, ni de credibilite en appel — Matthias confirme savoir generer des rendez-vous et gerer le closing sans difficulte. La raison reelle de l'absence de visio ce mois : **prospection volontairement mise en stand-by** pour se concentrer sur le contenu et tester des choses en parallele. Matthias cloture explicitement le sujet et continue comme il faisait. Diagnostic pricing/credibilite/offre-light ferme — ne pas rouvrir sans nouvel element de Matthias.
   - **Tension non tranchee signalee par Claude, a garder en tete (signalee une fois, per methode de challenge Partie 1, puis respectee) :** cette pause de prospection entre en tension directe avec la Croyance Centrale (Partie 2) — contenu organique = 6-12 mois avant resultats / 0 controle timing, alors que la prospection directe est presentee comme le SEUL levier fiable a 30 jours pour un freelance solo, et que Matthias est a 0 client signe sur l'offre 2000 EUR pendant cette pause. Matthias a tranche de continuer tel quel. Pas de duree de pause precisee — a suivre au prochain point strategie si la pause se prolonge sans resultat.
 
+**Regle du gratuit borne, validee le 27 juillet 2026 (cas d'usage declencheur : projet de pod LinkedIn avec Maryline Leroy, voir Partie 11) :** le "jamais gratuit" ci-dessus protege le produit paye (l'accompagnement) — pas les outils de mise en confiance/visibilite type manifeste, contenu, ou un pod d'engagement. Un outil de ce type peut etre gratuit SI et seulement SI 4 conditions sont reunies :
+1. **Fenetre de temps fermee et annoncee au prospect des son entree** — jamais decouverte apres coup, jamais indefinie
+2. **Reciprocite reelle** — le prospect engage aussi (poste, commente), jamais un don a sens unique
+3. **Aucun contenu du produit paye a l'interieur** — jamais les frameworks/setting/coaching. Sinon ca recree exactement le probleme du Framework 50 EUR discontinue le 24 juillet (donnait un apercu du produit sans le suivi, ne convertissait pas)
+4. **Fin de fenetre = conversation explicite posee a l'avance** (deboucher sur une visio ou une sortie propre du dispositif) — jamais un silence qui traine
+
+Regle generalisable a tout futur outil de mise en confiance gratuit, pas limitee au pod.
+
 ### Principe #5 : Diagnostiquer Avant de Prescrire (Analogie du Medecin)
 
 Un vrai closer n'est pas un vendeur de tapis. C'est un medecin.
@@ -691,6 +699,16 @@ L'IA (Claude et outils en general) est un pilier fondamental a tous les niveaux 
 - **Points verifies avant signature :** adresse/SIRET du contrat (Matthias domicilie "LE BROC" dans le contrat vs Nice dans `CLAUDE.md` — a confirmer que c'est la bonne adresse pro declaree) ; usage de logo croise necessite un accord ecrit separe (Art 9)
 - **Avis Claude sur l'audience :** communaute "VA" probablement mixte niveau, certaines sous le seuil ICP actuel (debutantes sans CA, voir `CLAUDE.md` Partie 2). Pas un probleme — c'est de la visibilite/autorite (Principe #7 : montrer COMMENT il bosse), pas un tunnel de vente direct — mais re-qualifier normalement les leads qui en sortiraient, ne pas assouplir le filtre ICP juste parce que le lead vient d'une collab
 - **Statut au 24 juillet 2026 :** contrat recu, relu par Claude, points d'attention transmis a Matthias. Prochaine etape : Matthias signe (sans ajout sur la remise) et prepare les livrables de com' (photo, bio, titre, resume 4 points, liens pro, tel, SIRET — voir recap actions du 24 juillet).
+
+**Ajoute le 27 juillet 2026 — Pod LinkedIn avec Maryline Leroy (cadrage en cours) :**
+- **Origine :** Maryline etait suivie comme prospect dans `JOURNAL.md` (Signe plus & mieux, aide les freelances/solopreneurs a leur CA en 60 jours), deja notee hors ICP clair ("paire potentielle plus que prospect en douleur, a requalifier"). Rapport banter/complicite construit en DM sur plusieurs semaines. Requalification actee : elle passe de prospect a partenaire potentielle
+- **Concept :** groupe prive d'engagement reciproque LinkedIn (like + commentaire qualitatif), ouvert a des prospects deja qualifies ICP et avances en conversation (Phase 3+ du setting DM) — utilise comme outil du Systeme Vitrine (Partie 5) pour accelerer la confiance avant le closing. Ne remplace pas la prospection directe (Croyance Centrale, Partie 2)
+- **Structure validee avec Matthias (27 juillet) :** application de la Regle du gratuit borne (Principe #4 ci-dessus) — gratuit mais avec fenetre fermee annoncee des l'entree, reciprocite reelle, aucun contenu du produit paye a l'interieur, fin de fenetre = conversation explicite (visio ou sortie propre)
+- **Points structurels ouverts, a trancher a l'appel avec Maryline (prevu ~29 juillet, 2 jours apres cette session) :**
+  1. **Chevauchement des pipelines :** Maryline vend une offre proche de celle de Matthias — si leurs deux viviers de prospects se cotoient dans le meme groupe, regle de non-empietement a poser explicitement (qui a le droit de pitcher qui)
+  2. **Nom presentable cote prospect :** ne jamais utiliser le mot "pod" face a un prospect (connotation growth-hacking/manipulatoire) — trouver un nom du type "cercle prive"/"groupe d'entraide"
+  3. **Charge de bande passante :** Matthias a deja mis la prospection en pause le 24 juillet faute de bande passante (voir tension non tranchee, Principe #4 plus haut). Le pod serait une 3e initiative parallele (avec le contenu) — budget-temps a definir avant lancement pour ne pas retomber dans le pattern de dispersion identifie (`CLAUDE.md` Partie 1, 3 erreurs sur 4 ans)
+- **Statut :** brainstorm de structure fait avec Claude, appel Maryline a venir pour trancher les 3 points ouverts
 
 ---
 
