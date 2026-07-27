@@ -412,4 +412,56 @@ mardi (date exacte non précisée, ~22 juillet)
 
 ---
 
+### Florence Androlus
+
+10 juillet
+07:25 Matthias : hellooo
+07:41 Florence : Hello
+07:44 Florence : Cavalaire j'y vais depuis 1971 oui suis vieille 🤣🤣🤣 Mais j'ai habité la région parisienne jusqu'à y a 2 ans ou je suis descendu squatter la maison familiale en attendant de vendre celle de la région parisienne pour acheter vers Nice car un de mes fils habite Utelle / Tu es d'où toi ? Nice ?
+07:45 Matthias : Oui, je vois. Oui, je connais bien Utelle, La madone etc... / Ouais, ça fait cinq ans que je suis pas loin de Carros. Si tu vois ou c'est
+07:45 Florence : Ben il habite à Utelle et travaille à Carros chez Schneider électrique
+07:45 Matthias : ahhhhhhh okiiii
+07:47 Florence : Il a habité en location dans l'ancien village de Carros 2 ans avant d'acheter à Utelle une maison car les prix sont moins chère là haut sur la montagne
+07:47 Matthias : oui c'est vrai !! / Et tu fais du dev toi, c'est ça ?
+07:48 Florence : Oui moi ma passion c'est créé ce qui n'existe pas pour WordPress / Après pour manger je fais des sites et de la maintenance / Mais mon kif c'est le dev backend
+07:48 Matthias : ahh ok
+07:49 Florence : Et toi tu trouves des prospects ou tu expliques comment les trouver / C'est bien le grand problème des freelance
+07:49 Matthias : J'accompagne et j'explique.
+07:51 Florence : Tjs compliqué de trouver des clients les trouver encore mais le problème c'est qu'ils veulent tout pour 500€ sauf que c'est pas comme ça que ça fonctionne / Sous prétexte que c'est WordPress ils pensent que tout est déjà fait et la maintenance n'en parlons pas ça sert à rien et après ils viennent pleurer c'est tout cassé 🤣
+07:56 Matthias : Ahah le fameux "c'est wordpress, ça doit pas être cher" 😅 ça représente quelle proportion chez toi, ces clients-là, la majorité des demandes ou plutôt occasionnel ?
+08:01 Florence : Tout dépend des prospects les gros qui peuvent payer rechigne pas les autres abandonne / J'ai une cliente qui a des soucis financiers j'ai la maintenance de son vieux site qui était en vrac que j'ai restauré mais pas les finances pour faire la refonte donc j'attends je sais quelle va le refaire mais quand 🤷 / L'autre fois on m'en envoie une pour un addon woocommerce wcfm d'ailleurs j'en ai créé un plugin sur la plateforme WordPress du coup parce que je lui annonce 2 mois de délais et 3000€ / Elle a préféré un gars à 500€ en 15j je l'avais prévenu que c'était impossible ben son projet est tombé à l'eau
+08:04 Florence : C'est fand pickup points https://fand-pickup-points-pro.fan-develop.fr/
+08:08 Florence : En fait c'est pour trouver des vendeurs ambulants comme coiffeur maraicher foodtruck etc dans les campagnes ont peut savoir où ils sont passés commande et récupérer le jour où ils sont sur son village / J'avais trouvé le concept de la cliente super mais elle a choisi le mauvais prestataire / 🤷
+08:19 Matthias : Ahah ouais clairement mauvais calcul pour elle au final 😅 Ca t'arrive combien de fois ce genre de situation tu dirais, sur une année ?
+08:20 Florence : J'ai pas tellement de clients donc je dirais 50 50
+08:26 Matthias : oki je comprends, parce que tu as combien de clients actifs en ce moment ?
+08:28 Florence : 3 maintenant et j'attends en retour devis
+08:38 Matthias : top ça
+08:41 Matthias : sinon tu trouves tes clients comment en ce moment, plutot bouche a oreille, LinkedIn, ou autre chose ?
+08:43 Florence : Bouche a oreille et malt mais très rarement malt trop de concurrence a 2€
+08:46 Matthias : Carrement, la concurrence a 2€ c'est du grand n'importe quoi, ça me tue à chaque fois les truc comme Come up, malt etc. Et LinkedIn, c'est plus pour le relationnel pour toi ou tu l'as deja utilisé pour chercher des clients ?
+08:56 Florence : Ouais je dis 2€ c'est histoire de dire qu'ils font des tarifs indécents
+09:07 Matthias : Oui j'avais compris
+09:56 Florence : Désolé je suis pas sur Cavalaire en ce moment je suis remonté mettre la maison de la région parisienne en état pour essayer de la vendre jusqu'au 23 ou 27 juillet / Mais on reste en contact et si tu connais des clients avec des besoins et vis versa je dis pas non / A bientôt bonne journée / Florence
+09:57 Matthias : 👍
+
+13 juillet
+11:42 Matthias : Ah dis donc bon courage pour la maison alors ! Ça avance bien niveau travaux ou c'est encore un sacré chantier ?
+11:49 Florence : Hello / Ah mais on a juste remis le jardin en état la maison est quasiment vide / On vient de démonter une armoire pour la mettre sur la remorque / On redescend jeudi 23 dans le Sud / C'est cool parce que grâce à une journée anniversaire samedi j'ai chopé un site a faire / J'ai fait hier un mockup à montrer elle m'a appelé dans la foulée et je la rappelle mercredi matin
+11:51 Matthias : Ah nickel alors pour le déménagement, ça avance bien ! / Et top la nouvelle pour ce site, ça sent bon vu qu'elle t'a rappelée juste après le mockup. Ça s'est goupillé comment ce contact, tu la connaissais un peu avant cette soirée ?
+11:56 Florence : Oh la comment t'expliquer simplement / C'est la belle soeur de la filleule de mon mari / Ils ont une entreprise de paysage et élagage / On avait fait appel à leur service pour 2 arbres chez nous / Du coup elle était là à l'anniversaire / On a papoté de tout et de rien de la retraite et de ce qu'on faisait et voilà
+12:00 Florence : Du coup elle me dit qu'un ami doit lui refaire son site qu'il en a fait d'autres elle me les montre pas un de sécuriser 🤣🤣🤣
+12:08 Matthias : Ahah pas sécurisé c'est le level 🤣 ça doit clairement jouer en ta faveur ça / Du coup elle penche plutôt vers toi maintenant ou elle hésite encore entre vous deux ?
+12:17 Florence : Ah non direct moi je discute avec elle demain de certains points et je fais devis
+12:20 Matthias : Ah trop bien alors, nickel ! Bonne chance pour la discussion demain, j'espère que le devis passe crème
+12:21 Florence : Pardon mercredi pas demain c'est 14 juillet 🤣
+12:22 Matthias : Oh la la, quel drame ! 🤣
+13:10 Florence : En tout cas merci affaire à suivre mercredi
+13:14 Matthias : Yes, tiens-moi au courant
+13:14 Florence : Ca marche
+
+*(pas de réponse de Florence depuis — conversation abandonnée, relance en cours le 27 juillet)*
+
+---
+
 *Document créé le 22 juillet 2026, en complément de `JOURNAL.md`, à la demande de Matthias (besoin d'une sauvegarde brute complète des conversations, pas seulement un résumé).*
