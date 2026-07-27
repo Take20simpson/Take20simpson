@@ -319,4 +319,66 @@ mardi (date exacte non précisée, ~22 juillet)
 
 ---
 
+### Julie Pinter
+
+29 juin
+09:31 Matthias : Salut Julie
+09:32 Julie : Hello Matthias! / Merci pour ta réaction à mon post :)
+09:32 Matthias : [note vocale, 0:04]
+09:33 Julie : Yesss
+09:34 Matthias : Ça fait longtemps que tu es sur LinkedIn ? Moi ça fait 34 ans
+09:34 Julie : 34 ans que tu es sur Linkedin??
+09:34 Matthias : 3/4 ans * / 😂
+09:34 Julie : Ahhh je me disais / Moi je ne sais pas j'ai activé mon compte il y a pas mal de temps mais j'ai commencé à l'utiliser il y a 7 mois
+09:35 Matthias : Ah ok / T'étais où avant sur les plates-formes de free-lance
+09:35 Julie : J'ai commencé mon activité il y a un mois / Je suis aussi sur Malt mais je n'ai pas trop optimisé mon profil
+09:36 Matthias : Ah ok / T'es au début c'est cool / Pourquoi t'as décidé de te lancer ? Moi j'ai eu mon bac il y a cinq ans et j'avais pas du tout envie de faire d'études, du coup je me suis lancé à mon compte direct
+09:39 Julie : Parce que j'ai tenu 5 ans en salariat avec un job par an et j'ai fini par péter un câble 😃 / Super! Et tu arrives à donner des conseils en prospection sans en avoir fait ?
+09:40 Matthias : C'est-à-dire tu parles du début ou autre chose ?
+09:49 Julie : Du début! C'est vraiment une question sans arrière pensée 😊
+09:51 Matthias : [note vocale, 0:11]
+09:52 Julie : Ok je vois tu as adapté ton offre en route! C'est ça que j'aime bien en free aussi
+09:52 Matthias : [note vocale, 0:42]
+09:53 Julie : Ah mais trop bien, surtout que personne ne sait et n'aime prospecter
+09:54 Matthias : Oui c'est ça / Et toi du coup t'as fait quoi ? T'as fait une formation en accompagnement ou autre chose ?
+09:57 Julie : J'ai fait une formation en rédaction web mais je suis tombée dans le ghostwriting parce que je postais dans mon ancien job et ça marchait trop bien / je compte sur la clientèle pour me donner de bons avis :)
+09:59 Matthias : Yes top c'est ça qu'il faut faire / Mais t'as eu tes premiers clients ou pas du tout
+10:00 Julie : J'en ai une actuellement
+10:00 Matthias : Cool ça
+10:01 Julie : Quelques rdv clients de programmés maintenant il faut closer aha je suis plus à l'aise à l'écrit et pour attirer / Je fais bien mon métier au moins
+10:01 Matthias : Oui oui comme tout le monde au début je pense / Tu les as eu comment par ton réseau ou par LinkedIn ?
+10:01 Julie : Par LinkedIn de mes posts
+10:02 Matthias : Ah bah comme quoi ça marche
+10:02 Julie : C'est clair!
+10:03 Matthias : Je vais aller voir vite fait ton contenu un peu plus en détail
+
+30 juin
+13:39 Matthias : Et voici [Prospecter avec intention.pdf, 129 Ko]
+13:40 Julie : Chouette!! / Merci
+
+1 juillet
+15:43 Matthias : 👍
+
+6 juillet
+20:11 Matthias : Hello Julie / J'imagine que le document devait pas t'apprendre grand-chose
+20:14 Julie : Hello Matthias ! Honte à moi je ne l'ai même pas lu... / Je jongle avec mes projets de vacances
+20:16 Matthias : T'inquiète t'inquiète / Tu pars en vacances où ?
+20:17 Julie : Je suis à la ramasse sur le business 😅 / J'étais au mont Ventoux et j'arrive sur la Côte d'Azur là
+20:21 Matthias : Ah mais c'est génial, tu viens où sur la Côte d'Azur moi je suis sur Nice
+20:22 Julie : Je suis à Fréjus là / Sympa!! Je viens du nord je me dis que je devrais déménager ici si ça marche en freelance
+20:42 Matthias : Ah mais c'est une obligation, tu ne peux pas virer dans le nord 🫪😂 / J'ai de la famille à côté d'Arras et ils viennent en vacances tous les étés dans le sud et en Corse je sais pas comment ils font pour tenir toute l'année là-bas
+20:53 Julie : Je suis bien d'accord ! / Moi c'est en Lorraine c'est pas si haut
+20:55 Matthias : Non ça va, tu es sauvé
+
+13 juillet
+11:45 Matthias : Au fait, ça a donné quoi avec tes rendez-vous clients, t'as réussi à en closer un ou ça bloque encore un peu ?
+
+15 juillet
+13:04 Julie : Non ça bloquait parce que je n'étais pas alignée avec mon offre. J'ai tout changé, j'ai des calls prévus et j'ai ressorti ton pdf, je te tiendrai au courant 😁
+14:41 Matthias : 👍
+
+*(pas de réponse de Julie depuis — conversation abandonnée, relance en cours le 27 juillet)*
+
+---
+
 *Document créé le 22 juillet 2026, en complément de `JOURNAL.md`, à la demande de Matthias (besoin d'une sauvegarde brute complète des conversations, pas seulement un résumé).*

@@ -88,6 +88,14 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Prochaine étape probable : si elle répond, rester en registre léger encore un peu avant de creuser une vraie douleur business — aucune n'a été révélée jusqu'ici (que du parcours/satisfaction), profil pas encore qualifié ICP
 - Dernière mise à jour : 27 juillet 2026
 
+### Julie Pinter — Prête-plume pour CEOs, +1,5M d'impressions
+- Statut : Phase 3, conversation abandonnée juste après une révélation business forte — relance en cours le 27/07 (Situation 10bis)
+- Dernier point : activité lancée il y a environ 1 mois (fin juin), issue du salariat ("j'ai tenu 5 ans avec un job par an et j'ai fini par péter un câble"), reconvertie de la rédaction web au ghostwriting après avoir vu ses propres posts bien marcher dans son ancien job. 1 client au début de la conversation, rdv clients programmés pas encore closés. À la relance du 13/07 sur ses rdv, elle a révélé un vrai diagnostic (15/07) : "je n'étais pas alignée avec mon offre", offre entièrement retravaillée depuis, nouveaux calls prévus, manifeste re-sorti — elle a explicitement dit "je te tiendrai au courant". Réponse de Matthias à cette révélation : juste "👍", rien de plus. Silence depuis.
+- Patterns utilisés : Règle 6 (quantification, relance du 13/07), Règle 15 (auto-partage bac/lancement). Relance du 27/07 = forme "auto-dérision sur la platitude de sa propre réponse précédente" (sixième forme du lot, `TEASING_METHODE_DM.md` Partie 8 point 8) — assumer avec humour que le 👍 était disproportionné par rapport à la nouvelle, puis suivre directement le loop qu'ELLE a laissé ouvert (son "je te tiendrai au courant")
+- **Pattern récurrent à signaler à Matthias (3e occurrence dans ce lot de relances) :** Amanda Cascino ("tiens-moi au courant" après reveal coaching), Charlotte Dimpre ("Ah ok cool" sur sa réciprocité), et maintenant Julie ("👍" après un diagnostic business très exploitable) — trois cas où une réponse très courte/passive de Matthias a coupé l'élan juste après que le prospect ait donné une matière riche. Pas encore une règle capturée dans `SKILL_SETTING_DM.md`, juste un signal à montrer à Matthias pour validation
+- Prochaine étape probable : si elle répond sur ses nouveaux calls, creuser ce qui a changé concrètement dans son offre (Règle 1, ancrer sur ses mots) avant de qualifier plus loin
+- Dernière mise à jour : 27 juillet 2026
+
 ### Eléonore Moree — Responsable Learning & Development, indépendante dans ~1 mois (fin de CSP)
 - Statut : Phase 1-2, pas encore qualifiée (toujours salariée, transition CSP en cours, offre/site en construction)
 - Dernier point : registre léger installé, l'a remerciée pour son soutien en commentaires (warming actif de son côté). Échange en cours sur l'été/le rythme business, teasing réciproque amorcé (elle demande comment ça se passe pour Matthias, il a répondu par un tease léger et lui a renvoyé la question sur sa préparation avant lancement)
