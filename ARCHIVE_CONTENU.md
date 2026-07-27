@@ -1643,6 +1643,66 @@ Y'a clairement un des deux domaines où je suis vraiment meilleur
 
 > Premier post du corpus dans un nouveau sous-format : humour/second degré + GIF, hors périmètre du catalogue PA/SA/PR/PB existant en tant que tel (classé provisoirement PB-4 "L'humain", le plus proche). Parti de 3 pistes courtes proposées par Claude sans thème donné par Matthias, développées 2-3x en longueur sur demande, puis Matthias a choisi la Piste 1 (ghosting DM vs ghosting ex) et réécrit lui-même le corps final pour démontrer en direct plusieurs mécaniques : chiffres précis (76%/0%) préférés à une formulation prudente/abstraite ("plutôt bon") — règle assouplie le même jour, voir `SKILL_CONTENU_LINKEDIN.md` Règles absolues ; points de suspension utilisés comme temps comique avant un mot-chute ("je relance.... next step") ; flèche ASCII "-->" comme variante à l'ellipse en milieu de phrase (confirmé par Matthias comme intuition de variation, pas une erreur) ; saut de ligne même entre deux lignes très courtes et parallèles (76%/0%) pour le timing comique ; coupe des mots explicatifs de trop en fin de post ("professionnellement", "Zéro plan.") pour ne pas sur-expliquer la chute.
 
+### [27/07/2026] — commentaire punch — Léna Sun, expertise vs perception (lancement Contenu qui Vend)
+
+**Post source :**
+```
+Léna Sun 🌞
+J'aide les coachs & entrepreneures à créer des offres en ligne rentables et à vendre régulièrement sans y passer tout leur temps 🌞💸 +450 clients |Top 1 Women Entrepreneur Belgium
+
+J'ai accompagné plus de 450 clients, généré plusieurs centaines de milliers d'euros de chiffre d'affaires, et pourtant je vois encore cette croyance détruire des business chaque semaine.
+
+Des coachs qui passent 8 heures à préparer une séance exceptionnelle mais 8 minutes à expliquer pourquoi quelqu'un devrait travailler avec elles.🫠
+
+Elles investissent des centaines d'heures dans leur expertise.
+Et presque aucune dans leur capacité à rendre cette expertise désirable.
+
+Le résultat est toujours le même : 
+➤ elles pensent avoir un problème de visibilité
+➤ elles ont en réalité un problème de perception
+
+Parce que personne n'achète la qualité d'un accompagnement qu'il n'a jamais vécu. Les gens achètent ce qu'ils ressentent dans leur ptit coeur.
+
+C'est d'ailleurs pour ça que des entrepreneures moins expérimentées remplissent parfois leur agenda plus vite : car elles savent transformer leur expertise en évidence.😎
+
+C'est une réalité qui pique un peu l'ego.
+Mais c'est aussi une excellente nouvelle.
+↳ parce que ça veut dire que ton prochain palier de chiffre d'affaires ne dépend peut-être pas d'une nouvelle certification, d'une nouvelle méthode ou de 10 000 abonnés de plus 
+
+Il dépend peut-être simplement de ta capacité à faire ressentir ce que vaut déjà ton travail. C'est exactement le sujet du carrousel que je partage aujourd'hui.
+
+Et ça tombe bien.
+Demain, j'ouvre officiellement les portes de Contenu qui Vend.
+
+Une formation créée pour les coachs et expertes qui savent aider, mais qui veulent enfin apprendre à créer des contenus qui donnent envie d'acheter, pas seulement envie de liker.
+J'ai hâte de vous la faire découvrir. 🌞
+```
+
+**Propositions retenues (6 options + question de fin, générées via `SKILL_COMMENTAIRES_PUNCH.md`) :**
+```
+à partir de quel moment on arrête de peaufiner l'expertise pour commencer à peaufiner l'histoire qu'on raconte dessus ?
+```
+```
+le ratio ça devrait presque être calculé en heures tellement c'est flagrant, 8h sur la séance et 8 minutes sur le pourquoi on bosse avec toi, y'a un resto 3 étoiles qui fait exactement ça avec son menu écrit au feutre sur une ardoise pendant que la cuisine tourne à fond derrière
+```
+```
+la qualité qui reste invisible ça vend jamais, ça se prouve dans les résultats mais ça se vend dans le ressenti, ça me rappelle des clients en webdesign que j'ai eu, ils réécrivaient des sections entières et se plaignaient ensuite que ça convertissait pas, alors que le design tenait très bien la route, ce qui manquait c'est que rien donnait envie de rester sur la page trois secondes de plus
+```
+```
+y'a des expertes qui pourraient littéralement ressusciter un mort avec leur méthode et qui expliquent ça dans un post écrit comme une notice de four à micro ondes, du coup le mort reste mort et la coach à côté qui bosse depuis trois semaines remplit son agenda avec un carrousel qui donne juste envie
+```
+```
+en acquisition ya un pattern qui revient tout le temps, les gens qui passent un vrai palier sont souvent ceux qui ont arrêté d'expliquer leur offre pour commencer à raconter ce qu'elle change concrètement, la compétence la plupart l'ont déjà depuis un moment, ce qui fait la différence c'est la traduction en quelque chose qu'on a envie de ressentir
+```
+```
+dire que le vrai sujet c'est la perception plutôt que la compétence ok, mais une formation qui ouvre pile le lendemain du post ça reste aussi un discours qui a tout intérêt à dire exactement ça, la perception compte à fond, juste faut pas que ça efface que parfois c'est l'offre elle même qui a besoin d'un ajustement, pas seulement l'emballage autour
+```
+```
+les gens achètent un ressenti jamais une compétence, ça tient en une phrase et ça prend quand même des années à l'intégrer pour de vrai
+```
+
+> Post tactique/business avec promo de lancement (formation ouverte le lendemain). Dosage : humour qui marche sur les 2 slots humour (options 1 et 3), profondeur gardée ailleurs. Aucune retouche demandée par Matthias sur cette série.
+
 ---
 
 *Document créé le 22 juillet 2026, en complément de `JOURNAL.md`, à la demande de Matthias (besoin d'une sauvegarde du contenu, posts et vidéos, plus détaillée que le résumé du journal, sans dupliquer les transcriptions mot pour mot).*
