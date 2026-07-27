@@ -81,6 +81,13 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Prochaine étape probable : si elle répond sur son rythme d'été/rentrée, rester en registre léger — pas de creusage business tant qu'aucun vrai signal de douleur n'apparaît (elle a explicitement une méthode contenu/réseau qui fonctionne pour l'instant)
 - Dernière mise à jour : 27 juillet 2026
 
+### Alexia Herfert — Gestion ADV et administrative BtoB/BtoC, accompagnement 100% bilingue
+- Statut : Phase 1-2, rapport très chaleureux/exagéré (salutations multilingues jouées), conversation abandonnée après deux réponses faibles de Matthias — relance en cours le 27/07 (Situation 10bis)
+- Dernier point : indépendante depuis presque 5 ans, partie car "j'en avais marre d'avoir un patron moins compétent que moi" (autodérision/fierté assumée). A gardé son CDI en parallèle de ses premiers clients pour payer son crédit, savoure aujourd'hui sa liberté ("je bosse en pyjamas"). A posé une réciprocité directe ("ça marche pour toi ?", Règle 13) — répondue par vocal, jamais de retour texte clair de Matthias. Le fil s'est éteint sur deux réponses très faibles ("Ahah t'as raison ahahahah" puis juste "👍"), aucune des deux ne relance quoi que ce soit.
+- Patterns utilisés : Règle 15 (auto-partage après question, ordre correct), Règle 13 amorcée via vocal (contenu non retranscrit). Relance du 27/07 = forme "callback sur une punchline mémorable qu'elle a dite" (cinquième forme du lot, `TEASING_METHODE_DM.md` Partie 8 point 8) — rebondir sur "patron moins compétent que moi" plutôt qu'un fait externe, en matchant le registre exagéré/playful déjà installé (salutations multilingues)
+- Prochaine étape probable : si elle répond, rester en registre léger encore un peu avant de creuser une vraie douleur business — aucune n'a été révélée jusqu'ici (que du parcours/satisfaction), profil pas encore qualifié ICP
+- Dernière mise à jour : 27 juillet 2026
+
 ### Eléonore Moree — Responsable Learning & Development, indépendante dans ~1 mois (fin de CSP)
 - Statut : Phase 1-2, pas encore qualifiée (toujours salariée, transition CSP en cours, offre/site en construction)
 - Dernier point : registre léger installé, l'a remerciée pour son soutien en commentaires (warming actif de son côté). Échange en cours sur l'été/le rythme business, teasing réciproque amorcé (elle demande comment ça se passe pour Matthias, il a répondu par un tease léger et lui a renvoyé la question sur sa préparation avant lancement)

@@ -292,4 +292,31 @@ mardi (date exacte non précisée, ~22 juillet)
 
 ---
 
+### Alexia Herfert
+
+8 juillet
+19:21 Matthias : Hollllaaaa Alexia
+19:51 Alexia : Bonsooiiiiiir
+20:35 Matthias : Come va la vida
+
+9 juillet
+08:34 Alexia : Ça va ça va
+08:35 Matthias : [note vocale, 0:06] / [note vocale, 0:19]
+17:20 Alexia : Pas de vacances en été il fait trop chaud il y a trop de monde et c'est trop cher 😅
+18:09 Matthias : Je te comprends tellement / Mais du coup comment t'en es arrivé à être indépendante, toi ? Ça fait combien de temps ? Moi je me suis lancé juste après mon bac parce que j'en avais marre de l'école
+
+13 juillet
+08:41 Alexia : Alors un jour je me suis réveillée et j'en avais marre d'avoir un patron moins compétent que moi 😅 ça fait presque 5 ans maintenant. Ça marche pour toi ?
+09:10 Matthias : [note vocale, 0:17] / [note vocale, 0:13]
+
+16 juillet
+08:18 Alexia : C'est cool oui les lancements c'est toujours compliqué moi au début j'ai gardé mon CDI en même temps en plus de mes premiers clients pour pouvoir payer mon crédit à la fin du mois mais ça vaut tellement le coup. Tu vois aujourd'hui je bosse en pyjamas 😂
+10:02 Matthias : Ahah t'as raison ahahahah
+10:48 Alexia : 🙌🏻
+12:53 Matthias : 👍
+
+*(pas de réponse d'Alexia depuis — conversation abandonnée, relance en cours le 27 juillet)*
+
+---
+
 *Document créé le 22 juillet 2026, en complément de `JOURNAL.md`, à la demande de Matthias (besoin d'une sauvegarde brute complète des conversations, pas seulement un résumé).*
