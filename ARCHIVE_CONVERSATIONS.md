@@ -474,6 +474,8 @@ mardi (date exacte non précisée, ~22 juillet)
 09:48 Florence : J'en avais un autre sur malt que j'ai fait début juillet devait me répondre le vendredi le lundi j'ai relancé devait me répondre ils attendaient d'autres devis j'ai re relancé le vendredi d'après et zéro réponse depuis
 09:51 Matthias : Ah ça c'est clairement le pire scénario, relancer plusieurs fois pour zéro retour au final. Plus je parle à des indés en sur-mesure, plus je vois ça revenir, le silence total après un devis, souvent pire qu'un vrai refus. Ça t'arrive dans combien de cas sur tes derniers devis, ce genre de silence ?
 09:59 Florence : Malt c'est régulier y a tellement de concurrence que les tarifs pratiqués ils prennent le moins cher mais il pourrait répondre c'est la moindre des choses
+10:02 Matthias : Ouais complètement, le minimum ce serait au moins de répondre, même pour dire non. Ça contraste hyper avec ta cliente du mockup qui t'a rappelée dans la foulée, c'est quoi qui fait cette différence à ton avis, entre du Malt et du bouche-à-oreille ?
+10:03 Florence : Après j'ai son 06 puisqu'il m'avait écrit mais bon j'ai pas osé l'appeler
 
 ---
 
