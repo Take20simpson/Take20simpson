@@ -460,7 +460,10 @@ mardi (date exacte non précisée, ~22 juillet)
 13:14 Matthias : Yes, tiens-moi au courant
 13:14 Florence : Ca marche
 
-*(pas de réponse de Florence depuis — conversation abandonnée, relance en cours le 27 juillet)*
+27 juillet
+09:45 Matthias : Alors, le fameux drame du mercredi, ça a donné quoi avec le devis finalement ?
+09:47 Florence : Hello / Ben envoyé devis mais pas avant septembre parce que part en vacances en août
+09:48 Florence : J'en avais un autre sur malt que j'ai fait début juillet devait me répondre le vendredi le lundi j'ai relancé devait me répondre ils attendaient d'autres devis j'ai re relancé le vendredi d'après et zéro réponse depuis
 
 ---
 
