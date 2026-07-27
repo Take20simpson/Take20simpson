@@ -159,6 +159,9 @@ Aujourd'hui (24 juillet)
 19:08 Marie : Non c'est direct parce que c'est comme LinkedIn je pars du principe que si les choses doivent se faire elles se feront
 19:10 Matthias : (réactions 🤌🤣🙌) Oui je vois
 
+Samedi (26 juillet)
+15:10 Matthias : (réactions 🫠🤌🤣) j'aime bien ta philosophie, ce côté si ça doit se faire ça se fera, y'a un vrai truc sain là-dedans.
+
 ---
 
 ### Marlène Leprovost
