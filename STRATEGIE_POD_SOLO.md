@@ -63,33 +63,111 @@ Tu hésitais entre 5 et 10. Solo, avec 100% de la charge opérationnelle sur toi
 
 La version finale par prospect passe par le pôle Setting DM — cette trame n'est qu'une base stratégique, pas le message final.
 
+**Message-type "étape 2" — pour ceux qui répondent oui à la trame ci-dessus (ajouté le 29 juillet) :**
+> "Cool, ça me fait plaisir. Je te pose le cadre vite fait avant qu'on démarre, histoire que ce soit clair dès le départ.
+>
+> Le principe : un petit groupe fermé, 5 personnes pour l'instant, où on s'entraide vraiment sur la visibilité LinkedIn. Dès que quelqu'un poste, je le partage dans le groupe, et l'idée c'est de lire le post pour de vrai, mettre la réaction qui correspond (pas un like par réflexe), et laisser un commentaire qui dit un truc réel — jamais un emoji ou un "top post".
+>
+> Deux règles, simples mais sérieuses :
+> - On engage dans la journée, dès qu'on peut
+> - Si je vois que quelqu'un décroche, 3 avertissements et il sort du groupe — pas de rancune, mais ça doit rester un truc où tout le monde est vraiment dedans, sinon ça sert à rien pour personne
+>
+> C'est gratuit pour l'instant, on est en bêta. Ça deviendra payant dans quelques semaines/mois, mais toi, si tu restes actif, t'y es depuis le début, gratuitement.
+>
+> Ça te va comme ça ? Si oui je t'ajoute."
+
+Ton : ni trop gentil ni trop cash — direct sur les règles, sans dureté, et la fin laisse une vraie porte de sortie ("ça te va ?") plutôt que de forcer l'entrée.
+
 ---
 
 ## 4. Nom présentable du pod
 
-Jamais "pod" face aux membres (connotation growth-hacking). Propositions :
-- "Le Cercle" / "Cercle privé"
-- "Le Groupe" — volontairement sobre, cohérent avec "pas d'usine à gaz"
-- "L'Entraide LinkedIn"
+Jamais "pod" face aux membres (connotation growth-hacking). **Matthias ne veut rien de stylisé/marketé** ("Le Cercle" jugé trop travaillé, "l'entraide LinkedIn" jugé cheesy) — direction retenue : authentique et brut, comme un vrai groupe entre gens qui se connaissent, pas un "programme".
 
-Recommandation : rester volontairement simple, peu marketé — un nom trop travaillé attire l'attention sur le mécanisme plutôt que sur la relation.
+**Options retenues (29 juillet) :**
+- "LinkedIn" — juste ça, rien d'autre
+- "Posts LinkedIn"
+- "On s'entraide"
+- "Coup de main"
+- "Visibilité"
+- "Matthias & co"
+
+Choix final à faire par Matthias.
 
 ---
 
 ## 5. Canal technique du groupe
 
-Recommandation déjà posée : **Telegram** plutôt que WhatsApp — pas de numéro de téléphone exposé entre membres (réglage à vérifier à la création du groupe), gratuit, pas d'abonnement. Coût : friction d'adoption (nouvelle app à installer). Skool exclu d'office (payant, ~99$/mois).
+**Choix final de Matthias : WhatsApp** (groupe déjà créé au 29 juillet) — écart par rapport à la recommandation initiale de Claude (Telegram, pour la confidentialité des numéros de téléphone entre membres). Point signalé une fois, pas bloquant, décision de Matthias respectée.
 
-Si la friction Telegram s'avère trop forte à l'usage, bascule possible vers WhatsApp en V2 — pas bloquant pour démarrer.
+**Structure : un seul groupe pour démarrer**, pas 3-4 conversations séparées. À 5 personnes, splitter trop tôt rend chaque canal peu actif et casse l'effet "ça bouge" recherché. Si besoin plus tard (une fois élargi à 10+) : un canal "Posts" séparé du canal "Discussion générale" peut être envisagé, pas avant.
+
+**Notification des nouveaux posts : partager le lien dans le groupe à chaque publication**, plutôt que compter sur la cloche de notification LinkedIn (peu fiable, dépend que chacun l'ait bien activée, et disperse l'attention au lieu de nourrir le sentiment de groupe actif).
 
 ---
 
 ## 6. Règles du groupe — à communiquer aux membres dès l'entrée
 
 - **Durée du bêta : 3-4 semaines**, annoncée dès le départ, jamais découverte après coup (Règle du gratuit borné)
-- **Rythme d'engagement attendu :** commenter (pas juste liker) les posts des autres membres, dans les heures qui suivent la publication — un commentaire qualitatif, jamais un emoji seul
+- **Mécanique d'engagement en 3 étapes, précisée le 29 juillet :**
+  1. Lire vraiment le post (pas un scroll-réflexe)
+  2. Mettre la réaction qui correspond au contenu — Insightful si ça apprend un truc, ❤️ si c'est touchant, 👏 si c'est une victoire — jamais un like générique par défaut
+  3. Laisser un commentaire qui dit un vrai truc (question, avis, exemple perso) — jamais un emoji seul ou un "top post"
+- **Rythme : dans la journée, pas dans l'heure.** Testé en conditions réelles le 29 juillet avec Amanda Cascino (une des 5 de la shortlist) : elle a refusé fermement de s'engager sur une fenêtre d'1h, deux fois de suite, malgré une tentative de compromis (fenêtre matinale). Confirme que la contrainte horaire stricte filtre exactement le profil ciblé (freelances solo, pas H24 devant l'écran) — la règle "dans la journée" est retenue comme standard, pas seulement pour elle
+- **Engager à des moments différents ne pose pas de problème** (pas besoin d'étaler artificiellement dans la journée) — Matthias a tranché que ce n'est pas un vrai risque
+- **Tracking : manuel, via la liste native de réactions/commentaires que LinkedIn affiche sous chaque post** — pas d'outil tiers (coût d'abonnement + risque de détection accru en scrapant LinkedIn). À 5 personnes, la vérification prend quelques secondes
+- **Règle de sortie, objective et non négociable :** un post resté sans réaction de la part d'un membre toute une journée = un avertissement direct et personnel. 3 avertissements cumulés = sortie du groupe, sans round supplémentaire
 - **Fin de fenêtre = conversation explicite** avec chaque membre, jamais un silence qui traîne — annoncé dès le départ pour que personne ne soit surpris
 - **Pas de contenu du produit payant à l'intérieur** — le pod reste un outil de visibilité, jamais un aperçu de l'accompagnement à 2000€
+
+---
+
+## 6bis. Rétention — comment éviter de revivre l'échec du pod précédent
+
+> Ajouté le 29 juillet, suite à la question de Matthias : comment faire que les gens restent vraiment investis dans la durée, pas juste les 3 premières semaines comme son pod précédent.
+
+- **Framing "bêta avant que ce soit payant"** (idée de Matthias, validée) : dit explicitement à l'onboarding — gratuit aujourd'hui parce qu'on teste, deviendra payant plus tard, les membres actuels y sont gratuitement s'ils restent actifs. Active la peur de perdre un avantage, plus efficace que l'envie d'en gagner un
+- **Règle de sortie objective, pas au feeling** (voir section 6) — évite l'arbitraire qui casserait la confiance du groupe
+- **Reconnaissance publique légère, à la main, pas d'outil ni de gamification** : Matthias souligne lui-même un bon commentaire quand il en voit un ("j'ai vu ton commentaire chez Julie, bien vu") — joue sur le statut sans construire de système de points
+- **Banque de conseils rapides à distribuer, pour ne pas avoir à réfléchir à chaque fois :**
+  - "Pose une vraie question à l'auteur plutôt qu'un compliment"
+  - "Ajoute un exemple perso en une phrase, même court"
+  - "Ose une nuance ou un léger désaccord — un commentaire 100% d'accord se voit moins"
+  - "Réagis à UNE phrase précise du post, pas au post en général"
+- **Boucle tip → application → reconnaissance :** Matthias donne un tip, puis souligne publiquement quand quelqu'un l'applique bien — crée une dynamique rapide sans rien construire de lourd
+- **Le fait qu'une place se libère (sortie pour inactivité) renforce lui-même la perception de valeur** du reste du groupe, si c'est géré avec tact (jamais d'humiliation publique)
+
+---
+
+## 6ter. Message épinglé — instructions générales du groupe
+
+> Version finale, prête à coller telle quelle dans le groupe WhatsApp (validée le 29 juillet).
+
+```
+👋 Bienvenue
+
+Le principe : un petit groupe fermé, où on s'entraide réellement sur la visibilité LinkedIn. Rien de plus, rien de moins — pas un service, pas un truc à moitié suivi.
+
+COMMENT ÇA MARCHE
+Dès que quelqu'un poste, le lien est partagé ici. À chaque fois :
+1. Tu lis vraiment le post (pas un scroll-réflexe)
+2. Tu mets la réaction qui correspond vraiment — Insightful si ça apprend un truc, ❤️ si c'est touchant, 👏 si c'est une victoire — jamais un like par défaut
+3. Tu laisses un commentaire qui dit un vrai truc — une question, un avis, un exemple perso. Jamais un emoji seul ou un "top post 👏"
+
+LE RYTHME
+On engage dans la journée, dès qu'on peut. Pas besoin de guetter la minute — mais un post qui reste sans réaction de ta part toute la journée, c'est un problème.
+
+LA RÈGLE, SIMPLE ET SANS EXCEPTION
+Si je vois que tu ne t'engages pas, tu reçois un avertissement direct. Au bout de 3 avertissements, tu sors du groupe. Pas de rancune — juste que ça doit rester un groupe où tout le monde est vraiment dedans, sinon ça sert à rien pour personne.
+
+C'EST GRATUIT, POUR L'INSTANT
+On est en bêta test. Ça deviendra payant dans quelques semaines ou mois. Tant que tu es actif, t'y es gratuitement, depuis le début — un vrai privilège, pas un truc qui traîne.
+
+CE QUE J'APPORTE DE MON CÔTÉ
+Des conseils de temps en temps pour muscler vos commentaires, et je mets en avant les meilleurs quand j'en vois.
+
+Voilà, c'est simple. Si ça te parle, on est là pour se pousser mutuellement, pas pour cocher une case.
+```
 
 ---
 
@@ -143,10 +221,12 @@ Basé sur les tâches ci-dessus (onboarding pilote ponctuel, suivi 2-3 messages/
 ## 13. Checklist actionnable — prochaines étapes
 
 - [ ] Confirmer la shortlist des 5 (section 2)
-- [ ] Choisir le nom (section 4)
-- [ ] Créer le groupe Telegram (section 5)
-- [ ] Envoyer les messages d'invitation individualisés (section 3, via Setting DM)
-- [ ] Faire les 5 onboardings visio (section 7)
+- [x] Créer le groupe WhatsApp (section 5) — fait le 29 juillet
+- [ ] Choisir le nom final (section 4)
+- [ ] Épingler le message d'instructions générales (section 6ter)
+- [ ] Envoyer les messages d'invitation individualisés étape 1 (section 3, via Setting DM)
+- [ ] Envoyer le message étape 2 aux "oui" (section 3)
+- [ ] Faire les onboardings visio de la cohorte pilote (section 7)
 - [ ] Démarrer le suivi tous les 2-3 jours (section 8)
 - [ ] Point de revue à 3-4 semaines (section 11)
 
@@ -154,4 +234,5 @@ Basé sur les tâches ci-dessus (onboarding pilote ponctuel, suivi 2-3 messages/
 
 ## Statut
 
-- **29 juillet 2026 :** premier jet complet créé par Claude à la demande de Matthias, suite à la mise en pause du projet commun avec Maryline. En attente de feedback/ajustements de Matthias avant exécution.
+- **29 juillet 2026 :** premier jet complet créé par Claude à la demande de Matthias, suite à la mise en pause du projet commun avec Maryline.
+- **29 juillet 2026 (suite) :** brainstorm approfondi en conversation — mécanique d'engagement précisée (temps de lecture, type de réaction, qualité du commentaire), règle "journée" validée sur le terrain avec Amanda Cascino, rétention travaillée (framing bêta/premium, reconnaissance, banque de tips), canal WhatsApp choisi et groupe déjà créé, noms repensés en version authentique/brute, message-type étape 2 et message épinglé rédigés. Document maintenant proche de l'exécution — reste à trancher le nom final et lancer les invitations.
