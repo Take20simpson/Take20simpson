@@ -262,8 +262,33 @@ La règle de propriété du prospect protège contre le poaching actif (l'autre 
 
 ---
 
+## Résultat de l'appel du 29 juillet — projet commun mis en pause, pas annulé
+
+> Transcript intégral fourni par Matthias après l'appel. Résumé de l'issue et analyse Claude.
+
+**Décision :** pas de pod commun pour l'instant. Chacun fait son propre pod de son côté. La porte reste ouverte à un pod commun plus tard, une fois que Maryline aura elle-même closé des clients via LinkedIn — les deux l'ont dit explicitement, aucune rupture, juste un "pas maintenant".
+
+**Les vraies raisons (pas de la méfiance, deux problèmes concrets) :**
+1. **Maryline n'a ni le temps ni l'envie de gérer une communauté** — dit sans détour ("j'ai pas le temps, je vais m'épuiser"). Si le pod avait démarré, 100% de la charge opérationnelle serait tombée sur Matthias — confirme en pire le risque déjà identifié sur Q2 (répartition des tâches), jamais tranché avant l'appel.
+2. **Incompatibilité structurelle entre les deux usages voulus du pod.** Le seul moyen safe identifié en direct pour un pod à deux était de n'y mettre que des clients déjà closés ("il faut les closer avant"). Mais l'usage voulu par Matthias dès le départ était l'inverse : le pod comme porte d'entrée AVANT le closing ("c'est un entonnoir", "c'est pas un upsell, c'est vraiment une porte d'entrée"). Un pod à deux aurait forcé Matthias à sacrifier le mécanisme qui l'intéressait vraiment.
+
+**Point de vigilance (pas une remise en cause) :** les garde-fous préparés avant l'appel (propriété du prospect, clause de non-sollicitation, commission de dérive, cf. sections ci-dessus) n'ont jamais été testés sur le fond — la conversation a dérivé vers l'incompatibilité d'usage avant d'y arriver. Si le sujet revient un jour avec Maryline ou un autre partenaire, ces garde-fous restent valables tels quels.
+
+**Confirmation de l'usage voulu par Matthias :** le pod est explicitement une porte d'entrée pré-closing (Système Vitrine, `SKILL_STRATEGIE.md` Partie 5), pas un upsell post-vente. En partant solo, Matthias garde ce mécanisme intact — il n'a plus à composer avec la contrainte "clients déjà closés uniquement" qu'un pod à deux aurait imposée.
+
+**Ce qui change pour la suite (Matthias solo) :**
+- Il récupère 100% de la charge opérationnelle (onboarding, modération, sélection) — le budget-temps hebdo (Rule D, jamais chiffré) devient urgent, plus une variable de confort
+- Base de départ solide : ses 5-10 prospects déjà qualifiés et en conversation active (Phase 3+), très différent de son pod précédent qui avait raté avec 15 inconnus recrutés à l'arrache
+- Toutes les règles déjà posées dans ce document (critères d'entrée, gratuit borné, garde-fous bande passante, onboarding scalable) restent valables pour la version solo — seules les sections spécifiques à la coordination avec un partenaire (Q2, Q3, propriété du prospect, non-sollicitation, commission de dérive, typologie d'avatar) deviennent sans objet pour l'instant
+
+**Petit point d'attention relationnel :** Matthias a été très direct avec Maryline sur le mécanisme du pod ("planter le virus", "brainwash mes prospects") — passe bien en privé vu leur rapport, à garder en interne, jamais dans un post ou un pitch client.
+
+**Statut :** projet commun en pause, Matthias part sur un pod solo. Reste à trancher avec Claude si/quand il veut : chiffrer le budget-temps hebdo, et transformer ce document (ou en créer un nouveau) en plan d'exécution solo.
+
+---
+
 ## Statut
 
 - **27 juillet 2026 :** brainstorm de structure fait avec Claude (voir aussi `SKILL_STRATEGIE.md` Partie 11 pour la doctrine associée). Document restructuré en checklist à la demande de Matthias, avec principe "démarrer minimal, itérer" explicite.
 - **29 juillet 2026 (avant l'appel) :** Q1 répondue via les échanges WhatsApp du 27-28 juillet — cible confirmée identique, recoupement d'offre réel. Recommandation de positionnement ajoutée (coopétition + propriété du prospect). Q3 devient centrale (n'est plus hypothétique).
-- **Ouvert :** budget-temps hebdo (encore à chiffrer), Q2/Q3 et toutes les cases de la Checklist 2 restent à trancher pendant l'appel.
+- **29 juillet 2026 (après l'appel) :** projet commun mis en pause — voir section "Résultat de l'appel" ci-dessus. Matthias part sur un pod solo avec ses prospects déjà qualifiés.
