@@ -100,9 +100,12 @@ Choix final à faire par Matthias.
 
 **Choix final de Matthias : WhatsApp** (groupe déjà créé au 29 juillet) — écart par rapport à la recommandation initiale de Claude (Telegram, pour la confidentialité des numéros de téléphone entre membres). Point signalé une fois, pas bloquant, décision de Matthias respectée.
 
-**Structure : un seul groupe pour démarrer**, pas 3-4 conversations séparées. À 5 personnes, splitter trop tôt rend chaque canal peu actif et casse l'effet "ça bouge" recherché. Si besoin plus tard (une fois élargi à 10+) : un canal "Posts" séparé du canal "Discussion générale" peut être envisagé, pas avant.
+**Structure finale (29 juillet, décidée par Matthias) : 3 canaux, pas un seul** — révise la recommandation initiale de Claude (qui proposait de démarrer avec un seul canal à 5 personnes) :
+- **"Posts"** : le lien est partagé ici dès que quelqu'un publie, c'est le canal où on va réagir
+- **"Discussion"** : tout le reste — questions, doutes, demandes de conseil, discussion libre, tout ce qui n'est pas un lien de post
+- **"Horaires"** : chacun y annonce à quelle heure il compte publier son post du jour, rien d'autre dans ce canal — sert à ce que personne ne soit pris de court et que tout le monde puisse s'organiser pour être disponible au bon moment
 
-**Notification des nouveaux posts : partager le lien dans le groupe à chaque publication**, plutôt que compter sur la cloche de notification LinkedIn (peu fiable, dépend que chacun l'ait bien activée, et disperse l'attention au lieu de nourrir le sentiment de groupe actif).
+**Notification des nouveaux posts : le lien dans "Posts" fait office de notification**, plutôt que de compter sur la cloche LinkedIn (peu fiable, dépend que chacun l'ait bien activée). Conseil donné aux membres : garder les notifications du groupe WhatsApp activées sur leur téléphone pour réagir le plus vite possible.
 
 ---
 
@@ -110,15 +113,17 @@ Choix final à faire par Matthias.
 
 - **Durée du bêta : 3-4 semaines**, annoncée dès le départ, jamais découverte après coup (Règle du gratuit borné)
 - **Mécanique d'engagement en 3 étapes, précisée le 29 juillet :**
-  1. Lire vraiment le post (pas un scroll-réflexe)
-  2. Mettre la réaction qui correspond au contenu — Insightful si ça apprend un truc, ❤️ si c'est touchant, 👏 si c'est une victoire — jamais un like générique par défaut
+  1. Lire vraiment le post (pas un scroll-réflexe) — LinkedIn récompense le temps passé sur un post bien plus qu'un like ou un commentaire écrit à la va-vite, cette raison doit être expliquée aux membres, pas juste imposée comme règle
+  2. Mettre la réaction qui correspond au contenu — jamais le pouce bleu classique (signal le plus faible pour LinkedIn), toujours une des 4 autres options : Bravo, Cœur, Instructif, ou Soutien selon ce qui correspond vraiment au post
   3. Laisser un commentaire qui dit un vrai truc (question, avis, exemple perso) — jamais un emoji seul ou un "top post"
-- **Rythme : dans la journée, pas dans l'heure.** Testé en conditions réelles le 29 juillet avec Amanda Cascino (une des 5 de la shortlist) : elle a refusé fermement de s'engager sur une fenêtre d'1h, deux fois de suite, malgré une tentative de compromis (fenêtre matinale). Confirme que la contrainte horaire stricte filtre exactement le profil ciblé (freelances solo, pas H24 devant l'écran) — la règle "dans la journée" est retenue comme standard, pas seulement pour elle
+- **Vitesse : idéal 5 à 15 minutes après la publication**, pas à la minute près mais c'est ce qui fait la vraie différence pour la portée du post. Les membres gardent les notifications du canal "Posts" activées pour réagir le plus vite possible
+- **Seuil de tolérance : rester dans la journée**, pas dans l'heure stricte. Testé en conditions réelles le 29 juillet avec Amanda Cascino (une des 5 de la shortlist) : elle a refusé fermement de s'engager sur une fenêtre d'1h, deux fois de suite, malgré une tentative de compromis (fenêtre matinale). Confirme que la contrainte horaire stricte filtre exactement le profil ciblé (freelances solo, pas H24 devant l'écran) — la règle "dans la journée" est retenue comme seuil de tolérance, la vitesse 5-15 min reste l'idéal communiqué mais pas l'obligation
 - **Engager à des moments différents ne pose pas de problème** (pas besoin d'étaler artificiellement dans la journée) — Matthias a tranché que ce n'est pas un vrai risque
 - **Tracking : manuel, via la liste native de réactions/commentaires que LinkedIn affiche sous chaque post** — pas d'outil tiers (coût d'abonnement + risque de détection accru en scrapant LinkedIn). À 5 personnes, la vérification prend quelques secondes
-- **Règle de sortie, objective et non négociable :** un post resté sans réaction de la part d'un membre toute une journée = un avertissement direct et personnel. 3 avertissements cumulés = sortie du groupe, sans round supplémentaire
+- **Règle de sortie, objective et non négociable, ton volontairement adouci (29 juillet) :** deux cas déclenchent la même mécanique — un membre qui n'engage pas du tout, ou un membre qui engage mais systématiquement très en retard. Dans les deux cas, Matthias "fait signe" à la personne plutôt que d'envoyer un "avertissement" formel. Si ça se reproduit trop souvent, la conséquence reste la même : il lui demande de laisser sa place à quelqu'un d'autre. Toujours expliqué comme un principe de réciprocité (pas là pour faire peur, mais pour que ça reste utile à tout le monde), jamais comme une sanction froide
 - **Fin de fenêtre = conversation explicite** avec chaque membre, jamais un silence qui traîne — annoncé dès le départ pour que personne ne soit surpris
 - **Pas de contenu du produit payant à l'intérieur** — le pod reste un outil de visibilité, jamais un aperçu de l'accompagnement à 2000€
+- **Conseil donné aux membres : publier à heure fixe si possible**, ça devient une habitude et personne n'est surpris — combiné au canal "Horaires" (section 5) qui annonce l'heure du jour à l'avance
 
 ---
 
@@ -126,7 +131,7 @@ Choix final à faire par Matthias.
 
 > Ajouté le 29 juillet, suite à la question de Matthias : comment faire que les gens restent vraiment investis dans la durée, pas juste les 3 premières semaines comme son pod précédent.
 
-- **Framing "bêta avant que ce soit payant"** (idée de Matthias, validée) : dit explicitement à l'onboarding — gratuit aujourd'hui parce qu'on teste, deviendra payant plus tard, les membres actuels y sont gratuitement s'ils restent actifs. Active la peur de perdre un avantage, plus efficace que l'envie d'en gagner un
+- **Framing "bêta avant que ce soit payant" — abandonné (29 juillet).** Initialement proposé par Matthias puis validé, mais retiré ensuite : le message aux membres ne doit mentionner ni un passage payant futur, ni une contrepartie de gratuité liée à l'activité. Juste "c'est gratuit, on est en bêta test", sans plus de promesse ou de mécanique de fidélisation explicite là-dessus
 - **Règle de sortie objective, pas au feeling** (voir section 6) — évite l'arbitraire qui casserait la confiance du groupe
 - **Reconnaissance publique légère, à la main, pas d'outil ni de gamification** : Matthias souligne lui-même un bon commentaire quand il en voit un ("j'ai vu ton commentaire chez Julie, bien vu") — joue sur le statut sans construire de système de points
 - **Banque de conseils rapides à distribuer, pour ne pas avoir à réfléchir à chaque fois :**
@@ -141,32 +146,32 @@ Choix final à faire par Matthias.
 
 ## 6ter. Message épinglé — instructions générales du groupe
 
-> Version finale, prête à coller telle quelle dans le groupe WhatsApp (validée le 29 juillet).
+> Version 3 (29 juillet) — Matthias voulait garder la structure (emoji, puces) qu'il aimait dans la V1, mais avec de vraies phrases complètes dans chaque puce plutôt que des fragments télégraphiques (reproche fait à la V2 tout-texte-continu). Reprend les 3 canaux, l'explication du "pourquoi" derrière chaque règle, les 4 types de réactions, la vitesse idéale, le ton adouci sur les rappels, et retire toute mention d'un futur passage payant.
 
 ```
-👋 Bienvenue
+👋 Bienvenue dans le groupe
 
-Le principe : un petit groupe fermé, où on s'entraide réellement sur la visibilité LinkedIn. Rien de plus, rien de moins — pas un service, pas un truc à moitié suivi.
+Le principe est simple : on est un petit groupe fermé et on s'entraide vraiment sur la visibilité LinkedIn, rien de plus compliqué que ça.
 
-COMMENT ÇA MARCHE
-Dès que quelqu'un poste, le lien est partagé ici. À chaque fois :
-1. Tu lis vraiment le post (pas un scroll-réflexe)
-2. Tu mets la réaction qui correspond vraiment — Insightful si ça apprend un truc, ❤️ si c'est touchant, 👏 si c'est une victoire — jamais un like par défaut
-3. Tu laisses un commentaire qui dit un vrai truc — une question, un avis, un exemple perso. Jamais un emoji seul ou un "top post 👏"
+📌 LES 3 CANAUX
+- Dans "Posts", je partage le lien dès que quelqu'un publie, c'est là qu'on va pour réagir.
+- Dans "Discussion", on parle librement : une question, un doute, une envie de conseil, tout ce qui n'est pas un lien de post part ici.
+- Dans "Horaires", chacun annonce à quelle heure il compte publier son post du jour, pour que personne ne soit pris de court.
 
-LE RYTHME
-On engage dans la journée, dès qu'on peut. Pas besoin de guetter la minute — mais un post qui reste sans réaction de ta part toute la journée, c'est un problème.
+💬 COMMENT BIEN RÉAGIR
+- LinkedIn récompense surtout le temps qu'on passe à vraiment lire un post, bien plus qu'un like ou un commentaire écrit à la va-vite, donc on prend le temps de lire avant de réagir.
+- On évite le pouce bleu classique, c'est le signal le plus faible pour LinkedIn — on choisit plutôt Bravo, Cœur, Instructif ou Soutien, selon ce qui correspond vraiment au post.
+- Le commentaire doit dire un vrai truc, une question, un avis, un exemple perso, jamais un emoji tout seul.
 
-LA RÈGLE, SIMPLE ET SANS EXCEPTION
-Si je vois que tu ne t'engages pas, tu reçois un avertissement direct. Au bout de 3 avertissements, tu sors du groupe. Pas de rancune — juste que ça doit rester un groupe où tout le monde est vraiment dedans, sinon ça sert à rien pour personne.
+⏱️ LA VITESSE
+Plus on réagit vite après la sortie d'un post, plus ça compte pour sa visibilité, donc l'idéal c'est d'être dessus dans les 5 à 15 minutes après la publication. On n'est pas à la minute près, mais c'est vraiment ce qui fait la différence, donc gardez les notifications du groupe activées pour pouvoir réagir le plus vite possible.
 
-C'EST GRATUIT, POUR L'INSTANT
-On est en bêta test. Ça deviendra payant dans quelques semaines ou mois. Tant que tu es actif, t'y es gratuitement, depuis le début — un vrai privilège, pas un truc qui traîne.
+🤝 LA RÈGLE DU GROUPE
+Je sais que tout le monde n'est pas H24 devant son téléphone, donc dans l'absolu on reste dans la journée. Mais si je vois que quelqu'un fait bien son job en général mais réagit systématiquement très en retard, je te ferai signe, et pareil si quelqu'un ne réagit pas du tout. Ce n'est pas pour faire peur à personne, c'est juste que si on se laisse aller là-dessus, dans trois semaines il n'y a plus personne qui joue le jeu et le groupe ne sert plus à rien pour personne. Si ça se reproduit trop souvent, je demanderai à la personne de laisser sa place à quelqu'un d'autre.
 
-CE QUE J'APPORTE DE MON CÔTÉ
-Des conseils de temps en temps pour muscler vos commentaires, et je mets en avant les meilleurs quand j'en vois.
+Petit conseil : si vous arrivez à publier à peu près à la même heure chaque jour, ça devient une habitude et personne n'est surpris.
 
-Voilà, c'est simple. Si ça te parle, on est là pour se pousser mutuellement, pas pour cocher une case.
+C'est gratuit, on est en bêta test pour l'instant, c'est aussi simple que ça.
 ```
 
 ---
@@ -235,4 +240,5 @@ Basé sur les tâches ci-dessus (onboarding pilote ponctuel, suivi 2-3 messages/
 ## Statut
 
 - **29 juillet 2026 :** premier jet complet créé par Claude à la demande de Matthias, suite à la mise en pause du projet commun avec Maryline.
-- **29 juillet 2026 (suite) :** brainstorm approfondi en conversation — mécanique d'engagement précisée (temps de lecture, type de réaction, qualité du commentaire), règle "journée" validée sur le terrain avec Amanda Cascino, rétention travaillée (framing bêta/premium, reconnaissance, banque de tips), canal WhatsApp choisi et groupe déjà créé, noms repensés en version authentique/brute, message-type étape 2 et message épinglé rédigés. Document maintenant proche de l'exécution — reste à trancher le nom final et lancer les invitations.
+- **29 juillet 2026 (suite) :** brainstorm approfondi en conversation — mécanique d'engagement précisée (temps de lecture, type de réaction, qualité du commentaire), règle "journée" validée sur le terrain avec Amanda Cascino, rétention travaillée (reconnaissance, banque de tips), canal WhatsApp choisi et groupe déjà créé, noms repensés en version authentique/brute, message-type étape 2 et message épinglé rédigés.
+- **29 juillet 2026 (v2 du message épinglé) :** réécrit en phrases pleines (la V1 en bullets/emoji "faisait trop IA"). Structure à 3 canaux ajoutée (Posts / Discussion / Horaires, révise la reco initiale d'un seul canal). Réactions détaillées (jamais le pouce bleu, toujours Bravo/Cœur/Instructif/Soutien). Vitesse idéale 5-15 min ajoutée en plus du seuil "journée". Ton des rappels adouci ("je te fais signe" plutôt qu'"avertissement"). Framing "ça deviendra payant" entièrement retiré de la communication aux membres. Document proche de l'exécution — reste à trancher le nom final et lancer les invitations.
