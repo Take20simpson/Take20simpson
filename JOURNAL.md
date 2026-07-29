@@ -135,6 +135,15 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Prochaine étape probable : si elle répond, créuser son pivot d'activité (pourquoi elle lâche le SEO, depuis quand) avant toute quantification ; profil pas encore qualifié ICP (CA/activité à confirmer)
 - Dernière mise à jour : 27 juillet 2026
 
+### Alice Pechaud — Copywriting freelance, e-commerce animalier (séquences email)
+- Statut : Phase 3 (questions profondes) en cours, quantification déjà bien avancée
+- **Attention homonymie :** prospect distincte d'Alice Perchaud (Freelance SEO/GEO BtoB, entrée plus haut) — profils, parcours et profils LinkedIn différents, ne pas confondre ni fusionner les deux fiches malgré la quasi-identité des noms.
+- Dernier point : freelance copywriting + CDI en parallèle le temps de la transition, positionnée sur les séquences email pour l'e-commerce animalier, 1er client payant décroché le mois dernier après avoir démarché plus de 80 personnes (épuisement verbalisé, mais elle-même minimise via "ça va me servir de preuve client" et "j'ai aucun mérite" en comparaison de Matthias). Coachée par un copy déjà payé — stratégie reçue : MP quotidiens sur LinkedIn (script à adapter) + cold emails quotidiens (jamais de retour, arrêtés). Sourcing actuel : poster régulièrement, viser ses clients idéaux, connecter puis MP — se sent "tomber comme un cheveu sur la soupe". Vient d'avoir un début de prise de conscience delle-même en rebondissant sur le diagnostic warming de Matthias (s'intéresser au contenu avant le MP), puis a ouvert un nouveau sujet : "faut trouver ses cibles" (blocage sourcing/ciblage pas encore quantifié).
+- Patterns utilisés : Règle 6 (quantification du ratio 80/1), Règle 4 (croyance "j'ai déjà été accompagnée" challengée), Règle 8 (montrer le pattern warming/connexion sans donner la solution complète), Règle 1 (rebond sur "trouver ses cibles")
+- Signaux de qualification : Maturité 🟡 (niche/positionnement récent, anciennement plus généraliste en copywriting — à préciser), Douleur 🟢 (épuisement + ratio 80/1, mais rationalisée par elle), Urgence — pas encore abordée. Pas de proposition d'appel tant que les 3 signaux ne sont pas verts.
+- Prochaine étape probable : creuser le blocage sourcing/ciblage qu'elle vient d'ouvrir elle-même, avant de pouvoir avancer vers la satisfaction/objectif (Q4/Q5) puis l'urgence
+- Dernière mise à jour : 29 juillet 2026
+
 ---
 
 ## JOURNAL CONTENU

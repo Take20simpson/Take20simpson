@@ -587,4 +587,34 @@ mardi (date exacte non précisée, ~22 juillet)
 
 ---
 
+### Alice Pechaud
+
+27 juillet
+11:59 Matthias : Hollllaaaaa
+12:13 Alice : Salut Matthias ! Entrée fracassante dis donc !
+12:18 Matthias : Il faut voyons
+13:06 Matthias : Tu t'occupes de quoi toi ?
+14:09 Alice : je suis en freelance copywriting + en CDI le temps de faire la transition / et toi, je vois que tu es diplomé en copy, et maintenant que tu accompagnes les freelances pour trouver leurs clients ?
+19:32 Matthias : Oui, j'ai commencé dans le copy pendant trois ans, et après il y avait un réel besoin sur le fait d'aller chercher des clients
+
+28 juillet
+15:45 Alice : oh pardon j'avais oublié de te répondre !! je suis horrible 😅 / super, 3 ans ! Oui, clairement, c'est le plus difficile la prospection / Et je trouve qu'il y a bcp trop de formateurs copy qui vendent des formations en mode "le copy, c'est facile, et c'est la liberté direct" / Alors que ça cache bcp de travail
+16:09 Matthias : Oui c'est tellement ça
+17:51 Matthias : [note vocale, 0:10]
+
+29 juillet
+08:38 Alice : yes / je suis dans le e-commerces, secteur animalier, et mon but est de créer des séquences emails / j'ai déjà eu un bon client payant mois dernier, mais pas simple !
+08:59 Matthias : c'est top ça bien joué ! / c'est quoi le plus dure en ce moment pour aller chercher tes clients ?
+09:05 Alice : l'épuisement / car j'ai démarché plus de 80 personnes pour avoir un client / bon maintenant, ça va me servir comme preuve client mais compliqué / J'ai aucun mérite toi tu as réussi à construire un système sain et fiable 😂 t'es 10 X plus avancé que moi
+09:06 Matthias : yes je vois / mais c'est quoi ta strat exact parce moi aussi j'étais un peu dans ta situation au debut et je peux te dire que c'est vraiment pas normal ce ratio 80 / 1
+09:25 Alice : pour être transparente avec toi, je suis coachée par un copy que j'ai déjà payé 😅 donc c'est sa strat
+09:25 Matthias : ah mais va y dis moi grosso modo pour que je comprenne
+09:26 Alice : strat : induire des conversations MP tous les jours sur linkedin (en suivant un petit script à adapter) et envoyer des cold emails tous les jours (jamais eu de retour la dessus), donc j'ai stoppé cette partie car je perdais du temps / le but étant d'avoir des appels de vente 2 à 3 fois dans la semaine
+09:26 Matthias : ah ok / et comment tu les unduis les mp parce que c'est la que tout se joue
+09:27 Alice : ah oui et poster régulièrement sur linkedin / je vise mes clients idéaux, je connecte, et ensuite j'envoie un MP / mais j'ai tjrs l'impression de tomber comme un veuch sur le soupe 😂
+09:28 Matthias : ah oui je comprends pourquoi t'as cette impression / parce que si t'as par créer de relation avant la connexion et les mp bah c'est presque mort
+09:30 Alice : et si je connecte, ensuite je m'intéresse à ce qu'ils publient, puis que j'envoie un message, c'est mieux, mais bon, faut trouver ses cibles
+
+---
+
 *Document créé le 22 juillet 2026, en complément de `JOURNAL.md`, à la demande de Matthias (besoin d'une sauvegarde brute complète des conversations, pas seulement un résumé).*
