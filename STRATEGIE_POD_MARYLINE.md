@@ -12,6 +12,45 @@
 
 ---
 
+## ORDRE DE PRIORITÉ POUR L'APPEL — macro vers micro (29 juillet)
+
+> Demandé explicitement par Matthias le 29 juillet, quelques heures avant l'appel : un seul appel, mais un ordre précis à suivre — d'abord les fondations et l'entendement mutuel sur le fond, ensuite le cadrage général, le design/mécanique du pod venant en dernier. Ne pas remonter vers le micro tant que le macro n'est pas acté.
+
+### Niveau 1 — Fondations (l'entendement mutuel, avant tout le reste)
+1. Rappel express : cible confirmée identique (déjà su des deux côtés via WhatsApp) — valider que ça ne bloque personne
+2. Q2 — répartition des tâches/rôles, dans les grandes lignes
+3. **Règle de propriété du prospect** (qui sourcé = qui closer) — LA règle fondatrice, à poser avant tout le reste
+4. Clause de non-sollicitation + protocole de redirection (dérive organique)
+5. Commission/referral fee en cas de dérive confirmée
+6. Cadrage du rôle vis-à-vis du prospect ("ton interlocuteur, c'est celui qui t'a fait venir")
+
+### Niveau 2 — Cadrage général du pod (encore macro, plus concret)
+7. Nom présentable côté membres
+8. Confirmer le gratuit borné + accord de Maryline
+9. Prix/positionnement des offres respectives (formaliser ce qui est déjà su via WhatsApp)
+10. Nombre max de membres pendant le bêta — plafond global partagé, pas de quota rigide par personne (voir note plus bas)
+11. Critères d'entrée (ICP + Phase avancée) + leçon du pod précédent de Matthias
+12. Qui valide chaque candidat
+13. Durée du bêta-test
+14. Critère de revue fin de bêta
+
+### Niveau 3 — Design / mécanique opérationnelle (micro, en dernier — peut se régler après l'appel si le temps manque)
+15. Qui fait l'onboarding, sous quelle forme
+16. Qui modère l'engagement quotidien
+17. Process de suivi du prospect dans le pod (cadence, ton) — à construire une fois les fondations actées, pas en détail aujourd'hui
+18. Budget-temps hebdo de Matthias — décision interne, pas un sujet à mettre sur la table avec Maryline
+19. Réponse-type si un prospect demande la différence entre les deux fondateurs
+20. Garde-fous bande passante (admissions par lot, seuil d'alerte)
+
+### Notes complémentaires (29 juillet)
+
+- **Sur le nombre de membres (point 10) :** pas de split rigide type "5 chacun" — un plafond global partagé (ex. 10 max, peu importe qui en amène combien), avec juste un compteur transparent partagé entre les deux pour éviter qu'un des deux déborde sans que l'autre le sache. Garde le feeling, évite la mauvaise surprise.
+- **Sur la réponse-type différenciation (point 19) :** pas un script à mémoriser, juste une réponse honnête prête si la question vient : *"Moi je suis spécialisé LinkedIn organique — préchauffe contenu, conversation, closing. Maryline vient plutôt du cold call/multicanal, elle développe aussi un accompagnement complet. On s'est associés parce qu'on pense pareil sur beaucoup de choses, et pour toi je reste ton interlocuteur."*
+- **Sur le suivi du prospect dans le pod (point 17) :** objectif = suivi sincère et non-agressif, dans l'esprit du setting DM habituel de Matthias, mais sous une forme différente (à définir : cadence de message, visio ou non). Volontairement pas construit en détail aujourd'hui — priorité aux fondations, ce point se traite une fois le reste acté, à l'appel ou après selon le temps disponible.
+- **Principe général rappelé par Matthias :** ne pas anticiper des scénarios hypothétiques au-delà de ce qui est déjà couvert ici — aller au feeling sur le reste, cohérent avec "démarrer minimal, itérer" ci-dessus.
+
+---
+
 ## Canal : WhatsApp (avant l'appel) vs Visio (29 juillet)
 
 > Ajouté le 27 juillet 2026 — en attendant la visio, Matthias et Maryline échangent par message WhatsApp. Chaque case des deux checklists est taguée : **[💬]** = se règle par message, pas besoin de vive voix. **[📞]** = à garder pour la visio (négociation, sujet sensible, ou dépend d'une autre case pas encore tranchée). Objectif : arriver à l'appel avec le factuel déjà réglé, pour ne discuter en direct que ce qui a vraiment besoin de ton/nuance.
