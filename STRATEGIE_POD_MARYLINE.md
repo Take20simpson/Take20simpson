@@ -4,6 +4,100 @@
 
 ---
 
+# 📋 FICHE APPEL — LECTURE RAPIDE (29 juillet)
+
+> Pour chaque point : la question, puis **→** la réponse ou proposition déjà discutée avec Claude. Tout le détail complet est plus bas dans le document si besoin.
+
+### Pourquoi on fait ça à deux (contexte, pas à trancher)
+- Corrige l'échec du pod précédent (manque de gens sérieux)
+- Réduit le risque de détection algo LinkedIn (deux créateurs ≠ pattern suspect)
+- Crédibilise de l'extérieur (deux praticiens, pas un club solo)
+- Donne une structure qui empêche d'abandonner, un vrai élan cohérent
+
+---
+
+### NIVEAU 1 — FONDATIONS
+
+**1. Cible identique ?**
+→ Oui, confirmé par écrit avant l'appel. Pas un problème si la suite est cadrée.
+
+**2. Qui fait quoi ?**
+→ Toi : création, animation, onboarding, règles. Elle : **pas encore tranché** — à négocier en direct.
+
+**3. Qui a le droit de closer qui ?**
+→ Celui qui a sourcé/a la relation garde le droit exclusif de closer. Point de départ non négociable.
+
+**4. Et si mon prospect est sollicité par elle (ou l'inverse) ?**
+→ Jamais de pitch de l'autre côté, même en filigrane. Si le prospect vient de lui-même : redirection vers celui qui l'a sourcé, pas de conversation de vente.
+
+**5. Et si malgré tout un prospect change de camp ?**
+→ Commission/referral fee reversée à celui qui l'a sourcé à l'origine.
+
+**6. Comment on présente les rôles au prospect ?**
+→ "Ton interlocuteur, c'est celui qui t'a fait venir." Dit dès l'entrée dans le pod.
+
+---
+
+### NIVEAU 2 — CADRAGE GÉNÉRAL
+
+**7. Comment on appelle le pod devant les membres ?**
+→ Jamais "pod". Trouver un nom ensemble (ex. cercle privé, groupe d'entraide).
+
+**8. Accès gratuit ?**
+→ Oui mais borné : fenêtre fermée annoncée dès l'entrée + réciprocité réelle + aucun contenu du produit payant dedans + fin de fenêtre = vraie conversation. À faire valider par Maryline.
+
+**9. On connaît nos deux offres ?**
+→ Oui (vu par WhatsApp) : toi = 2000€/3 mois, LinkedIn organique. Elle = en transition cold call/email vers accompagnement complet, prix pas précisé — à demander si besoin.
+
+**10. Combien de monde dans le bêta ?**
+→ Plafond global partagé (8-10), pas de quota fixe par personne. Juste un compteur transparent entre vous deux.
+
+**11. Qui peut entrer ?**
+→ ICP validé + prospect déjà avancé en conversation. Filtrer dur sur le sérieux réel — leçon de ton pod précédent qui a raté faute de gens sérieux.
+
+**12. Qui valide les candidats ?**
+→ Proposition : chacun valide ses propres invités.
+
+**13. Combien de temps dure le bêta ?**
+→ Proposition : 3-4 semaines.
+
+**14. Qu'est-ce qu'on regarde à la fin ?**
+→ **Pas encore défini** — à construire ensemble en direct.
+
+---
+
+### NIVEAU 3 — DESIGN (si le temps le permet, sinon plus tard)
+
+**15. Qui onboarde les nouveaux ?**
+→ Toi, en visio, seulement pour la cohorte pilote. Ensuite : vidéo + doc réutilisable, plus d'appel individuel systématique.
+
+**15bis. Quel canal pour le groupe ?**
+→ Recommandation : Telegram (pas de numéro exposé) plutôt que WhatsApp (zéro friction mais numéros visibles entre membres). Skool exclu (payant).
+
+**16. Qui modère au quotidien ?**
+→ **Pas encore tranché** — pas 100% toi, à négocier en direct (charge/équité).
+
+**17. Comment on suit les prospects dans le pod ?**
+→ Ne pas rivaliser sur le contenu — miser sur ton suivi 1:1 sincère, hors pod. Cadence/forme à définir plus tard.
+
+**18. Budget-temps hebdo pour toi ?**
+→ Ta décision seule, pas un sujet à mettre sur la table avec Maryline.
+
+**19. Si un prospect demande "c'est quoi la différence entre vous deux" ?**
+→ *"Moi je suis spécialisé LinkedIn organique — préchauffe, conversation, closing. Maryline vient plutôt du cold call/multicanal, elle développe aussi un accompagnement complet. On s'est associés parce qu'on pense pareil sur beaucoup de choses, et pour toi je reste ton interlocuteur."*
+
+**20. Comment on évite que ça déborde niveau temps ?**
+→ Admissions par lot, pas au fil de l'eau. Si le budget-temps est dépassé 2 semaines de suite, pause des admissions.
+
+---
+
+### 🔴 À ABORDER ABSOLUMENT — pas optionnel
+
+**Typologie d'avatar par fondateur**
+→ **Mode diagnostic seulement** : comprendre à qui chacun parle naturellement (toi = surtout des femmes, LinkedIn organique ; elle = cold call/email/outils). **Jamais en mode segmentation forcée** : on ne s'assigne pas les prospects par profil, on ne contrôle pas qui un membre préfère. Ça sert à comprendre, pas à cloisonner.
+
+---
+
 ## Principe directeur : démarrer minimal, itérer ensuite
 
 > Ajouté le 27 juillet 2026, à la demande explicite de Matthias : "ne pas aller trop vite en besogne en programmant les trois prochains mois — avoir le strict minimum pour commencer rapidement, et ensuite voir par itération."
@@ -19,8 +113,9 @@
 1. **Ça corrige exactement la cause de l'échec du précédent pod de Matthias.** Un pod ne marche que s'il y a une masse critique d'engagement réel et régulier. Seul, il faut trouver 8-10 personnes sérieuses à partir de zéro — c'est justement ce qui avait fait échouer la tentative précédente ("j'ai jamais réussi à trouver des gens vraiment sérieux, au bout d'un mois ça pète"). À deux, il y a déjà un participant engagé dès le jour 1 et le recrutement se répartit.
 2. **Ça réduit le risque de détection algorithmique.** Un pod à un seul créateur, où les mêmes personnes commentent toujours le même contenu, est le pattern le plus facilement repéré par LinkedIn (risque déjà identifié, `SKILL_STRATEGIE.md` Principe #4). Deux créateurs avec des styles et audiences distincts, qui se croisent sans être identiques, ressemble davantage à un vrai réseau professionnel.
 3. **Ça crédibilise le dispositif de l'extérieur** — un groupe animé par deux praticiens établis, chacun avec sa légitimité propre, plutôt qu'un club privé d'une seule personne (cohérent avec Principe #7 : montrer comment tu bosses, pas juste vendre une promesse).
+4. **Ajouté par Matthias (29 juillet) : ça donne une structure qui empêche d'abandonner, un vrai élan cohérent.** Fait écho à un des 3 schémas d'échec que Matthias a lui-même identifiés sur 4 ans (`CLAUDE.md` Partie 1 : "manque de consistance — lâche trop tôt"). Être engagé avec quelqu'un d'autre crée un ancrage externe contre ce pattern précis.
 
-Le point 1 est le plus solide : c'est littéralement la cause de l'échec précédent que l'association corrige. Si aucun de ces trois points ne tenait, la recommandation aurait été un pod solo.
+Le point 1 est le plus solide : c'est littéralement la cause de l'échec précédent que l'association corrige. Si aucun de ces points ne tenait, la recommandation aurait été un pod solo.
 
 ---
 
