@@ -110,7 +110,8 @@ Auto-entrepreneur, paiement par virement bancaire. Pas de site web, pas de Calen
 Les fichiers suivants existent dans le repo mais **ne font pas partie du socle actif**. Ne jamais aller y chercher de l'information, ne jamais s'y référer, sauf si Matthias les nomme explicitement dans son message :
 
 - **Dossiers clients nommés** (Lucille/Lucile, Mélanie, etc.) : `STRATEGIE_LUCILLE.md`, `PREP_APPEL_LUCILE.md`, `FRAMEWORK_POSTS_LINKEDIN_LUCILE.md`, `TRAME_SETTING_MELANIE.md`
-- **Dossier partenariat nommé** : `STRATEGIE_POD_MARYLINE.md` (projet de pod LinkedIn avec Maryline Leroy — doctrine associée dans `SKILL_STRATEGIE.md` Partie 11, détail vivant du projet dans ce document dédié)
+- **Dossier partenariat nommé** : `STRATEGIE_POD_MARYLINE.md` (projet de pod LinkedIn avec Maryline Leroy, en pause depuis le 29 juillet — doctrine associée dans `SKILL_STRATEGIE.md` Partie 11, détail vivant du projet dans ce document dédié)
+- **Projet business actif** : `STRATEGIE_POD_SOLO.md` (roadmap complète du pod LinkedIn solo de Matthias, suite à la mise en pause du projet avec Maryline — doctrine associée dans `SKILL_STRATEGIE.md` Partie 11)
 - **Dossier produit** (ce que Matthias livre à ses clients, pas sa propre stratégie) : `ASSISTANT_CLIENT.md`, `QUESTIONNAIRE_ONBOARDING.md`, `METHODOLOGIE_ACCOMPAGNEMENT.md`
 - **Références historiques** : `METHODE_ENZO_RACINE.md`, `CONVERSATION_ENZO_RACINE.md`, `TRONC_CENTRAL_YADULINK.md`, `LEAD_MAGNET.md`
 
