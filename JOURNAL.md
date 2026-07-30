@@ -756,6 +756,13 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Stats (29/07/2026) : 877 impressions, 27 réactions, 23 commentaires — 2e meilleure perf du lot analysé le 29/07, juste derrière le post Pogačar (962 impr).
 - Notes : Matthias souligne lui-même que l'accroche "n'est vraiment pas top" mais que les gens ont lu le post en entier car il était court, et que ce registre (sujet léger + vécu + photo perso) fonctionne bien. Vigilance de sa part : ne pas mettre une photo de lui/sa chienne trop souvent (1x/semaine max) sous peine de lasser l'audience.
 
+### 30/07/2026 — Lâcher-prise sur l'anticipation négative automatique (PB-4, nouvel angle)
+- Format : post
+- Accroche retenue : "90% du temps, quand j'anticipe demain, c'est en mode catastrophe, jamais en mode ça va bien se passer."
+- Mécanisme : premier post PB-4 sur la réflexion hors-business pure (pas la chienne, pas l'humour) — vécu brut de Matthias : se fixer un objectif pour le lendemain déclenche un réflexe d'anticipation automatique, négatif 9 fois sur 10, et l'exercice consiste à s'autoriser à ne plus y réfléchir avant que ça arrive. 3 approches livrées (clivante, normale, Mathis Clouet), texte intégral à archiver dans `ARCHIVE_CONTENU.md` une fois l'approche choisie confirmée par Matthias.
+- Stats : pas encore publié.
+- Notes : angle vérifié absent du corpus avant génération (aucune entrée sur pensées parasites/anticipation/lâcher-prise). Nuance de process capturée le 30/07/2026 dans le skill `posts-linkedin` (fichier `/root/.claude/skills/posts-linkedin/SKILL.md`, hors repo) : le tracking "POSTS DÉJÀ FAITS" n'est plus demandé à Matthias, il se lit directement dans ce fichier + `ARCHIVE_CONTENU.md`.
+
 ---
 
 *Document créé le 22 juillet 2026, dans le cadre de la nouvelle architecture à 4 pôles.*
