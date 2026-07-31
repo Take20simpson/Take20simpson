@@ -764,6 +764,14 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Notes : angle vérifié absent du corpus avant génération (aucune entrée sur pensées parasites/anticipation/lâcher-prise). Nuance de process capturée le 30/07/2026 dans le skill `posts-linkedin` (fichier `/root/.claude/skills/posts-linkedin/SKILL.md`, hors repo) : le tracking "POSTS DÉJÀ FAITS" n'est plus demandé à Matthias, il se lit directement dans ce fichier + `ARCHIVE_CONTENU.md`.
 - **Correction du 30/07/2026 :** premier jet des 3 approches n'ouvrait pas sur l'accroche exacte choisie par Matthias (paraphrasée au lieu de reprise mot pour mot) — signalé par Matthias, corrigé immédiatement (3 approches regénérées avec l'accroche verbatim en ouverture) et règle rendue non négociable dans le skill `posts-linkedin` (étape 7) : l'accroche choisie ouvre toujours les 3 approches, mot pour mot, jamais reformulée.
 
+### 31/07/2026 — Sondage plafond tarifaire (PA-9)
+- Format : post (sondage natif)
+- Question : "C'est quoi ton rapport à tes tarifs en ce moment ?"
+- Options : 😌 Ça monte tranquille / Toujours au même tarif / J'ose enfin, mais ça tremble 😬 / Jamais osé demander plus (position de l'emoji variée sur les 4 options, voir règle du 25/07 dans `SKILL_CONTENU_LINKEDIN.md`)
+- Mécanisme : premier sondage sur PA-9 (plafond tarifaire, blocage psychologique plus que technique) — thème déjà traité en post complet le 22/07 mais jamais en sondage. Sondage diagnostic/catégoriel, aucun chiffre en option (voir Sous-format Sondages, `SKILL_CONTENU_LINKEDIN.md`) — chaque option segmente le lecteur sur son rapport réel au prix (confiant / stagnant / en transition / jamais osé), donnée de qualification exploitable en DM plus tard.
+- Stats : pas encore publié.
+- Notes : thème choisi par Claude sans sujet donné par Matthias (demande "fait un sondage" sans thème précisé). Écarté PA-1/SA-1 (déjà testés en sondage 26-27/07), PA-5 (déjà traité en vidéo 27/07) — retenu PA-9 comme premier format sondage sur ce thème. Généré dans la session Stratégie (pôle 1) sur demande explicite de Matthias malgré le cloisonnement habituel des pôles — cas prévu par la règle d'exception sondages de `SKILL_CONTENU_LINKEDIN.md` (indépendante du hors-périmètre Module 1).
+
 ---
 
 *Document créé le 22 juillet 2026, dans le cadre de la nouvelle architecture à 4 pôles.*
