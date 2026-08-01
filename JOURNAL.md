@@ -779,6 +779,13 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Stats : pas encore publié.
 - Notes : angle vérifié absent du corpus avant génération (aucune entrée existante sur "impressions vs engagement"). À ajouter au catalogue PB-3 de `SKILL_CONTENU_LINKEDIN.md` (et au skill `posts-linkedin` source) une fois l'approche validée par Matthias.
 
+### 01/08/2026 — La course au plus jeune entrepreneur qui réussit (PB-3, nouvel angle)
+- Format : post
+- Accroche retenue (dictée par Matthias, coquille de transcription corrigée) : "J'en ai marre de la course à l'entrepreneur le plus jeune qui réussit et qui gagne beaucoup d'argent. C'est devenu un référentiel pour tout le monde. Du coup, tout le monde se compare."
+- Mécanisme : coup de gueule contre la culture de comparaison aux jeunes entrepreneurs qui affichent une réussite rapide — appuyé sur le vrai vécu de Matthias (4 ans de recul entrepreneurial avant le déclic, prestations gratuites, coaching à 1500€ qui n'a rien apporté, cf `CLAUDE.md` Parcours) plutôt que sur des chiffres inventés. Proche de PA-8 Angle 2 (comparer son mois 6 au mois 36 de quelqu'un d'autre) mais recadré en opinion tranchée générale plutôt qu'en douleur freelance ciblée. 3 approches livrées (clivante, normale, Mathis Clouet), texte intégral à archiver dans `ARCHIVE_CONTENU.md` une fois l'approche choisie confirmée par Matthias.
+- Stats : pas encore publié.
+- Notes : angle vérifié absent du corpus avant génération. À ajouter au catalogue PB-3 une fois validé, comme le post impressions/engagement ci-dessus (deux nouveaux angles PB-3 le même jour).
+
 ---
 
 *Document créé le 22 juillet 2026, dans le cadre de la nouvelle architecture à 4 pôles.*
