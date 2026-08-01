@@ -786,6 +786,13 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Stats : pas encore publié.
 - Notes : angle vérifié absent du corpus avant génération. À ajouter au catalogue PB-3 une fois validé, comme le post impressions/engagement ci-dessus (deux nouveaux angles PB-3 le même jour).
 
+### 01/08/2026 — Le mensonge du travail déjà fait (bait de prospection) (SA-3, nouvel angle)
+- Format : post
+- Accroche retenue : "J'en ai marre de ces prospecteurs qui te vendent une vidéo ou une analyse déjà prête, alors qu'elle n'existe pas."
+- Mécanisme : coup de gueule appuyé sur un DM réel reçu par Matthias le jour même (capture d'écran) — un prospecteur affirme avoir "déjà préparé une analyse" pouvant ajouter 3K€/mois, Matthias répond "Va y", reçoit 25 min après un vocal de 44 secondes au lieu de l'analyse promise, répond "Honnêtement flemme de répondre". Le vrai reproche identifié après 3 itérations de brief avec Matthias (pas l'absence de questions en soi, mais le mensonge de prétendre le travail déjà fait pour appâter) — angle proche de SA-3 Angle 4 (posture du médecin, diagnostiquer avant de prescrire) mais recentré sur l'honnêteté du hook plutôt que sur la mécanique de qualification. 3 approches livrées (clivante, normale, Mathis Clouet), texte intégral à archiver dans `ARCHIVE_CONTENU.md` une fois l'approche confirmée.
+- Stats : pas encore publié.
+- Notes : angle vérifié absent du corpus avant génération. Brief initial mal compris deux fois par Claude (d'abord recentré à tort sur "pas de questions posées", puis sur des guillemets que Matthias a explicitement refusés) avant la version validée ci-dessus — à garder en tête : nommer le fait concret (prospection, DM, vidéo/analyse qui miroite) sans guillemets stylisés autour des citations reformulées.
+
 ---
 
 *Document créé le 22 juillet 2026, dans le cadre de la nouvelle architecture à 4 pôles.*
