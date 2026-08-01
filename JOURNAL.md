@@ -772,6 +772,13 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Stats : pas encore publié.
 - Notes : thème choisi par Claude sans sujet donné par Matthias (demande "fait un sondage" sans thème précisé). Écarté PA-1/SA-1 (déjà testés en sondage 26-27/07), PA-5 (déjà traité en vidéo 27/07) — retenu PA-9 comme premier format sondage sur ce thème. Généré dans la session Stratégie (pôle 1) sur demande explicite de Matthias malgré le cloisonnement habituel des pôles — cas prévu par la règle d'exception sondages de `SKILL_CONTENU_LINKEDIN.md` (indépendante du hors-périmètre Module 1).
 
+### 01/08/2026 — Impressions vs engagement, capture d'écran stats (PB-3, nouvel angle)
+- Format : post
+- Accroche retenue : "Sur LinkedIn tout le monde te parle d'impressions, jamais d'engagement. Pourtant c'est l'engagement qui te dit si t'as vraiment touché quelqu'un."
+- Mécanisme : premier post sur l'angle "impressions vs engagement" (absent du catalogue PB-3 avant aujourd'hui) — appuyé sur une preuve concrète (capture stats LinkedIn "Performance du contenu", 535 engagement cumulé sur 7 jours, +148% vs semaine précédente). 3 approches livrées (clivante, normale, Mathis Clouet), texte intégral à archiver dans `ARCHIVE_CONTENU.md` une fois l'approche choisie confirmée par Matthias. Généré dans la session Stratégie (pôle 1) sur demande explicite de Matthias, même cas d'exception que le sondage PA-9 ci-dessus.
+- Stats : pas encore publié.
+- Notes : angle vérifié absent du corpus avant génération (aucune entrée existante sur "impressions vs engagement"). À ajouter au catalogue PB-3 de `SKILL_CONTENU_LINKEDIN.md` (et au skill `posts-linkedin` source) une fois l'approche validée par Matthias.
+
 ---
 
 *Document créé le 22 juillet 2026, dans le cadre de la nouvelle architecture à 4 pôles.*
