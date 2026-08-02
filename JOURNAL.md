@@ -793,6 +793,13 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Stats : pas encore publié.
 - Notes : angle vérifié absent du corpus avant génération. Brief initial mal compris deux fois par Claude (d'abord recentré à tort sur "pas de questions posées", puis sur des guillemets que Matthias a explicitement refusés) avant la version validée ci-dessus — à garder en tête : nommer le fait concret (prospection, DM, vidéo/analyse qui miroite) sans guillemets stylisés autour des citations reformulées.
 
+### 02/08/2026 — Ratio interactions/impressions vs top voices (PB-3, 2e angle du thème)
+- Format : post
+- Accroche retenue : "47 likes pour 1700 impressions, je trouve ça meilleur que 300 likes noyés dans 200 000."
+- Mécanisme : 2e angle sur le thème PB-3 "impressions vs engagement" (1er angle = post du 01/08, progression de ses propres stats) — cette fois basé sur le ratio interactions/impressions comme signal de qualité d'audience, avec comparaison directe aux top voices (100-300 likes mais ~200 000 impressions derrière, contre 47 likes/1700 impressions sur son propre dernier post). Matière brute = note vocale de Matthias, retranscrite et harmonisée. Signalé à Matthias comme angle voisin du post du 01/08 (pas encore publié) avant génération — pas d'objection, traité comme 2e angle distinct plutôt que doublon. 3 approches livrées (clivante, normale, Mathis Clouet), texte intégral à archiver dans `ARCHIVE_CONTENU.md` une fois l'approche choisie confirmée par Matthias.
+- Stats : pas encore publié.
+- Notes : à ajouter au catalogue PB-3 de `SKILL_CONTENU_LINKEDIN.md` (et au skill `posts-linkedin` source) une fois l'approche validée, comme les 2 angles PB-3 du 01/08. **Incident de process signalé le même jour :** Matthias a rappelé (avec agacement, deuxième fois) de ne plus jamais demander le bloc "POSTS DÉJÀ FAITS" — le fichier réel `/root/.claude/skills/posts-linkedin/SKILL.md` (hors repo) contenait encore l'ancienne Étape 0 (demande du bloc) malgré la note du 30/07/2026 ci-dessus affirmant la correction faite : la correction n'avait en fait jamais été écrite dans le fichier, seulement dans ce journal. Corrigé pour de vrai le 02/08/2026 (Étape 0 tracking via `JOURNAL.md` + Étape 7 accroche verbatim, les deux points mentionnés comme "réglés" le 30/07 sans l'être). Leçon : une note dans `JOURNAL.md` affirmant qu'un fichier externe a été modifié n'est pas une preuve que ça l'a été — vérifier le fichier réel, pas la trace qu'on en garde.
+
 ---
 
 *Document créé le 22 juillet 2026, dans le cadre de la nouvelle architecture à 4 pôles.*
