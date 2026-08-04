@@ -753,8 +753,8 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Format : post + photo (Vaya, sa chienne, dort sur le dos pattes en l'air)
 - Accroche retenue : "J'ai posté hier sur pourquoi 90% des freelances bloquent sur leurs tarifs.... 43 vues / Il y a 10 jours j'ai posté une photo de Vaya (ma chienne) qui dort sur le dos, pattes en l'air... 1200 vues en deux heures"
 - Mécanisme : comparaison directe et auto-dérisoire entre un post business sérieux (43 vues) et un post PB-4 "L'humain" sur sa chienne (1200 vues), conclusion assumée au 2e degré ("ma chienne performe mieux que ma stratégie de contenu"). Catalogue PB-4 déjà identifié comme "souvent les plus likés" — cette entrée en devient la première preuve chiffrée consignée dans ce journal.
-- Stats (29/07/2026) : 877 impressions, 27 réactions, 23 commentaires — 2e meilleure perf du lot analysé le 29/07, juste derrière le post Pogačar (962 impr).
-- Notes : Matthias souligne lui-même que l'accroche "n'est vraiment pas top" mais que les gens ont lu le post en entier car il était court, et que ce registre (sujet léger + vécu + photo perso) fonctionne bien. Vigilance de sa part : ne pas mettre une photo de lui/sa chienne trop souvent (1x/semaine max) sous peine de lasser l'audience.
+- Stats (29/07/2026) : 877 impressions, 27 réactions, 23 commentaires — 2e meilleure perf du lot analysé le 29/07, juste derrière le post Pogačar (962 impr). **Mise à jour (04/08/2026, croissance continue) :** 51 réactions, 57 commentaires, 2 republications (pas de nouveau chiffre d'impressions capturé à cette date).
+- Notes : Matthias souligne lui-même que l'accroche "n'est vraiment pas top" mais que les gens ont lu le post en entier car il était court, et que ce registre (sujet léger + vécu + photo perso) fonctionne bien. Vigilance de sa part : ne pas mettre une photo de lui/sa chienne trop souvent (1x/semaine max) sous peine de lasser l'audience. Croissance quasi doublée sur réactions et commentaires entre le 29/07 et le 04/08 — confirme un post à life-cycle long (écho continu dans les commentaires plusieurs jours après publication), pas juste un pic initial.
 
 ### 30/07/2026 — Lâcher-prise sur l'anticipation négative automatique (PB-4, nouvel angle)
 - Format : post
@@ -769,8 +769,8 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Question : "C'est quoi ton rapport à tes tarifs en ce moment ?"
 - Options : 😌 Ça monte tranquille / Toujours au même tarif / J'ose enfin, mais ça tremble 😬 / Jamais osé demander plus (position de l'emoji variée sur les 4 options, voir règle du 25/07 dans `SKILL_CONTENU_LINKEDIN.md`)
 - Mécanisme : premier sondage sur PA-9 (plafond tarifaire, blocage psychologique plus que technique) — thème déjà traité en post complet le 22/07 mais jamais en sondage. Sondage diagnostic/catégoriel, aucun chiffre en option (voir Sous-format Sondages, `SKILL_CONTENU_LINKEDIN.md`) — chaque option segmente le lecteur sur son rapport réel au prix (confiant / stagnant / en transition / jamais osé), donnée de qualification exploitable en DM plus tard.
-- Stats : pas encore publié.
-- Notes : thème choisi par Claude sans sujet donné par Matthias (demande "fait un sondage" sans thème précisé). Écarté PA-1/SA-1 (déjà testés en sondage 26-27/07), PA-5 (déjà traité en vidéo 27/07) — retenu PA-9 comme premier format sondage sur ce thème. Généré dans la session Stratégie (pôle 1) sur demande explicite de Matthias malgré le cloisonnement habituel des pôles — cas prévu par la règle d'exception sondages de `SKILL_CONTENU_LINKEDIN.md` (indépendante du hors-périmètre Module 1).
+- Stats (confirmées le 04/08/2026, preuve de publication reçue) : 174 impressions, 2 réactions, 4 commentaires, 1 republication, 10 votes (😌 Ça monte tranquille 70% / Toujours au même tarif 30% / J'ose enfin mais ça tremble 😬 0% / Jamais osé demander plus 0%).
+- Notes : thème choisi par Claude sans sujet donné par Matthias (demande "fait un sondage" sans thème précisé). Écarté PA-1/SA-1 (déjà testés en sondage 26-27/07), PA-5 (déjà traité en vidéo 27/07) — retenu PA-9 comme premier format sondage sur ce thème. Généré dans la session Stratégie (pôle 1) sur demande explicite de Matthias malgré le cloisonnement habituel des pôles — cas prévu par la règle d'exception sondages de `SKILL_CONTENU_LINKEDIN.md` (indépendante du hors-périmètre Module 1). Résultat net et tranché : 70% des votants "ça monte tranquille", 0% sur les deux options de blocage — sur cet échantillon (10 votes), le plafond tarifaire ne semble pas le point de douleur dominant, contrairement à l'hypothèse de départ du catalogue PA-9. Échantillon faible, à ne pas surinterpréter, mais cohérent avec le pattern déjà noté (sondages diagnostics = faible reach, ici aussi 174 impressions).
 
 ### 01/08/2026 — Impressions vs engagement, capture d'écran stats (PB-3, nouvel angle)
 - Format : post
@@ -799,6 +799,80 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Mécanisme : 2e angle sur le thème PB-3 "impressions vs engagement" (1er angle = post du 01/08, progression de ses propres stats) — cette fois basé sur le ratio interactions/impressions comme signal de qualité d'audience, avec comparaison directe aux top voices (100-300 likes mais ~200 000 impressions derrière, contre 47 likes/1700 impressions sur son propre dernier post). Matière brute = note vocale de Matthias, retranscrite et harmonisée. Signalé à Matthias comme angle voisin du post du 01/08 (pas encore publié) avant génération — pas d'objection, traité comme 2e angle distinct plutôt que doublon. 3 approches livrées (clivante, normale, Mathis Clouet), texte intégral à archiver dans `ARCHIVE_CONTENU.md` une fois l'approche choisie confirmée par Matthias.
 - Stats : pas encore publié.
 - Notes : à ajouter au catalogue PB-3 de `SKILL_CONTENU_LINKEDIN.md` (et au skill `posts-linkedin` source) une fois l'approche validée, comme les 2 angles PB-3 du 01/08. **Incident de process signalé le même jour :** Matthias a rappelé (avec agacement, deuxième fois) de ne plus jamais demander le bloc "POSTS DÉJÀ FAITS" — le fichier réel `/root/.claude/skills/posts-linkedin/SKILL.md` (hors repo) contenait encore l'ancienne Étape 0 (demande du bloc) malgré la note du 30/07/2026 ci-dessus affirmant la correction faite : la correction n'avait en fait jamais été écrite dans le fichier, seulement dans ce journal. Corrigé pour de vrai le 02/08/2026 (Étape 0 tracking via `JOURNAL.md` + Étape 7 accroche verbatim, les deux points mentionnés comme "réglés" le 30/07 sans l'être). Leçon : une note dans `JOURNAL.md` affirmant qu'un fichier externe a été modifié n'est pas une preuve que ça l'a été — vérifier le fichier réel, pas la trace qu'on en garde.
+
+> **Lot reçu le 04/08/2026 avec captures d'écran LinkedIn (stats réelles à l'appui, première application de la règle de preuve de publication de `SKILL_CONTENU_LINKEDIN.md` Étape 0).** Dates de publication exactes non précisées par Matthias — ordre chronologique déduit des URN LinkedIn (identifiants croissants), tout situé après le sondage PA-9 du 31/07/2026. Aucun de ces contenus ne correspond aux brouillons non confirmés déjà listés plus haut (30/07, 31/07, 01/08 x3, 02/08) — ce sont des publications distinctes, ce qui confirme bien le risque signalé par Matthias : un brouillon fait en session n'annonce jamais ce qui sera vraiment publié.
+
+### [Reçu 04/08/2026] — Vidéo légèreté/humour sur LinkedIn, "arrête d'avoir un balai dans le cul"
+- Format : vidéo
+- Fragment disponible : accroche "LinkedIn est beaucoup trop sérieux pour moi, on devrait tous prendre les choses avec beaucoup plus de légèreté…" + fragment de sous-titre "meilleur pote d'enfance. Tu vois, faut pas avoir peur, faut" — texte intégral non collé, seul le résumé oral de Matthias est disponible, pas d'archivage complet possible dans `ARCHIVE_CONTENU.md`.
+- Mécanisme (résumé par Matthias) : plaide pour assumer d'être soi-même et utiliser l'humour comme moteur de développement de compte/contenu, contre la posture "lisse et parfaite" — métaphore de l'amitié (pas de vrais potes derrière un masque, ça vaut aussi pour le compte LinkedIn). Recoupe le thème légèreté déjà touché en vidéo (Rattrapage #11, perfectionnisme) et en post (#42, "LinkedIn est un jeu").
+- Stats : 15 réactions, 18 commentaires, 1 republication (pas de chiffre d'impressions disponible sur cette capture).
+- Notes : bonne perf en commentaires pour une vidéo (18, au-dessus de la moyenne du format vidéo jusqu'ici) — cohérent avec le pattern déjà noté que l'humour/légèreté engage bien.
+
+### [Reçu 04/08/2026] — L'IA amplifie la compétence business, elle ne la remplace pas
+- Format : post
+- Accroche : "95% des business IA lancés ces 3 dernières années ont fermé au bout de 3 mois, tout simplement parce que les gens ont confondu savoir fabriquer un outil et savoir vendre 🙄"
+- Mécanisme : chiffre choc (fermeture de business IA) + distinction nette outil vs compétence — "L'IA n'est pas un outil qui comble tes lacunes en business… C'est un outil qui amplifie tes capacités". Version entièrement réécrite par Matthias phrase par phrase à partir d'un premier jet de Claude — la comparaison ligne à ligne de cette réécriture est déjà documentée en détail dans `SKILL_CONTENU_LINKEDIN.md` (section "Retour du 31 juillet 2026"), texte intégral archivé ici pour la première fois avec les stats réelles à l'appui.
+- Stats : 98 impressions, 5 réactions (dont Florence Androlus), 7 commentaires.
+- Notes : performance modeste en impressions malgré un gros travail de réécriture — le sujet IA est habituellement porteur chez Matthias (200-330 impr, voir Rattrapage Posts #46) mais ici sous la moyenne, probablement parce que l'angle est plus technique/business (amplification de compétence) que les précédents posts IA plus généraux sur l'authenticité du contenu.
+
+### [Reçu 04/08/2026] — Hier je signe un client, ma famille ne comprend pas ce que ça représente
+- Format : post
+- Accroche : "Hier je signe un client…. Je le dis à ma famille dans la foulée…. Et je capte direct que personne ne comprend vraiment ce que ça représente 🥲"
+- Mécanisme : vulnérabilité + décalage familial nommé précisément (père jamais freelance, mère qui voit ça comme "un truc flou sur mon téléphone", potes partis en études classiques) — thème déjà noté dans `CLAUDE.md` (Contexte Personnel : entourage peu au courant, pas d'encouragement réel) mais jamais posté sous cet angle précis. Chute sur l'auto-suffisance ("je garde la vraie mesure de ce que je viens de faire pour moi") + question de fin pour driver le commentaire.
+- Stats : 2 415 impressions, 58 réactions, 33 commentaires, 4 republications — largement la meilleure performance de tout le corpus à ce jour (dépasse le précédent record, Pogačar/Tour de France, 962 impr).
+- Notes : Matthias lui-même signale ce post comme "extrêmement intéressant", performance nette, et attribue à chaud le score au sujet famille/lui-même. Point qu'il a lui-même relevé et à garder : sa tentative de reproduire le même filon quelques jours après (voir entrée "chienne n'a jamais lu" ci-dessous) n'a pas retrouvé la même performance — signal que ce n'est pas le thème "famille" en soi qui garantit la perf, plutôt la fraîcheur/spécificité de l'incident précis (client signé la veille, réaction immédiate) plutôt qu'une déclinaison a posteriori du même filon.
+
+### [Reçu 04/08/2026] — Ma chienne n'a jamais lu un seul de mes posts, et c'est elle qui m'écoute le plus
+- Format : post
+- Accroche : "Ma chienne n'a jamais lu un seul de mes posts LinkedIn et c'est quand même elle qui m'écoute le plus 🥰"
+- Mécanisme : tentative de reproduction du filon "famille/personnel" du post précédent, sur un registre proche (PB-4, Vaya) — la balade du soir comme seul moment sans sollicitation (pas de DM, pas de post, pas de chiffre à checker). Distinct du post déjà archivé "ma chienne performe mieux que ma stratégie de contenu" (comparaison chiffrée ironique) : celui-ci est un post d'introspection/tendresse, pas une comparaison de stats.
+- Stats : 207 impressions, 8 réactions (dont Magaly Wintzer), 8 commentaires.
+- Notes : Matthias a lui-même signalé cette tentative de reproduction du sujet "famille/personnel" du post précédent — n'a pas retrouvé la performance du premier (2 415 impr vs 207 impr), confirme sa propre analyse à chaud. Point de comparaison utile : même veine thématique (PB-4/personnel) mais écart de perf x10, probablement lié à la spécificité de l'anecdote plutôt qu'au thème en soi.
+
+### [Reçu 04/08/2026] — Mes grands-parents pensent que je suis fort en informatique
+- Format : post
+- Accroche : "Mes grands-parents me demandent souvent ce que je fais… Et je leur explique, mais ils ne comprennent pas le fond, mais ils s'intéressent quand même et ça me touche"
+- Mécanisme : même filon incompréhension familiale (écho `CLAUDE.md`, Contexte Personnel) mais angle différent — pas l'absence d'intérêt, la mauvaise traduction de l'intérêt réel ("fort en informatique" au lieu de "vente"). Distinction affection vs reconnaissance posée explicitement, question de fin ("Tu vois le truc ?").
+- Stats : 338 impressions, 14 réactions, 17 commentaires, 2 republications.
+- Notes : 3e post du lot sur le thème incompréhension familiale (avec "signe un client" et "chienne n'a jamais lu"), performance intermédiaire entre les deux — confirme que le filon reste rentable mais que la version la plus forte reste l'anecdote la plus fraîche/spécifique, pas la reformulation généraliste.
+
+### [Reçu 04/08/2026] — À 22 ans zéro diplôme, la meilleure école
+- Format : post
+- Accroche : "À 22 ans j'ai zéro diplôme lié à ce que je fais, zéro formation officielle, et c'est probablement la meilleure école que j'ai eue, parce que j'ai été obligé de comprendre pourquoi ça ne marchait pas plutôt que de suivre une méthode toute faite 🧏‍♂️"
+- Mécanisme : reprise du parcours déjà documenté (bac 10,5, coaching 1500€ inefficace, 8 mois de gratuit, 0€ sur le compte) recadré sur l'angle "autodidacte = obligé de comprendre le pourquoi" plutôt que sur la douleur du parcours lui-même — proche de PB-1/PB-2 (catalogue déjà existant) sur une déclinaison d'angle pas encore utilisée telle quelle.
+- Stats : 160 impressions, 5 réactions (dont Magaly Wintzer), 6 commentaires.
+- Notes : reprend un matériau déjà beaucoup exploité (coaching 1500€, 8 mois gratuit — PB-1, PB-2 Angle 1/3), performance modeste (160 impr) — cohérent avec le risque déjà noté ailleurs dans ce journal sur la sur-répétition d'un même matériau sur des posts trop rapprochés (voir Rattrapage Posts #54).
+
+### [Reçu 04/08/2026] — Vidéo : la vidéo personnalisée en prospection ne fonctionne plus
+- Format : vidéo
+- Fragment disponible : accroche "La vidéo personnalisée en prospection ne fonctionne plus. Voici pourquoi 👇" — texte intégral non collé, seul le résumé oral de Matthias est disponible, pas d'archivage complet possible dans `ARCHIVE_CONTENU.md`.
+- Mécanisme (résumé par Matthias) : prise de position clivante contre le conseil classique "envoie une vidéo perso + un PDF/lead magnet" en prospection — recentre sur l'idée que l'outil (vidéo, PDF) n'est jamais le cœur de la stratégie, le cœur c'est l'échange réel et les questions posées (écho direct de SA-3, le mécanisme du setting). Matthias signale lui-même avoir reçu des commentaires contradicteurs (pour certains ça fonctionne encore), nuance qu'il attribue à une différence de niche plutôt qu'à une erreur de fond.
+- Stats : 270 impressions, 9 réactions, 12 commentaires, 1 republication.
+- Notes : bonne perf pour une vidéo clivante (270 impr, au-dessus de la moyenne vidéo 100-170 indiquée par Matthias) — confirme que le clivant fonctionne aussi en vidéo, pas seulement en post (déjà vu sur le clivant en post, ex Rattrapage Posts #7/#34).
+
+### [Reçu 04/08/2026] — 72% des micro-entrepreneurs ferment avant 5 ans, personne ne le poste
+- Format : post
+- Accroche : "72% des micro-entrepreneurs français ferment avant 5 ans, c'est le chiffre de l'INSEE, et pourtant sur LinkedIn tout le monde continue de faire genre que ça roule 😭"
+- Mécanisme : chiffre choc sourcé (INSEE) + coup de gueule contre le survivorship bias du feed LinkedIn (personne ne poste ses échecs) + ancrage perso déjà connu (8 mois à 0 client, coaching 1500€ jamais posté sur le moment, raconté seulement après coup) — combine PA-8 (légitimité brisée/comparaison sociale) et le vécu déjà bien exploité de Matthias.
+- Stats : 560 impressions, 21 réactions, 13 commentaires, 1 republication.
+- Notes : Matthias signale lui-même que "ça n'a pas vraiment décollé au début et puis finalement elle a fait une bonne perf" — enseignement à garder : ne pas juger la perf finale d'un post sur ses premières heures, certains montent en puissance avec le temps (même dynamique que la mise à jour de "Ma chienne performe mieux" ci-dessus).
+
+### [Reçu 04/08/2026] — Vidéo : la solution pour être bon dans n'importe quel aspect de son business
+- Format : vidéo
+- Fragment disponible : accroche "Voici la solution pour être très bon dans n'importe quel aspect de votre business" — texte intégral non collé, seul le résumé oral de Matthias est disponible, pas d'archivage complet possible dans `ARCHIVE_CONTENU.md`.
+- Mécanisme (résumé par Matthias) : explique l'importance de traquer les éléments de son business pour rentrer dans un vrai processus d'itération et d'amélioration continue — proche de la logique KPIs (`SKILL_STRATEGIE.md` Partie 9, "sans data tu prends des décisions émotionnelles").
+- Stats : 59 impressions, 4 réactions (dont Elodie Masvigner), 10 commentaires.
+- Notes : Matthias qualifie lui-même la perf de "très moyenne" — pire perf en impressions du lot reçu ce jour, cohérent avec le pattern déjà noté que les posts/vidéos "méta"/conseil généraliste sans scène vécue sous-performent (voir synthèse Rattrapage Posts, #15/#19/#25).
+
+### [Reçu 04/08/2026] — Ce qu'on ne m'a jamais dit avant que je me lance en prospection
+- Format : post
+- Accroche : "Ce qu'on ne m'a jamais dit avant que je me lance en prospection 👇"
+- Mécanisme : liste courte en rafale (mode automatique sans client, vraie peur = l'argent pas la technique, volume sans intention, confondre occupé et efficace) puis bascule ("Mais aussi...") vers la résolution (la vente s'apprend, copier une méthode qui marche > en réinventer une) — reprend du matériau déjà bien connu (Principe #8, Parcours) sous un format liste/rafale plutôt que narratif.
+- Stats : 64 impressions, 2 réactions (dont Florence Androlus), 2 commentaires, 1 republication.
+- Notes : plus faible perf du lot en engagement (2 commentaires) — cohérent avec le pattern déjà documenté que les posts en liste/rafale sur du matériau déjà connu engagent moins que le storytelling incarné.
+
+> **Synthèse rapide du lot du 04/08/2026 :** le record absolu du corpus est battu ("signe un client/famille", 2 415 impressions) — le vécu personnel très spécifique et frais continue de surperformer tout le reste, y compris sa propre tentative de reproduction immédiate (chienne n'a jamais lu, 207 impr, x10 moins). Les posts/vidéos "méta"/conseil sans scène vécue (voici la solution, ce qu'on ne m'a jamais dit) restent en bas du lot, confirmant le pattern déjà installé. Deux contenus (72% micro-entrepreneurs, chienne performe mieux) confirment qu'un post peut prendre du temps à monter — ne pas juger sur les premières heures.
 
 ---
 
