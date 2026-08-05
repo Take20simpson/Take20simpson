@@ -655,6 +655,23 @@ samedi
 
 ---
 
+### Aurore Muller
+
+29 juillet
+22:15 Matthias : Salut, tu peux m'expliquer ce que tu fais exactement
+22:20 Aurore : Hello , Je crée le parcours le plus évident pour ton client entre la découverte et la prise de contact. C'est à dire au lieu de faire une structure simple accueil - douleur - avis - offre - CTA, je vais réfléchir à tous les points de frictions qui peuvent freiner le client et le faire partir en fonction de ton activité. Par exemple pour l'un de mes clients j'ai créé un module de calcul de prix avant la prise de RDV pour éviter les RDV annulés. Pour un autre client j'ai mis en place une liste d'attente pour éviter les no-show. / Je crée également les landing pages avec intégration du design souhaité.
+22:23 Aurore : Est ce que tu peux m'en dire un peu plus sur ton projet ?
+22:27 Matthias : OK tu travailles avec quel outil ? / C'est pour une Landing pour un webinar et derrière faut que ce soit vraiment très agréable à l'œil pour une bonne conversion derrière
+22:33 Aurore : Ok je vois , c'est pas un problème pour la DA je peux intégrer une DA moderne ou minimaliste ou maximaliste après tout dépend du sujet et de la cible. Derrière c'est surtout les micro interactions les éléments mis en avant qui vont guider l'utilisateur. Je code en html je n'utilise pas de CMS. Est ce que tu souhaites donc connecter la page a un outil en particulier pour le webinaire ? Pour les inscriptions, la campagne de mailing et le suivi ?
+22:36 Matthias : Ouais, je crois qu'il travaille avec webinarjam
+
+jeudi
+07:24 Aurore : OK top ! Le plus simple c'est qu'on s'appelle en visio 20-30 min pour bien comprendre le contexte, les attentes niveau design, vos contraintes le délai et le résultat attendu. Ca nous permets aussi de voir mutuellement si ça fit bien pour bosser en ensemle ou pas 😊 Je suis dispo ce matin si jamais
+09:57 Matthias : Je te tiens au jus
+10:20 Aurore : 👍
+
+---
+
 ### Camille Baynaud
 
 lundi

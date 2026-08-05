@@ -302,6 +302,7 @@ Avant d'envoyer un message en Phase 3 (creusage), se demander :
 - Le seuil precis "leger vs vulnerable" pour decider du dosage du teasing — actuellement juge au feeling, pas encore formalise en signaux detectables
 - La bibliotheque de patterns reels pour le signal marche (Partie 10) — a construire au fil des conversations traitees, pas inventable a l'avance
 - L'efficacite reelle de la question d'opinion (Partie 4.4) pour provoquer la reciprocite sur les prospects ou le teasing ne se cale jamais naturellement
+- **Technique "appel d'offre" (nouveau, cas Aurore Muller, 5 aout 2026) :** se presenter comme client potentiel aupres d'un ou une freelance (avec un besoin, reel ou fictif) pour ouvrir une conversation, puis pivoter vers elle/lui comme prospect potentiel pour l'accompagnement une fois le rapport etabli. Pas encore valide comme mecanique fiable — un seul cas en cours, resultat de conversion pas encore connu. A surveiller : le pivot doit rester naturel (ne pas questionner son business/ses clients juste apres avoir laisse filer le faux projet, meme piege que la Regle 12/`SKILL_SETTING_DM.md` sur les pitchs entrants declines) et le taux de reponse/conversion reel une fois teste sur plusieurs cas.
 
 ---
 

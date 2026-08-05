@@ -906,6 +906,15 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Prochaine étape probable : envoyer le message choisi, puis basculer vers la question pivot Phase 2 (focus/objectif de l'année) une fois l'ancienneté connue
 - Dernière mise à jour : 5 août 2026
 
+### Aurore Muller — Stratégie digitale & parcours de conversion (landing pages, tunnels) pour indépendants/artisans/freelances
+
+- **Contexte particulier (5 août 2026) :** conversation démarrée par Matthias en se présentant comme client potentiel (projet fictif de landing page pour un webinar), pour tester si "répondre à un appel d'offre" auprès d'une freelance peut générer un lead exploitable pour son propre accompagnement. Pas un vrai projet — technique de génération de leads en test, pas encore validée.
+- Statut : Phase 1 (matière déjà riche malgré le contexte inhabituel)
+- Dernier point : elle a détaillé sa méthode (réduction des points de friction : module de calcul de prix, liste d'attente anti no-show), ses outils (HTML pur, pas de CMS). A proposé un call visio, Matthias a différé sans s'engager ("je te tiens au jus"), elle a juste liké. Reprise du fil décidée par Matthias en pivotant vers elle comme prospect plutôt que vers le faux projet.
+- Patterns utilisés : proposition en cours, appliquant la leçon Laura Thouzeau (ne jamais demander directement si son activité tourne bien juste après un contexte client/prestataire — ancrer sur du contenu réel de sa méthode plutôt que sur son business)
+- Prochaine étape probable : envoyer le message choisi par Matthias, laisser filer le faux projet sans y revenir, dérouler Phase 1 classique ensuite (ancienneté/parcours)
+- Dernière mise à jour : 5 août 2026
+
 ### Camille Baynaud — Assistante administrative & commerciale indépendante, automatisation Excel & Notion, bilingue FR/EN
 
 - Statut : Phase 1, tout début — connexion via un like sur un commentaire de post
