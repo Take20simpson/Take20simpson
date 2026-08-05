@@ -880,9 +880,10 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 
 - Statut : Phase 1, cas particulier — elle a démarché Matthias avec un pitch commercial classique pour ses services web
 - Dernier point : Matthias a décliné poliment (déjà des candidats en lice, porte ouverte pour un autre projet) puis pivoté vers elle en tant que personne. Elle a révélé 6 mois en freelance, UX/UI designer depuis plus longtemps avant. Reste encore un peu en mode pitch (relance motion design). Dernier message de Matthias sans question de fin ("Ça marche parfait").
-- Patterns utilisés : déclin gracieux façon objection précoce en miroir (validation + normalisation + redirection). Proposition en cours pour la suite, en exploitant Head Control (jamais évoqué dans l'échange, plus distinctif que le pitch Outsiders déjà détaillé)
+- **Correction de Matthias (5 août 2026) :** proposition initiale rejetée ("horrible, ça fait le mec qui débarque") — elle rebondissait sur "Head Control" (bio, jamais évoqué en direct dans l'échange). Nuance capturée dans `TEASING_METHODE_DM.md` (Partie 8, règle 9) : en relance, ne jamais forcer un rebond sur un élément jamais discuté en direct même s'il vient de la bio — préférer un vrai élément échangé ou un ton neutre/léger sans ancrage forcé. C'est une relance à J+7, pas une continuation directe.
+- Patterns utilisés : déclin gracieux façon objection précoce en miroir (validation + normalisation + redirection) sur l'échange initial. Relance = Type 5 (légère) ou rebond sur sa propre phrase de fin ("à bientôt") plutôt que sur la bio
 - Qualification à garder en tête : potentiellement ICP (freelance 6 mois, prospection sortante active elle-même, offre définie) mais bien trop tôt pour creuser — rester chaleureux, pas de pivot business prématuré vu qu'elle vient de se faire décliner
-- Prochaine étape probable : envoyer le message choisi par Matthias, rester en Phase 1 légère
+- Prochaine étape probable : envoyer le message choisi par Matthias parmi les nouvelles propositions, rester en Phase 1 légère
 - Dernière mise à jour : 5 août 2026
 
 ### Jonathan Vouilloz (Jon) — SEO & GEO pour PME/TPE suisses, visibilité Google et citation par les IA
