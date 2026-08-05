@@ -876,4 +876,14 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 
 ---
 
+### Charlène Bancilhon — Transition professionnelle, aide à choisir quoi tester en premier entre plusieurs pistes
+
+- Statut : Phase 1 (superficielle), pur smalltalk vacances/déconnexion jusqu'ici
+- Dernier point : premier contact par vocal (0:16, contenu non retranscrit), réponse décalée car en vacances, échange léger sur la déconnexion. Dernier message du fil envoyé par Matthias lui-même ("Carrément", emojis) sans question de fin — le fil est en pause côté Matthias, pas côté Charlène. Aucune info business échangée à ce stade, seule matière disponible = sa bio ("Plusieurs vies professionnelles en tête ? On choisit quoi tester en premier • Transition professionnelle"), pas encore exploitée dans la conversation.
+- Patterns utilisés : aucun encore côté creusage — proposition en attente pour relancer avec une question de fin, en ancrant sur sa bio (transition professionnelle) pour amorcer Phase 1 → sujet business
+- Prochaine étape probable : envoyer la relance proposée (observation sur sa bio + question ouverte sur son activité), puis dérouler Phase 1 classique (métier, ancienneté) avant transition vers focus/objectif
+- Dernière mise à jour : 5 août 2026
+
+---
+
 *Document créé le 22 juillet 2026, dans le cadre de la nouvelle architecture à 4 pôles.*

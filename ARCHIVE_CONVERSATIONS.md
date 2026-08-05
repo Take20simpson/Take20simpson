@@ -617,4 +617,17 @@ mardi (date exacte non précisée, ~22 juillet)
 
 ---
 
+### Charlène Bancilhon
+
+samedi
+08:57 Matthias : [vocal 0:16]
+
+mardi
+10:31 Charlène : Hello Matthias, Désolé de ce retard, je suis en vacances actuellement ! 😃 avec grand plaisir, c'est important de se soutenir ! passes un très bel été en tout cas !
+11:19 Matthias : Yes donc t'es en mode fullllll vacances c'est ça
+16:55 Charlène : Oui ça fait du bien ! Il faut déconnecter !
+17:12 Matthias : 😡🤑😝 / Carrément
+
+---
+
 *Document créé le 22 juillet 2026, en complément de `JOURNAL.md`, à la demande de Matthias (besoin d'une sauvegarde brute complète des conversations, pas seulement un résumé).*
