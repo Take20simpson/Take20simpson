@@ -689,6 +689,11 @@ lundi
 11:21 Camille : Ah oui c'est possible je ne sais plus exactement 😅
 11:21 Matthias : Moi non plus plus ahah
 
+aujourd'hui
+10:10 Matthias : Haha on va dire qu'on est logés à la même enseigne niveau mémoire 😅 tu commentes beaucoup sur LinkedIn ou c'était un coup d'un soir celui-là ?
+17:28 Camille : Team poisson rouge 🤣🤣 Je commente quand j'estime que je peux apporter quelque chose ou quand ça m'intéresse.. fin quand j'ai un truc a en dire quoi, tout naturellement 😅
+18:08 Matthias : Ahah moi aussi
+
 ---
 
 ### Sandra Fourmann

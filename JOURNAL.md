@@ -917,11 +917,10 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 
 ### Camille Baynaud — Assistante administrative & commerciale indépendante, automatisation Excel & Notion, bilingue FR/EN
 
-- Statut : Phase 1, tout début — connexion via un like sur un commentaire de post
-- Dernier point : échange très léger, running gag naissant sur la mémoire qui flanche des deux côtés ("je sais plus", "moi non plus plus"). Dernier message de Matthias sans question de fin.
-- Patterns utilisés : R1 (rebond sur le running gag mémoire, mots exacts)
-- Message retenu par Matthias : "Haha on va dire qu'on est logés à la même enseigne niveau mémoire 😅 tu commentes beaucoup sur LinkedIn ou c'était un coup d'un soir celui-là ?"
-- Prochaine étape probable : envoyer le message ci-dessus, rester en registre léger avant tout pivot business (pas encore de matière pour un hook bio)
+- Statut : Phase 1, toujours léger, mais premier trait de personnalité révélé
+- Dernier point : running gag mémoire toujours actif ("team poisson rouge"). Elle a révélé commenter seulement quand elle a un vrai truc à dire ou que ça l'intéresse. Toujours aucune matière business abordée en direct (seule sa bio la porte).
+- Patterns utilisés : R1 (rebond sur running gag), proposition en cours pour commencer à fermer la Phase 1 (ancienneté/parcours)
+- Prochaine étape probable : envoyer le message choisi par Matthias
 - Dernière mise à jour : 5 août 2026
 
 ### Sandra Fourmann — Assistante administrative virtuelle, organisation & automatisation no-code pour coachs/formateurs/consultants
