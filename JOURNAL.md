@@ -876,6 +876,14 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 
 ---
 
+### Camille Baynaud — Assistante administrative & commerciale indépendante, automatisation Excel & Notion, bilingue FR/EN
+
+- Statut : Phase 1, tout début — connexion via un like sur un commentaire de post
+- Dernier point : échange très léger, running gag naissant sur la mémoire qui flanche des deux côtés ("je sais plus", "moi non plus plus"). Dernier message de Matthias sans question de fin.
+- Patterns utilisés : proposition en cours, applique la leçon Sandra Fourmann (éviter de labelliser son positionnement, préférer auto-dérision + question parcours)
+- Prochaine étape probable : envoyer la relance choisie par Matthias, dérouler Phase 1 classique ensuite
+- Dernière mise à jour : 5 août 2026
+
 ### Sandra Fourmann — Assistante administrative virtuelle, organisation & automatisation no-code pour coachs/formateurs/consultants
 
 - Statut : Phase 1, premier message envoyé lundi (14:06), en attente de réponse

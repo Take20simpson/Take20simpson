@@ -617,6 +617,17 @@ mardi (date exacte non précisée, ~22 juillet)
 
 ---
 
+### Camille Baynaud
+
+lundi
+10:02 Matthias : Helllooo
+11:14 Camille : Bonjour
+11:18 Matthias : Merci, je crois que tu as liker mon commentaire de mes postes
+11:21 Camille : Ah oui c'est possible je ne sais plus exactement 😅
+11:21 Matthias : Moi non plus plus ahah
+
+---
+
 ### Sandra Fourmann
 
 lundi
