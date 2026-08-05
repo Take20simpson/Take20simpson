@@ -625,6 +625,10 @@ jeudi
 18:51 Laura : Ça marche merci pour ta franchise. Ça fait 6 mois que je me suis lancée en freelance mais je suis UX/UI designer depuis plus longtemps. N'hésite pas à revenir vers moi si tu as besoin et petit plus : j'intègre aussi des éléments animés en motion design dans mes sites si tu le souhaites et que ça sert ton propos, l'unicité de ton site et sa dynamique. ;) À bientôt !
 18:56 Matthias : Ça marche parfait
 
+aujourd'hui
+10:24 Matthias : Hello Laura, ça m'intrigue le motion design dans un site, ça change quoi concrètement niveau ressenti pour l'utilisateur par rapport à un site plus statique ?
+14:30 Laura : Salut Matthias, Tout dépend des objectifs de ton site et donc des éléments animés mais ça peut attirer le regard des utilisateurs vers certains endroits spécifiques, ça ajoute du mouvement et du dynamisme en fonction ton univers, et ça permet également de te différencier de tes concurrents en créant un site plus vivant et plus attrayant. Le site n'est plus une simple visite mais il devient alors une expérience où les utilisateurs vont rester plus longtemps et découvrir plus attentivement ce que tu proposes. L'idée n'est évidemment pas d'en mettre partout mais d'en mettre aux bons endroits pour servir tes objectifs. Cela peut être de pictogrammes animés, des boutons animés, de fonds de bandeaux par exemple ou de section de ton site, ou encore d'autres éléments en fonction de ce que tu souhaites transmettre. Voilà ;) Si tu as d'autres questions n'hésite pas. Bonne journée à toi !
+
 ---
 
 ### Jonathan Vouilloz
