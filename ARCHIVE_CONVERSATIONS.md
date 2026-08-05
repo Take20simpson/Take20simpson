@@ -653,6 +653,10 @@ samedi
 10:08 Benjamin : J'accompagne les artisans, solopreneur(se), pme qui sont déjà installés et qui veulent revoir leurs images.
 10:09 Matthias : Ah ok je vois
 
+aujourd'hui
+10:13 Matthias : Ça fait un sacré scope de gérer identité ET site pour chaque client. Tu bosses en solo sur toute la chaîne ou t'as des gens avec qui tu collabores parfois ?
+10:24 Benjamin : Je bosse tout seul 😊
+
 ---
 
 ### Aurore Muller
