@@ -637,6 +637,10 @@ vendredi
 09:12 Matthias : Yo merci pour ton com
 10:38 Jonathan : avec plaisir
 
+aujourd'hui
+10:15 Matthias : dailleurs le focus suisse c'est intentionnel ou t'es tombé dedans un peu par hasard ?
+13:19 Jonathan : j'ai pas compris, le focus suisse? / j'habite en suisse à genève, et j'aime travailler avec de la proximité
+
 ---
 
 ### Benjamin Autin
