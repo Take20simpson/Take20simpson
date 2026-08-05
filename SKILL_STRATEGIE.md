@@ -164,6 +164,14 @@ Voir Partie 2 ci-dessus. C'est la fondation de tous les autres principes.
 - **Comment montrer sa valeur :** Devoiler sa strategie complete, partager son experience personnelle, donner enormement de valeur gratuite
 - **Nuance avec la croyance :** La croyance centrale n'est PAS une critique des autres strategies. C'est une analyse OBJECTIVE du contexte. On compare objectivement, on ne critique jamais.
 
+**Gestion de la question directe "c'est quoi tes derniers clients / t'as des resultats ?" (ajoutee le 5 aout 2026) :** ligne rouge non negociable, zero exception — jamais inventer un client, un chiffre ou un resultat qui n'existe pas. Marge reelle entre mentir et tout etaler :
+1. Mener avec SON propre cas (Matthias a construit tout son business via cette methode, preuve reelle, invulnerable a la contestation) — Principe #7, vendre par le process pas la promesse
+2. Mentionner les clientes reelles (Lucille, Melanie) honnetement, sans survendre le resultat ni le tarif. "Mon offre a evolue" n'est pas un mensonge ici : le prix est vraiment passe de 350 EUR (fevrier) a 2000 EUR (voir `CLAUDE.md`) — s'appuyer sur ce vrai avant d'inventer une fausse couverture
+3. Si la question touche l'absence de resultat client : retourner ça en insight assume (le manque de consistance de ces clientes a motive le pivot ICP du 22 juillet excluant les debutants) plutot qu'en honte ou en esquive — histoire vraie et coherente
+4. Ne jamais devoiler ça spontanement — meme logique que Partie 6 ("Ne Jamais Montrer Ses Resultats Sans Qu'on Les Demande"), etendue ici a la prospection DM. Si la question arrive : repondre sans s'attarder, puis recentrer sur le prospect
+
+La formulation exacte en conversation DM releve de `SKILL_SETTING_DM.md` (Pole 2), pas de ce document — ici c'est la posture/le principe.
+
 ### Principe #3 : Donner de la Valeur Avant de Vendre
 
 - Ne JAMAIS pitcher avant d'avoir donne de la valeur gratuitement
