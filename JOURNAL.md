@@ -910,9 +910,9 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 
 - **Contexte particulier (5 août 2026) :** conversation démarrée par Matthias en se présentant comme client potentiel (projet fictif de landing page pour un webinar), pour tester si "répondre à un appel d'offre" auprès d'une freelance peut générer un lead exploitable pour son propre accompagnement. Pas un vrai projet — technique de génération de leads en test, pas encore validée.
 - Statut : Phase 1 (matière déjà riche malgré le contexte inhabituel)
-- Dernier point : elle a détaillé sa méthode (réduction des points de friction : module de calcul de prix, liste d'attente anti no-show), ses outils (HTML pur, pas de CMS). A proposé un call visio, Matthias a différé sans s'engager ("je te tiens au jus"), elle a juste liké. Reprise du fil décidée par Matthias en pivotant vers elle comme prospect plutôt que vers le faux projet.
-- Patterns utilisés : proposition en cours, appliquant la leçon Laura Thouzeau (ne jamais demander directement si son activité tourne bien juste après un contexte client/prestataire — ancrer sur du contenu réel de sa méthode plutôt que sur son business)
-- Prochaine étape probable : envoyer le message choisi par Matthias, laisser filer le faux projet sans y revenir, dérouler Phase 1 classique ensuite (ancienneté/parcours)
+- Dernier point : elle a détaillé sa méthode (réduction des points de friction : module de calcul de prix, liste d'attente anti no-show), ses outils (HTML pur, pas de CMS). A proposé un call visio, Matthias a différé sans s'engager ("je te tiens au jus"), elle a juste liké. Reprise du fil en pivotant vers son savoir-faire (points de friction) : elle a détaillé sa méthode d'analyse (cohérence ads/page, levée d'objections, réassurance, UX du formulaire) — très généreuse et engagée dans ses réponses.
+- Patterns utilisés : ancrage sur du contenu réel de sa méthode (leçon Laura Thouzeau appliquée), proposition en cours pour commencer à pivoter vers son parcours/formation plutôt que de rester indéfiniment sur le projet fictif
+- Prochaine étape probable : envoyer le message choisi par Matthias, continuer à orienter progressivement vers elle (parcours/ancienneté) sans jamais revenir sur le faux projet ni questionner son business directement
 - Dernière mise à jour : 5 août 2026
 
 ### Camille Baynaud — Assistante administrative & commerciale indépendante, automatisation Excel & Notion, bilingue FR/EN

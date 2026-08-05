@@ -674,6 +674,10 @@ jeudi
 09:57 Matthias : Je te tiens au jus
 10:20 Aurore : 👍
 
+aujourd'hui
+10:29 Matthias : ce que tu disais sur les points de friction ça m'a bien intéressé, tu repères ça comment en général, y'a une méthode ou c'est vraiment du cas par cas selon le client ?
+10:43 Aurore : Un peu des deux , j'ai une méthode d'analyse adaptable en fonction du contexte. Dans un cas comme le tiens où la page est destinée à une campagne ads pour l'inscription à un webinaire d'après ce que j'ai compris, je vais surtout m'assurer de la cohérence du message entre l'ads et la page (est-ce qu'on retrouve et valide bien la promesse qui a fait cliquer). Est-ce qu'on dirige bien la personne vers l'inscription - avec levée des objections - éléments de réassurance placé aux bons endroits - formulaire qui donne pas envie d'abandonner. L'analyse reste la même (c'est celle du comportement humain) mais les frictions ne sont pas les mêmes selon que tu présentes un site vitrine, une landing page de vente etc...
+
 ---
 
 ### Camille Baynaud
