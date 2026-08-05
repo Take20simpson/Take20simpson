@@ -617,6 +617,14 @@ mardi (date exacte non précisée, ~22 juillet)
 
 ---
 
+### Jonathan Vouilloz
+
+vendredi
+09:12 Matthias : Yo merci pour ton com
+10:38 Jonathan : avec plaisir
+
+---
+
 ### Benjamin Autin
 
 vendredi

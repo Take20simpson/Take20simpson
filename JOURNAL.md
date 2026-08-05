@@ -876,6 +876,14 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 
 ---
 
+### Jonathan Vouilloz (Jon) — SEO & GEO pour PME/TPE suisses, visibilité Google et citation par les IA
+
+- Statut : Phase 1, tout début — 2 messages échangés (remerciement pour un commentaire + "avec plaisir")
+- Dernier point : aucune vraie matière conversationnelle encore, seule sa bio est exploitable (SEO/GEO, focus PME/TPE suisses, angle "cité par les IA")
+- Patterns utilisés : proposition en cours, vigilance sur le piège labellisation (leçon Sandra Fourmann)
+- Prochaine étape probable : envoyer le message choisi par Matthias, dérouler Phase 1 classique ensuite (ancienneté/parcours)
+- Dernière mise à jour : 5 août 2026
+
 ### Benjamin Autin — Brand Designer, identité visuelle/branding + sites Framer & Webflow pour artisans et indépendants
 
 - Statut : Phase 1 (fin), transition proche vers Phase 2
