@@ -617,6 +617,26 @@ mardi (date exacte non précisée, ~22 juillet)
 
 ---
 
+### Benjamin Autin
+
+vendredi
+18:52 Matthias : Yo benjamin
+18:59 Benjamin : Hello !
+19:19 Matthias : Merci pour ton soutien sous mes postes, d'ailleurs je me rappelle plus lesquels, mais je sais que je t'ai vu passer à quelques reprises
+19:23 Benjamin : Effectivement avec plaisir 😊
+19:40 Matthias : 👍
+19:43 Matthias : [vocal]
+19:59 Benjamin : Branding ( identité visuelle complète, stratégie de marque) et site Web sur framer et webflow
+20:00 Matthias : Ah OK, donc tu fais tout à la fois
+20:01 Benjamin : Oui j'accompagne de A à Z 😊
+20:01 Matthias : [vocal 0:18]
+
+samedi
+10:08 Benjamin : J'accompagne les artisans, solopreneur(se), pme qui sont déjà installés et qui veulent revoir leurs images.
+10:09 Matthias : Ah ok je vois
+
+---
+
 ### Camille Baynaud
 
 lundi

@@ -876,6 +876,14 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 
 ---
 
+### Benjamin Autin — Brand Designer, identité visuelle/branding + sites Framer & Webflow pour artisans et indépendants
+
+- Statut : Phase 1 (fin), transition proche vers Phase 2
+- Dernier point : métier détaillé (branding complet + site Framer/Webflow, accompagnement A à Z), ICP connu (artisans/solopreneurs/PME déjà installés qui veulent revoir leur image). Ancienneté/parcours pas encore connus. Dernier message de Matthias sans question de fin ("Ah ok je vois").
+- Patterns utilisés : proposition en cours pour clore la Phase 1 (ancienneté/parcours) sans reposer ce qui est déjà connu, option auto-dérision dans le lot (pattern validé sur Sandra Fourmann)
+- Prochaine étape probable : envoyer le message choisi, puis basculer vers la question pivot Phase 2 (focus/objectif de l'année) une fois l'ancienneté connue
+- Dernière mise à jour : 5 août 2026
+
 ### Camille Baynaud — Assistante administrative & commerciale indépendante, automatisation Excel & Notion, bilingue FR/EN
 
 - Statut : Phase 1, tout début — connexion via un like sur un commentaire de post
