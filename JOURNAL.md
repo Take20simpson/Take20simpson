@@ -880,8 +880,9 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 
 - Statut : Phase 1, tout début — connexion via un like sur un commentaire de post
 - Dernier point : échange très léger, running gag naissant sur la mémoire qui flanche des deux côtés ("je sais plus", "moi non plus plus"). Dernier message de Matthias sans question de fin.
-- Patterns utilisés : proposition en cours, applique la leçon Sandra Fourmann (éviter de labelliser son positionnement, préférer auto-dérision + question parcours)
-- Prochaine étape probable : envoyer la relance choisie par Matthias, dérouler Phase 1 classique ensuite
+- Patterns utilisés : R1 (rebond sur le running gag mémoire, mots exacts)
+- Message retenu par Matthias : "Haha on va dire qu'on est logés à la même enseigne niveau mémoire 😅 tu commentes beaucoup sur LinkedIn ou c'était un coup d'un soir celui-là ?"
+- Prochaine étape probable : envoyer le message ci-dessus, rester en registre léger avant tout pivot business (pas encore de matière pour un hook bio)
 - Dernière mise à jour : 5 août 2026
 
 ### Sandra Fourmann — Assistante administrative virtuelle, organisation & automatisation no-code pour coachs/formateurs/consultants
