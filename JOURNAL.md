@@ -879,9 +879,9 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 ### Sandra Fourmann — Assistante administrative virtuelle, organisation & automatisation no-code pour coachs/formateurs/consultants
 
 - Statut : Phase 1, premier message envoyé lundi (14:06), en attente de réponse
-- Dernier point : premier DM envoyé ("Hellloo") — assez générique, sans observation ciblée sur son profil malgré une bio très riche en matière exploitable (no-code, cible coachs/formateurs/consultants). Pas de réponse depuis (2 jours). Un 2e message est proposé, traité comme le vrai premier contact (observation sur sa bio + question sur son parcours) plutôt qu'une relance classique — aucune matière conversationnelle à rebondir, jamais de mention du silence.
-- Patterns utilisés : R14 (observation ciblée), R1 (creuser le "comment"/parcours plutôt que reposer ce qui est déjà public dans la bio)
-- Prochaine étape probable : envoyer le 2e message choisi par Matthias ; si toujours pas de réponse, attendre avant une vraie relance (Situation 10bis, pas avant J+5)
+- Dernier point : premier DM envoyé ("Hellloo") — assez générique, sans observation ciblée. Pas de réponse depuis (2 jours). 2 des 3 propositions de 2e message rejetées car elles labellisaient son positionnement ("focus spécifique", "positionnement de niche") — jugé faux-intéressé. Message retenu par Matthias (auto-dérision + question parcours) : "Haha faudrait presque que je t'embauche pour structurer mon propre bazar administratif un jour 😄 tu es venue à ça comment toi, t'as fait quoi avant de te lancer là-dedans ?"
+- Patterns utilisés : Règle 13 (auto-dérision/réciprocité indirecte, déclencheur 4.2), R1 (creuser le "comment"/parcours plutôt que reposer ce qui est déjà public) — nuance capturée dans `SKILL_SETTING_DM.md` (Règle 1, 3e piège) : ne jamais labelliser/qualifier le positionnement du prospect en ouverture, préférer l'auto-dérision
+- Prochaine étape probable : envoyer le message ci-dessus ; si toujours pas de réponse, attendre avant une vraie relance (Situation 10bis, pas avant J+5)
 - Dernière mise à jour : 5 août 2026
 
 ### Christelle Rosoux — Experte relecture, correction et mise en page de documents
