@@ -876,6 +876,14 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 
 ---
 
+### Christelle Rosoux — Experte relecture, correction et mise en page de documents
+
+- Statut : Phase 1 (superficielle), pur smalltalk vacances jusqu'ici
+- Dernier point : connectée le 12 juin, relance légère le 26 juillet sur ses vacances. Elle a pris 2 semaines de vacances en juillet tout en gardant une mission en cours. Dernier message du fil envoyé par Matthias lui-même ("Ok top") sans question de fin — même piège que sur Charlène Bancilhon (2e occurrence dans la session du 5 août), le fil est en pause côté Matthias.
+- Patterns utilisés : aucun encore côté creusage — proposition en attente pour relancer en rebondissant sur "mission en cours pendant les vacances" plutôt que de redemander son métier (déjà dans sa bio)
+- Prochaine étape probable : envoyer la relance proposée (rebond sur la mission gardée pendant les vacances + question ouverte), puis dérouler Phase 1 classique (ancienneté, mode de fonctionnement) avant transition vers focus/objectif
+- Dernière mise à jour : 5 août 2026
+
 ### Charlène Bancilhon — Transition professionnelle, aide à choisir quoi tester en premier entre plusieurs pistes
 
 - Statut : Phase 1 (superficielle), pur smalltalk vacances/déconnexion jusqu'ici

@@ -617,6 +617,22 @@ mardi (date exacte non précisée, ~22 juillet)
 
 ---
 
+### Christelle Rosoux
+
+12 juin
+09:41 Matthias : Hello Christelle, au plaisir d'échanger. Très bon week-end à toi.
+
+26 juillet
+15:13 Matthias : Hello, ça se passe bien tes vacances ?
+
+mardi
+10:26 Christelle : Hello, oui très bien. J'espère que toi aussi 🙂
+11:18 Matthias : Trop bien me too / T'es en full vacances ou boulot quand même
+11:47 Christelle : J'ai pris deux semaines de vacances en juillet mais j'avais quand même une mission en cours
+11:56 Matthias : Ok top
+
+---
+
 ### Charlène Bancilhon
 
 samedi
