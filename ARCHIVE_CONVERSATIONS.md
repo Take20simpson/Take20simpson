@@ -692,6 +692,10 @@ lundi
 lundi
 14:06 Matthias : Hellloo
 
+aujourd'hui
+10:08 Matthias : Haha faudrait presque que je t'embauche pour structurer mon propre bazar administratif un jour 😄 tu es venue à ça comment toi, t'as fait quoi avant de te lancer là-dedans ?
+10:41 Sandra : Haha, avec plaisir un jour 😄 Avant de me lancer, j'ai passé plus de 30 ans dans l'hôtellerie-restauration, où j'ai occupé différents postes, dont des fonctions d'assistante de direction pendant 9 ans. Ça m'a appris à être très organisée, rigoureuse et à toujours anticiper les imprévus. Aujourd'hui, je me spécialise dans l'organisation et l'automatisation des processus pour aider les indépendants à gagner du temps et à alléger leur charge mentale. C'est un domaine qui me passionne et dans lequel je continue à me former chaque jour. 😊
+
 ---
 
 ### Christelle Rosoux

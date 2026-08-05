@@ -926,10 +926,10 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 
 ### Sandra Fourmann — Assistante administrative virtuelle, organisation & automatisation no-code pour coachs/formateurs/consultants
 
-- Statut : Phase 1, premier message envoyé lundi (14:06), en attente de réponse
-- Dernier point : premier DM envoyé ("Hellloo") — assez générique, sans observation ciblée. Pas de réponse depuis (2 jours). 2 des 3 propositions de 2e message rejetées car elles labellisaient son positionnement ("focus spécifique", "positionnement de niche") — jugé faux-intéressé. Message retenu par Matthias (auto-dérision + question parcours) : "Haha faudrait presque que je t'embauche pour structurer mon propre bazar administratif un jour 😄 tu es venue à ça comment toi, t'as fait quoi avant de te lancer là-dedans ?"
-- Patterns utilisés : Règle 13 (auto-dérision/réciprocité indirecte, déclencheur 4.2), R1 (creuser le "comment"/parcours plutôt que reposer ce qui est déjà public) — nuance capturée dans `SKILL_SETTING_DM.md` (Règle 1, 3e piège) : ne jamais labelliser/qualifier le positionnement du prospect en ouverture, préférer l'auto-dérision
-- Prochaine étape probable : envoyer le message ci-dessus ; si toujours pas de réponse, attendre avant une vraie relance (Situation 10bis, pas avant J+5)
+- Statut : Phase 1 (fin), parcours détaillé obtenu
+- Dernier point : premier DM générique ("Hellloo") suivi d'un 2e message auto-dérision/parcours validé ("faudrait presque que je t'embauche..."). Elle a répondu avec un parcours riche : 30 ans dans l'hôtellerie-restauration, 9 ans assistante de direction, reconversion vers l'organisation/automatisation par passion. Ancienneté dans cette activité actuelle encore inconnue.
+- Patterns utilisés : Règle 13 (auto-dérision/réciprocité indirecte), R1 (creuser le "comment"/parcours). Nuance capturée dans `SKILL_SETTING_DM.md` (Règle 1, 3e piège) : ne jamais labelliser/qualifier le positionnement du prospect, préférer l'auto-dérision. Proposition en cours pour fermer la Phase 1 (ancienneté) ou pivoter direct vers la Phase 2 (focus de l'année)
+- Prochaine étape probable : envoyer le message choisi par Matthias
 - Dernière mise à jour : 5 août 2026
 
 ### Christelle Rosoux — Experte relecture, correction et mise en page de documents
