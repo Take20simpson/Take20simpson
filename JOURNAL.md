@@ -876,6 +876,14 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 
 ---
 
+### Sandra Fourmann — Assistante administrative virtuelle, organisation & automatisation no-code pour coachs/formateurs/consultants
+
+- Statut : Phase 1, premier message envoyé lundi (14:06), en attente de réponse
+- Dernier point : premier DM envoyé ("Hellloo") — assez générique, sans observation ciblée sur son profil malgré une bio très riche en matière exploitable (no-code, cible coachs/formateurs/consultants). Point de vigilance pour les prochains premiers messages sur ce type de profil, pas d'action rétroactive possible.
+- Patterns utilisés : aucun encore, conversation pas commencée côté prospect
+- Prochaine étape probable : si elle répond, entrer en Phase 1 classique (observation/rondeur, pas de question directe en premier) ; si pas de réponse sous quelques jours, relance légère (Situation 10bis)
+- Dernière mise à jour : 5 août 2026
+
 ### Christelle Rosoux — Experte relecture, correction et mise en page de documents
 
 - Statut : Phase 1 (superficielle), pur smalltalk vacances jusqu'ici
