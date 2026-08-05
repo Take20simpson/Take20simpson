@@ -617,6 +617,16 @@ mardi (date exacte non précisée, ~22 juillet)
 
 ---
 
+### Laura Thouzeau
+
+jeudi
+18:20 Laura : Salut Matthias, J'espère que tu vas bien. Top la connexion ! 👌 Je reviens vers toi concernant ta recherche pour la création de ta landing page. As-tu trouvé quelqu'un qui te convient ? Si tu le souhaites, on peut échanger plus amplement sur ton projet afin de voir si une collaboration peut te satisfaire ? Si tu n'as pas eu le temps d'aller voir mon travail, je te remets ici quelques éléments : Je conçois des sites sur-mesure, je m'adapte donc à ton univers, tes besoins et tes valeurs pour construire Ton site qui sert Tes objectifs. Etant UX/UI designer, je me concentre également sur tes utilisateurs afin de te créer un site qui serve ta marque et qui est percutant pour tes potentiels clients, en terme de design bien sûr mais aussi en terme d'expérience utilisateur. Je personnalise également ton interface de gestion (wordpress par exemple) et te fournis une documentation de gestion afin que tu puisses par la suite être autonome sur ta gestion du site après livraison = pas de dépendance. Egalement, tous mes sites sont responsives, accessibles, performants et bien référencés (SEO technique). Je te remets le lien vers mon site si tu veux y (re)faire un tour : outsiders-agency.com. J'ai une devise : Accompagner mes collaborateurs à chaque étape avec l'exigence d'une pro et la franchise d'une amie. ;) J'aimerais beaucoup t'accompagner sur ton projet et je reste à ton écoute. En attendant ton retour, je te souhaite un très bon après-midi. Laura
+18:36 Matthias : Merci pour tous ces détails Laura / Je vais pas te mentir, il y a déjà des gens devant toi qui m'ont contacté avant mais c'est pas foutu pour autant, je reviens vers toi si jamais / Et au pire, ce sera pour un autre projet / Ça fait combien de tant que tu t'es lancé
+18:51 Laura : Ça marche merci pour ta franchise. Ça fait 6 mois que je me suis lancée en freelance mais je suis UX/UI designer depuis plus longtemps. N'hésite pas à revenir vers moi si tu as besoin et petit plus : j'intègre aussi des éléments animés en motion design dans mes sites si tu le souhaites et que ça sert ton propos, l'unicité de ton site et sa dynamique. ;) À bientôt !
+18:56 Matthias : Ça marche parfait
+
+---
+
 ### Jonathan Vouilloz
 
 vendredi

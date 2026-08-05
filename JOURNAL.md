@@ -876,6 +876,15 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 
 ---
 
+### Laura Thouzeau — UX/UI Designer, fondatrice Outsiders (sites sur-mesure) et Head Control (DeepTech accessibilité)
+
+- Statut : Phase 1, cas particulier — elle a démarché Matthias avec un pitch commercial classique pour ses services web
+- Dernier point : Matthias a décliné poliment (déjà des candidats en lice, porte ouverte pour un autre projet) puis pivoté vers elle en tant que personne. Elle a révélé 6 mois en freelance, UX/UI designer depuis plus longtemps avant. Reste encore un peu en mode pitch (relance motion design). Dernier message de Matthias sans question de fin ("Ça marche parfait").
+- Patterns utilisés : déclin gracieux façon objection précoce en miroir (validation + normalisation + redirection). Proposition en cours pour la suite, en exploitant Head Control (jamais évoqué dans l'échange, plus distinctif que le pitch Outsiders déjà détaillé)
+- Qualification à garder en tête : potentiellement ICP (freelance 6 mois, prospection sortante active elle-même, offre définie) mais bien trop tôt pour creuser — rester chaleureux, pas de pivot business prématuré vu qu'elle vient de se faire décliner
+- Prochaine étape probable : envoyer le message choisi par Matthias, rester en Phase 1 légère
+- Dernière mise à jour : 5 août 2026
+
 ### Jonathan Vouilloz (Jon) — SEO & GEO pour PME/TPE suisses, visibilité Google et citation par les IA
 
 - Statut : Phase 1, tout début — 2 messages échangés (remerciement pour un commentaire + "avec plaisir")
