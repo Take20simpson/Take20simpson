@@ -879,9 +879,10 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 ### Jonathan Vouilloz (Jon) — SEO & GEO pour PME/TPE suisses, visibilité Google et citation par les IA
 
 - Statut : Phase 1, tout début — 2 messages échangés (remerciement pour un commentaire + "avec plaisir")
-- Dernier point : aucune vraie matière conversationnelle encore, seule sa bio est exploitable (SEO/GEO, focus PME/TPE suisses, angle "cité par les IA")
-- Patterns utilisés : proposition en cours, vigilance sur le piège labellisation (leçon Sandra Fourmann)
-- Prochaine étape probable : envoyer le message choisi par Matthias, dérouler Phase 1 classique ensuite (ancienneté/parcours)
+- Dernier point : aucune vraie matière conversationnelle encore, seule sa bio est exploitable (SEO/GEO, focus PME/TPE suisses, angle IA). Option B rejetée car elle citait un bout de sa bio entre guillemets ("évite absolument les guillemets") — nuance renforcée en interdit absolu dans `SKILL_SETTING_DM.md`.
+- Message retenu par Matthias : "Ahah nickel. Le focus suisse c'est intentionnel ou t'es tombé dedans un peu par hasard ?"
+- Patterns utilisés : R1 (curiosité sur son positionnement géographique sans le qualifier)
+- Prochaine étape probable : envoyer le message ci-dessus, dérouler Phase 1 classique ensuite (ancienneté/parcours)
 - Dernière mise à jour : 5 août 2026
 
 ### Benjamin Autin — Brand Designer, identité visuelle/branding + sites Framer & Webflow pour artisans et indépendants
