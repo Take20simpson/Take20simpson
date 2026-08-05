@@ -879,9 +879,9 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 ### Sandra Fourmann — Assistante administrative virtuelle, organisation & automatisation no-code pour coachs/formateurs/consultants
 
 - Statut : Phase 1, premier message envoyé lundi (14:06), en attente de réponse
-- Dernier point : premier DM envoyé ("Hellloo") — assez générique, sans observation ciblée sur son profil malgré une bio très riche en matière exploitable (no-code, cible coachs/formateurs/consultants). Point de vigilance pour les prochains premiers messages sur ce type de profil, pas d'action rétroactive possible.
-- Patterns utilisés : aucun encore, conversation pas commencée côté prospect
-- Prochaine étape probable : si elle répond, entrer en Phase 1 classique (observation/rondeur, pas de question directe en premier) ; si pas de réponse sous quelques jours, relance légère (Situation 10bis)
+- Dernier point : premier DM envoyé ("Hellloo") — assez générique, sans observation ciblée sur son profil malgré une bio très riche en matière exploitable (no-code, cible coachs/formateurs/consultants). Pas de réponse depuis (2 jours). Un 2e message est proposé, traité comme le vrai premier contact (observation sur sa bio + question sur son parcours) plutôt qu'une relance classique — aucune matière conversationnelle à rebondir, jamais de mention du silence.
+- Patterns utilisés : R14 (observation ciblée), R1 (creuser le "comment"/parcours plutôt que reposer ce qui est déjà public dans la bio)
+- Prochaine étape probable : envoyer le 2e message choisi par Matthias ; si toujours pas de réponse, attendre avant une vraie relance (Situation 10bis, pas avant J+5)
 - Dernière mise à jour : 5 août 2026
 
 ### Christelle Rosoux — Experte relecture, correction et mise en page de documents
