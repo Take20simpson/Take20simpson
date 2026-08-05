@@ -708,6 +708,10 @@ mardi
 11:47 Christelle : J'ai pris deux semaines de vacances en juillet mais j'avais quand même une mission en cours
 11:56 Matthias : Ok top
 
+aujourd'hui
+10:05 Matthias : Ahah la vraie indépendante qui bosse même en vacances, on se reconnaît 😄 elle portait sur quoi cette mission qui t'a suivie jusqu'à la plage ?
+10:14 Christelle : Hé oui, j'ai besoin d'argent donc je ne refuse pas un client, même en vacances 😉 / C'était la relecture et mise en page d'un manuscrit en vue d'édition
+
 ---
 
 ### Charlène Bancilhon

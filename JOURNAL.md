@@ -934,10 +934,11 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 
 ### Christelle Rosoux — Experte relecture, correction et mise en page de documents
 
-- Statut : Phase 1 (superficielle), pur smalltalk vacances jusqu'ici
-- Dernier point : connectée le 12 juin, relance légère le 26 juillet sur ses vacances. Elle a pris 2 semaines de vacances en juillet tout en gardant une mission en cours. Dernier message du fil envoyé par Matthias lui-même ("Ok top") sans question de fin — même piège que sur Charlène Bancilhon (2e occurrence dans la session du 5 août), le fil est en pause côté Matthias.
-- Patterns utilisés : aucun encore côté creusage — proposition en attente pour relancer en rebondissant sur "mission en cours pendant les vacances" plutôt que de redemander son métier (déjà dans sa bio)
-- Prochaine étape probable : envoyer la relance proposée (rebond sur la mission gardée pendant les vacances + question ouverte), puis dérouler Phase 1 classique (ancienneté, mode de fonctionnement) avant transition vers focus/objectif
+- Statut : Phase 1, mais un premier signal Douleur vient de tomber (préqualification en cours)
+- Dernier point : connectée le 12 juin, relance légère le 26 juillet sur ses vacances. Elle a pris 2 semaines de vacances en juillet tout en gardant une mission en cours (relecture/mise en page d'un manuscrit en vue d'édition). Relancée avec succès sur cette mission ("elle portait sur quoi ?") : elle a répondu avec un vrai signal — "j'ai besoin d'argent donc je ne refuse pas un client, même en vacances 😉" (livré sur le ton de l'humour, pas encore un aveu sérieux à quantifier).
+- Signal Douleur 🟡 (à confirmer) : besoin financier évoqué spontanément, ton encore léger. Signal Maturité et Urgence pas encore évalués.
+- Patterns utilisés : R14 (relance ancrée sur un élément réel), proposition en cours pour matcher son humour avant de creuser (jamais quantifier directement le revenu/budget)
+- Prochaine étape probable : envoyer la proposition choisie (creuser la fréquence de ce type de situation ou son type de clients), garder le signal Douleur en tête pour une future Phase 3
 - Dernière mise à jour : 5 août 2026
 
 ### Charlène Bancilhon — Transition professionnelle, aide à choisir quoi tester en premier entre plusieurs pistes
