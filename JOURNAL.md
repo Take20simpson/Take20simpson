@@ -888,6 +888,13 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Stats : pas encore publié.
 - Notes : angle vérifié absent en post complet avant génération (seul le sondage PA-1 du 26/07 existait). Attention à la nuance ciblage du 27/07 (`SKILL_CONTENU_LINKEDIN.md`, catalogue PA-1) : l'audience est déjà Solution Aware sur le besoin d'un système — ce post reste pertinent car il ne se contente pas de dire "il faut un système", il nomme frontalement le comportement (excuses vs travail/persévérance/remise en question), distinct du "syndrome imposteur = absence de système" déjà sur-répété. **Axe 4 du catalogue PA-1 (tracking, en écho à la Partie 9 KPIs) et Angle 2 (différence bon mois/flux régulier) restent disponibles pour un futur post, non consommés ici.**
 
+### 09/08/2026 — Interdiction réseaux sociaux mineurs / Macron, contrôle d'identité (Personal Brand, actualité hors ICP, nouveau territoire)
+- Format : post
+- Accroche retenue : "C'est acté, dès la rentrée Macron interdit les réseaux sociaux aux moins de 15 ans, il appelle ça protéger les enfants. Moi j'appelle ça le prétexte parfait pour vérifier l'identité de tout le monde."
+- Mécanisme : premier post d'opinion politique/société pur du corpus, sans lien business (contrairement au post Tour de France du 25/07 qui gardait un fil vers le vécu perso) — antagoniste nommé directement (Macron) dès les premiers mots, sur demande explicite de Matthias, en 2 itérations (d'abord "veut", corrigé en "c'est acté/met en place" pour un ton plus affirmatif). Angle : ne pas s'opposer à l'objectif affiché (protéger les mineurs) mais démonter le mécanisme (vérification d'âge = vérification d'identité généralisée). 3 approches livrées (clivante, normale, Mathis Clouet), texte intégral à archiver dans `ARCHIVE_CONTENU.md` une fois l'approche choisie confirmée par Matthias.
+- Stats : pas encore publié.
+- Notes : signalé une fois à Matthias avant génération (pattern de performance mitigée des posts hors-ICP sans lien business dans ce corpus, voir synthèse Rattrapage Posts) — Matthias a maintenu la demande, exécuté tel quel. Pas de code catalogue existant (PA/SA/PR/PB) — nouveau territoire "actualité/société" à suivre si Matthias en refait, pourrait mériter sa propre entrée de catalogue dans `SKILL_CONTENU_LINKEDIN.md` si le format se répète.
+
 ---
 
 ### Laura Thouzeau — UX/UI Designer, fondatrice Outsiders (sites sur-mesure) et Head Control (DeepTech accessibilité)
