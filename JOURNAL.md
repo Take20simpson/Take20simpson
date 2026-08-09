@@ -881,6 +881,13 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Stats : pas encore publié.
 - Notes : angle vérifié absent du corpus avant génération. Thématique choisie en session stratégie (pôle 1) suite à une revue proactive du journal contenu identifiant le trou Product Aware — proposée parmi 6 thématiques, retenue par Matthias.
 
+### 09/08/2026 — Excuses vs réalité, malchance/marché saturé (PA-1, Angle 1, brief direct de Matthias)
+- Format : post
+- Accroche retenue (moyenne) : "Le marché n'est pas saturé, ton offre n'est pas nulle, tu n'as juste pas assez bossé, pas assez persisté, jamais vraiment remis en question et jamais rien tracké. Les excuses changent, la vraie raison reste toujours la même."
+- Mécanisme : premier post complet sur PA-1 Angle 1 (jusqu'ici traité seulement en sondage le 26/07) — brief donné directement par Matthias sous forme de thèse déjà formulée (malchance/marché saturé/offre pas bonne comme excuses, vs manque de travail/persévérance/remise en question/tracking comme vraie cause). Registre clivant, attaque un persona précis (celui qui blâme l'extérieur) — même mécanisme que Rattrapage Posts #7 (meilleur volume de commentaires du corpus). Vécu personnel glissé légèrement (dispersion, manque de consistance, déjà documenté dans `CLAUDE.md` Parcours) sans reprendre l'anecdote coaching/8 mois gratuit déjà sur-exploitée récemment (signal de fatigue noté le 04/08 sur le post "22 ans zéro diplôme", 160 impr). 3 approches livrées (clivante, normale, Mathis Clouet), texte intégral à archiver dans `ARCHIVE_CONTENU.md` une fois l'approche choisie confirmée par Matthias.
+- Stats : pas encore publié.
+- Notes : angle vérifié absent en post complet avant génération (seul le sondage PA-1 du 26/07 existait). Attention à la nuance ciblage du 27/07 (`SKILL_CONTENU_LINKEDIN.md`, catalogue PA-1) : l'audience est déjà Solution Aware sur le besoin d'un système — ce post reste pertinent car il ne se contente pas de dire "il faut un système", il nomme frontalement le comportement (excuses vs travail/persévérance/remise en question/tracking), distinct du "syndrome imposteur = absence de système" déjà sur-répété.
+
 ---
 
 ### Laura Thouzeau — UX/UI Designer, fondatrice Outsiders (sites sur-mesure) et Head Control (DeepTech accessibilité)
