@@ -1889,6 +1889,29 @@ Et ça, c'est pas à moi de le lui faire découvrir en plein appel
 
 > Approche clivante générée par Claude, entièrement réécrite phrase par phrase par Matthias — diff complet et leçons capturées dans `SKILL_CONTENU_LINKEDIN.md` (section "Retour du 09 août 2026"). Stats pas encore publié, voir `JOURNAL.md`.
 
+### [09/08/2026] — post — Excuses vs réalité, malchance/marché saturé (PA-1)
+Le marché n'est pas saturé, ton offre n'est pas nulle, tu n'as juste pas assez bossé !!
+
+Le marché saturé, c'est l'excuse numéro 1
+
+Après t'as l'excuse de l'offre pas assez bonne, la conjoncture, l'algorithme qui a changé du jour au lendemain…. Brefff 🙄
+
+Faut arrêter, le marché n'a pas changé, c'est toi qui as arrêté de bosser sérieusement dessus
+
+Tu appelles ça un creux, un mauvais mois, la poisse…. Comme tu veux….
+
+… Moi j'appelle ça un manque de volume, point
+
+Tu dis que t'as tout essayé, en vrai t'as lâché après trois semaines parce que ça ne marchait pas encore
+
+Persister c'est pas espérer que ça revienne tout seul, c'est continuer même quand t'as aucun retour visible
+
+Tu répètes les mêmes messages, la même approche, le même angle depuis des mois, sans jamais te demander si le problème vient peut-être de toi 🫵
+
+Se remettre en question, c'est pas se flageller, c'est regarder objectivement ce qui marche pas et changer un truc à la fois
+
+> Approche clivante générée par Claude, réécrite phrase par phrase par Matthias qui a aussi coupé le 4e axe (tracking) et la chute perso de la version initiale — post fini sur 3 axes plutôt que 4. Diff complet et leçons capturées dans `SKILL_CONTENU_LINKEDIN.md` (section "Retour du 09 août 2026 (bis)"). Stats pas encore publié, voir `JOURNAL.md`.
+
 ---
 
 *Document créé le 22 juillet 2026, en complément de `JOURNAL.md`, à la demande de Matthias (besoin d'une sauvegarde du contenu, posts et vidéos, plus détaillée que le résumé du journal, sans dupliquer les transcriptions mot pour mot).*
