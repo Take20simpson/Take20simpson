@@ -874,6 +874,13 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 
 > **Synthèse rapide du lot du 04/08/2026 :** le record absolu du corpus est battu ("signe un client/famille", 2 415 impressions) — le vécu personnel très spécifique et frais continue de surperformer tout le reste, y compris sa propre tentative de reproduction immédiate (chienne n'a jamais lu, 207 impr, x10 moins). Les posts/vidéos "méta"/conseil sans scène vécue (voici la solution, ce qu'on ne m'a jamais dit) restent en bas du lot, confirmant le pattern déjà installé. Deux contenus (72% micro-entrepreneurs, chienne performe mieux) confirment qu'un post peut prendre du temps à monter — ne pas juger sur les premières heures.
 
+### 09/08/2026 — Transparence radicale, critères de sourcing exacts (PR-2, Angle 2, nouvel angle catégorie)
+- Format : post
+- Accroche retenue : "Avant de connecter avec un prospect, je vérifie 4 critères précis, jamais un coup de cœur."
+- Mécanisme : premier post du catalogue Product Aware (PR-2) publié dans le nouveau pipeline depuis le pivot ICP du 22/07 — comble un trou identifié en session stratégie (aucun post PR- depuis un mois, malgré la fréquence cible 1/10-14 jours, alors que la prospection vient d'être relancée le 5/08). Détaille les 4 critères réels de sourcing (CA généré même modeste/irrégulier, minimum 4 mois d'activité, activité LinkedIn réelle — poste + commente, offre déjà définie), directement issus de l'ICP pivoté (`CLAUDE.md` Partie 2) et de la méthode sourcing (`SKILL_STRATEGIE.md` Partie 4). 3 approches livrées (clivante, normale, Mathis Clouet), texte intégral à archiver dans `ARCHIVE_CONTENU.md` une fois l'approche choisie confirmée par Matthias.
+- Stats : pas encore publié.
+- Notes : angle vérifié absent du corpus avant génération. Thématique choisie en session stratégie (pôle 1) suite à une revue proactive du journal contenu identifiant le trou Product Aware — proposée parmi 6 thématiques, retenue par Matthias.
+
 ---
 
 ### Laura Thouzeau — UX/UI Designer, fondatrice Outsiders (sites sur-mesure) et Head Control (DeepTech accessibilité)
