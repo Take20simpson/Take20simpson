@@ -1859,6 +1859,36 @@ le vrai problème n'est presque jamais la technique….
 
 > Format liste/rafale sur du matériau déjà connu (Principe #8, Parcours) — plus faible engagement du lot, voir note dans `JOURNAL.md`.
 
+### [09/08/2026] — post — Critères de sourcing exacts (PR-2)
+Avant de connecter avec un prospect, je vérifie ces 4 critères précis…
+
+
+La moitié des gens qui prospectent connectent au feeling
+
+Ils remarquent une bannière propre, un profil qui a l'air pro, et hop, la demande part 😭
+
+Et après ils s'étonnent que personne ne réponde, ou pire, que ça réponde et que ça ne mène jamais nulle part
+
+Moi je check 4 trucs avant de me connecter, à chaque fois, sans exception….
+
+Il a du CA, même minime, même irrégulier, mais un vrai client payé quelque part, pas une idée de business dans sa tête
+
+Il est actif depuis au moins 6 mois. En dessous, il n'a pas encore assez de vécu pour que la douleur soit réelle
+
+Il poste et il commente, pas juste un profil qui existe pour exister
+
+Il sait déjà ce qu'il vend et à qui
+
+Si un seul de ces 4 critères manque, je passe instantanément
+
+Pas par snobisme mais par respect du temps de tout le monde, le sien et le mien en l'occurrence
+
+Le freelance qui débute sans avoir signé un seul client, il a besoin d'un mentor gratuit qui lui explique les bases, pas d'un accompagnement
+
+Et ça, c'est pas à moi de le lui faire découvrir en plein appel
+
+> Approche clivante générée par Claude, entièrement réécrite phrase par phrase par Matthias — diff complet et leçons capturées dans `SKILL_CONTENU_LINKEDIN.md` (section "Retour du 09 août 2026"). Stats pas encore publié, voir `JOURNAL.md`.
+
 ---
 
 *Document créé le 22 juillet 2026, en complément de `JOURNAL.md`, à la demande de Matthias (besoin d'une sauvegarde du contenu, posts et vidéos, plus détaillée que le résumé du journal, sans dupliquer les transcriptions mot pour mot).*
