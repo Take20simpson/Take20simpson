@@ -114,6 +114,10 @@ Ces règles enlèvent le mauvais, elles ne dictent pas la structure.
 
 **Longueur : par défaut, court.** Le réflexe par défaut de Claude tend vers des commentaires trop longs, des pavés. Sauf si le post ou l'intention de l'option l'exige vraiment (ex : storytelling qui a besoin de poser une scène), viser nettement plus court que ce qui vient naturellement. Se demander avant de livrer : est-ce que ça tient en deux phrases plutôt que quatre.
 
+**Une phrase peut être ni chantante ni répétitive et sonner quand même mécanique.** Retour du 13 août 2026 : après correction du chant/parallélisme, Matthias a trouvé les commentaires "beaucoup mieux mais bizarre, trop mécanique, pas des phrases humaines normales". Le défaut ne venait plus de la structure mais du manque de texture : une phrase-constat trop propre, posée d'un bloc, sans les tics réels de Matthias, sonne encore écrite même sans chant ni répétition de mot. Le fix concret : rajouter des points de suspension (3, 4, parfois plus, en fin ou en milieu de phrase), et piocher dans ses vrais tics observés dans `ARCHIVE_CONTENU.md` (ses posts et transcriptions vidéo réels) plutôt que dans une liste abstraite. Tics confirmés dans l'archive : "bref...", "franchement", "en vrai", "du coup", "genre", "d'ailleurs....", "etc....", une phrase qui part en "blablabla...." pour couper court, des dots qui traînent en fin de ligne au lieu d'un point propre. Avant de livrer une option qui n'est ni humour ni storytelling, se demander si elle a une trace de cette texture réelle plutôt qu'une formulation trop achevée.
+
+**Éviter la répétition du même mot clé comme procédé d'emphase dans une même option** (ex : "le vrai goulot c'est X... le vrai goulot c'est aussi Y"). C'est un procédé d'écriture pour construire un effet, pas un réflexe de parlé. Si un mot revient, c'est par accident du sujet, jamais posé exprès deux fois pour marquer le coup.
+
 **Ça doit COULER, jamais des blocs juxtaposés.** Un commentaire se lit comme quelqu'un qui parle d'un trait, pas comme des morceaux assemblés (l'insight, puis l'exemple, puis l'histoire posés côte à côte). On relie les idées par des liants oraux naturels (parce que, du coup, en fait, tu vois, et le truc c'est que) pour que l'enchaînement soit fluide. Si on sent la couture entre deux parties, c'est raté, on refond la phrase pour que l'une jaillisse de l'autre.
 
 **Couler n'est pas la même chose que trop fluide.** Une phrase bien reliée par des liants oraux peut quand même sonner écrite si elle est trop lisse, trop logique, sans aucune aspérité, comme un paragraphe qui se relit trop bien. Le parlé vrai a de la texture : des phrases courtes qui s'arrêtent net (point au milieu, pas besoin d'attendre la fin du commentaire), un fragment qui démarre par "parce que" ou "et" sans être une phrase complète, une pensée qui se répète ou se corrige à voix haute, une fin qui reste sur une émotion brute plutôt que sur une synthèse propre et bouclée. Si une option s'enchaîne trop parfaitement du début à la fin, méfiance, c'est probablement trop fluide, pas assez parlé.
@@ -269,6 +273,11 @@ Mini-analyse en 2-4 lignes (registre du post, dose d'humour, risques). Puis la q
 ---
 
 ## HISTORIQUE DES ITÉRATIONS
+
+**13 août 2026 — Post Emeline Desert-Bensaïd (cours Harvard gratuits)**
+- Retour global : les 6 options étaient déjà mieux (plus de chant) mais jugées "bizarre, trop mécanique, pas des phrases humaines normales, on n'y est pas encore, il faut qu'on me reconnaisse à l'intérieur". Nouveau garde-fou sur la texture (points de suspension, vrais tics de l'archive) ajouté ci-dessus.
+- Option 4 : formulation rejetée sans détail précis donné ("j'aime pas du tout"), à traiter comme signal général plutôt que pattern isolé — probablement la répétition du mot "goulot" deux fois, couverte par le nouveau garde-fou anti-répétition d'emphase.
+- Option 3 ("Neuroscience et bonheur en accès libre et les gens paient encore...") jugée "trop chantant, on dirait une phrase sortie d'un livre" malgré l'absence de chant/parallélisme structurel identifié précédemment — confirme qu'un simple constat bien formé, sans tic ni aspérité, peut sonner écrit même sans les défauts déjà corrigés.
 
 **13 août 2026 — Post Nina Ramen (charge mentale entrepreneuses)**
 - Question de fin livrée en "vous" au lieu de "tu" : corrigé, règle explicite ajoutée (toujours tu).
