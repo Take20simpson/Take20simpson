@@ -110,7 +110,8 @@ L'ordre est fixe. L'intention est fixe. La forme est libre à chaque fois.
 - Post léger / humour / lifestyle : les deux slots humour donnent à fond, on joue le délire du post.
 - Post positif / victoire / anniversaire : humour bienveillant uniquement, jamais une vanne qui pique l'auteur. Clivant chaleureux qui finit sur du positif.
 - Post tactique / business : humour qui marche, les autres options gardent la profondeur.
-- Post grave / émotionnel / société / témoignage : ZÉRO humour. Les deux slots humour deviennent des angles sérieux, le skill se comporte comme le classique. Signaler dans l'analyse. Voir POSTS SENSIBLES.
+- Post grave / émotionnel / société / témoignage : ZÉRO humour PAR DÉFAUT. Les deux slots humour deviennent des angles sérieux, le skill se comporte comme le classique. Signaler dans l'analyse. Voir POSTS SENSIBLES.
+- **Nuance ajoutée le 13 août 2026 : un témoignage grave avec un antagoniste identifiable (quelqu'un qui a mal agi envers l'auteur) autorise l'humour, mais un humour solidaire qui vise UNIQUEMENT l'antagoniste, jamais l'auteur, jamais la douleur elle même.** Exemple validé par Matthias comme "top commentaire, de l'humour" sur le post Yann Perono (trahison par un ex-associé) : une vanne sur l'hypocrisie du traître, ou un clin d'oeil complice qui se moque de LUI. La règle "zéro humour" du point précédent vise les sujets sans antagoniste individuel (deuil, épuisement, sujet systémique/société où viser quelqu'un serait tone-deaf) — voir POSTS SENSIBLES pour ce cas précis, qui reste zéro humour. Sur un témoignage à antagoniste, le test : est-ce que la vanne se moque du méchant de l'histoire (oui, ça passe) ou du sujet/de l'auteur (non, jamais).
 
 L'humour n'est jamais plaqué : il rebondit toujours sur le post. S'il sonne forcé, on préfère du sérieux.
 
@@ -172,13 +173,21 @@ Ces règles enlèvent le mauvais, elles ne dictent pas la structure.
 
 **Humanisateurs** : "perso", "franchement", "en vrai" en début de phrase, sur 1-2 options par série, jamais le même deux fois.
 
+**Argot et gros mots censurés, autorisés quand le ton du post s'y prête (ajouté 13 août 2026).** Matthias a partagé des commentaires tiers qu'il trouve "extrêmement fluides" en référence de texture (voir EXEMPLES DE FLUIDITÉ HUMAINE plus bas). Plusieurs utilisent un registre plus cru que ce qu'on générait jusqu'ici : "sans-cou*lles" (censuré à l'astérisque), "ça peut vite partir en couille", "tu te serais pété la gueule", "la douille". Ce registre est disponible sur les posts qui le permettent (témoignage familier, ton déjà cash de l'auteur), toujours inventé sur le moment jamais recopié de ces exemples, et jamais sur un post qui ne l'appelle pas.
+
+**CAPS pour l'emphase, ponctuel.** Un mot ou une courte expression en majuscules peut marquer l'intensité orale ("ça ne suffit TELLEMENT PAS"), à la manière d'une voix qui monte sur un mot précis à l'oral. Rare, jamais un mot sur deux.
+
+**Une chute peut partir sur une pointe personnelle ou légèrement absurde plutôt que de conclure proprement.** Exemple de référence (commentaire tiers) : après une observation sur la traîtrise humaine, la chute part sur "les humains m'étonneront toujours, je préfère les chats" — un pivot inattendu et un peu décalé, pas un résumé de ce qui précède. Cette chute reste distincte du "on finit quand l'idée est finie" déjà posé plus haut : ça ne rallonge pas l'idée, ça part ailleurs sur une note personnelle.
+
+**"PS :" en écho au format du post source, technique valable si le post lui même utilise un PS.** Rebondir sur la forme du post (ici, son propre PS) plutôt que seulement sur le fond peut renforcer l'effet "quelqu'un qui a vraiment lu".
+
 ## LE PONT (option 4, et seulement si naturel)
 
 Le pont vers le territoire de Matthias décrit un MÉCANISME, sans nommer la cible ni citer des individus. Celui qui galère se reconnaît tout seul. Jamais "les freelances galèrent à...", "j'ai vu des gens...", "en prospection c'est pareil". Sur un post grave, pas de pont.
 
 ## POSTS SENSIBLES / RAGE-BAIT
 
-Sujet grave, témoignage, rage-bait : zéro humour, le skill bascule en mode sérieux. Audience de Matthias quasi 100% de femmes freelances : aucune option ne valide un fond toxique, n'est tone-deaf, ne fait de vanne déplacée. Sur un rage-bait, extraire le noyau défendable, nuancer le reste. Si Matthias (un homme) commente un sujet de femmes, ne jamais se centrer ni se dédouaner. Si zéro marge d'erreur, le dire et rappeler que ne pas commenter est une option.
+Sujet grave sans antagoniste individuel (deuil, épuisement, sujet systémique/société, rage-bait) : zéro humour, le skill bascule en mode sérieux. Audience de Matthias quasi 100% de femmes freelances : aucune option ne valide un fond toxique, n'est tone-deaf, ne fait de vanne déplacée. Sur un rage-bait, extraire le noyau défendable, nuancer le reste. Si Matthias (un homme) commente un sujet de femmes, ne jamais se centrer ni se dédouaner. Si zéro marge d'erreur, le dire et rappeler que ne pas commenter est une option. **Distinct du témoignage à antagoniste identifiable (voir DOSAGE) où l'humour visant le méchant de l'histoire reste autorisé.**
 
 ## VÉCU (option 2, et tout détail perso ailleurs)
 
@@ -290,9 +299,34 @@ Mini-analyse en 2-4 lignes (registre du post, dose d'humour, risques). Puis la q
 
 "Je trouve que linkedin est très dogmatique sur certains niveaux. C'est très vrai ce que tu dis et surtout quand on commence, il faut arrêter de croire qu'il y a une seule recette qui fonctionne. le fait de se spécialiser, de se nicher en profondeur. Car ce n'est pas toujours le cas. Ça me fait penser, là je fais en parallèle, avec le personal branding. [...] Il faut arrêter de dire que 100% des business doivent miser sur le personal branding pour avoir des résultats. c'est faux oui ça fonctionne pour pas mal de personnes mais ça ne veut pas dire qu'on ne doit faire que ça et ce genre de dogmatisme si on dit ça comme ça ça commence à sérieusement m'énerver"
 
+## EXEMPLES DE FLUIDITÉ HUMAINE (référence tierce, ajouté 13 août 2026)
+
+> Matthias a partagé ces commentaires tiers (pas les siens) comme référence de ce qui "sonne vraiment humain" par opposition au côté mécanique résiduel. Même consigne que la section précédente : JAMAIS des structures ou des formulations à reprendre, uniquement la texture (rythme, grammaire relâchée, argot, chutes) à étudier. Cette banque a fait émerger plusieurs garde-fous déjà intégrés plus haut (argot censuré, CAPS, chute personnelle/absurde, PS en écho).
+
+"Go arrêter d'être le prisonnier de son propre business 👍"
+
+"Malheureusement c'est le genre de truc que tu peux pas savoir avant de te lancer 🤷‍♂️ et justement tu t'es lancé c'est tout ce qu'il faut ce retenir..."
+
+"C'est là que je vois à quel point bien s'entendre avec quelqu'un ne suffit TELLEMENT PAS pour bosser avec. C'est un autre monde. Bonne leçon en vrai maintenant tu peux sentir direct la douille de ce genre de personne bien malsaine"
+
+"C'est super dur de trouver un associé qui nous correspond et a une vision commune ! Quand il y a de l'argent en jeu ça peut vite partir en couille"
+
+"--> J'appelle ça des sans-cou*lles. Comment en face il peut te dire qu'il est compréhensible et dès que tu pars te cracher dessus. Les humains m'étonneront toujours, je préfère les chats"
+
+"PS : Bon au moins, tu sais que t'as bien fait, tu te serais pété la gueule avec le projet sinon, au moins il est tombé tout seul 🤣" — validé explicitement par Matthias comme "top commentaire, de l'humour".
+
+"Les galères d'entrepreneur dont personne ne parle mais qui font énormément grandir !" — validé explicitement par Matthias pour le registre Percutant (option 6).
+
+**Point non tranché, à trancher avec Matthias avant de généraliser :** un des exemples partagés nomme l'auteur en ouverture ("Yann a fait péter sa carapace 😱🥹"), ce qui contredit la règle déjà écrite plus haut (JAMAIS l'auteur à la 3e personne, encore moins son prénom comme sujet). Ce exemple n'a pas reçu de validation explicite isolée comme les autres (pas de "-->" dédié), donc pas encore traité comme une autorisation confirmée. Tant que Matthias ne tranche pas, la règle existante (jamais de prénom sujet) reste appliquée par défaut dans les propositions générées.
+
 ---
 
 ## HISTORIQUE DES ITÉRATIONS
+
+**13 août 2026 — Banque de référence externe + post Yann Perono (trahison d'associé)**
+- Matthias a partagé des commentaires tiers (pas les siens) trouvés "extrêmement fluides" pour illustrer ce qui manquait encore. Capturés dans la nouvelle section EXEMPLES DE FLUIDITÉ HUMAINE. Garde-fous ajoutés : argot/gros mots censurés, CAPS ponctuel pour l'emphase, chute sur une pointe perso/absurde plutôt qu'un résumé, "PS :" en écho au post source.
+- Nuance majeure sur DOSAGE/POSTS SENSIBLES : un témoignage grave AVEC antagoniste identifiable (ici, l'ex-associé qui a publiquement démoli Yann après coup) autorise l'humour tant qu'il vise l'antagoniste, jamais l'auteur ni la douleur du sujet. Deux commentaires tiers sur ce post visant l'ex-associé ont été explicitement validés par Matthias comme "top commentaire, de l'humour" alors que l'ancienne règle DOSAGE aurait mis ce post en zéro humour absolu.
+- Point non tranché signalé, pas résolu unilatéralement : un exemple nomme l'auteur en 3e personne dans l'ouverture ("Yann a fait péter sa carapace"), ce qui contredit la règle existante sur l'anonymat de l'auteur dans le commentaire. Pas de validation isolée sur cet exemple précis, donc la règle existante reste appliquée en attendant l'arbitrage de Matthias.
 
 **13 août 2026 — Post Caroline Rousset (retournement commercial d'une startup US)**
 - Session déterminante : après correction du chant/chevilles/guillemets sur plusieurs posts, Matthias identifie une couche plus profonde encore mécanique. Nouvelle section "LE CONSTAT, JAMAIS LE POINT DE VUE" ajoutée en haut du document (juste après le principe fondateur), voir cette section pour le détail complet.
