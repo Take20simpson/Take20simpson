@@ -108,6 +108,12 @@ L'humour n'est jamais plaqué : il rebondit toujours sur le post. S'il sonne for
 
 Ces règles enlèvent le mauvais, elles ne dictent pas la structure.
 
+**Interdiction de l'ouverture qui annonce sa propre observation.** "Il y a un truc qui saute direct aux yeux", "ce qui est dingue c'est que", "un truc me frappe", ou toute variante qui prévient qu'on va faire une observation avant de la faire. Matthias : "formulation éclatée au sol". On balance direct le constat, sans préambule qui l'annonce.
+
+**Interdiction de la structure chantante/parallèle façon punchline, y compris dans les commentaires.** Le type "le machin, c'est rarement ce qui bloque en vrai, ce qui bloque c'est le truc" (contraste symétrique, rythme qui chante) est banni ici exactement comme dans les posts (voir `SKILL_CONTENU_LINKEDIN.md`, section punchline). Matthias : "tadadidadada, putain c'est trop chantant". On pose l'idée à plat, sans la faire sonner construite.
+
+**Longueur : par défaut, court.** Le réflexe par défaut de Claude tend vers des commentaires trop longs, des pavés. Sauf si le post ou l'intention de l'option l'exige vraiment (ex : storytelling qui a besoin de poser une scène), viser nettement plus court que ce qui vient naturellement. Se demander avant de livrer : est-ce que ça tient en deux phrases plutôt que quatre.
+
 **Ça doit COULER, jamais des blocs juxtaposés.** Un commentaire se lit comme quelqu'un qui parle d'un trait, pas comme des morceaux assemblés (l'insight, puis l'exemple, puis l'histoire posés côte à côte). On relie les idées par des liants oraux naturels (parce que, du coup, en fait, tu vois, et le truc c'est que) pour que l'enchaînement soit fluide. Si on sent la couture entre deux parties, c'est raté, on refond la phrase pour que l'une jaillisse de l'autre.
 
 **Couler n'est pas la même chose que trop fluide.** Une phrase bien reliée par des liants oraux peut quand même sonner écrite si elle est trop lisse, trop logique, sans aucune aspérité, comme un paragraphe qui se relit trop bien. Le parlé vrai a de la texture : des phrases courtes qui s'arrêtent net (point au milieu, pas besoin d'attendre la fin du commentaire), un fragment qui démarre par "parce que" ou "et" sans être une phrase complète, une pensée qui se répète ou se corrige à voix haute, une fin qui reste sur une émotion brute plutôt que sur une synthèse propre et bouclée. Si une option s'enchaîne trop parfaitement du début à la fin, méfiance, c'est probablement trop fluide, pas assez parlé.
@@ -183,7 +189,7 @@ Banque d'opinions réelles de Matthias, à ressortir en Insight ou Clivant quand
 
 ## QUESTION DE FIN (bloc indépendant)
 
-À coller à la fin de n'importe quelle option, jamais pré-intégrée. Autonome (compréhensible sans le post), prolonge la réflexion ou pointe une tension, jamais "et toi t'en penses quoi ?". Zéro guillemet. Ponctuation variée selon les sessions. Forme libre à chaque fois.
+À coller à la fin de n'importe quelle option, jamais pré-intégrée. Autonome (compréhensible sans le post), prolonge la réflexion ou pointe une tension, jamais "et toi t'en penses quoi ?". Zéro guillemet. Ponctuation variée selon les sessions. Forme libre à chaque fois. **Toujours en tu, jamais en vous** : on s'adresse à un lecteur, pas à un groupe, même sur un sujet collectif/société.
 
 ## FORMAT DE SORTIE
 
@@ -263,6 +269,12 @@ Mini-analyse en 2-4 lignes (registre du post, dose d'humour, risques). Puis la q
 ---
 
 ## HISTORIQUE DES ITÉRATIONS
+
+**13 août 2026 — Post Nina Ramen (charge mentale entrepreneuses)**
+- Question de fin livrée en "vous" au lieu de "tu" : corrigé, règle explicite ajoutée (toujours tu).
+- Option 1 ouvrait par "il y a un truc qui saute direct aux yeux", jugé "formulation éclatée au sol". Nouveau garde-fou : interdiction des ouvertures qui annoncent l'observation avant de la faire.
+- Option 2 utilisait la structure "le prix affiché c'est rarement ce qui bloque en vrai, ce qui prend du temps c'est..." jugée "trop chantante" (rythme punchline). Nouveau garde-fou : la structure chantante/parallèle est bannie dans les commentaires, pas seulement dans les posts.
+- Retour général : les options livrées étaient trop longues ("gros pavés"). Nouveau garde-fou sur la longueur par défaut, viser plus court sauf besoin réel.
 
 **22 juillet 2026 — Extraction en document dédié**
 - Matthias a demandé un document dont l'unique fonction est de générer des commentaires punch, séparé des modules Posts et Classique, et vivant (éditable en direct sur feedback, comme `SKILL_SETTING_DM.md`).
