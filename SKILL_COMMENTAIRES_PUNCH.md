@@ -19,6 +19,18 @@
 
 On prescrit l'INTENTION de chaque option, jamais la FORME. La forme naît du rebond sur CE post précis. Prescrire la forme (mets une image, invente tel scénario, ouvre comme ça) tue la variation et rend les commentaires détectables comme IA. On laisse l'IA inventer parmi mille formes.
 
+## LE CONSTAT, JAMAIS LE POINT DE VUE (ajouté 13 août 2026, principe central)
+
+> Retour de Matthias après plusieurs séries déjà corrigées du chant et des chevilles : "je sais pas comment te faire comprendre la fluidité humaine". Ce n'est pas un garde-fou de plus parmi d'autres, c'est ce qui reste une fois tous les tics de surface corrigés (chant, guillemets, chevilles, clichés) — la source la plus profonde du mécanique résiduel.
+
+**Une option, même sans aucun défaut de forme, sonne encore IA si elle se présente comme un point de vue qu'on argumente au lieu d'un constat qu'on balance.** Dès qu'une phrase énonce une condition pour se justifier elle même en train de se dérouler ("ça marche seulement si...", "à condition que...", "sinon ça reste juste..."), ou s'ouvre en annonçant une réaction/un ressenti avant le fait concret ("se faire retourner comme ça, ça pique l'ego", "oh là là, ceci c'est inconfortable"), c'est encore une thèse qu'on défend, pas quelque chose que Matthias dirait. Lui : "moi je dis juste ce que j'ai à dire". Le réflexe à appliquer : rentrer dans le concret immédiatement, dire la chose comme un fait déjà su, sans l'envelopper dans son propre raisonnement de justification en même temps qu'on l'énonce.
+
+**L'inversion jugement d'abord, fait ensuite, reste valide et confirmée sur toutes les options, pas seulement en storytelling.** Exemple validé par Matthias sur l'option Humour : "franchement chapeau, il n'y a pas plus efficace comme retournement, tu as une boîte qui refuse tes services et qui te vend les siens à la foulée mdrrr" — la réaction ouvre, le fait suit, "mdrrr" ferme sec. Voir aussi la règle d'inversion déjà posée plus haut (dislocation orale) : elle s'applique à toutes les options, pas qu'au storytelling.
+
+**Une fin de phrase trop plate manque encore quelque chose, même quand le fond est concret.** Matthias sur une option jugée correcte mais incomplète : "il manque encore un truc en fin de phrase". Une option qui rentre bien dans le concret peut quand même finir mou si elle s'arrête sur la description plutôt que sur une dernière touche (un tic, une chute, une pointe) qui referme avec de l'énergie.
+
+**Ce principe prime sur l'exemple. Ne pas figer une formule de remplacement.** Matthias a lui-même essayé de reformuler une option en direct et a jugé le résultat "même pas bon" — le principe (constat sec vs point de vue justifié) est plus fiable que n'importe quel exemple ponctuel de correction. Ne pas copier les corrections de cette session comme un nouveau gabarit, appliquer le principe à chaque post.
+
 ## DÉTECTION
 
 Format typique collé par Matthias :
@@ -281,6 +293,13 @@ Mini-analyse en 2-4 lignes (registre du post, dose d'humour, risques). Puis la q
 ---
 
 ## HISTORIQUE DES ITÉRATIONS
+
+**13 août 2026 — Post Caroline Rousset (retournement commercial d'une startup US)**
+- Session déterminante : après correction du chant/chevilles/guillemets sur plusieurs posts, Matthias identifie une couche plus profonde encore mécanique. Nouvelle section "LE CONSTAT, JAMAIS LE POINT DE VUE" ajoutée en haut du document (juste après le principe fondateur), voir cette section pour le détail complet.
+- Option 1 : validée après inversion jugement/fait par Matthias lui-même, "mdrrr" confirmé comme tic de clôture valide.
+- Option 2 : rejetée pour ouverture en point de vue abstrait ("ça pique l'ego") avant le concret.
+- Option 3 : jugée bonne sur le fond concret mais incomplète, "il manque un truc en fin de phrase".
+- Options 4 et 5 : rejetées pour la même raison, formulées comme un point de vue conditionnel ("ça marche seulement si...") plutôt qu'un constat direct sur la situation précise du post.
 
 **13 août 2026 — Post Océane Bondis (SEO pendant les fermetures d'été)**
 - Option 1 : "mojito" jugé cliché repérable comme IA, alors que l'énergie/structure de la phrase était juste. Garde-fou ajouté sur les images toutes faites (vacances/plage/cocktail).
