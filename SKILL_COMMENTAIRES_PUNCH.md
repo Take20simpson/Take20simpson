@@ -351,6 +351,9 @@ Mini-analyse en 2-4 lignes (registre du post, dose d'humour, risques). Puis la q
 
 ## HISTORIQUE DES ITÉRATIONS
 
+**13 août 2026 — Post Maryline Leroy (selfies de sa fille), calibrage humour confirmé**
+- Validation large : options 1, 2, 3, 5 et 6 toutes jugées "parfaite" ou "géniale". Matthias : "on est vraiment très bien calibré [...] quand on a affaire à un post humoristique". Premier post où la quasi totalité de la série passe sans retouche depuis le début des corrections de cette session (investissement émotionnel, fins non chantantes, diversité de mécaniques et de ponctuation). Sert de repère : ce niveau de calibrage est atteignable et à reproduire, pas un coup de chance isolé.
+
 **13 août 2026 — Post Myriam Azizi (coaching de carrière)**
 - Option 1 validée sans réserve : "courte, impactante, émotionnelle, elle dit vraiment quelque chose".
 - Option 3 validée avec son emoji unique en fin de phrase.
