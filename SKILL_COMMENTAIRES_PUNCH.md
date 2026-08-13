@@ -360,6 +360,10 @@ Mini-analyse en 2-4 lignes (registre du post, dose d'humour, risques). Puis la q
 - Option 2 et 4 encore "trop chantant" malgré une ouverture personnelle correcte, toutes deux à cause d'une fin en tag comparatif/négatif ("jamais un manque d'idées", "plus qu'un conseil direct"). Nouveau garde-fou ajouté sur les fins en tag comparatif.
 - "percuter" repéré comme mot mécanique/bizarre dans l'option 2, ajouté à la liste des mots suspects.
 
+**13 août 2026 — Post Eléonore Morée (deuil, trois héritages)**
+- Question de fin et option 2 (Storytelling) validées parfaites, sans invention de deuil personnel pour Matthias : ancrage sur des grands-parents vivants plutôt qu'une fausse perte fabriquée.
+- Option 3 encore "trop chantant" malgré l'ouverture corrigée, à cause d'une construction parallèle résiduelle (X qu'on affiche / Y qui reste invisible). Confirme que le chant peut se nicher dans une seule phrase à deux membres opposés, pas seulement sur toute la longueur d'une option — vigilance à maintenir même sur des phrases courtes.
+
 **13 août 2026 — Post Yann Perono (chauves/Freescale), banque humour pur tierce**
 - Matthias a fourni des commentaires tiers sur un post 100% second degré (blague sur les chauves) pour illustrer la diversité de mécanique d'humour et de ponctuation attendue. Nouvelle section REGISTRE HUMOUR PUR / SECOND DEGRÉ ajoutée avant DOSAGE, avec catalogue de ressorts comiques (logique absurde, sérieux pince sans rire, escalade, fausse alarme, attachement perso exagéré, jeu de mots) et consigne de diversité réelle de ponctuation/emoji sur une même série.
 
