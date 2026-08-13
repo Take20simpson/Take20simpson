@@ -113,6 +113,22 @@ L'ordre est fixe. L'intention est fixe. La forme est libre à chaque fois.
 
 **[OPTION 6 : Percutant]** Court, ça claque, ça se like en scrollant. 1 à 3 lignes. Forme libre.
 
+## REGISTRE HUMOUR PUR / SECOND DEGRÉ (ajouté 13 août 2026)
+
+> Sur un post ultra léger, second degré assumé (ex : blague potache sans enjeu réel), Matthias a fourni une banque de commentaires tiers (pas les siens) qu'il juge exemplaires. Ne s'applique qu'à ce registre précis, "pas représentatif d'un post où il n'y aurait pas d'humour". Sert de référence à la mécanique et à la diversité, jamais à copier une formulation.
+
+**Ne jamais se reposer sur UNE mécanique d'humour.** Diversifier le TYPE de ressort comique d'une option à l'autre dans la même série, jamais le même deux fois :
+- **Logique absurde poussée à fond** : prendre la prémisse du post au pied de la lettre et l'étendre à un cas limite ridicule mais cohérent. Référence : "comment on fait si je suis ni chauve, ni chevelu ?" — validé par Matthias : "on va chercher loin [...] ça n'a aucun sens et on ne se prend pas au sérieux".
+- **Sérieux pince sans rire sur une fausse causalité** : traiter un lien de cause à effet absurde comme un vrai sujet sérieux à étudier. Référence : "un jour faudra faire des statistiques sur le nombre de chauves sur ce réseau" — validé "très très bon humour".
+- **Escalade démesurée** : transformer une petite blague en réaction disproportionnée (tout abandonner, tout changer) à cause d'un détail insignifiant.
+- **Fausse alarme / parano comique** : jouer l'inquiétude exagérée face à un phénomène inoffensif.
+- **Attachement perso exagéré** : défendre ou refuser quelque chose de personnel avec une intensité comique disproportionnée par rapport à l'enjeu réel.
+- **Jeu de mots quand l'occasion se présente naturellement dans le post**, jamais forcé.
+
+**Diversité RÉELLE de ponctuation et d'emoji, jamais un réflexe figé.** Matthias : "je veux pas que ce soit un gros bordel [...] mais il faut que ça change en fonction du contexte [...] je veux jamais que tu me fasses la même chose". Sur une série de 6, varier consciemment : parfois seulement "..." (trois petits points), parfois "!!", parfois un seul emoji, parfois 2-3 emojis à la suite, parfois "mdr"/"mdrr", parfois un emoticon à l'ancienne, parfois rien du tout. Ne jamais reproduire le même choix sur deux options de la même série.
+
+**Même dans l'absurde pur, il reste une pointe d'investissement personnel réel, pas juste un mécanisme malin.** Recoupe le principe "L'INVESTISSEMENT ÉMOTIONNEL" plus haut : même une blague pure repose sur un vrai réflexe de celui qui la fait (un attachement, une inquiétude jouée, un refus catégorique), jamais juste une construction comique désincarnée.
+
 ## DOSAGE : le registre du post commande
 
 - Post léger / humour / lifestyle : les deux slots humour donnent à fond, on joue le délire du post.
@@ -330,6 +346,9 @@ Mini-analyse en 2-4 lignes (registre du post, dose d'humour, risques). Puis la q
 ---
 
 ## HISTORIQUE DES ITÉRATIONS
+
+**13 août 2026 — Post Yann Perono (chauves/Freescale), banque humour pur tierce**
+- Matthias a fourni des commentaires tiers sur un post 100% second degré (blague sur les chauves) pour illustrer la diversité de mécanique d'humour et de ponctuation attendue. Nouvelle section REGISTRE HUMOUR PUR / SECOND DEGRÉ ajoutée avant DOSAGE, avec catalogue de ressorts comiques (logique absurde, sérieux pince sans rire, escalade, fausse alarme, attachement perso exagéré, jeu de mots) et consigne de diversité réelle de ponctuation/emoji sur une même série.
 
 **13 août 2026 — Post Margot Daugieras (slow work), 2e passe : l'investissement émotionnel**
 - Option 1 validée sans réserve, devient LE modèle de référence : "j'avoue que le statut slack zen pendant que tu fermes le mac à midi, c'est le move que tout le monde rêve d'assumer sans culpabiliser mdrr". Aveu personnel en ouverture + débouché sur un désir humain partagé.
