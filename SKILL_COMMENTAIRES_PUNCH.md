@@ -31,6 +31,10 @@ On prescrit l'INTENTION de chaque option, jamais la FORME. La forme naît du reb
 
 **Ce principe prime sur l'exemple. Ne pas figer une formule de remplacement.** Matthias a lui-même essayé de reformuler une option en direct et a jugé le résultat "même pas bon" — le principe (constat sec vs point de vue justifié) est plus fiable que n'importe quel exemple ponctuel de correction. Ne pas copier les corrections de cette session comme un nouveau gabarit, appliquer le principe à chaque post.
 
+**Précision cruciale du 13 août 2026, même bataille mais plus profonde : retirer la condition/le hedge ne suffit pas si le constat reste posé comme une observation générale sur le sujet.** Une phrase qui pose le sujet comme thème ("le statut slack qui rassure tout le monde...", "décrocher une soirée sans culpabiliser, ça se construit pas vite...", "fermer l'ordinateur sans vérifier dix fois, ça demande...") sonne encore comme un commentateur extérieur qui analyse la situation de loin, même sans chant ni hedge. Matthias : "c'est comme si t'étais quelqu'un d'extérieur et que tu faisais un commentaire d'un point de vue général". Le vrai fix : ancrer l'ouverture dans une réaction PERSONNELLE, jamais dans le sujet lui même comme thème de la phrase. Trois façons valables d'ancrer, à varier : un ressenti au je qui réagit ("j'avoue que", "j'ai mis longtemps à", "ça m'a", jamais une annonce du type "j'ai remarqué un truc" qui retombe dans l'écueil déjà banni), une adresse directe qui implique le lecteur dès les premiers mots ("tu fermes l'ordinateur...", "t'as trouvé le move..."), ou un jugement exclamatif personnel en ouverture ("franchement", "honnêtement", "malheureusement", "j'ai un doute"). Jamais un groupe nominal, un infinitif ou un "ça" impersonnel comme sujet grammatical de la toute première proposition.
+
+**L'émotionnel, ce n'est ni l'humour ni les mdr/emoji.** Matthias : "l'émotionnel ce n'est pas que des emojis ou dire MDR, il y a des particularités très spécifiques". Voir la banque EXEMPLES DE FLUIDITÉ HUMAINE : le dégoût précis et spécifique ("la douille de ce genre de personne bien malsaine"), le désabusement avec une pointe personnelle inattendue ("les humains m'étonneront toujours, je préfère les chats"), le soulagement teinté d'humour noir ("tu te serais pété la gueule"). Ce sont de vrais états affectifs, ancrés et spécifiques, jamais un vernis de blague plaqué par dessus un constat neutre. Avant de livrer, vérifier qu'il y a une trace d'émotion RÉELLE et SPÉCIFIQUE quelque part dans l'option, pas juste un fond juste et une forme correcte.
+
 ## DÉTECTION
 
 Format typique collé par Matthias :
@@ -322,6 +326,10 @@ Mini-analyse en 2-4 lignes (registre du post, dose d'humour, risques). Puis la q
 ---
 
 ## HISTORIQUE DES ITÉRATIONS
+
+**13 août 2026 — Post Margot Daugieras (slow work), retour après la banque de référence**
+- Retour dur : "on dirait que tu n'as appris aucune leçon des exemples", "trop chantant", "des phrases toutes faites". Diagnostic précis de Matthias : toutes les options ouvraient sur le sujet lui même comme thème général (le statut slack, décrocher une soirée, fermer l'ordinateur), ce qui sonne comme un commentateur extérieur, pas quelqu'un qui réagit. Précision ajoutée dans LE CONSTAT, JAMAIS LE POINT DE VUE (voir plus haut) : retirer le hedge ne suffit pas, il faut ancrer l'ouverture dans une réaction personnelle (je, tu, ou adverbe de jugement), jamais dans le sujet comme thème grammatical de la phrase.
+- Signal complémentaire : chercher de l'émotionnel réel et spécifique, pas seulement de l'humour ou des mdr/emoji. Précision ajoutée à la même section.
 
 **13 août 2026 — Banque de référence externe + post Yann Perono (trahison d'associé)**
 - Matthias a partagé des commentaires tiers (pas les siens) trouvés "extrêmement fluides" pour illustrer ce qui manquait encore. Capturés dans la nouvelle section EXEMPLES DE FLUIDITÉ HUMAINE. Garde-fous ajoutés : argot/gros mots censurés, CAPS ponctuel pour l'emphase, chute sur une pointe perso/absurde plutôt qu'un résumé, "PS :" en écho au post source.
