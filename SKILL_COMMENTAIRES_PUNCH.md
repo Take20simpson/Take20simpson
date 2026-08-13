@@ -181,6 +181,10 @@ Ces règles enlèvent le mauvais, elles ne dictent pas la structure.
 
 **On finit quand l'idée est finie.** Pas de phrase de clôture, pas de morale, pas de phrase-bilan qui résume ou prend de la hauteur. L'humour poussé finit SUR la vanne, sec.
 
+**Les fins en tag comparatif ou négatif ("plus que X", "jamais X", "pas juste X") restent chantantes même sans le gabarit contrastif déjà banni.** Retour du 13 août 2026 : deux options finissaient sur ce genre de tag ("...jamais un manque d'idées", "...ça marque plus qu'un conseil direct") et ont été jugées "trop chantant" malgré l'absence du schéma "c'est pas X c'est Y". La comparaison ou la négation ajoutée en toute fin de phrase comme relance rhétorique produit le même effet chantant que le contraste frontal déjà interdit. Terminer sur le fait lui même, pas sur une queue comparative qui le commente.
+
+**Mot suspect identifié : "percuter" (au sens de comprendre/réaliser).** Jugé "un peu mécanique, un peu bizarre" par Matthias. À éviter, ou en tout cas ne pas devenir un réflexe de remplacement pour "réaliser"/"comprendre".
+
 **Jamais de phrase d'approbation** ("ton point est pertinent", "c'est exactement ce que j'aurais dit"). On n'est pas là pour plaire.
 
 **La première phrase ne doit pas sonner comme une citation.** Pas de maxime récitée, pas de formule équilibrée qui finirait sur fond beige Instagram, pas de définition "[concept] c'est [définition]". Test : Matthias dirait ça tel quel à un pote ? Mais on n'impose AUCUNE structure d'ouverture en échange, c'est libre.
@@ -346,6 +350,12 @@ Mini-analyse en 2-4 lignes (registre du post, dose d'humour, risques). Puis la q
 ---
 
 ## HISTORIQUE DES ITÉRATIONS
+
+**13 août 2026 — Post Myriam Azizi (coaching de carrière)**
+- Option 1 validée sans réserve : "courte, impactante, émotionnelle, elle dit vraiment quelque chose".
+- Option 3 validée avec son emoji unique en fin de phrase.
+- Option 2 et 4 encore "trop chantant" malgré une ouverture personnelle correcte, toutes deux à cause d'une fin en tag comparatif/négatif ("jamais un manque d'idées", "plus qu'un conseil direct"). Nouveau garde-fou ajouté sur les fins en tag comparatif.
+- "percuter" repéré comme mot mécanique/bizarre dans l'option 2, ajouté à la liste des mots suspects.
 
 **13 août 2026 — Post Yann Perono (chauves/Freescale), banque humour pur tierce**
 - Matthias a fourni des commentaires tiers sur un post 100% second degré (blague sur les chauves) pour illustrer la diversité de mécanique d'humour et de ponctuation attendue. Nouvelle section REGISTRE HUMOUR PUR / SECOND DEGRÉ ajoutée avant DOSAGE, avec catalogue de ressorts comiques (logique absurde, sérieux pince sans rire, escalade, fausse alarme, attachement perso exagéré, jeu de mots) et consigne de diversité réelle de ponctuation/emoji sur une même série.
