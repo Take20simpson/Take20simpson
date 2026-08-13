@@ -118,6 +118,14 @@ Ces règles enlèvent le mauvais, elles ne dictent pas la structure.
 
 **Éviter la répétition du même mot clé comme procédé d'emphase dans une même option** (ex : "le vrai goulot c'est X... le vrai goulot c'est aussi Y"). C'est un procédé d'écriture pour construire un effet, pas un réflexe de parlé. Si un mot revient, c'est par accident du sujet, jamais posé exprès deux fois pour marquer le coup.
 
+**Éviter les clichés d'image toute faite (le mojito, la plage, le cocktail, la sieste).** Retour du 13 août 2026 sur l'option Humour "vacances client" : l'énergie et la structure de la phrase étaient justes, mais "mojito" est repéré immédiatement comme un réflexe IA, exactement le genre de détail générique et attendu qu'un humain n'aurait pas choisi. Garder la même mécanique de phrase mais aller chercher un détail plus spécifique, plus concret, moins évident, moins déjà-vu mille fois.
+
+**"Le mec qui..." n'est pas un démarrage par défaut à réutiliser à chaque série.** Retour du 13 août 2026 : Matthias signale l'usage répété de "le mec, le mec, le mec" comme ouverture. C'est un type d'ouverture valide ponctuellement, jamais un réflexe qu'on ressort par défaut à chaque post ou plusieurs fois dans la même série.
+
+**Rappel à vérifier systématiquement avant de livrer : les chevilles bannies ("le vrai X c'est", "ça dit tout", "ça change tout", "c'est ça le vrai sujet") reviennent encore en pratique malgré la règle déjà écrite.** Retour du 13 août 2026 : option 4 ouvrait par "le vrai piège c'est", exactement la cheville déjà interdite plus haut dans ce document. Ce n'est pas une nouvelle règle, c'est un rappel que la checklist doit être appliquée littéralement mot pour mot sur chaque option avant de livrer, pas juste gardée en tête.
+
+**Guillemets : rappel de vigilance, la règle d'interdiction totale existe déjà mais continue d'être violée en pratique.** Retour du 13 août 2026, option 3 : un guillemet utilisé pour citer "personne pour répondre" malgré l'interdiction déjà écrite plus haut (INTERDICTION TOTALE, aucune exception). Vérifier littéralement, caractère par caractère, l'absence de guillemets avant de livrer chaque option.
+
 **Ça doit COULER, jamais des blocs juxtaposés.** Un commentaire se lit comme quelqu'un qui parle d'un trait, pas comme des morceaux assemblés (l'insight, puis l'exemple, puis l'histoire posés côte à côte). On relie les idées par des liants oraux naturels (parce que, du coup, en fait, tu vois, et le truc c'est que) pour que l'enchaînement soit fluide. Si on sent la couture entre deux parties, c'est raté, on refond la phrase pour que l'une jaillisse de l'autre.
 
 **Couler n'est pas la même chose que trop fluide.** Une phrase bien reliée par des liants oraux peut quand même sonner écrite si elle est trop lisse, trop logique, sans aucune aspérité, comme un paragraphe qui se relit trop bien. Le parlé vrai a de la texture : des phrases courtes qui s'arrêtent net (point au milieu, pas besoin d'attendre la fin du commentaire), un fragment qui démarre par "parce que" ou "et" sans être une phrase complète, une pensée qui se répète ou se corrige à voix haute, une fin qui reste sur une émotion brute plutôt que sur une synthèse propre et bouclée. Si une option s'enchaîne trop parfaitement du début à la fin, méfiance, c'est probablement trop fluide, pas assez parlé.
@@ -273,6 +281,12 @@ Mini-analyse en 2-4 lignes (registre du post, dose d'humour, risques). Puis la q
 ---
 
 ## HISTORIQUE DES ITÉRATIONS
+
+**13 août 2026 — Post Océane Bondis (SEO pendant les fermetures d'été)**
+- Option 1 : "mojito" jugé cliché repérable comme IA, alors que l'énergie/structure de la phrase était juste. Garde-fou ajouté sur les images toutes faites (vacances/plage/cocktail).
+- Option 2 : Matthias a réécrit lui-même, exemple à garder pour l'énergie (jamais la structure figée) : "le décalage entre l'effort et le résultat, personne ne veut l'accepter. clients que j'ai signé par hasard d'ailleurs au bout de deux mois bah j'y croyais pas j'avais même oublié le contexte du message à la base". Note la coupe du "c'est le truc que" (assertion directe plutôt qu'enrobée), le "d'ailleurs" comme bascule vers l'anecdote, la ponctuation quasi absente, le "bah" en plein milieu de phrase.
+- Option 3 : jugée trop chantante (ouverture "le mec qui... il a jamais capté que...") et contenait un guillemet malgré l'interdiction déjà écrite. Deux garde-fous ajoutés (le mec en ouverture répétée, rappel guillemets).
+- Option 4 : ouvrait par "le vrai piège c'est", cheville déjà bannie dans ce document mais pas appliquée. Rappel ajouté sur la vérification littérale de la checklist.
 
 **13 août 2026 — Post Emeline Desert-Bensaïd (cours Harvard gratuits)**
 - Retour global : les 6 options étaient déjà mieux (plus de chant) mais jugées "bizarre, trop mécanique, pas des phrases humaines normales, on n'y est pas encore, il faut qu'on me reconnaisse à l'intérieur". Nouveau garde-fou sur la texture (points de suspension, vrais tics de l'archive) ajouté ci-dessus.
