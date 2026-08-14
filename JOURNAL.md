@@ -920,6 +920,13 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Stats : 116 impressions, 7 votes (qualité 86% / quantité 14% / tracking 0%), 0 réaction, 0 commentaire.
 - Notes : post non drafté en session Claude. Échantillon très faible (7 votes) — cohérent avec le pattern déjà noté que les sondages diagnostics ont un faible reach (voir PA-9 du 31/07, 174 impr). Résultat net mais pas exploitable statistiquement. Texte intégral dans `ARCHIVE_CONTENU.md`.
 
+### 14/08/2026 — L'humain avant la technique, fermer sa bouche et écouter (SA-3, Angle 5, nouvel angle)
+- Format : post
+- Accroche : "La meilleure technique de closing que je connaisse, c'est de fermer ta bouche et écouter."
+- Mécanisme : premier angle SA-3 (Le mécanisme du setting) centré sur l'humain comme compétence de base plutôt que sur un mécanisme précis de qualification (les 4 angles existants : effet mystique, TU dis vs IL réalise, 70/30, posture du médecin) — déconstruit la croyance qu'il faut un script/une technique de closing pour vendre, appuyé sur le vécu du premier closing de Matthias (inconnu total, zéro script, questions sincères). Brief donné en vocal par Matthias, incluant une blague auto-référentielle ("sauf si tu n'es pas humain en lisant ce post") intégrée au corps plutôt qu'à l'accroche. Généré dans la session Stratégie (pôle 1) sur demande explicite de Matthias (cas prévu par la note de portée du Module 1, hors-périmètre sauf demande explicite). 3 approches livrées (clivante, normale, Mathis Clouet), texte intégral à archiver dans `ARCHIVE_CONTENU.md` une fois l'approche choisie confirmée.
+- Stats : pas encore publié.
+- Notes : risque signalé une fois à Matthias avant génération — le sujet penche vers le mode "conseil/explication" qui a sous-performé sur SA-5 en vidéo (96 impr, prospection≠spam, note du 27/07) car l'audience est déjà Solution Aware sur le besoin d'un système ; mitigé en ancrant chaque approche sur la scène du premier closing plutôt que sur la thèse à plat. Angle vérifié absent du catalogue SA-3 avant génération. À ajouter au catalogue (`SKILL_CONTENU_LINKEDIN.md`, SA-3) comme Angle 5 une fois l'approche validée et publiée.
+
 ---
 
 ### Laura Thouzeau — UX/UI Designer, fondatrice Outsiders (sites sur-mesure) et Head Control (DeepTech accessibilité)
