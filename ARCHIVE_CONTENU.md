@@ -1887,7 +1887,7 @@ Le freelance qui débute sans avoir signé un seul client, il a besoin d'un ment
 
 Et ça, c'est pas à moi de le lui faire découvrir en plein appel
 
-> Approche clivante générée par Claude, entièrement réécrite phrase par phrase par Matthias — diff complet et leçons capturées dans `SKILL_CONTENU_LINKEDIN.md` (section "Retour du 09 août 2026"). Stats pas encore publié, voir `JOURNAL.md`.
+> Approche clivante générée par Claude, entièrement réécrite phrase par phrase par Matthias — diff complet et leçons capturées dans `SKILL_CONTENU_LINKEDIN.md` (section "Retour du 09 août 2026"). Stats confirmées (14/08/2026) : 95 impressions, 4 réactions, 0 commentaire, 0 republication.
 
 ### [09/08/2026] — post — Excuses vs réalité, malchance/marché saturé (PA-1)
 Le marché n'est pas saturé, ton offre n'est pas nulle, tu n'as juste pas assez bossé !!
@@ -1910,7 +1910,166 @@ Tu répètes les mêmes messages, la même approche, le même angle depuis des m
 
 Se remettre en question, c'est pas se flageller, c'est regarder objectivement ce qui marche pas et changer un truc à la fois
 
-> Approche clivante générée par Claude, réécrite phrase par phrase par Matthias qui a aussi coupé le 4e axe (tracking) et la chute perso de la version initiale — post fini sur 3 axes plutôt que 4. Diff complet et leçons capturées dans `SKILL_CONTENU_LINKEDIN.md` (section "Retour du 09 août 2026 (bis)"). Stats pas encore publié, voir `JOURNAL.md`.
+> Approche clivante générée par Claude, réécrite phrase par phrase par Matthias qui a aussi coupé le 4e axe (tracking) et la chute perso de la version initiale — post fini sur 3 axes plutôt que 4. Diff complet et leçons capturées dans `SKILL_CONTENU_LINKEDIN.md` (section "Retour du 09 août 2026 (bis)"). Stats confirmées (14/08/2026) : 91 impressions, 4 réactions, 2 commentaires, 0 republication.
+
+### [Confirmé 14/08/2026, drafté et publié le 01/08/2026] — post — Le mensonge du travail déjà fait (bait de prospection) (SA-3)
+J'en ai marre de ces prospecteurs qui te vendent une vidéo ou une analyse déjà prête, alors qu'elle n'existe pas 😠
+
+Aujourd'hui en DM, ce gars me dit que mon profil lui donne envie de bosser avec moi 😂, qu'il a préparé une analyse de mon business qui peut ajouter 3K par mois, et qu'il est ouvert à me l'envoyer.
+
+Je réponds vas-y….
+
+25 minutes plus tard, je ne reçois pas d'analyse…… Je reçois un vocal de 44 secondes. Donc en fait rien n'était prêt, c'était juste l'accroche pour que je dise oui et que la vraie conversation commence 😤
+
+Le problème c'est pas de poser des questions avant de proposer quelque chose, ça c'est normal !!
+
+Le problème c'est de prétendre que le travail est déjà fait pour que tu t'engages plus vite
+
+Pour moi c'est un parfait exemple d'une stratégie de vente catastrophique sur le long terme
+
+> Texte publié conforme au brouillon validé le 01/08 (voir `JOURNAL.md`). Stats confirmées : 10 686 impressions, 20 réactions, 18 commentaires, 2 republications — meilleure performance du lot du 14/08, largement au-dessus de la moyenne du corpus. Confirme le pattern déjà noté : un incident réel et frais (capture DM du jour même) surperforme le contenu générique.
+
+### [Confirmé 14/08/2026, drafté et publié le 02/08/2026] — post — Ratio interactions/impressions vs top voices (PB-3, 2e angle)
+47 likes pour 1700 impressions, je trouve ça meilleur que 200 likes noyés dans 90 000 !!
+
+Je regardais le post d'une top voice ya quelques jours
+
+Elle a fait 200 et quelques likes, l'air de rien. Je lui ai demandé le nombre d'impressions qu'elle avait faite, et elle m'a répondu….. 90 000 🫪
+
+Sur 90 000 personnes qui ont vu ce post, à peine 200 ont réagi. Ça fait un ratio minuscule
+
+La quasi-totalité des gens ont juste scroll
+
+Alors que moi, sur un de mes derniers posts, j'ai fait 47 likes pour 1700 impressions. Beaucoup moins de portée, mais un ratio largement plus fort
+
+C'est pour ça que quand tout le monde parle d'impressions, ou de likes, je suis déçu qu'on ne mentionne jamais le ratio entre les deux
+
+Parce que c'est justement ce ratio qui dit la vérité sur un contenu
+
+Pas si tu plais à beaucoup de monde, mais si tu touches vraiment les bonnes personnes
+
+Et pour ce que je fais, ça change tout… Je préfère 47 likes sur 1700 impressions plutôt que 200 likes noyés dans 90 000.
+
+Ces 40 likes-là, c'est les bons prospects qui remontent
+
+> Chiffres de comparaison changés entre le brouillon (300 likes/200 000 impressions) et le texte publié (200 likes/90 000 impressions) — cohérent avec la préférence validée le 26/07 (Principe #7, `SKILL_STRATEGIE.md`) : chiffres précis même approximatifs/inventés, Matthias ajuste lui-même avant publication. Stats confirmées : 278 impressions, 8 réactions, 1 commentaire, 0 republication — performance modeste malgré le thème méta habituellement porteur.
+
+### [Confirmé 14/08/2026, publié ~09/08/2026] — post — Le reach n'a pas baissé, c'est toi qui manques d'expérience (faux hook)
+Le reach LinkedIn a complètement baissé, j'ai décidé de faire moins de posts…
+
+Nannnn je déconne, t'y as vraiment cru hein 🤪
+
+Arrêtez de trouver des excuses tout le temps pour justifier votre incompétence
+
+Oui je suis direct mais c'est la réalité, si aujourd'hui tu n'as pas de bonnes performances sur tes posts c'est uniquement parce que tu n'as pas encore trouvé ce qui fonctionne auprès de ta cible
+
+Moi le premier, il y a encore quelques mois je voyais des posts qui disaient que l'algorithme de LinkedIn n'était plus ce qu'il était, qu'il fallait maintenant faire plus de commentaires et moins de posts
+
+Sauf que votre cible ne verra jamais autant vos commentaires que vos posts
+
+Bref dans 99% des cas quand quelque chose ne fonctionne pas dans votre business, c'est uniquement parce que vous manquez d'expérience
+
+Et donc oui c'est dur, mais il faut travailler et encore travailler
+
+> Post non drafté en session Claude (pas d'entrée `JOURNAL.md` préexistante) — probablement écrit en autonomie par Matthias. Premier usage du faux hook ("le reach a baissé... je déconne") repéré dans le corpus. Stats confirmées : 291 impressions, 4 réactions, 4 commentaires, 0 republication.
+
+### [Confirmé 14/08/2026, publié ~09/08/2026] — post — J'ai donné à Claude plus de 90 de mes posts (méta, usage IA)
+J'ai donné à Claude plus de 90 de mes posts pour qu'il trouve ce qui fait vraiment performer…
+
+Sur LinkedIn, une des clés pour avoir un contenu qui marche, c'est d'observer les patterns qui fonctionnent, et de les réutiliser
+
+Sauf que quand tu es seul dans ton business, c'est là que ça devient dur à suivre.
+
+T'as un Notion, un tableau, tu notes tes chiffres post après post….
+
+…Mais t'as jamais une vraie analyse derrière tout ça, juste une liste avec plein de bordel qui s'allonge
+
+Alors en juillet, j'ai pris tous mes posts (Plus de 90)
+
+…Je les ai donnés à Claude avec le nombre de likes, de commentaires et d'impressions de chacun…
+
+Et il a été capable de repérer les patterns qui reviennent dans ceux qui performent
+
+C'est là-dessus que je m'appuie maintenant pour itérer rapidement, et ne jamais me perdre à deviner ce dont un post a besoin pour fonctionner
+
+> Post non drafté en session Claude — premier post qui rend public l'usage réel de Claude comme outil d'analyse de patterns de contenu (écho `SKILL_STRATEGIE.md` Partie 11, Vision IA). Stats confirmées : 223 impressions, 2 réactions, 0 commentaire, 0 republication.
+
+### [Confirmé 14/08/2026, publié ~09/08/2026] — post — Traquer avec précision les composantes de son business (méta, data-driven)
+J'ai trouvé la solution pour avancer plus vite que la plupart des entrepreneurs : traquer avec précision les composantes de mon business….
+
+Concrètement, ça donne ça…
+
+- En prospection : je sais quels patterns font répondre un prospect, et lesquels le font fuir
+- Sur mon contenu : je sais quels posts performent, et pourquoi.
+- Je ne fais rien au feeling. Je regarde les chiffres, à chaque fois.
+
+Sans ça, tu peux prospecter à fond et poster tous les jours, tu avances quand même dans le brouillard.
+
+Oui il te faut de la quantité. Oui il te faut de la qualité.
+
+… Mais sans savoir précisément ce qui marche derrière, tu fonces droit dans le mur, et tu ne le vois même pas venir
+
+> Post non drafté en session Claude — 2e post méta/data-driven du même lot (après le post Claude 90 posts ci-dessus), thème proche de `SKILL_STRATEGIE.md` Partie 9 (KPIs, "sans data tu prends des décisions émotionnelles"). Stats confirmées : 156 impressions, 5 réactions, 1 commentaire, 1 republication.
+
+### [Confirmé 14/08/2026, publié ~09/08/2026] — post — Macron interdit les réseaux sociaux aux mineurs, contrôle d'identité généralisé
+C'est acté, dès la rentrée Macron interdit les réseaux sociaux aux moins de 15 ans 🫵 il appelle ça protéger les enfants. Moi j'appelle ça le prétexte parfait pour vérifier l'identité de tout le monde
+
+Personne n'ose dire non à "protéger les enfants"
+
+C'est fait exprès
+
+Tu mets "enfants" dans la phrase et plus personne n'a envie de discuter sur le fond
+
+Parce que dans l'idée c'est plutôt bon de vouloir sauver les gamins pour ne pas se faire lobotomiser le cerveau par les shorts
+
+Mais pour empêcher un mineur d'accéder à un réseau social, faut d'abord savoir qui a moins de 15 ans
+
+Et pour savoir ça, faut que tout le monde prouve son âge, donc son identité
+
+Toi, moi, ta mère, ton pote de 40 ans qui n'a jamais rien demandé à personne
+
+L'interdiction touche les mineurs mais le plus dangereux c'est que le contrôle d'identité touche ABSOLUMENT tout le monde
+
+Ça, personne ne le dit à voix haute dans le débat… et c'est chiant
+
+Je veux bien qu'on protège les enfants, mais pas au prix d'un fichage de toute la population
+
+Une fois que t'as accepté de prouver ton identité pour un truc, tu l'acceptes pour le reste aussi facilement
+
+Tu me diras… 🙄 on est plus a ça près parce que LinkedIn depuis plusieurs mois, voire année, demande la vérification d'identité, sinon il te bride ton compte
+
+> Texte publié conforme au brouillon validé le 09/08 (voir `JOURNAL.md`). Stats confirmées : 6 883 impressions, 18 réactions, 20 commentaires, 2 republications — 2e meilleure perf du lot du 14/08 après le post bait de prospection, malgré le pattern habituellement mitigé des posts hors-ICP/société (voir note `JOURNAL.md` du 09/08). À retenir : ce post dément l'hypothèse de perf mitigée sur ce territoire, à re-tester avant de généraliser.
+
+### [Confirmé 14/08/2026, publié ~09-14/08/2026] — post — Le vrai coût d'un client chronophage (taux horaire)
+J'ai un jour calculé mon vrai taux horaire sur un client qui me payait pourtant très correctement… mais mais mais…
+
+… Une fois le temps réel compté, appels compris, ça tournait à un tarif ridicule
+
+Un client qui paie bien, tout le monde pense direct que c'est un bon client
+
+Faux… faux… et encore faux
+
+Le montant sur la facture ne détermine pas grand chose
+
+Ce client-là me payait dans les temps, jamais de retard, jamais de négociation sur le prix
+
+… Sauf qu'il m'appelait "juste 5 minutes" trois fois par semaine, et ça durait jamais 5 minutes….
+
+Il remettait en question chaque choix, même les plus petits, fallait justifier, réexpliquer, rassurer 😠
+
+Le soir, un message, encore un message
+
+Le jour où j'ai vraiment compté, les heures d'appels, les allers-retours, les relectures en plus, j'étais à 8 euros de l'heure 😂
+
+Arrête de juger un client rien qu'au montant qu'il te donne, compte aussi le temps qu'il te prend, et regarde ce qu'il te reste vraiment à la fin
+
+> Post non drafté en session Claude — nouvelle anecdote client chronophage jamais posté avant, matériau réutilisable pour un futur catalogue "prix pas égal valeur du client" si Matthias en refait. Stats confirmées : 282 impressions, 6 réactions, 4 commentaires, 0 republication.
+
+### [Confirmé 14/08/2026, publié ~09-14/08/2026] — sondage — Qualité vs quantité vs tracking, priorité business
+Question : "C'est quoi le plus important pour toi dans ton business ?"
+Options : Se concentrer sur la qualité (86%) / Se concentrer sur la quantité (14%) / Se concentrer sur le Tracking (0%)
+
+> Post non drafté en session Claude. Stats confirmées : 116 impressions, 7 votes, 0 réaction, 0 commentaire — échantillon très faible (7 votes), cohérent avec le pattern déjà noté que les sondages diagnostics/catégoriels ont un faible reach (voir sondage PA-9 du 31/07, 174 impr). Résultat net (86% qualité) mais pas exploitable statistiquement vu le volume.
 
 ---
 
