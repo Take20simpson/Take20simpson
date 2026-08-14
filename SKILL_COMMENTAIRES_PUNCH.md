@@ -357,9 +357,27 @@ Mini-analyse en 2-4 lignes (registre du post, dose d'humour, risques). Puis la q
 
 **Point non tranché, à trancher avec Matthias avant de généraliser :** un des exemples partagés nomme l'auteur en ouverture ("Yann a fait péter sa carapace 😱🥹"), ce qui contredit la règle déjà écrite plus haut (JAMAIS l'auteur à la 3e personne, encore moins son prénom comme sujet). Ce exemple n'a pas reçu de validation explicite isolée comme les autres (pas de "-->" dédié), donc pas encore traité comme une autorisation confirmée. Tant que Matthias ne tranche pas, la règle existante (jamais de prénom sujet) reste appliquée par défaut dans les propositions générées.
 
+### Deuxième banque, post Orane Janvier (ChatGPT Work), 14 août 2026
+
+> Matthias a remis 4 commentaires tiers sous un autre post pour insister spécifiquement sur l'émotionnel après plusieurs séries jugées encore trop point de vue. Même consigne : texture à étudier, jamais à copier.
+
+"tu quittes Claude... ?"
+
+"Le rêve.... se réveiller avec une IA qui te dit quoi faire au lieu de passer 30 minutes à décider quoi faire 😂"
+
+"Le rêve de tous ceux qui ont 12 onglets ouverts dans leur cerveau en permanence 😂"
+
+"Je l'avais testé et j'avoue que ça vaut le coup, entre mes études de médecine ( révisions, fiches, ...) et mon business."
+
+**Principe qui en ressort, le plus important de cette banque : la brièveté EST souvent ce qui porte l'émotionnel, pas un supplément d'âme ajouté à une phrase construite.** Aucun de ces 4 commentaires ne bâtit un mini-raisonnement ni une image travaillée en plusieurs temps. "tu quittes Claude... ?" est une question à 4 mots, rien d'autre, et elle fonctionne parce qu'elle suppose une connivence immédiate avec le lecteur (l'idée qu'on a chacun sa propre IA de prédilection, que passer à une autre serait presque une trahison) sans rien expliquer. Les deux suivants marchent parce qu'ils NOMMENT une sensation collective ultra reconnaissable (passer 30 minutes à juste décider quoi faire, avoir 12 onglets ouverts dans le cerveau) en une seule image ou un seul fait, sans la justifier. Le seul qui ressemble à un aveu personnel ("j'avoue que") reste minuscule : une clause, une parenthèse avec 2 mots concrets (révisions, fiches), un point. Aucun n'a de chute travaillée, aucun ne se referme sur une phrase-bilan. **Le réflexe à corriger chez Claude : arrêter de vouloir "finir" la pensée proprement dans chaque option.** Une bonne option peut s'arrêter net après une seule image ou une seule question, sans développer, sans enchaîner une deuxième proposition qui boucle le sens — c'est souvent cet inachèvement qui signe l'humain, pas la longueur ni la construction.
+
 ---
 
 ## HISTORIQUE DES ITÉRATIONS
+
+**14 août 2026 (quater) — Post Orane Janvier (ChatGPT Work), banque de référence sur la brièveté**
+- Matthias fournit 4 commentaires tiers ("tu quittes Claude... ?", les deux "le rêve..." sur la décision/les onglets mentaux, l'aveu études de médecine + business) spécifiquement pour faire comprendre l'émotionnel après plusieurs séries encore jugées trop point de vue. Nouvelle sous-section ajoutée dans EXEMPLES DE FLUIDITÉ HUMAINE.
+- Principe central qui en ressort : la brièveté et l'inachèvement portent souvent l'émotionnel à eux seuls, pas besoin de construire un raisonnement ou une chute pour "mériter" l'humain. Réflexe à corriger chez Claude : arrêter de vouloir finir proprement chaque option.
 
 **14 août 2026 (ter) — Post Virginie Marquis, 2e passe : sur-réutilisation de la banque de vécu + tics figés**
 - Option 1 validée comme bon début ("on sent que c'est humain"), pas encore top commentaire mais direction confirmée.
