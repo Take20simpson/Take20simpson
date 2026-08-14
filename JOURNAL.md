@@ -927,6 +927,13 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Stats : pas encore publié.
 - Notes : risque signalé une fois à Matthias avant génération — le sujet penche vers le mode "conseil/explication" qui a sous-performé sur SA-5 en vidéo (96 impr, prospection≠spam, note du 27/07) car l'audience est déjà Solution Aware sur le besoin d'un système ; mitigé en ancrant chaque approche sur la scène du premier closing plutôt que sur la thèse à plat. Angle vérifié absent du catalogue SA-3 avant génération. À ajouter au catalogue (`SKILL_CONTENU_LINKEDIN.md`, SA-3) comme Angle 5 une fois l'approche validée et publiée.
 
+### 14/08/2026 — Vaya, l'indifférence heureuse au business (PB-4, nouvel exemple, prévu cadence week-end dimanche 16/08)
+- Format : post (prévu dimanche 16/08, cadence week-end — `SKILL_STRATEGIE.md` Partie 5)
+- Accroche : "Vaya s'en fout complètement de savoir si j'ai closé un client aujourd'hui."
+- Mécanisme : 3e angle Vaya du corpus, distinct des deux précédents (comparatif stats ironique du 28/07 "elle performe mieux que ma stratégie de contenu", tendresse/écoute du 04/08 "elle n'a jamais lu un post") — indifférence heureuse au résultat business, contraste avec la pression du chiffre/des prospects qui jugent. Angle général plutôt qu'incident daté précis, cohérent avec le fait que les deux posts Vaya précédents n'étaient pas non plus ancrés sur un incident daté. 3 approches livrées (clivante, normale, Mathis Clouet), toutes volontairement courtes (demande explicite de Matthias, "léger plutôt court" pour dimanche). Texte intégral à archiver dans `ARCHIVE_CONTENU.md` une fois l'approche choisie confirmée.
+- Stats : pas encore publié.
+- Notes : vigilance déjà notée par Matthias (entrée du 28/07) — ne pas mettre une photo de lui/sa chienne trop souvent (1x/semaine max) ; dernier post Vaya remonte au ~28/07, fenêtre largement respectée. Au passage, correction apportée à `SKILL_CONTENU_LINKEDIN.md` (catalogue PB-4) : le nom "Belle" y était resté par erreur depuis l'ancienne version du document, corrigé en "Vaya" (nom réel confirmé partout ailleurs dans le système).
+
 ---
 
 ### Laura Thouzeau — UX/UI Designer, fondatrice Outsiders (sites sur-mesure) et Head Control (DeepTech accessibilité)
