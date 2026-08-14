@@ -310,7 +310,7 @@ Fréquence max : 1 post tous les 10-14 jours. Ne jamais forcer.
 - Angle 3 : La motivation et la discipline ne servent à rien sans sens.
 
 **PB-4 - L'humain.** Court, spontané, sans structure imposée. Souvent les plus likés.
-- Belle (sa chienne), les posts les plus humains.
+- Vaya (sa chienne), les posts les plus humains.
 - Nice et le quotidien, terrasse, promenade, observation du moment.
 - Les illuminations hors-business, leçon au badminton, réflexion sans lien direct.
 - L'entourage qui ne comprend pas, solitude de construire seul.
