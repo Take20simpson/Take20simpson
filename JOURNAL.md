@@ -1039,6 +1039,13 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Stats : n/a (proposition, pas encore choisie/publiée par Matthias).
 - Notes : choix final pas encore connu — à mettre à jour ici et dans `ARCHIVE_CONTENU.md` dès qu'il confirme l'option retenue (et d'éventuelles retouches).
 
+### 17/08/2026 — Commentaire punch sous Laurine Bemer (le prix comme filtre client, 300€ vs 3000€)
+- Format : commentaire punch
+- Accroche/angle du post commenté : un prix bas attire des clients plus exigeants/relous (dispo 23h, remboursements, charge mentale) — conseil direct de vendre à +3K€ minimum.
+- Mécanisme : 6 options générées (Humour, Storytelling, Humour poussé, Insight, Clivant, Percutant) + question de fin. Post tactique/business, ton cash (argot censuré), bonne dose d'humour sur les 2 slots. Thème proche du post Jeremy Kohlmann (filtrage clients) déjà archivé dans la session — matériau volontairement différent (le prix comme signal plutôt qu'un dépôt/blacklist). Option Clivant nuance le conseil universel "3K minimum" (toutes les niches ne le supportent pas).
+- Stats : n/a (proposition, pas encore choisie/publiée par Matthias).
+- Notes : choix final pas encore connu — à mettre à jour ici et dans `ARCHIVE_CONTENU.md` dès qu'il confirme l'option retenue (et d'éventuelles retouches).
+
 ---
 
 ### Laura Thouzeau — UX/UI Designer, fondatrice Outsiders (sites sur-mesure) et Head Control (DeepTech accessibilité)
