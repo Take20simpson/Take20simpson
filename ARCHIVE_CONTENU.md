@@ -2780,6 +2780,54 @@ Option 6 (Percutant) : 360 millions, le prix d'un contrat signé sans lire la ca
 
 > Choix final (option retenue et éventuelles retouches) pas encore confirmé par Matthias — à mettre à jour dans cette entrée dès qu'il l'indique. Même thématique de fond que l'entrée du 17/08 sur le post Caroline Mignaux (posséder vs louer son audience) — matériau volontairement différent (Taylor Swift/masters plutôt qu'Elise Lucet/algorithme Instagram) pour éviter toute répétition de blagues/anecdotes entre les deux séries.
 
+### [17/08/2026] — commentaire punch — Benoît Dubos, prompt anti-passivité cognitive
+
+**Post source (Benoît Dubos, Founder & CEO Scalezia) :**
+L'IA ne détruit pas le cerveau. À condition de savoir l'utiliser.
+Le + gros danger de l'IA est la passivité cognitive.
+Et j'ai trouvé le moyen parfait pour l'éviter :
+(Copie-colle ce prompt 👇)
+
+Elle consiste à paramétrer les ia pour qu'elles ne proposent jamais une question fermée.
+
+De sorte qu'elles tournent les interactions de sorte à exiger un vrai engagement de la part de l'utilisateur.
+
+Cela peut être :
+- en demandant une instruction détaillée
+- en proposant plusieurs options détaillées
+- en suscitant la réflexion et la discussion
+- en te faisant valider chaque étape, action, paragraphe 1 par 1
+
+Tout ce que tu as à faire, c'est de copier le prompt ci-dessous :
+
+[prompt anti-passivité cognitive, à ajouter à CLAUDE.md pour Claude Code ou aux custom instructions pour ChatGPT]
+
+En gros, tu forces l'IA à te forcer à réfléchir avec elle.
+
+Ça nous rendra peut-être un peu moins productifs.
+
+Mais j'ai bon espoir que ça contribuera à nous éviter de finir avec des courants d'air dans le cerveau.
+
+C'est cadeau.
+
+**Propositions générées (module Punch, `SKILL_COMMENTAIRES_PUNCH.md`) :**
+
+Question de fin : tu utiliserais vraiment ce prompt ou tu le screenshotes juste en mode je le ferai plus tard ?
+
+Option 1 (Humour) : t'as déjà eu besoin d'un prompt juste pour te forcer à réfléchir tout seul avant ?
+
+Option 2 (Storytelling) : j'ai vu une vraie différence le jour où j'ai arrêté de demander une réponse toute faite à l'IA sur mes messages de prospection, parce qu'en la forçant à me challenger plutôt qu'à écrire à ma place, j'ai fini par mieux comprendre mes propres prospects
+
+Option 3 (Humour poussé) : on va bientôt avoir besoin d'un prompt juste pour se forcer à choisir nous-mêmes ce qu'on mange le midi
+
+Option 4 (Insight) : t'automatises toute l'exécution que tu veux, ce qui reste à faire soi-même c'est de savoir décider quand justement ne pas déléguer sa réflexion
+
+Option 5 (Clivant) : tu copies colles un prompt pour arrêter de déléguer ta réflexion à l'IA, ça reste quand même déléguer la solution elle-même plutôt que la trouver tout seul
+
+Option 6 (Percutant) : fermer l'onglet de temps en temps, ça reste le meilleur anti-passivité qui existe
+
+> Choix final (option retenue et éventuelles retouches) pas encore confirmé par Matthias — à mettre à jour dans cette entrée dès qu'il l'indique. Vigilance appliquée pour ne pas faire de blague "méta IA qui parle d'elle-même" — le commentaire reste dans la voix de Matthias.
+
 ---
 
 *Document créé le 22 juillet 2026, en complément de `JOURNAL.md`, à la demande de Matthias (besoin d'une sauvegarde du contenu, posts et vidéos, plus détaillée que le résumé du journal, sans dupliquer les transcriptions mot pour mot).*

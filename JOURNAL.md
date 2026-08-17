@@ -1018,6 +1018,13 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Stats : n/a (proposition, pas encore choisie/publiée par Matthias).
 - Notes : choix final pas encore connu — à mettre à jour ici et dans `ARCHIVE_CONTENU.md` dès qu'il confirme l'option retenue (et d'éventuelles retouches).
 
+### 17/08/2026 — Commentaire punch sous Benoît Dubos (prompt anti-passivité cognitive)
+- Format : commentaire punch
+- Accroche/angle du post commenté : post méta sur l'IA (danger de la passivité cognitive) avec un prompt "cadeau" à copier-coller pour forcer un vrai engagement de réflexion plutôt que de tout déléguer.
+- Mécanisme : 6 options générées (Humour, Storytelling, Humour poussé, Insight, Clivant, Percutant) + question de fin. Post tactique/tech, bonne dose d'humour sur les 2 slots. Vigilance explicite pour ne pas tomber dans une blague "méta IA qui parle d'elle-même" — le commentaire reste dans la voix de Matthias, jamais un clin d'œil cassé sur le fait que la génération elle-même est faite par une IA. Option Clivant sur le paradoxe de déléguer à un prompt la discipline de ne pas déléguer.
+- Stats : n/a (proposition, pas encore choisie/publiée par Matthias).
+- Notes : choix final pas encore connu — à mettre à jour ici et dans `ARCHIVE_CONTENU.md` dès qu'il confirme l'option retenue (et d'éventuelles retouches).
+
 ---
 
 ### Laura Thouzeau — UX/UI Designer, fondatrice Outsiders (sites sur-mesure) et Head Control (DeepTech accessibilité)
