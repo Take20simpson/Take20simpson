@@ -983,6 +983,13 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Stats : n/a (proposition, pas encore choisie/publiée par Matthias).
 - Notes : choix final pas encore connu — à mettre à jour ici et dans `ARCHIVE_CONTENU.md` dès qu'il confirme l'option retenue (et d'éventuelles retouches).
 
+### 17/08/2026 — Commentaire punch sous Sarah Marsouin (3 pivots ratés, argent perdu — témoignage grave, zéro humour)
+- Format : commentaire punch
+- Accroche/angle du post commenté : témoignage vulnérable sur 3 pivots business ratés avant LinkedIn, argent perdu (formations, sites, outils), et le vrai coût qui n'est pas de pivoter mais de continuer par peur d'avoir fait fausse route.
+- Mécanisme : 6 options générées (Storytelling, Insight, Clivant, Percutant + 2 angles sérieux en lieu et place des slots Humour/Humour poussé) + question de fin. DOSAGE zéro humour appliqué (témoignage grave sans antagoniste identifiable, `SKILL_COMMENTAIRES_PUNCH.md`) et signalé dans l'analyse donnée à Matthias. Première utilisation de la banque VÉCU de cette session (coaching payé avec les dernières économies, scripts à copier coller) en Storytelling — un seul élément, une seule fois, mots neufs. Option Clivant construite sur la dogmatisme "fail fast" de LinkedIn (recoupe la banque CONVICTIONS) plutôt que sur une critique de l'autrice.
+- Stats : n/a (proposition, pas encore choisie/publiée par Matthias).
+- Notes : choix final pas encore connu — à mettre à jour ici et dans `ARCHIVE_CONTENU.md` dès qu'il confirme l'option retenue (et d'éventuelles retouches).
+
 ---
 
 ### Laura Thouzeau — UX/UI Designer, fondatrice Outsiders (sites sur-mesure) et Head Control (DeepTech accessibilité)

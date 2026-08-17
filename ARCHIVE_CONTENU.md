@@ -2484,6 +2484,74 @@ Option 6 (Percutant) : sur ces 100 heures, zéro minute passée à tester quoi q
 
 > Choix final (option retenue et éventuelles retouches) pas encore confirmé par Matthias — à mettre à jour dans cette entrée dès qu'il l'indique. Vigilance appliquée sur deux pièges déjà actés pour cette même autrice dans l'historique de `SKILL_COMMENTAIRES_PUNCH.md` (13 août 2026) : mot suspect "percuter" évité, aucune fin en tag comparatif/négatif (plus que X, jamais X, pas juste X).
 
+### [17/08/2026] — commentaire punch (zéro humour, témoignage grave) — Sarah Marsouin, se remettre en question après 3 pivots ratés
+
+**Post source (Sarah Marsouin, Community Manager, LK360) :**
+Se remettre en question, c'est probablement le truc le plus dur à faire quand tu entreprends.
+
+S'avouer à soi-même qu'on s'est trompé.
+Que ce dans quoi on a mis 6 mois, un an, parfois plus, n'était pas la bonne direction.
+
+Qu'il faut tout reprendre à zéro.
+Je te partage ça parce que ça m'aide d'en parler, et que ça pourra peut-être rassurer quelqu'un qui lit ce post.
+
+Avant d'arriver sur LinkedIn, j'ai pivoté 3 fois.
+Trois fois où j'ai construit quelque chose.
+Trois fois où j'y ai cru vraiment.
+Trois fois où j'ai fini par regarder les chiffres, les résultats, et me dire "ça ne prend pas."
+
+Et à chaque fois, il a fallu tout stopper et se remettre à zéro.
+Ce qui fait le plus mal :
+
+Ce n'est pas le temps perdu.
+C'est l'argent parti en fumée.
+J'ai dépensé des milliers d'euros en formations qui ne m'ont plus servi 6 mois après.
+
+En sites qui ont fini supprimés.
+En outils, en abonnements, en accompagnements adaptés à un business que je n'ai finalement jamais fait.
+
+À chaque fois que je regardais mon compte en banque, ça me faisait mal 🥲
+
+Sauf qu'à chaque pivot, j'ai gardé quelque chose.
+Une compétence.
+Un contact.
+Une leçon sur ce qui NE FONCTIONNE PAS pour moi.
+
+Ces "échecs" ne sont pas des pertes.
+Ce sont des raccourcis vers ce que je fais aujourd'hui.
+
+Ces 3 orientations m'ont apportés plus qur ce que je pensais sur le moment.
+
+Je ne saurais pas comment on se relève après avoir tout stoppé.
+
+Alors si tu es en ce moment en train de te demander si ton projet actuel est le bon...
+Si tu sens que quelque chose ne prend pas malgré tous tes efforts...
+Si tu as peur de le reconnaître parce que tu as déjà investi trop de temps et d'argent dedans...
+
+Prends 24h.
+Assieds-toi. Sois honnête avec toi-même.
+Le vrai coût, ce n'est pas de pivoter.
+
+C'est de continuer par peur d'avoir fait fausse route et crois moi c'est plus courageux de tout recommencer que de continuer dans la mauvaise voie !
+
+**Propositions générées (module Punch, `SKILL_COMMENTAIRES_PUNCH.md`) — DOSAGE zéro humour appliqué (témoignage grave sans antagoniste) :**
+
+Question de fin : c'est quoi le truc que t'as gardé d'un projet qui a pourtant coûté cher à arrêter ?
+
+Option 1 (angle sérieux, ex-Humour) : ça fait un pincement de lire ça, ce chiffre sur le compte en banque je l'ai zieuté avec la boule au ventre plus d'une fois aussi
+
+Option 2 (Storytelling) : j'ai mis du temps à voir un échec autrement que comme de l'argent perdu, parce qu'un coaching payé avec mes dernières économies m'a juste donné des scripts à copier coller, zéro compréhension derrière
+
+Option 3 (angle sérieux, ex-Humour poussé) : tu crois jamais vraiment que tu vas t'en relever pendant que c'est en train de se passer, tu le comprends qu'après coup
+
+Option 4 (Insight) : tu vois souvent le signal qu'un truc marche pas bien avant de vouloir l'admettre, l'argent déjà mis dedans ça brouille le jugement pendant des mois
+
+Option 5 (Clivant) : on adore répéter fail fast pivot vite sur ce réseau, mais vécu de l'intérieur ça a jamais rien de rapide ni de facile
+
+Option 6 (Percutant) : ce qui reste après un pivot raté, ça finit toujours par servir un jour
+
+> Choix final (option retenue et éventuelles retouches) pas encore confirmé par Matthias — à mettre à jour dans cette entrée dès qu'il l'indique. Première utilisation de la banque VÉCU dans cette session (coaching payé avec les dernières économies, scripts à copier coller) — un seul élément utilisé, une seule fois, mots neufs.
+
 ---
 
 *Document créé le 22 juillet 2026, en complément de `JOURNAL.md`, à la demande de Matthias (besoin d'une sauvegarde du contenu, posts et vidéos, plus détaillée que le résumé du journal, sans dupliquer les transcriptions mot pour mot).*
