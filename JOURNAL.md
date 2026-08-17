@@ -948,6 +948,13 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Stats : n/a (proposition, pas encore choisie/publiée par Matthias).
 - Notes : choix final pas encore connu — à mettre à jour ici et dans `ARCHIVE_CONTENU.md` dès qu'il confirme l'option retenue (et d'éventuelles retouches).
 
+### 17/08/2026 — Commentaire punch sous Océane Bondis (avis clients comme matière première des IA)
+- Format : commentaire punch
+- Accroche/angle du post commenté : les avis clients ne rassurent plus seulement, ils nourrissent le résumé qu'une IA fait de l'entreprise à un futur client — le pire cas n'est pas le mauvais avis mais l'absence d'avis.
+- Mécanisme : 6 options générées (Humour, Storytelling, Humour poussé, Insight, Clivant, Percutant) + question de fin. Post tactique/business SEO, dosage humour plein sur les 2 slots (chatbot qui invente ou avoue son ignorance faute de matière) ; Option Clivant construite sur la vraie friction psychologique derrière "demander un avis = 5 min" (oser demander sans se sentir lourd, pas le temps que ça prend), résonne avec le vécu personnel de Matthias sur la peur de demander.
+- Stats : n/a (proposition, pas encore choisie/publiée par Matthias).
+- Notes : choix final pas encore connu — à mettre à jour ici et dans `ARCHIVE_CONTENU.md` dès qu'il confirme l'option retenue (et d'éventuelles retouches).
+
 ---
 
 ### Laura Thouzeau — UX/UI Designer, fondatrice Outsiders (sites sur-mesure) et Head Control (DeepTech accessibilité)

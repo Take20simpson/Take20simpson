@@ -2220,6 +2220,57 @@ Option 6 (Percutant) : un client qui traîne à décider, il traînera pour tout
 
 > Choix final (option retenue et éventuelles retouches) pas encore confirmé par Matthias — à mettre à jour dans cette entrée dès qu'il l'indique.
 
+### [17/08/2026] — commentaire punch — Océane Bondis, avis clients comme matière première des IA
+
+**Post source (Océane Bondis, SEO pour dirigeants de TPE/PME) :**
+Vos avis clients ne servent plus seulement à rassurer.
+Ils servent à répondre à votre place.
+
+Quand quelqu'un demande à une IA si votre entreprise est fiable, la machine ne visite pas votre site pour se faire une opinion.
+Elle va lire ce que les autres disent de vous.
+
+Vos avis. Vos fiches.
+Les commentaires laissés il y a deux ans.
+Et elle en fait un résumé de trois lignes que votre futur client lira avant même de vous connaître.
+
+Ce résumé, vous ne l'écrivez pas.
+Mais vous l'alimentez.
+
+Un client sur dix laisse un avis spontanément.
+Les neuf autres le feraient si on le leur demandait.
+
+Et un avis sans réponse est une conversation à sens unique.
+Répondre, ce n'est pas de la politesse,
+c'est ajouter votre voix à la matière que les moteurs vont lire.
+
+Le pire cas de figure n'est pas le mauvais avis.
+C'est l'absence d'avis.
+
+Une entreprise dont personne ne parle est une entreprise qu'aucun système de recommandation ne peut défendre.
+
+Demander un avis après chaque projet terminé, c'est cinq minutes de travail.
+C'est aussi ce qui décidera si une IA vous cite ou vous ignore dans dix-huit mois.
+
+Vous en demandez systématiquement ?
+
+**Propositions générées (module Punch, `SKILL_COMMENTAIRES_PUNCH.md`) :**
+
+Question de fin : tu relances tes clients contents ou tu comptes sur ceux qui pensent spontanément à le faire ?
+
+Option 1 (Humour) : vous avez déjà demandé à une IA de parler de votre business et elle vous a inventé un site que vous avez jamais eu mdrr
+
+Option 2 (Storytelling) : franchement demander un avis ça paraît anodin mais ça peut littéralement changer la trajectoire d'un business, parce qu'un client à moi galérait à convaincre en appel alors qu'il avait un super taux de satisfaction, juste personne l'avait jamais mis noir sur blanc quelque part
+
+Option 3 (Humour poussé) : je vois trop le chatbot qui répond en mode alors là sincèrement j'en sais rien du tout, demandez plutôt à un pigeon du coin 🤷
+
+Option 4 (Insight) : honnêtement le silence autour d'un business ça se lit de moins en moins comme neutre, ça commence à jouer contre toi tout seul avec le temps
+
+Option 5 (Clivant) : tu dis cinq minutes de travail, mais la plupart des gens bloquent bien avant ça, ils osent juste pas demander sans se sentir lourd
+
+Option 6 (Percutant) : zéro avis, zéro matière, l'IA invente pas des compliments à ta place
+
+> Choix final (option retenue et éventuelles retouches) pas encore confirmé par Matthias — à mettre à jour dans cette entrée dès qu'il l'indique.
+
 ---
 
 *Document créé le 22 juillet 2026, en complément de `JOURNAL.md`, à la demande de Matthias (besoin d'une sauvegarde du contenu, posts et vidéos, plus détaillée que le résumé du journal, sans dupliquer les transcriptions mot pour mot).*
