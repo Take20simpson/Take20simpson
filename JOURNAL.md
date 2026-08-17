@@ -1011,6 +1011,13 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Stats : n/a (proposition, pas encore choisie/publiée par Matthias).
 - Notes : choix final pas encore connu — à mettre à jour ici et dans `ARCHIVE_CONTENU.md` dès qu'il confirme l'option retenue (et d'éventuelles retouches).
 
+### 17/08/2026 — Commentaire punch sous Dorothée Raffray (Taylor Swift, rachat des masters — posséder vs louer)
+- Format : commentaire punch
+- Accroche/angle du post commenté : Taylor Swift rachète ses masters 360M$ après les avoir perdus à ses débuts — parallèle avec "posséder vs louer" son audience/actifs business (liste email, contenu hébergé chez soi).
+- Mécanisme : 6 options générées (Humour, Storytelling, Humour poussé, Insight, Clivant, Percutant) + question de fin. Même thématique de fond que le post Caroline Mignaux archivé plus tôt dans la session (posséder vs louer) — vigilance explicite appliquée pour partir sur un matériau entièrement différent (Taylor Swift/masters/Taylor's Version plutôt qu'Elise Lucet/algorithme Instagram/base de contacts) afin d'éviter toute répétition de blagues ou d'anecdotes entre les deux séries. Option Clivant nuance la réplicabilité du modèle Taylor Swift pour un business lambda sans base fan massive.
+- Stats : n/a (proposition, pas encore choisie/publiée par Matthias).
+- Notes : choix final pas encore connu — à mettre à jour ici et dans `ARCHIVE_CONTENU.md` dès qu'il confirme l'option retenue (et d'éventuelles retouches).
+
 ---
 
 ### Laura Thouzeau — UX/UI Designer, fondatrice Outsiders (sites sur-mesure) et Head Control (DeepTech accessibilité)

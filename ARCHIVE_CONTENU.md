@@ -2720,6 +2720,66 @@ Option 6 (Percutant) : un like ça flatte, un rendez-vous ça paie
 
 > Choix final (option retenue et éventuelles retouches) pas encore confirmé par Matthias — à mettre à jour dans cette entrée dès qu'il l'indique. Fort recoupement de contenu avec la doctrine de Matthias (`SKILL_STRATEGIE.md`) : régularité, likes ≠ opportunités, preuve plutôt que déclaration — utilisé comme matière naturelle pour Storytelling/Insight/Clivant.
 
+### [17/08/2026] — commentaire punch — Dorothée Raffray, Taylor Swift et le rachat de ses masters (posséder vs louer)
+
+**Post source (Dorothée Raffray, Coach Business) :**
+Taylor Swift a payé 360 millions de dollars pour racheter des chansons... qu'elle avait elle-même écrites. Et c'est son meilleur move business 💸
+
+En 2019, Taylor découvre que les masters de ses 6 premiers albums sont vendus. Sans elle. À un homme qu'elle déteste, pour 300 millions.
+
+Elle avait écrit ces chansons. Elles ont fait sa carrière. Mais elle ne les possédait pas.
+
+Parce qu'à ses débuts, elle avait signé un deal classique : le label avance les moyens et garde la propriété des enregistrements.
+
+Le piège dans lequel tombent 90% des créateur·rices : construire de la valeur sur un truc qu'on ne possède pas.
+
+Sa réponse ? Légendaire.
+
+Elle réenregistre tout. Album par album. Taylor's Version.
+Résultat : la nouvelle version de Red a fait environ 10 fois les scores de l'originale. Les fans ont suivi, les vieilles versions ont perdu leur valeur.
+
+Et en mai 2025, elle rachète la totalité de ses masters. Elle possède enfin 100% de son œuvre.
+
+Pour ton business
+
+Ton audience Instagram, TikTok, LinkedIn... tu ne la possèdes pas. Tu la loues.
+Une MAJ d'algo, un bannissement, et tout disparaît du jour au lendemain.
+
+Ce que tu possèdes vraiment :
+→ ta liste email (personne ne peut te la retirer)
+→ ton contenu hébergé chez toi (site, blog, podcast)
+→ ta marque et ta relation directe avec tes client·es
+
+La question à te poser sur chaque canal : si cette plateforme disparaît demain, il me reste quoi ?
+
+Si la réponse c'est rien, tu construis sur du sable.
+
+In fine
+
+La visibilité, ça se loue. Les actifs, ça se possède.
+
+Taylor a mis 15 ans et 360 millions à récupérer les siens. Toi, tu peux commencer à bâtir les tiens dès aujourd'hui (ne serait-ce qu'une adresse email à la fois) 😉
+
+PS : c'est quoi ton actif le plus solide aujourd'hui, celui que personne ne peut te retirer ?
+
+**Propositions générées (module Punch, `SKILL_COMMENTAIRES_PUNCH.md`) :**
+
+Question de fin : tu perdrais quoi en premier si LinkedIn fermait demain, et ça te dit quoi sur ce que t'as vraiment construit ?
+
+Option 1 (Humour) : tu réenregistrerais littéralement tout ton book client juste pour humilier l'ancien si on te le piquait ?
+
+Option 2 (Storytelling) : ça m'a vraiment marqué le jour où LinkedIn a suspendu mon compte sans prévenir, parce que là j'ai capté que toute ma prospection tenait sur une plateforme qui pouvait me couper l'accès du jour au lendemain, alors que mes contacts WhatsApp eux personne pouvait me les retirer
+
+Option 3 (Humour poussé) : j'imagine la tête du mec qui a acheté ses masters en train de voir les streams de Taylor's Version exploser 10x, ça doit vraiment piquer
+
+Option 4 (Insight) : tu peux être la plus grosse star du monde, si tu construis 15 ans de carrière sur un truc que t'as pas signé à ton nom, ça reste un problème le jour où quelqu'un d'autre en profite à ta place
+
+Option 5 (Clivant) : tu cites Taylor Swift, sauf que rejouer ce coup avec zéro million de fans hyper fidèles derrière soi, ça donne rarement le même résultat
+
+Option 6 (Percutant) : 360 millions, le prix d'un contrat signé sans lire la case propriété
+
+> Choix final (option retenue et éventuelles retouches) pas encore confirmé par Matthias — à mettre à jour dans cette entrée dès qu'il l'indique. Même thématique de fond que l'entrée du 17/08 sur le post Caroline Mignaux (posséder vs louer son audience) — matériau volontairement différent (Taylor Swift/masters plutôt qu'Elise Lucet/algorithme Instagram) pour éviter toute répétition de blagues/anecdotes entre les deux séries.
+
 ---
 
 *Document créé le 22 juillet 2026, en complément de `JOURNAL.md`, à la demande de Matthias (besoin d'une sauvegarde du contenu, posts et vidéos, plus détaillée que le résumé du journal, sans dupliquer les transcriptions mot pour mot).*
