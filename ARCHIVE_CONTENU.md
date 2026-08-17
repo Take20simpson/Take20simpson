@@ -2951,6 +2951,51 @@ Option 6 (Percutant) : un manager qui se fait défaire sa décision une seule fo
 
 > Choix final (option retenue et éventuelles retouches) pas encore confirmé par Matthias — à mettre à jour dans cette entrée dès qu'il l'indique. Vigilance appliquée pour ne pas recycler les images fortes du post ("rumeur", "agrandi la pièce") dans les propositions.
 
+### [17/08/2026] — commentaire punch — Laurine Bemer, le prix comme filtre client (300€ vs 3000€)
+
+**Post source (Laurine Bemer, +100K€/an sans pub) :**
+Vos clients à 300€ vous volent + de temps que vos clients à 3000€…
+
+Le problème c'est pas vous.
+
+C'est le f*cking prix que vous mettez sur vos produits.
+
+🤡 Oui, a 300 balles vous envoyez un signal comme quoi vous attirez les clients les plus relous.
+
+Surtout si vous avez une offre où vous êtes dispo, vous répondez aux clients, vous les coachez…
+
+À 300€, vous allez attirer des gens qui ont mis toutes leurs économies et qui pensent que tout leur est dû.
+
+À chaque fois que j'ai fait des produits comme ça, j'ai :
+- Répondu à 23h sur mon WhatsApp perso.
+- Retourné des montagnes pour satisfaire des clients qui n'étaient pas satisfaits pour des bêtises (genre, j'ai pas de résultats au bout de 2 jours).
+- Eu des paiements annulés.
+
+En gros, un prix bas ça donne une indication de :
+j'attire des débutants qui ont le droit de me ch*er sur la tronche
+
+Alors ok, pas tous (et heureusement), mais je n'ai jamais eu autant de charge mentale que quand je vendais des petits produits…
+
+Donc la prochaine fois que vous voulez vendre un produit, mettez le à +3K€ minimum (c'est un conseil hein 👀).
+
+**Propositions générées (module Punch, `SKILL_COMMENTAIRES_PUNCH.md`) :**
+
+Question de fin : ton prix actuel, il attire quel genre de client chez toi précisément ?
+
+Option 1 (Humour) : t'as déjà eu un client à 300 balles qui t'envoyait bonne nuit sur WhatsApp aussi ?
+
+Option 2 (Storytelling) : ça m'est arrivé pile ce syndrome avec un tarif que j'avais fixé trop bas au début, un client m'écrivait à toute heure et redemandait des ajustements gratuits sans arrêt, jusqu'à ce que je comprenne que c'était le prix qui lui avait donné cette permission
+
+Option 3 (Humour poussé) : y'a forcément eu un client à 300 balles qui a réclamé un remboursement parce que le succès venait pas assez vite à son goût
+
+Option 4 (Insight) : franchement le prix, c'est surtout un signal sur ce que le client pense pouvoir exiger en retour, bien avant d'être une question de budget
+
+Option 5 (Clivant) : tu dis 3K minimum comme si ça marchait pour toutes les niches, y'a des marchés entiers où personne paie ça même pour un super produit
+
+Option 6 (Percutant) : un client relou à 300 euros, ça finit toujours par coûter une énergie folle
+
+> Choix final (option retenue et éventuelles retouches) pas encore confirmé par Matthias — à mettre à jour dans cette entrée dès qu'il l'indique. Thème proche du post Jeremy Kohlmann archivé plus tôt dans la session (filtrage clients) — angle et matériau volontairement différents (le prix comme signal plutôt qu'un dépôt/blacklist).
+
 ---
 
 *Document créé le 22 juillet 2026, en complément de `JOURNAL.md`, à la demande de Matthias (besoin d'une sauvegarde du contenu, posts et vidéos, plus détaillée que le résumé du journal, sans dupliquer les transcriptions mot pour mot).*
