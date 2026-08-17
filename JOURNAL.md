@@ -997,6 +997,13 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Stats : n/a (proposition, pas encore choisie/publiée par Matthias).
 - Notes : choix final pas encore connu — à mettre à jour ici et dans `ARCHIVE_CONTENU.md` dès qu'il confirme l'option retenue (et d'éventuelles retouches).
 
+### 17/08/2026 — Commentaire punch sous Margaux Lopez (facturation électronique, deadline + teasing offre)
+- Format : commentaire punch
+- Accroche/angle du post commenté : deadline légale de la facturation électronique (2 semaines), le vrai chantier étant le nettoyage de la base clients/fournisseurs plutôt que le raccordement technique ; teasing d'une offre "rentrée" limitée annoncée pour le lendemain.
+- Mécanisme : 6 options générées (Humour, Storytelling, Humour poussé, Insight, Clivant, Percutant) + question de fin. Post tactique/administratif, bonne dose d'humour sur les 2 slots (panique de dernière minute). Option Clivant sur le mélange urgence légale réelle / urgence marketing (offre limitée) dans le même post, jamais une attaque de l'autrice.
+- Stats : n/a (proposition, pas encore choisie/publiée par Matthias).
+- Notes : choix final pas encore connu — à mettre à jour ici et dans `ARCHIVE_CONTENU.md` dès qu'il confirme l'option retenue (et d'éventuelles retouches).
+
 ---
 
 ### Laura Thouzeau — UX/UI Designer, fondatrice Outsiders (sites sur-mesure) et Head Control (DeepTech accessibilité)

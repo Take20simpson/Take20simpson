@@ -2607,6 +2607,45 @@ Option 6 (Percutant) : connaître son client sur le bout des doigts, ça commenc
 
 > Choix final (option retenue et éventuelles retouches) pas encore confirmé par Matthias — à mettre à jour dans cette entrée dès qu'il l'indique. Option Clivant construite sur l'angle dogmatisme LinkedIn (recoupe la banque CONVICTIONS de `SKILL_COMMENTAIRES_PUNCH.md`), reformulé spécifiquement pour ce post, jamais recyclé mot pour mot.
 
+### [17/08/2026] — commentaire punch — Margaux Lopez, facturation électronique (deadline + teasing offre)
+
+**Post source (Margaux Lopez, Assistante externalisée trilingue) :**
+C'est dans deux semaines seulement que la facturation électronique entre en vigueur… Et beaucoup d'entre vous ne sont toujours pas à jour !
+
+Aucun reproche là-dedans, vu que la période estivale n'aide pas à s'en occuper.
+
+Se raccorder à une plateforme ça se fait vite et c'est souvent gratuit en plus, donc pas de souci de ce côté-là.
+
+Là où ça va devenir plus compliqué, c'est quand vous allez devoir remettre au propre toute votre base clients et fournisseurs, pour pouvoir ensuite l'intégrer dans la plateforme choisie.
+
+Alors j'ai décidé de faire quelque chose pour ceux qui s'y prennent à la dernière minute !
+
+Demain je vais publier une offre spéciale "rentrée" à petit prix, pensée pour ceux qui veulent quand même être prêts avant le 1er septembre.
+
+Ça sera limité en nombre de places, étant donné que je veux prendre le temps de traiter chaque dossier correctement.
+
+Mais je ne vous en dis pas plus pour le moment… Vous verrez tout ça plus en détail demain !
+
+Vous en êtes où vous sur la facturation électronique ? Vous êtes déjà à jour ou prêt à découvrir mon offre de demain ? ^^
+
+**Propositions générées (module Punch, `SKILL_COMMENTAIRES_PUNCH.md`) :**
+
+Question de fin : t'en es où toi sur ta propre base clients, propre ou complètement le bazar ?
+
+Option 1 (Humour) : tu crois que la moitié des gens vont s'y mettre pile le 31 août à 23h59 ?
+
+Option 2 (Storytelling) : ça me met en panique direct, une deadline administrative zappée, parce que l'an dernier j'ai découvert trois jours avant qu'il me manquait un document obligatoire, j'ai cramé tout un dimanche à tout reconstituer en urgence
+
+Option 3 (Humour poussé) : je vois déjà les gens debout à minuit le 31 août à scanner des factures de 2019 à la lampe torche
+
+Option 4 (Insight) : tu peux choisir la meilleure plateforme du monde, le nettoyage d'une base clients qui traîne depuis des années, ça prend toujours un temps fou
+
+Option 5 (Clivant) : tu mélanges une vraie deadline légale avec une offre limitée dans le même post, du coup on sait plus si c'est l'obligation ou le marketing qui pousse à réagir vite
+
+Option 6 (Percutant) : se raccorder à une plateforme, ça prend cinq minutes. ranger des années de factures, ça peut prendre l'été entier
+
+> Choix final (option retenue et éventuelles retouches) pas encore confirmé par Matthias — à mettre à jour dans cette entrée dès qu'il l'indique.
+
 ---
 
 *Document créé le 22 juillet 2026, en complément de `JOURNAL.md`, à la demande de Matthias (besoin d'une sauvegarde du contenu, posts et vidéos, plus détaillée que le résumé du journal, sans dupliquer les transcriptions mot pour mot).*
