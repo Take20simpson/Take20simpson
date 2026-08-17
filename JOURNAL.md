@@ -1032,6 +1032,13 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Stats : n/a (proposition, pas encore choisie/publiée par Matthias).
 - Notes : choix final pas encore connu — à mettre à jour ici et dans `ARCHIVE_CONTENU.md` dès qu'il confirme l'option retenue (et d'éventuelles retouches).
 
+### 17/08/2026 — Commentaire punch sous Muriel Lardet-Dato (anniversaire, 1 an de freelance)
+- Format : commentaire punch
+- Accroche/angle du post commenté : post d'anniversaire (16 août, née le même jour que Madonna) doublé d'un bilan de la première année en freelance (formation rédaction web, grand saut, trouille au ventre, métier qui commence à tenir debout).
+- Mécanisme : 6 options générées (Humour, Storytelling, Humour poussé, Insight, Clivant, Percutant) + question de fin. DOSAGE post positif/anniversaire appliqué : humour bienveillant uniquement (jamais une vanne qui pique l'auteure), Clivant chaleureux qui finit sur du positif. Storytelling ancré sur le vécu réel de Matthias (le grand saut en freelance, la trouille au ventre) — forte résonance personnelle.
+- Stats : n/a (proposition, pas encore choisie/publiée par Matthias).
+- Notes : choix final pas encore connu — à mettre à jour ici et dans `ARCHIVE_CONTENU.md` dès qu'il confirme l'option retenue (et d'éventuelles retouches).
+
 ---
 
 ### Laura Thouzeau — UX/UI Designer, fondatrice Outsiders (sites sur-mesure) et Head Control (DeepTech accessibilité)
