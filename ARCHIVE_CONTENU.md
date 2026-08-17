@@ -2876,6 +2876,81 @@ Option 6 (Percutant) : un an de freelance et déjà debout sur ses jambes, le Sp
 
 > Choix final (option retenue et éventuelles retouches) pas encore confirmé par Matthias — à mettre à jour dans cette entrée dès qu'il l'indique. DOSAGE post positif/anniversaire appliqué : humour bienveillant uniquement (jamais une vanne qui pique l'auteure), Clivant chaleureux qui finit sur du positif.
 
+### [17/08/2026] — commentaire punch — Oussama Ammar, l'architecture décisionnelle qui ne grandit pas avec l'entreprise
+
+**Post source (Oussama Ammar, Your Favorite Co-Founder) :**
+Beaucoup d'entreprises de 50 personnes sont encore dirigées comme des entreprises de 5 personnes.
+
+Avec 45 personnes en trop.
+
+Au début d'une boîte, l'informel est une technologie formidable.
+
+Tout le monde sait tout.
+Une question se règle en traversant la pièce.
+Un client appelle, le fondateur répond.
+Une priorité change, dix minutes plus tard tout le monde est au courant.
+
+À cinq personnes, ça va souvent beaucoup plus vite que n'importe quel process.
+
+Puis la boîte grandit.
+
+Et parfois, rien d'autre ne grandit avec elle.
+
+Le fondateur continue à prendre une décision dans WhatsApp, une autre au déjeuner et une troisième en passant derrière l'écran de quelqu'un.
+
+Un manager tranche un sujet le mardi.
+Le mercredi, quelqu'un va directement voir le fondateur et obtient une autre réponse.
+Le jeudi, plus personne ne sait vraiment quelle décision est la bonne.
+
+À 50 personnes, une décision qui n'existe que dans la tête du fondateur n'est plus une décision. C'est une rumeur.
+
+Et très vite, les équipes apprennent.
+Elles apprennent qu'il vaut mieux demander avant d'agir.
+Qu'il vaut mieux attendre avant de trancher.
+Qu'une décision prise sans le fondateur peut être renversée demain matin.
+
+Puis le fondateur regarde son équipe et dit : « Je ne comprends pas pourquoi personne n'est autonome ici. »
+
+C'est généralement le moment où ça devient intéressant.
+
+Parce que les gens ne manquent pas forcément d'autonomie.
+Ils sont devenus parfaitement rationnels dans un système qui récompense l'attente.
+
+Je vois souvent ça avec des fondateurs qui pensent avoir un problème de recrutement, de management ou de culture.
+Alors qu'ils ont surtout gardé l'architecture décisionnelle d'une petite boîte dans une entreprise qui ne l'est plus.
+
+Et je comprends pourquoi.
+
+Formaliser qui décide quoi donne facilement l'impression de devenir bureaucratique.
+Écrire ce qui était autrefois évident paraît lent.
+Accepter qu'une décision puisse être prise différemment de la manière dont vous l'auriez prise vous-même est encore plus difficile.
+
+Mais à partir d'une certaine taille, le boulot change.
+
+Votre travail n'est plus de prendre toutes les bonnes décisions.
+C'est de construire une entreprise capable de prendre de bonnes décisions quand vous n'êtes pas dans la pièce.
+
+Sinon vous n'avez pas vraiment fait grandir votre entreprise.
+Vous avez simplement agrandi la pièce.
+
+**Propositions générées (module Punch, `SKILL_COMMENTAIRES_PUNCH.md`) :**
+
+Question de fin : toi, tu tranches encore combien de trucs par jour qu'un manager pourrait trancher à ta place ?
+
+Option 1 (Humour) : vous avez déjà vu un fondateur trancher trois décisions différentes rien qu'en allant chercher un café ?
+
+Option 2 (Storytelling) : je le vois direct avec mes propres clients, tant que je valide chaque message et chaque relance à leur place, ils décident jamais eux-mêmes, et le jour où j'arrête de répondre à tout ils commencent enfin à trancher tout seuls
+
+Option 3 (Humour poussé) : à ce rythme là faut littéralement greffer un talkie-walkie à l'oreille du fondateur
+
+Option 4 (Insight) : tu crois que les fondateurs ont peur de perdre le contrôle, en vrai ils redoutent surtout de découvrir une mauvaise décision après coup, sans avoir jamais pu l'empêcher
+
+Option 5 (Clivant) : tu dis qu'il faut construire l'architecture décisionnelle, mais plein de fondateurs qui essaient tombent dans l'excès inverse, un process tellement lourd que plus personne décide vite non plus
+
+Option 6 (Percutant) : un manager qui se fait défaire sa décision une seule fois, il arrête d'en prendre pour de bon
+
+> Choix final (option retenue et éventuelles retouches) pas encore confirmé par Matthias — à mettre à jour dans cette entrée dès qu'il l'indique. Vigilance appliquée pour ne pas recycler les images fortes du post ("rumeur", "agrandi la pièce") dans les propositions.
+
 ---
 
 *Document créé le 22 juillet 2026, en complément de `JOURNAL.md`, à la demande de Matthias (besoin d'une sauvegarde du contenu, posts et vidéos, plus détaillée que le résumé du journal, sans dupliquer les transcriptions mot pour mot).*

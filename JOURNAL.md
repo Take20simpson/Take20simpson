@@ -1046,6 +1046,13 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Stats : n/a (proposition, pas encore choisie/publiée par Matthias).
 - Notes : choix final pas encore connu — à mettre à jour ici et dans `ARCHIVE_CONTENU.md` dès qu'il confirme l'option retenue (et d'éventuelles retouches).
 
+### 17/08/2026 — Commentaire punch sous Oussama Ammar (architecture décisionnelle qui ne grandit pas avec l'entreprise)
+- Format : commentaire punch
+- Accroche/angle du post commenté : une entreprise de 50 personnes encore dirigée comme une entreprise de 5 — le fondateur reste le seul point de décision (WhatsApp, déjeuner, derrière un écran), les équipes apprennent à attendre plutôt qu'à trancher.
+- Mécanisme : 6 options générées (Humour, Storytelling, Humour poussé, Insight, Clivant, Percutant) + question de fin. Post business/organisationnel, bonne dose d'humour sur les 2 slots. Vigilance appliquée pour ne pas recycler les images fortes du post lui-même ("une décision qui n'existe que dans la tête du fondateur", "agrandi la pièce"). Option Clivant sur le risque d'excès inverse (process trop lourd) quand un fondateur essaie de formaliser l'architecture décisionnelle.
+- Stats : n/a (proposition, pas encore choisie/publiée par Matthias).
+- Notes : choix final pas encore connu — à mettre à jour ici et dans `ARCHIVE_CONTENU.md` dès qu'il confirme l'option retenue (et d'éventuelles retouches).
+
 ---
 
 ### Laura Thouzeau — UX/UI Designer, fondatrice Outsiders (sites sur-mesure) et Head Control (DeepTech accessibilité)
