@@ -2646,6 +2646,80 @@ Option 6 (Percutant) : se raccorder à une plateforme, ça prend cinq minutes. r
 
 > Choix final (option retenue et éventuelles retouches) pas encore confirmé par Matthias — à mettre à jour dans cette entrée dès qu'il l'indique.
 
+### [17/08/2026] — commentaire punch — Emeline Desert-Bensaïd, les fondamentaux marketing (listicle)
+
+**Post source (Emeline Desert-Bensaïd, prospection/contenus LinkedIn) :**
+Le marketing n'a pas besoin de hacks.
+Il a besoin de règles simples.
+Et surtout, qu'on les applique ↓
+
+On cherche souvent la nouvelle tactique.
+Le nouveau format.
+Le nouvel outil.
+Le nouveau hack LinkedIn.
+Alors que les fondamentaux n'ont pas bougé.
+
+◉ Une offre doit être comprise vite
+→ Si elle demande 5 minutes d'explication, elle est déjà trop compliquée.
+→ Une cible.
+→ Un problème.
+→ Une promesse lisible.
+
+◉ La visibilité seule ne sert à rien
+→ Chaque contenu doit avoir une destination.
+→ Un profil.
+→ Un DM.
+→ Une ressource.
+→ Un RDV.
+Sinon tu fabriques de l'attention.
+Pas du pipeline.
+
+◉ La régularité bat les coups d'éclat
+→ Deux heures bloquées chaque semaine valent mieux que 15 posts improvisés.
+→ Même rythme.
+→ Même cible.
+→ Même message de fond.
+
+◉ Parler à tout le monde tue l'impact
+→ Plus ton message est précis, plus ton prospect se reconnaît.
+Ce n'est pas parce que tu sais que tu es lisible.
+
+◉ Les likes ne paient aucune facture
+→ 500 likes et zéro conversation restent zéro opportunité.
+→ Mesure les DM.
+→ Mesure les RDV.
+→ Mesure les deals.
+
+◉ L'autorité vient de la preuve
+→ Montre tes méthodes.
+→ Montre tes résultats.
+→ Montre ce que tu fais vraiment.
+Pas besoin de crier que tu es expert.
+Prouve-le.
+
+◉ Ton profil fait partie de la vente
+→ Bannière, titre, offre et preuves doivent raconter la même chose.
+Un prospect intéressé va vérifier.
+S'il ne comprend pas, il repart.
+
+**Propositions générées (module Punch, `SKILL_COMMENTAIRES_PUNCH.md`) :**
+
+Question de fin : c'est laquelle de ces règles que tu appliques le moins alors que tu la connais par cœur ?
+
+Option 1 (Humour) : tu réalises que la moitié des gens vont chercher un hack pour appliquer ce post plutôt que juste l'appliquer ?
+
+Option 2 (Storytelling) : j'ai capté ça un peu tard, parce que j'ai passé des mois à sauter d'une technique à une autre avant de comprendre que juste tenir le même rythme sur un truc simple battait tout le reste
+
+Option 3 (Humour poussé) : y'a forcément quelqu'un qui a déjà essayé de payer son loyer en likes, le proprio a dû pas hyper apprécier
+
+Option 4 (Insight) : tu connais déjà toutes ces règles, ce qui manque le plus souvent c'est de les tenir sur la durée sans se lasser au bout de trois semaines
+
+Option 5 (Clivant) : tu dis que les fondamentaux ont pas bougé, sauf que ceux qui testent tôt un nouveau format ramassent souvent une visibilité que les fondamentaux seuls expliquent pas
+
+Option 6 (Percutant) : un like ça flatte, un rendez-vous ça paie
+
+> Choix final (option retenue et éventuelles retouches) pas encore confirmé par Matthias — à mettre à jour dans cette entrée dès qu'il l'indique. Fort recoupement de contenu avec la doctrine de Matthias (`SKILL_STRATEGIE.md`) : régularité, likes ≠ opportunités, preuve plutôt que déclaration — utilisé comme matière naturelle pour Storytelling/Insight/Clivant.
+
 ---
 
 *Document créé le 22 juillet 2026, en complément de `JOURNAL.md`, à la demande de Matthias (besoin d'une sauvegarde du contenu, posts et vidéos, plus détaillée que le résumé du journal, sans dupliquer les transcriptions mot pour mot).*
