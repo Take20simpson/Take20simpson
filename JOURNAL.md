@@ -941,6 +941,97 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Stats : pas encore publié.
 - Notes : **2e sujet en attente, donné par Matthias dans la même respiration, à traiter juste après celui-ci :** le contenu LinkedIn et la prospection qu'il pratique (spécifiquement la phase commentaires, avant le message privé) sont selon lui le même mécanisme appliqué différemment — tous deux visent visibilité, relation et éducation du prospect. Angle vérifié absent du corpus, à reprendre explicitement à la prochaine relance. À ajouter au catalogue SA (`SKILL_CONTENU_LINKEDIN.md`) comme SA-6 une fois l'approche de ce post-ci validée et publiée, et penser à ajouter le futur angle "contenu = prospection" à la suite (SA-6 Angle 2 ou nouvelle entrée SA-7 selon comment ça se formule à l'écriture).
 
+### 17/08/2026 — Commentaire punch sous Caroline Mignaux (posséder son audience vs la louer)
+- Format : commentaire punch
+- Accroche/angle du post commenté : Elise Lucet qui monte sa propre chaîne YouTube plutôt que de rester dépendante des médias traditionnels — posséder son audience (liberté éditoriale, revenus, distribution) plutôt que la louer, clôture sur un clin d'œil au Corbeau et le Renard.
+- Mécanisme : 6 options générées (Humour, Storytelling, Humour poussé, Insight, Clivant, Percutant) + question de fin, registre business/tactique avec humour qui rebondit sur la fable citée par l'auteure. Reprise de la décision d'archivage des commentaires (voir note `CLAUDE.md`, revient sur la règle du 27/07 qui excluait ce type de contenu de l'archivage).
+- Stats : n/a (proposition, pas encore choisie/publiée par Matthias).
+- Notes : choix final de Matthias pas encore connu — à mettre à jour ici et dans `ARCHIVE_CONTENU.md` dès qu'il confirme l'option retenue (et d'éventuelles retouches).
+
+### 17/08/2026 — Commentaire punch sous Jeremy Kohlmann (filtrage clients high ticket, dépôt/blacklist)
+- Format : commentaire punch
+- Accroche/angle du post commenté : positionnement dominant/théâtral d'un fondateur high-ticket (Kohlmann Publishing & Pation.io) qui exige un dépôt remboursable de 500€ et menace de blacklister les prospects indécis ou irrespectueux — "acheter chez nous est une chance, pas un droit divin".
+- Mécanisme : 6 options générées (Humour, Storytelling, Humour poussé, Insight, Clivant, Percutant) + question de fin. Post tactique/business à ton clivant assumé, pas de victime identifiée donc dosage humour plein sur les 2 slots ; Option Clivant construite sur une tension de mécanisme (exiger une décision rapide alors que le système high ticket carbure lui-même aux relances/scripts pensés pour faire mûrir la décision), jamais une attaque de la personne.
+- Stats : n/a (proposition, pas encore choisie/publiée par Matthias).
+- Notes : choix final pas encore connu — à mettre à jour ici et dans `ARCHIVE_CONTENU.md` dès qu'il confirme l'option retenue (et d'éventuelles retouches).
+
+### 17/08/2026 — Commentaire punch sous Océane Bondis (avis clients comme matière première des IA)
+- Format : commentaire punch
+- Accroche/angle du post commenté : les avis clients ne rassurent plus seulement, ils nourrissent le résumé qu'une IA fait de l'entreprise à un futur client — le pire cas n'est pas le mauvais avis mais l'absence d'avis.
+- Mécanisme : 6 options générées (Humour, Storytelling, Humour poussé, Insight, Clivant, Percutant) + question de fin. Post tactique/business SEO, dosage humour plein sur les 2 slots (chatbot qui invente ou avoue son ignorance faute de matière) ; Option Clivant construite sur la vraie friction psychologique derrière "demander un avis = 5 min" (oser demander sans se sentir lourd, pas le temps que ça prend), résonne avec le vécu personnel de Matthias sur la peur de demander.
+- Stats : n/a (proposition, pas encore choisie/publiée par Matthias).
+- Notes : choix final pas encore connu — à mettre à jour ici et dans `ARCHIVE_CONTENU.md` dès qu'il confirme l'option retenue (et d'éventuelles retouches).
+
+### 17/08/2026 — Commentaire punch sous Elodie Delmas (pourquoi les selfies marchent, neurosciences)
+- Format : commentaire punch
+- Accroche/angle du post commenté : justification neuroscientifique (Fusiform Face Area) de pourquoi un selfie/portrait capte toujours mieux l'attention qu'un visuel designé — incite à montrer son visage "PARTOUT PARTOUT".
+- Mécanisme : 6 options générées (Humour, Storytelling, Humour poussé, Insight, Clivant, Percutant) + question de fin. Post léger/joueur, bonne dose d'humour sur les 2 slots. Vigilance appliquée sur la répétition inter-séries dans cette même conversation (mdrr systématique en clôture d'Option 1, 😭 systématique en Option 3, "franchement"/"honnêtement" systématiques en ouverture d'Option 2/4, gabarit "tu dis X mais Y" pour l'Option 5) : tous variés cette fois pour ne pas installer de tic sur la session.
+- Stats : n/a (proposition, pas encore choisie/publiée par Matthias).
+- Notes : choix final pas encore connu — à mettre à jour ici et dans `ARCHIVE_CONTENU.md` dès qu'il confirme l'option retenue (et d'éventuelles retouches).
+
+### 17/08/2026 — Commentaire punch sous Léna Sun (lancement LinkedIn Sun Académie, 900€/90 jours)
+- Format : commentaire punch
+- Accroche/angle du post commenté : lancement hype d'un accompagnement LinkedIn (20 places, tarif fondateur 900€/90 jours, suivi hebdo 1-1) — post positif/enthousiaste, pas une victime, registre proche du business de Matthias lui-même.
+- Mécanisme : 6 options générées (Humour, Storytelling, Humour poussé, Insight, Clivant, Percutant) + question de fin. Leçons déjà actées dans `SKILL_COMMENTAIRES_PUNCH.md` sur un post très proche (14/08) appliquées directement : ancrage personnel systématique même en ouverture Insight, vocabulaire simple, question courte validée comme forme d'humour. Option Clivant construite sur le mécanisme (tarif fondateur = première promo sans retour terrain), jamais une attaque de Léna Sun ; ton resté chaleureux vu qu'il s'agit d'un post positif de lancement.
+- Stats : n/a (proposition, pas encore choisie/publiée par Matthias).
+- Notes : choix final pas encore connu — à mettre à jour ici et dans `ARCHIVE_CONTENU.md` dès qu'il confirme l'option retenue (et d'éventuelles retouches).
+
+### 17/08/2026 — Commentaire punch sous Antoine Koe (LinkedIn désert en août, lifestyle/été)
+- Format : commentaire punch
+- Accroche/angle du post commenté : post léger d'auto-dérision estivale (créateur de sites web) qui constate que tout le monde scrolle encore en août malgré le côté "ville fantôme" ; révèle vivre à Nice et demander des photos de mer alors qu'il y est déjà.
+- Mécanisme : 6 options générées (Humour, Storytelling, Humour poussé, Insight, Clivant, Percutant) + question de fin. Post lifestyle/léger, humour à fond sur les 2 slots dédiés. Point commun réel exploité en Storytelling : Matthias vit aussi à Nice (`CLAUDE.md` Partie 1), utilisé comme vraie anecdote plutôt qu'une histoire inventée.
+- Stats : n/a (proposition, pas encore choisie/publiée par Matthias).
+- Notes : choix final pas encore connu — à mettre à jour ici et dans `ARCHIVE_CONTENU.md` dès qu'il confirme l'option retenue (et d'éventuelles retouches).
+
+### 17/08/2026 — Commentaire punch sous Myriam Azizi (calcul des heures perdues à réfléchir, coaching carrière)
+- Format : commentaire punch
+- Accroche/angle du post commenté : argumentaire chiffré (100h/an passées à ruminer une reconversion sans décider) pour vendre un accompagnement structuré — genre copywriting pain-agitation classique.
+- Mécanisme : 6 options générées (Humour, Storytelling, Humour poussé, Insight, Clivant, Percutant) + question de fin. Post tactique/business, bonne dose d'humour sur les 2 slots (extrapolation absurde du calcul de l'autrice). Vigilance explicite appliquée sur deux pièges déjà actés pour cette même autrice dans l'historique de `SKILL_COMMENTAIRES_PUNCH.md` (13/08) : mot suspect "percuter" évité, aucune fin en tag comparatif/négatif.
+- Stats : n/a (proposition, pas encore choisie/publiée par Matthias).
+- Notes : choix final pas encore connu — à mettre à jour ici et dans `ARCHIVE_CONTENU.md` dès qu'il confirme l'option retenue (et d'éventuelles retouches).
+
+### 17/08/2026 — Commentaire punch sous Sarah Marsouin (3 pivots ratés, argent perdu — témoignage grave, zéro humour)
+- Format : commentaire punch
+- Accroche/angle du post commenté : témoignage vulnérable sur 3 pivots business ratés avant LinkedIn, argent perdu (formations, sites, outils), et le vrai coût qui n'est pas de pivoter mais de continuer par peur d'avoir fait fausse route.
+- Mécanisme : 6 options générées (Storytelling, Insight, Clivant, Percutant + 2 angles sérieux en lieu et place des slots Humour/Humour poussé) + question de fin. DOSAGE zéro humour appliqué (témoignage grave sans antagoniste identifiable, `SKILL_COMMENTAIRES_PUNCH.md`) et signalé dans l'analyse donnée à Matthias. Première utilisation de la banque VÉCU de cette session (coaching payé avec les dernières économies, scripts à copier coller) en Storytelling — un seul élément, une seule fois, mots neufs. Option Clivant construite sur la dogmatisme "fail fast" de LinkedIn (recoupe la banque CONVICTIONS) plutôt que sur une critique de l'autrice.
+- Stats : n/a (proposition, pas encore choisie/publiée par Matthias).
+- Notes : choix final pas encore connu — à mettre à jour ici et dans `ARCHIVE_CONTENU.md` dès qu'il confirme l'option retenue (et d'éventuelles retouches).
+
+### 17/08/2026 — Commentaire punch sous Orane Janvier (le persona est une "connerie", ADN client)
+- Format : commentaire punch
+- Accroche/angle du post commenté : critique du concept de "persona" marketing (âge/situation familiale) au profit d'un "ADN client" psychologique détaillé (parcours, croyances limitantes, déclencheurs), ton assertif/dogmatique ("c'est impossible").
+- Mécanisme : 6 options générées (Humour, Storytelling, Humour poussé, Insight, Clivant, Percutant) + question de fin. Post tactique/business, bonne dose d'humour sur les 2 slots (jargon ADN client poussé à l'absurde). Option Clivant reprend l'angle dogmatisme LinkedIn de la banque CONVICTIONS (`SKILL_COMMENTAIRES_PUNCH.md`) mais reformulé spécifiquement pour ce post, jamais recyclé mot pour mot.
+- Stats : n/a (proposition, pas encore choisie/publiée par Matthias).
+- Notes : choix final pas encore connu — à mettre à jour ici et dans `ARCHIVE_CONTENU.md` dès qu'il confirme l'option retenue (et d'éventuelles retouches).
+
+### 17/08/2026 — Commentaire punch sous Margaux Lopez (facturation électronique, deadline + teasing offre)
+- Format : commentaire punch
+- Accroche/angle du post commenté : deadline légale de la facturation électronique (2 semaines), le vrai chantier étant le nettoyage de la base clients/fournisseurs plutôt que le raccordement technique ; teasing d'une offre "rentrée" limitée annoncée pour le lendemain.
+- Mécanisme : 6 options générées (Humour, Storytelling, Humour poussé, Insight, Clivant, Percutant) + question de fin. Post tactique/administratif, bonne dose d'humour sur les 2 slots (panique de dernière minute). Option Clivant sur le mélange urgence légale réelle / urgence marketing (offre limitée) dans le même post, jamais une attaque de l'autrice.
+- Stats : n/a (proposition, pas encore choisie/publiée par Matthias).
+- Notes : choix final pas encore connu — à mettre à jour ici et dans `ARCHIVE_CONTENU.md` dès qu'il confirme l'option retenue (et d'éventuelles retouches).
+
+### 17/08/2026 — Commentaire punch sous Emeline Desert-Bensaïd (les fondamentaux marketing, listicle)
+- Format : commentaire punch
+- Accroche/angle du post commenté : listicle de règles marketing simples (offre lisible, visibilité avec destination, régularité, précision du message, likes ≠ opportunités, autorité par la preuve, profil qui vend) — fort recoupement avec la doctrine propre de Matthias.
+- Mécanisme : 6 options générées (Humour, Storytelling, Humour poussé, Insight, Clivant, Percutant) + question de fin. Post tactique/business, bonne dose d'humour sur les 2 slots. Option Clivant nuance l'absolutisme "les fondamentaux n'ont pas bougé" (les early movers sur un nouveau format captent parfois une visibilité que les fondamentaux seuls n'expliquent pas), jamais une attaque de l'autrice.
+- Stats : n/a (proposition, pas encore choisie/publiée par Matthias).
+- Notes : choix final pas encore connu — à mettre à jour ici et dans `ARCHIVE_CONTENU.md` dès qu'il confirme l'option retenue (et d'éventuelles retouches).
+
+### 17/08/2026 — Commentaire punch sous Dorothée Raffray (Taylor Swift, rachat des masters — posséder vs louer)
+- Format : commentaire punch
+- Accroche/angle du post commenté : Taylor Swift rachète ses masters 360M$ après les avoir perdus à ses débuts — parallèle avec "posséder vs louer" son audience/actifs business (liste email, contenu hébergé chez soi).
+- Mécanisme : 6 options générées (Humour, Storytelling, Humour poussé, Insight, Clivant, Percutant) + question de fin. Même thématique de fond que le post Caroline Mignaux archivé plus tôt dans la session (posséder vs louer) — vigilance explicite appliquée pour partir sur un matériau entièrement différent (Taylor Swift/masters/Taylor's Version plutôt qu'Elise Lucet/algorithme Instagram/base de contacts) afin d'éviter toute répétition de blagues ou d'anecdotes entre les deux séries. Option Clivant nuance la réplicabilité du modèle Taylor Swift pour un business lambda sans base fan massive.
+- Stats : n/a (proposition, pas encore choisie/publiée par Matthias).
+- Notes : choix final pas encore connu — à mettre à jour ici et dans `ARCHIVE_CONTENU.md` dès qu'il confirme l'option retenue (et d'éventuelles retouches).
+
+### 17/08/2026 — Commentaire punch sous Benoît Dubos (prompt anti-passivité cognitive)
+- Format : commentaire punch
+- Accroche/angle du post commenté : post méta sur l'IA (danger de la passivité cognitive) avec un prompt "cadeau" à copier-coller pour forcer un vrai engagement de réflexion plutôt que de tout déléguer.
+- Mécanisme : 6 options générées (Humour, Storytelling, Humour poussé, Insight, Clivant, Percutant) + question de fin. Post tactique/tech, bonne dose d'humour sur les 2 slots. Vigilance explicite pour ne pas tomber dans une blague "méta IA qui parle d'elle-même" — le commentaire reste dans la voix de Matthias, jamais un clin d'œil cassé sur le fait que la génération elle-même est faite par une IA. Option Clivant sur le paradoxe de déléguer à un prompt la discipline de ne pas déléguer.
+- Stats : n/a (proposition, pas encore choisie/publiée par Matthias).
+- Notes : choix final pas encore connu — à mettre à jour ici et dans `ARCHIVE_CONTENU.md` dès qu'il confirme l'option retenue (et d'éventuelles retouches).
+
 ---
 
 ### Laura Thouzeau — UX/UI Designer, fondatrice Outsiders (sites sur-mesure) et Head Control (DeepTech accessibilité)
