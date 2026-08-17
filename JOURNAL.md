@@ -934,6 +934,13 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Stats : pas encore publié.
 - Notes : vigilance déjà notée par Matthias (entrée du 28/07) — ne pas mettre une photo de lui/sa chienne trop souvent (1x/semaine max) ; dernier post Vaya remonte au ~28/07, fenêtre largement respectée. Au passage, correction apportée à `SKILL_CONTENU_LINKEDIN.md` (catalogue PB-4) : le nom "Belle" y était resté par erreur depuis l'ancienne version du document, corrigé en "Vaya" (nom réel confirmé partout ailleurs dans le système).
 
+### 14/08/2026 — La fonction précise de chaque étape, le contenu ne convertit pas (SA-6, nouvelle entrée catalogue, Angle 1)
+- Format : post
+- Accroche : "Le contenu LinkedIn n'a jamais eu pour fonction de convertir un prospect en client, chez moi en tout cas."
+- Mécanisme : nouvelle entrée catalogue Solution Aware (aucune entrée existante ne couvrait ce mécanisme précis — la plus proche, PA-2 "le contenu organique seul", pointe la douleur de poster sans clients en Problem Aware, alors qu'ici c'est la correction du mécanisme/de la croyance, donc Solution Aware). Brief donné en vocal par Matthias : le contenu attire et éduque, ne convertit jamais, la conversion se joue en DM puis en appel, chaque étape (contenu, commentaires, DM, appel) a une fonction précise. Généré dans la session Stratégie (pôle 1) sur demande explicite de Matthias. 3 approches livrées (clivante, normale, Mathis Clouet), ancrées sur l'aveu personnel ("j'ai mis du temps à piger ça") plutôt que la thèse à plat, pour limiter le risque déjà identifié sur les posts méta/conseil sans vécu. Texte intégral à archiver dans `ARCHIVE_CONTENU.md` une fois l'approche choisie confirmée.
+- Stats : pas encore publié.
+- Notes : **2e sujet en attente, donné par Matthias dans la même respiration, à traiter juste après celui-ci :** le contenu LinkedIn et la prospection qu'il pratique (spécifiquement la phase commentaires, avant le message privé) sont selon lui le même mécanisme appliqué différemment — tous deux visent visibilité, relation et éducation du prospect. Angle vérifié absent du corpus, à reprendre explicitement à la prochaine relance. À ajouter au catalogue SA (`SKILL_CONTENU_LINKEDIN.md`) comme SA-6 une fois l'approche de ce post-ci validée et publiée, et penser à ajouter le futur angle "contenu = prospection" à la suite (SA-6 Angle 2 ou nouvelle entrée SA-7 selon comment ça se formule à l'écriture).
+
 ---
 
 ### Laura Thouzeau — UX/UI Designer, fondatrice Outsiders (sites sur-mesure) et Head Control (DeepTech accessibilité)
