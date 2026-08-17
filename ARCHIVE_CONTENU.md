@@ -2427,6 +2427,63 @@ Option 6 (Percutant) : le seul mois où bosser en terrasse devient une vraie str
 
 > Choix final (option retenue et éventuelles retouches) pas encore confirmé par Matthias — à mettre à jour dans cette entrée dès qu'il l'indique.
 
+### [17/08/2026] — commentaire punch — Myriam Azizi, calcul des heures perdues à réfléchir (coaching carrière)
+
+**Post source (Myriam Azizi, coaching de carrière/reconversion) :**
+Combien d'heures avez-vous déjà perdues à réfléchir à votre vie pro sans prendre de décision.
+Faites le calcul. Vous risquez d'être surpris ↓
+
+Vous y pensez dans la voiture en allant travailler.
+Vous en parlez avec votre conjoint, vos amis ou vos proches.
+Vous regardez parfois les offres d'emploi, les formations, les entreprises qui recrutent ou les parcours de personnes qui ont changé de voie. 👀
+Vous imaginez plusieurs scénarios, vous pesez le pour et le contre, puis vous refermez LinkedIn et vous retournez à votre quotidien.
+
+Ok, maintenant faisons une estimation plutôt raisonnable (et vraiment je suis gentille là) :
+
+→ 30 minutes à y penser dans les transports ou sous la douche.
+→ 30 minutes à en parler avec quelqu'un.
+→ 1 heure le week-end à chercher des informations, regarder des opportunités ou simplement refaire le film de votre semaine.
+
+Soit 2 heures par semaine. Cela représente 8 heures par mois.
+Sur une année ? Près de 100 heures passées à réfléchir à une situation qui vous préoccupe suffisamment pour occuper l'équivalent de 3 semaines de travail.
+
+Et pourtant vous n'avez toujours pas de réponse.
+Ce constat ne signifie pas que vous manquez de courage, de volonté ou que vous n'avez pas suffisamment réfléchi. Vous avez peut-être simplement atteint la limite de ce que vos réflexions actuelles peuvent vous apporter.
+
+À force de retourner les mêmes questions dans sa tête, on finit souvent par revenir aux mêmes possibilités, aux mêmes peurs et aux mêmes objections.
+
+Croyez-moi, vous n'avez pas besoin de réfléchir davantage. Vous avez besoin de réfléchir autrement.
+
+Prendre de la hauteur dans un cadre structuré permet de comprendre en quelques semaines ce que l'on essaie de résoudre seul depuis des mois, voire des années.
+
+→ Identifier ce qui bloque réellement.
+→ Faire le tri entre une peur et une véritable limite.
+→ Comprendre ce que l'on veut conserver, ce que l'on ne veut plus et ce qui mérite réellement de changer.
+
+Puis transformer toutes ces réflexions en une direction et en décisions concrètes.
+
+100 heures à chercher une réponse, c'est déjà beaucoup. Vous méritez peut-être maintenant de la trouver, non ?
+
+📩 Si vous avez l'impression d'avoir déjà pensé 100 fois à votre situation professionnelle sans réussir à sortir de cette réflexion qui tourne en boucle, écrivez-moi simplement « DIRECTION » en message privé. Je vous expliquerai ce qui vous maintient dans cette boucle et ce qui vous permettra vraiment d'en sortir.
+
+**Propositions générées (module Punch, `SKILL_COMMENTAIRES_PUNCH.md`) :**
+
+Question de fin : tu ferais quoi de ces heures si tu les avais dépensées à tester plutôt qu'à réfléchir ?
+
+Option 1 (Humour) : et sur ces 100 heures, combien ont vraiment changé quelque chose ?
+
+Option 2 (Storytelling) : ça m'est déjà arrivé de tourner en rond des semaines sur une décision business, parce qu'un jour j'en ai juste parlé à quelqu'un d'extérieur et en vingt minutes j'ai vu clair sur un truc que je ruminais depuis un mois tout seul
+
+Option 3 (Humour poussé) : si on extrapole ça sur dix ans ça fait littéralement une année complète de cerveau en boucle, de quoi construire une maison avec ce temps là 😅
+
+Option 4 (Insight) : tu tournes une décision dans ta tête pendant des mois, alors qu'une vraie conversation avec quelqu'un d'extérieur peut débloquer ça en une fois
+
+Option 5 (Clivant) : tu comptes les heures perdues à réfléchir, mais trancher vite avec un inconnu au bout du fil c'est pas automatiquement le bon choix non plus
+
+Option 6 (Percutant) : sur ces 100 heures, zéro minute passée à tester quoi que ce soit concret
+
+> Choix final (option retenue et éventuelles retouches) pas encore confirmé par Matthias — à mettre à jour dans cette entrée dès qu'il l'indique. Vigilance appliquée sur deux pièges déjà actés pour cette même autrice dans l'historique de `SKILL_COMMENTAIRES_PUNCH.md` (13 août 2026) : mot suspect "percuter" évité, aucune fin en tag comparatif/négatif (plus que X, jamais X, pas juste X).
+
 ---
 
 *Document créé le 22 juillet 2026, en complément de `JOURNAL.md`, à la demande de Matthias (besoin d'une sauvegarde du contenu, posts et vidéos, plus détaillée que le résumé du journal, sans dupliquer les transcriptions mot pour mot).*

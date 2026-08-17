@@ -976,6 +976,13 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Stats : n/a (proposition, pas encore choisie/publiée par Matthias).
 - Notes : choix final pas encore connu — à mettre à jour ici et dans `ARCHIVE_CONTENU.md` dès qu'il confirme l'option retenue (et d'éventuelles retouches).
 
+### 17/08/2026 — Commentaire punch sous Myriam Azizi (calcul des heures perdues à réfléchir, coaching carrière)
+- Format : commentaire punch
+- Accroche/angle du post commenté : argumentaire chiffré (100h/an passées à ruminer une reconversion sans décider) pour vendre un accompagnement structuré — genre copywriting pain-agitation classique.
+- Mécanisme : 6 options générées (Humour, Storytelling, Humour poussé, Insight, Clivant, Percutant) + question de fin. Post tactique/business, bonne dose d'humour sur les 2 slots (extrapolation absurde du calcul de l'autrice). Vigilance explicite appliquée sur deux pièges déjà actés pour cette même autrice dans l'historique de `SKILL_COMMENTAIRES_PUNCH.md` (13/08) : mot suspect "percuter" évité, aucune fin en tag comparatif/négatif.
+- Stats : n/a (proposition, pas encore choisie/publiée par Matthias).
+- Notes : choix final pas encore connu — à mettre à jour ici et dans `ARCHIVE_CONTENU.md` dès qu'il confirme l'option retenue (et d'éventuelles retouches).
+
 ---
 
 ### Laura Thouzeau — UX/UI Designer, fondatrice Outsiders (sites sur-mesure) et Head Control (DeepTech accessibilité)
