@@ -2271,6 +2271,43 @@ Option 6 (Percutant) : zéro avis, zéro matière, l'IA invente pas des complime
 
 > Choix final (option retenue et éventuelles retouches) pas encore confirmé par Matthias — à mettre à jour dans cette entrée dès qu'il l'indique.
 
+### [17/08/2026] — commentaire punch — Elodie Delmas, pourquoi les selfies marchent (neurosciences)
+
+**Post source (Elodie Delmas, Experte LinkedIn & Personal Branding, +35 clients accompagnés) :**
+Vous faites partie des gens qui se plaignent des personnes qui postent des selfies comme ma photo si dessous ? (eheh je vous cherche des problemes 💢 ). Laissez-moi vous expliquer pourquoi vous avez tort.
+
+En faite, notre cerveau est câblé pour ça, et on ne peut rien y faire 🤷‍♀️
+On a une zone spécialisée (la Fusiform Face Area, proche de l'amygdale) qui reconnaît les visages beaucoup plus vite et beaucoup mieux que n'importe quel objet et encore plus qu'un design ou une interface.
+
+Les visages attirent instantanément notre attention et déclenchent des émotions. PIRE QUE çA : Ils créent un sentiment de connexion (même avec un inconnu)
+
+C'est pour ça que les selfies & les portraits marchent toujours mieux que n'importe quel visuel même parfaitement designé 😑
+
+En communication et en design, comprendre ça, c'est une arme.
+Parce que si vous voulez capter l'attention, provoquer une émotion, et être retenu, votre visage est l'outil le plus puissant que vous avez.
+
+Alors montrez-vous partout : Ici, sur votre landing page etc... PARTOUT PARTOUT
+
+Donc la prochaine fois que vous râlez sur un selfie rappelez-vous que votre cerveau, lui, adore ça 😘
+
+**Propositions générées (module Punch, `SKILL_COMMENTAIRES_PUNCH.md`) :**
+
+Question de fin : c'est quoi qui te retient encore de montrer ta tête partout si le cerveau est câblé pour ça ?
+
+Option 1 (Humour) : les graphistes vont pas du tout apprécier de lire ça 😅
+
+Option 2 (Storytelling) : ça m'a bluffé de voir à quel point une vraie photo bat n'importe quel visuel travaillé, le jour où j'ai mis ma tête plutôt qu'un visuel propre sur un post, les commentaires sont montés d'un coup alors que le sujet était exactement le même
+
+Option 3 (Humour poussé) : à ce niveau là mettez direct votre visage sur la page 404 du site, y'a plus de limite 🤡
+
+Option 4 (Insight) : sincèrement ça confirme un truc qu'on sous-estime en prospection aussi, les gens font confiance à un visage bien avant n'importe quel argumentaire
+
+Option 5 (Clivant) : y'a un seuil où montrer sa tête partout se retourne contre toi, ça finit juste par sonner calculé
+
+Option 6 (Percutant) : le cerveau préfère un selfie flou à un logo hyper léché
+
+> Choix final (option retenue et éventuelles retouches) pas encore confirmé par Matthias — à mettre à jour dans cette entrée dès qu'il l'indique.
+
 ---
 
 *Document créé le 22 juillet 2026, en complément de `JOURNAL.md`, à la demande de Matthias (besoin d'une sauvegarde du contenu, posts et vidéos, plus détaillée que le résumé du journal, sans dupliquer les transcriptions mot pour mot).*

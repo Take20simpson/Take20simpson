@@ -955,6 +955,13 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Stats : n/a (proposition, pas encore choisie/publiée par Matthias).
 - Notes : choix final pas encore connu — à mettre à jour ici et dans `ARCHIVE_CONTENU.md` dès qu'il confirme l'option retenue (et d'éventuelles retouches).
 
+### 17/08/2026 — Commentaire punch sous Elodie Delmas (pourquoi les selfies marchent, neurosciences)
+- Format : commentaire punch
+- Accroche/angle du post commenté : justification neuroscientifique (Fusiform Face Area) de pourquoi un selfie/portrait capte toujours mieux l'attention qu'un visuel designé — incite à montrer son visage "PARTOUT PARTOUT".
+- Mécanisme : 6 options générées (Humour, Storytelling, Humour poussé, Insight, Clivant, Percutant) + question de fin. Post léger/joueur, bonne dose d'humour sur les 2 slots. Vigilance appliquée sur la répétition inter-séries dans cette même conversation (mdrr systématique en clôture d'Option 1, 😭 systématique en Option 3, "franchement"/"honnêtement" systématiques en ouverture d'Option 2/4, gabarit "tu dis X mais Y" pour l'Option 5) : tous variés cette fois pour ne pas installer de tic sur la session.
+- Stats : n/a (proposition, pas encore choisie/publiée par Matthias).
+- Notes : choix final pas encore connu — à mettre à jour ici et dans `ARCHIVE_CONTENU.md` dès qu'il confirme l'option retenue (et d'éventuelles retouches).
+
 ---
 
 ### Laura Thouzeau — UX/UI Designer, fondatrice Outsiders (sites sur-mesure) et Head Control (DeepTech accessibilité)
