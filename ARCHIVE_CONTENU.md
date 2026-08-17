@@ -2071,6 +2071,48 @@ Options : Se concentrer sur la qualité (86%) / Se concentrer sur la quantité (
 
 > Post non drafté en session Claude. Stats confirmées : 116 impressions, 7 votes, 0 réaction, 0 commentaire — échantillon très faible (7 votes), cohérent avec le pattern déjà noté que les sondages diagnostics/catégoriels ont un faible reach (voir sondage PA-9 du 31/07, 174 impr). Résultat net (86% qualité) mais pas exploitable statistiquement vu le volume.
 
+### [17/08/2026] — commentaire punch — Caroline Mignaux, posséder son audience vs la louer (Elise Lucet/YouTube)
+
+**Post source (Caroline Mignaux, N°1 Marketing, fondatrice Agence Personnelle & Marketing Square, podcast +2.5M écoutes) :**
+Élise Lucet cartonne sur YouTube
+
+Ça fait des décennies qu'elle interviewe les plus grands patrons et met tout le monde dans la sauce.
+
+Sur YouTube, elle récupère :
+- la liberté éditoriale
+- les revenus
+- la distribution
+
+Elle se crée un asset majeur parce qu'elle possède son audience … au lieu de la louer !
+
+On bascule dans l'ère des personnalités.
+
+Votre marque ne dépend plus d'un "média tiers", ni d'un producteur véreux ou d'une régie politisée.
+
+Vous devenez puissant sur l'opinion publique, peu importe le support, que ce soit un podcast, une chaîne YouTube ou une émission télé.
+
+Au final, on retient votre nom et votre prénom.
+
+Cette leçon vaut bien un fromage 🧀, sans doute ?
+
+**Propositions générées (module Punch, `SKILL_COMMENTAIRES_PUNCH.md`) :**
+
+Question de fin : tu accepterais dix fois plus de portée aujourd'hui si ça voulait dire tout perdre le jour où la plateforme change ses règles ?
+
+Option 1 (Humour) : j'imagine trop Elise Lucet qui sort un cash investigation sur son propre nombre d'abonnés mdrr 😂👀
+
+Option 2 (Storytelling) : franchement le jour où j'ai capté que je bossais gratos pour un algorithme ça m'a fait un choc, parce que j'avais un compte insta qui cartonnait et du jour au lendemain la portée s'est effondrée, plus aucun moyen de recontacter qui que ce soit
+
+Option 3 (Humour poussé) : je vois déjà le service com d'une grosse chaîne débarquer en mode reviens steuplé on te laisse tout garder cette fois 😭
+
+Option 4 (Insight) : honnêtement une base de contacts qu'on possède... aucune plateforme peut venir te la couper du jour au lendemain
+
+Option 5 (Clivant) : t'as bon dos de dire ça avec déjà 2,5 millions d'écoutes en poche, construire cette indépendance depuis zéro ça prend des années que tout le monde n'a pas
+
+Option 6 (Percutant) : ta base de contacts en direct, ça personne peut te la couper d'un coup
+
+> Choix final (option retenue et éventuelles retouches) pas encore confirmé par Matthias — à mettre à jour dans cette entrée dès qu'il l'indique.
+
 ---
 
 *Document créé le 22 juillet 2026, en complément de `JOURNAL.md`, à la demande de Matthias (besoin d'une sauvegarde du contenu, posts et vidéos, plus détaillée que le résumé du journal, sans dupliquer les transcriptions mot pour mot).*

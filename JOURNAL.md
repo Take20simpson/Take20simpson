@@ -934,6 +934,13 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Stats : pas encore publié.
 - Notes : vigilance déjà notée par Matthias (entrée du 28/07) — ne pas mettre une photo de lui/sa chienne trop souvent (1x/semaine max) ; dernier post Vaya remonte au ~28/07, fenêtre largement respectée. Au passage, correction apportée à `SKILL_CONTENU_LINKEDIN.md` (catalogue PB-4) : le nom "Belle" y était resté par erreur depuis l'ancienne version du document, corrigé en "Vaya" (nom réel confirmé partout ailleurs dans le système).
 
+### 17/08/2026 — Commentaire punch sous Caroline Mignaux (posséder son audience vs la louer)
+- Format : commentaire punch
+- Accroche/angle du post commenté : Elise Lucet qui monte sa propre chaîne YouTube plutôt que de rester dépendante des médias traditionnels — posséder son audience (liberté éditoriale, revenus, distribution) plutôt que la louer, clôture sur un clin d'œil au Corbeau et le Renard.
+- Mécanisme : 6 options générées (Humour, Storytelling, Humour poussé, Insight, Clivant, Percutant) + question de fin, registre business/tactique avec humour qui rebondit sur la fable citée par l'auteure. Reprise de la décision d'archivage des commentaires (voir note `CLAUDE.md`, revient sur la règle du 27/07 qui excluait ce type de contenu de l'archivage).
+- Stats : n/a (proposition, pas encore choisie/publiée par Matthias).
+- Notes : choix final de Matthias pas encore connu — à mettre à jour ici et dans `ARCHIVE_CONTENU.md` dès qu'il confirme l'option retenue (et d'éventuelles retouches).
+
 ---
 
 ### Laura Thouzeau — UX/UI Designer, fondatrice Outsiders (sites sur-mesure) et Head Control (DeepTech accessibilité)
