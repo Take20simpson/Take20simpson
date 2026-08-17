@@ -969,6 +969,13 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Stats : n/a (proposition, pas encore choisie/publiée par Matthias).
 - Notes : choix final pas encore connu — à mettre à jour ici et dans `ARCHIVE_CONTENU.md` dès qu'il confirme l'option retenue (et d'éventuelles retouches).
 
+### 17/08/2026 — Commentaire punch sous Antoine Koe (LinkedIn désert en août, lifestyle/été)
+- Format : commentaire punch
+- Accroche/angle du post commenté : post léger d'auto-dérision estivale (créateur de sites web) qui constate que tout le monde scrolle encore en août malgré le côté "ville fantôme" ; révèle vivre à Nice et demander des photos de mer alors qu'il y est déjà.
+- Mécanisme : 6 options générées (Humour, Storytelling, Humour poussé, Insight, Clivant, Percutant) + question de fin. Post lifestyle/léger, humour à fond sur les 2 slots dédiés. Point commun réel exploité en Storytelling : Matthias vit aussi à Nice (`CLAUDE.md` Partie 1), utilisé comme vraie anecdote plutôt qu'une histoire inventée.
+- Stats : n/a (proposition, pas encore choisie/publiée par Matthias).
+- Notes : choix final pas encore connu — à mettre à jour ici et dans `ARCHIVE_CONTENU.md` dès qu'il confirme l'option retenue (et d'éventuelles retouches).
+
 ---
 
 ### Laura Thouzeau — UX/UI Designer, fondatrice Outsiders (sites sur-mesure) et Head Control (DeepTech accessibilité)

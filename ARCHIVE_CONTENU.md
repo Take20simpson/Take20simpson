@@ -2373,6 +2373,60 @@ Option 6 (Percutant) : tu sous-estimes toujours l'ampleur du truc quand tu vises
 
 > Choix final (option retenue et éventuelles retouches) pas encore confirmé par Matthias — à mettre à jour dans cette entrée dès qu'il l'indique. Post à rapprocher de l'entrée "Post Léna Sun (lancement offre LinkedIn)" du 14 août 2026 dans l'historique de `SKILL_COMMENTAIRES_PUNCH.md` — mêmes leçons (ancrage personnel obligatoire, vocabulaire simple) appliquées directement ici.
 
+### [17/08/2026] — commentaire punch — Antoine Koe, LinkedIn désert en août (lifestyle/été)
+
+**Post source (Antoine Koe, création de sites web rentables) :**
+STOP ! Arrête de scroller !
+
+C'est le mois d'août, qu'est-ce que tu fais là ?
+
+J'étais persuadé que LinkedIn serait désert.
+
+Volets tirés.
+Ville fantôme.
+Plus un chat (sauf le GPT 👀).
+
+Alors j'ai regardé mes stats et...
+
+Vous êtes tous là.
+
+Le téléphone dans une main.
+La glace qui fond dans l'autre.
+
+Mais... je vous vois venir !
+
+Pour ma part j'ai une (voire deux) bonne excuse !!
+
+Première année d'indépendant, premier boulot pour ma copine...
+
+Alors profitez pour deux.
+Vraiment.
+
+Envoyez-moi des photos de la mer, ça me fera du bien.
+
+Ah non attendez... j'habite à Nice.
+J'oubliais 🌴
+
+(Mais envoyez-moi quand même des photos !)
+
+**Propositions générées (module Punch, `SKILL_COMMENTAIRES_PUNCH.md`) :**
+
+Question de fin : toi aussi tu culpabilises de bosser en été ou t'as fait la paix avec ça depuis longtemps ?
+
+Option 1 (Humour) : tu comptais vraiment recevoir des photos de plage toi qui es littéralement à deux pas de la mer ?
+
+Option 2 (Storytelling) : ça me parle direct de voir quelqu'un bosser à Nice en plein août avec la mer à deux pas, parce que j'y suis aussi et je regarde passer les mêmes stories plage toute la journée pendant que je turbine
+
+Option 3 (Humour poussé) : un site pas parfait cette fois et y'a plus de linge propre à la maison avant longtemps
+
+Option 4 (Insight) : tu postes en plein mois d'août alors que tout le monde pense LinkedIn mort, c'est justement le moment où y'a le moins de bruit et le plus de visibilité à choper
+
+Option 5 (Clivant) : quand ton premier client c'est ta copine, t'as plus vraiment le luxe de dire non à un brief foireux comme avec n'importe qui d'autre
+
+Option 6 (Percutant) : le seul mois où bosser en terrasse devient une vraie stratégie business
+
+> Choix final (option retenue et éventuelles retouches) pas encore confirmé par Matthias — à mettre à jour dans cette entrée dès qu'il l'indique.
+
 ---
 
 *Document créé le 22 juillet 2026, en complément de `JOURNAL.md`, à la demande de Matthias (besoin d'une sauvegarde du contenu, posts et vidéos, plus détaillée que le résumé du journal, sans dupliquer les transcriptions mot pour mot).*
