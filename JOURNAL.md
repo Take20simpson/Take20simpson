@@ -990,6 +990,13 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Stats : n/a (proposition, pas encore choisie/publiée par Matthias).
 - Notes : choix final pas encore connu — à mettre à jour ici et dans `ARCHIVE_CONTENU.md` dès qu'il confirme l'option retenue (et d'éventuelles retouches).
 
+### 17/08/2026 — Commentaire punch sous Orane Janvier (le persona est une "connerie", ADN client)
+- Format : commentaire punch
+- Accroche/angle du post commenté : critique du concept de "persona" marketing (âge/situation familiale) au profit d'un "ADN client" psychologique détaillé (parcours, croyances limitantes, déclencheurs), ton assertif/dogmatique ("c'est impossible").
+- Mécanisme : 6 options générées (Humour, Storytelling, Humour poussé, Insight, Clivant, Percutant) + question de fin. Post tactique/business, bonne dose d'humour sur les 2 slots (jargon ADN client poussé à l'absurde). Option Clivant reprend l'angle dogmatisme LinkedIn de la banque CONVICTIONS (`SKILL_COMMENTAIRES_PUNCH.md`) mais reformulé spécifiquement pour ce post, jamais recyclé mot pour mot.
+- Stats : n/a (proposition, pas encore choisie/publiée par Matthias).
+- Notes : choix final pas encore connu — à mettre à jour ici et dans `ARCHIVE_CONTENU.md` dès qu'il confirme l'option retenue (et d'éventuelles retouches).
+
 ---
 
 ### Laura Thouzeau — UX/UI Designer, fondatrice Outsiders (sites sur-mesure) et Head Control (DeepTech accessibilité)

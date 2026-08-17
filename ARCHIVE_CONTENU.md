@@ -2552,6 +2552,61 @@ Option 6 (Percutant) : ce qui reste après un pivot raté, ça finit toujours pa
 
 > Choix final (option retenue et éventuelles retouches) pas encore confirmé par Matthias — à mettre à jour dans cette entrée dès qu'il l'indique. Première utilisation de la banque VÉCU dans cette session (coaching payé avec les dernières économies, scripts à copier coller) — un seul élément utilisé, une seule fois, mots neufs.
 
+### [17/08/2026] — commentaire punch — Orane Janvier, le persona est une "connerie" (ADN client)
+
+**Post source (Orane Janvier, Co-fondatrice Produscale, freelances) :**
+Le "persona" est une grosse conn*rie. T'as eu que des "Jérôme, 35 ans, 2 enfants, aime le vélo", comme clients ? Non. Par contre, il faut comprendre l'ADN de son client.
+
+C'est impossible de "parler" à ta cible, de lui vendre quelque chose, ou même de lui proposer le bon service,
+Si tu ne sais pas exactement à qui tu t'adresses.
+
+Et je ne parle pas de comprendre l'âge ni la situation familiale de ton interlocuteur.
+
+Mais de comprendre son storytelling.
+
+Sais-tu RÉELEMENT quel est le parcours psychologique de ton client type ?
+Là où il en est PRÉCISEMENT et là où il veut arriver ?
+
+Si vous êtes honnêtes, 85% d'entre vous répondent non.
+
+Mais, comment veux-tu résonner auprès de ta cible si tu n'arrives pas à mettre en avant les bons éléments ?
+
+Surtout, comment peux-tu espérer ne pas être comparé à tes concurrents si tu n'es pas capable de montrer que tu es la personne parfaite pour répondre aux problématiques de ta cible ?
+
+Alors voici, entre autres, quelques éléments de l'ADN client que tu dois créer :
+→ quelle est la situation initiale de ta cible ?
+→ quelle est sa situation rêvée ? Ou crainte ?
+→ quelle est sa réceptivité et sa connaissance de ton marché ?
+→ quel est son pourquoi urgent et son pourquoi stratégique ?
+→ quelles sont ses croyances limitantes ? et ses difficultés ?
+→ quels sont ses besoins premiers ? et ses besoins cachés ?
+→ qui est la cible de ta cible et comment tu peux l'utiliser ?
+→ quels sont les déclencheurs d'urgence ? ou les déclencheurs d'activation ?
+→ etc
+
+C'est comme ça que tu connais ta cible sur le bout des doigts.
+Car tu dois la connaitre sur le bout des doigts pour qu'elle se sente comprise.
+
+Data is key.
+
+**Propositions générées (module Punch, `SKILL_COMMENTAIRES_PUNCH.md`) :**
+
+Question de fin : tu la connais vraiment cette liste sur ton client actuel, ou tu viens de réaliser que non ?
+
+Option 1 (Humour) : tu crois vraiment que quelqu'un a un jour vendu un truc grâce au vélo de Jérôme ?
+
+Option 2 (Storytelling) : ça m'a plus servi de comprendre où en était vraiment un prospect dans sa tête que n'importe quelle fiche démographique, parce qu'un jour j'ai arrêté de demander juste son métier et j'ai commencé à demander ce qui le bloquait précisément, et direct les conversations sont devenues bien plus utiles
+
+Option 3 (Humour poussé) : à ce niveau de profondeur le prospect va vite croire qu'il est en séance chez le psy plutôt qu'en train d'acheter un service
+
+Option 4 (Insight) : tu peux remplir cette liste entière sur le papier, ce qui compte vraiment c'est la seule douleur précise que ton prospect répète sans même s'en rendre compte
+
+Option 5 (Clivant) : tu dis que c'est impossible de vendre sans tout ça, en vrai plein de monde signe des clients juste en discutant vraiment avec eux sans jamais écrire une seule ligne de ce genre de fiche
+
+Option 6 (Percutant) : connaître son client sur le bout des doigts, ça commence toujours par une vraie conversation
+
+> Choix final (option retenue et éventuelles retouches) pas encore confirmé par Matthias — à mettre à jour dans cette entrée dès qu'il l'indique. Option Clivant construite sur l'angle dogmatisme LinkedIn (recoupe la banque CONVICTIONS de `SKILL_COMMENTAIRES_PUNCH.md`), reformulé spécifiquement pour ce post, jamais recyclé mot pour mot.
+
 ---
 
 *Document créé le 22 juillet 2026, en complément de `JOURNAL.md`, à la demande de Matthias (besoin d'une sauvegarde du contenu, posts et vidéos, plus détaillée que le résumé du journal, sans dupliquer les transcriptions mot pour mot).*
