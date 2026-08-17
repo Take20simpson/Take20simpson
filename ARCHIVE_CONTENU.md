@@ -2113,6 +2113,113 @@ Option 6 (Percutant) : ta base de contacts en direct, ça personne peut te la co
 
 > Choix final (option retenue et éventuelles retouches) pas encore confirmé par Matthias — à mettre à jour dans cette entrée dès qu'il l'indique.
 
+### [17/08/2026] — commentaire punch — Jeremy Kohlmann, filtrage clients high ticket (dépôt/blacklist)
+
+**Post source (Jeremy Kohlmann, fondateur Kohlmann Publishing & Pation.io, +10M€ d'offres high-ticket, +3000 entrepreneurs accompagnés) :**
+Nouveau jeu
+
+Si vous honorez pas un call, si vous tournez en rond, si vous parlez mal au setter
+
+Je vous mets sur une liste spéciale
+
+Et pour nous parler
+Il faudra faire un deposit de 500 euros
+Remboursable si vous venez et que vous vous comportez comme un adulte civilisé
+Sinon je garde les sous pour payer des resto à l'équipe
+
+Vous êtes des entrepreneurs
+Arrêtez de tourner en rond et apprenez à décider vite et bien
+
+C'est meilleur pour le business
+
+(Si vous vous comportez bien, que vous êtes poli, que vous savez prendre une décision, vous n'êtes pas concerné)
+
+On a juste trop normalisé le fait de laisser les gens mal de comporter
+
+Acheter chez nous est une chance
+Pas un droit divin
+J'ai zéro souci à vous black list si vous vous comportez mal :)
+
+Les gens qu'on adore avoir en call ou en DM
+
+* bonjour j'ai problème
+* ok en fait t'as problème 2, voici preuve
+* ah trop cool, vous savez résoudre ?
+* oui, preuve preuve preuve
+* ok on avance comment ?
+
+Si vous êtes comme ça
+On va faire de très belles choses ensemble
+
+Les gens à qui je veux plus parler
+
+« Nia nia nia je suis pas sur, je pense que, je vais réfléchir, parce que mon poisson rouge bubulle décide avec moi, et je sais pas si c'est le bon moment, parce que l'IA de mon petit cousin peut le faire pour 6 euros »
+
+KP = par des entrepreneurs
+Pour des entrepreneurs
+
+Vous avez le droit de « vous faire une frayeur » pour vous sentir vivant
+
+Je juge pas
+Je le fais sûrement à plein d'endroit de ma vie
+
+Mais le faites pas avec nous
+
+J'ai un marché à dominer moi
+
+Je retourne à mes créations de cercles pour entrepreneurs et mes offres de consulting moi
+Ya des clients qui attendent leur X2 sur liste d'attente pendant que je vous parle
+
+Jeremy dark energy visiblement ce dimanche matin
+
+En ce moment le mood sur internet c'est :
+
+* venez à mon truc gratuit
+* venez à mon truc pas cher
+* je fais tout pour vous sans rien vous demander et je passe le balai
+
+Je suis pas d'accord avec ça.
+
+* venez pas chez nous pour réfléchir
+* c'est super cher
+* on sélectionne
+* même sur des tickets à 50k vous avez pas forcément besoin de calls
+* le meilleur environnement a un prix et des conditions d'accès
+
+Mon focus du moment c'est de prendre de vrais entrepreneurs dirigeants
+
+Leur montrer où se cache leur X2
+
+Sur le profit et sans bosser plus
+
+Ceux qui veulent aller vite
+
+Et les mettre dans le bon environnement
+
+Le reste j'ai plus envie et pas le temps
+
+Si vous êtes un dirigeant qui opère sa boîte et pense qu'il mérite plus de croissance
+
+Venez nous voir.
+
+**Propositions générées (module Punch, `SKILL_COMMENTAIRES_PUNCH.md`) :**
+
+Question de fin : tu filtrerais tes propres clients aussi cash si t'avais le luxe d'une liste d'attente derrière ?
+
+Option 1 (Humour) : j'avoue que j'aimerais voir la tête du premier qui essaie de négocier le montant du dépôt en plein call mdrr 😂
+
+Option 2 (Storytelling) : franchement la vitesse à laquelle un client décide ça prédit presque tout le reste, parce que j'ai eu un client qui a mis trois semaines à valider un premier call, et après chaque étape a traîné pareil jusqu'au bout
+
+Option 3 (Humour poussé) : j'espère très fort qu'il y a un plat sur le menu de l'équipe qui porte le nom d'un client relou en particulier 😭
+
+Option 4 (Insight) : honnêtement demander un dépôt ça filtre plus vite que n'importe quelle question de qualification, l'argent sur la table révèle direct le niveau d'engagement réel
+
+Option 5 (Clivant) : t'exiges une décision en dix minutes de call, alors que tout le système high ticket carbure aux relances et aux scripts pensés justement pour la faire mûrir
+
+Option 6 (Percutant) : un client qui traîne à décider, il traînera pour tout le reste aussi
+
+> Choix final (option retenue et éventuelles retouches) pas encore confirmé par Matthias — à mettre à jour dans cette entrée dès qu'il l'indique.
+
 ---
 
 *Document créé le 22 juillet 2026, en complément de `JOURNAL.md`, à la demande de Matthias (besoin d'une sauvegarde du contenu, posts et vidéos, plus détaillée que le résumé du journal, sans dupliquer les transcriptions mot pour mot).*

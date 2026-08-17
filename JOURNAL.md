@@ -941,6 +941,13 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Stats : n/a (proposition, pas encore choisie/publiée par Matthias).
 - Notes : choix final de Matthias pas encore connu — à mettre à jour ici et dans `ARCHIVE_CONTENU.md` dès qu'il confirme l'option retenue (et d'éventuelles retouches).
 
+### 17/08/2026 — Commentaire punch sous Jeremy Kohlmann (filtrage clients high ticket, dépôt/blacklist)
+- Format : commentaire punch
+- Accroche/angle du post commenté : positionnement dominant/théâtral d'un fondateur high-ticket (Kohlmann Publishing & Pation.io) qui exige un dépôt remboursable de 500€ et menace de blacklister les prospects indécis ou irrespectueux — "acheter chez nous est une chance, pas un droit divin".
+- Mécanisme : 6 options générées (Humour, Storytelling, Humour poussé, Insight, Clivant, Percutant) + question de fin. Post tactique/business à ton clivant assumé, pas de victime identifiée donc dosage humour plein sur les 2 slots ; Option Clivant construite sur une tension de mécanisme (exiger une décision rapide alors que le système high ticket carbure lui-même aux relances/scripts pensés pour faire mûrir la décision), jamais une attaque de la personne.
+- Stats : n/a (proposition, pas encore choisie/publiée par Matthias).
+- Notes : choix final pas encore connu — à mettre à jour ici et dans `ARCHIVE_CONTENU.md` dès qu'il confirme l'option retenue (et d'éventuelles retouches).
+
 ---
 
 ### Laura Thouzeau — UX/UI Designer, fondatrice Outsiders (sites sur-mesure) et Head Control (DeepTech accessibilité)
