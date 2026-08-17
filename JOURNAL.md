@@ -962,6 +962,13 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Stats : n/a (proposition, pas encore choisie/publiée par Matthias).
 - Notes : choix final pas encore connu — à mettre à jour ici et dans `ARCHIVE_CONTENU.md` dès qu'il confirme l'option retenue (et d'éventuelles retouches).
 
+### 17/08/2026 — Commentaire punch sous Léna Sun (lancement LinkedIn Sun Académie, 900€/90 jours)
+- Format : commentaire punch
+- Accroche/angle du post commenté : lancement hype d'un accompagnement LinkedIn (20 places, tarif fondateur 900€/90 jours, suivi hebdo 1-1) — post positif/enthousiaste, pas une victime, registre proche du business de Matthias lui-même.
+- Mécanisme : 6 options générées (Humour, Storytelling, Humour poussé, Insight, Clivant, Percutant) + question de fin. Leçons déjà actées dans `SKILL_COMMENTAIRES_PUNCH.md` sur un post très proche (14/08) appliquées directement : ancrage personnel systématique même en ouverture Insight, vocabulaire simple, question courte validée comme forme d'humour. Option Clivant construite sur le mécanisme (tarif fondateur = première promo sans retour terrain), jamais une attaque de Léna Sun ; ton resté chaleureux vu qu'il s'agit d'un post positif de lancement.
+- Stats : n/a (proposition, pas encore choisie/publiée par Matthias).
+- Notes : choix final pas encore connu — à mettre à jour ici et dans `ARCHIVE_CONTENU.md` dès qu'il confirme l'option retenue (et d'éventuelles retouches).
+
 ---
 
 ### Laura Thouzeau — UX/UI Designer, fondatrice Outsiders (sites sur-mesure) et Head Control (DeepTech accessibilité)

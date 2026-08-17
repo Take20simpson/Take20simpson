@@ -2308,6 +2308,71 @@ Option 6 (Percutant) : le cerveau préfère un selfie flou à un logo hyper léc
 
 > Choix final (option retenue et éventuelles retouches) pas encore confirmé par Matthias — à mettre à jour dans cette entrée dès qu'il l'indique.
 
+### [17/08/2026] — commentaire punch — Léna Sun, lancement LinkedIn Sun Académie (900€/90 jours)
+
+**Post source (Léna Sun, Top Voice LinkedIn Belgium, Fondatrice de la LinkedIn Sun Académie) :**
+Je viens de faire une grosse connerie ! J'ai décidé que pendant 90 jours, j'allais prendre 20 personnes sous mon aile pour leur apprendre à devenir visibles, reconnues et rentables sur LinkedIn.
+
+Et vu le niveau d'accompagnement que j'ai prévu je crois que j'ai légèrement sous-estimé ce que je viens de proposer.
+Attention, t'as de la chance de tomber sur ce post maintenant👇
+
+Au cas où t'étais pas au courant, je lance le futur MEILLEUR accompagnement business de ce réseau : la LinkedIn Sun Académie.
+
+Le truc c'est qu'on va pas simplement exploser ta visibilité LinkedIn, on va :
+- faire de toi la référence de ton domaine
+- t'amener des clients régulièrement
+- donc exploser ton chiffre d'affaires
+et ça, mano dans la mano mon soleil 🤝
+
+Pendant 90 jours, tu ne vas pas juste regarder des vidéos et essayer de deviner quoi faire.
+
+Tu vas avoir quelqu'un qui regarde réellement ton business, ton profil, tes contenus et ta stratégie avec toi chaque semaine.
+
+Concrètement :
+- des calls toutes les semaines en 1-1
+- mes meilleurs outils & ressources
+- un accès vip à mon whatsapp
+- le soutien d'un groupe de soleils qui veulent évoluer comme toi
+- une plateforme de formation complète
+- des masterclass en groupe
+
+Bref le cocktail parfait pour booster tes stats, tes revenus et ton business.
+
+Je lance la toute première édition.
+
+Et justement, je veux pouvoir travailler au plus près des membres, récupérer vos feedbacks et construire l'accompagnement avec vous.
+
+C'est pour ça que le tarif fondateur est de 900 € pour les 90 jours.
+
+Buuuuut attention, j'ouvre cet accompagnement à seulement 20 personnes méga ultra motivées.⚠️‼️
+
+Voilà comment ça va se passer :
+
+Tu réserves ta consultation.
+On regarde ton positionnement, ton profil, ton contenu et ta stratégie actuelle.
+
+Et si je pense que la LinkedIn Sun Académie peut réellement t'aider, je t'expliquerai comment rejoindre la première promotion.
+
+👉 Réserve ta consultation ici : [lien]
+
+**Propositions générées (module Punch, `SKILL_COMMENTAIRES_PUNCH.md`) :**
+
+Question de fin : tu préfères payer moins cher en early bird ou payer plus cher pour un accompagnement déjà rodé, toi ?
+
+Option 1 (Humour) : t'as prévu de dormir un peu pendant ces 90 jours ou carrément pas ?
+
+Option 2 (Storytelling) : j'avoue qu'avoir quelqu'un qui suit vraiment ton profil chaque semaine, ça n'a rien à voir avec une formation regardée seule dans son coin, parce que j'ai vécu un accompagnement sans vrai suivi et j'ai stagné des mois avant de retrouver ça
+
+Option 3 (Humour poussé) : je sens déjà les 20 places parties en mode drop de sneakers à minuit, ça va être un CARNAGE
+
+Option 4 (Insight) : t'as beau avoir toutes les ressources et les outils du monde, ce qui compte le plus c'est quelqu'un qui regarde ton cas précis chaque semaine et qui te dit direct quand un truc cloche
+
+Option 5 (Clivant) : t'annonces un tarif fondateur, ça veut dire aussi que les 20 premiers avancent sans aucun retour concret pour se rassurer
+
+Option 6 (Percutant) : tu sous-estimes toujours l'ampleur du truc quand tu vises vraiment haut
+
+> Choix final (option retenue et éventuelles retouches) pas encore confirmé par Matthias — à mettre à jour dans cette entrée dès qu'il l'indique. Post à rapprocher de l'entrée "Post Léna Sun (lancement offre LinkedIn)" du 14 août 2026 dans l'historique de `SKILL_COMMENTAIRES_PUNCH.md` — mêmes leçons (ancrage personnel obligatoire, vocabulaire simple) appliquées directement ici.
+
 ---
 
 *Document créé le 22 juillet 2026, en complément de `JOURNAL.md`, à la demande de Matthias (besoin d'une sauvegarde du contenu, posts et vidéos, plus détaillée que le résumé du journal, sans dupliquer les transcriptions mot pour mot).*
