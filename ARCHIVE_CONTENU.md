@@ -2998,4 +2998,63 @@ Option 6 (Percutant) : un client relou à 300 euros, ça finit toujours par coû
 
 ---
 
+### [18/08/2026] — commentaire punch — Florence Gregeois, le QI de 220 de l'IA (rumeur non vérifiée)
+
+**Post source (Florence Gregeois, spécialiste du marketing d'autorité, coach business) :**
+Une IA a-t-elle un QI de 220 ?
+
+Aucune étude ne le mesure. Voici les faits :
+
+Semaine dernière, un confrère me rapporte que l'IA a un potentiel de 220 de QI.
+
+Cette info me fascine tant que je mène mes recherches.
+
+TrackingAI, plateforme indépendante du journaliste américain Maxim Lott, fait passer chaque semaine des tests de QI aux grands modèles d'IA.
+
+Deux épreuves : le test public Mensa Norway, et un test confidentiel mené hors d'Internet, donc impossible à reprendre pour les IA.
+
+Records au test public (juillet 2026) : 144, 143, 141.
+
+Au test confidentiel : 136 maximum.
+
+Ce que l'écart nous fait comprendre :
+
+Une IA calcule des probabilités. Elle reconnaît les motifs qu'elle a déjà croisés et prédit la suite la plus probable.
+
+Face à l'inédit, elle extrapole.
+
+Nous, nous l'instruisons : nous créons le savoir dont elle croisera les données demain.
+
+Et un QI ne mesure qu'un fragment de notre intelligence : notre logique. Ni notre jugement, ni notre créativité, ni notre lecture des situations réelles.
+
+Quant à ce niveau de 220 : il ne correspond à aucune mesure existante.
+
+Ce que l'IA sait, elle l'a appris de nous : elle s'entraîne sur nos textes, nos travaux, nos échanges avec elle.
+
+L'IA s'enrichit de l'intelligence humaine.
+
+Votre autorité, à l'ère de l'IA, tient en deux réflexes : challenger ses réponses et gouverner vos usages.
+
+PS : quelle perception du niveau intellectuelle de l'IA avez-vous ?
+
+**Propositions générées (module Punch, `SKILL_COMMENTAIRES_PUNCH.md`) :**
+
+Question de fin : la prochaine fois qu'un chiffre qui claque passe devant toi, tu vérifies la source ou tu le partages direct ?
+
+Option 1 (Humour) : franchement ton confrère avec ses 220 de QI il a dû tomber sur l'IA le jour où elle avait spécialement bien dormi mdrr
+
+Option 2 (Storytelling) : malheureusement un chiffre qui claque voyage tellement plus vite qu'un fait vérifié, ça m'est arrivé avec un client qui répétait partout un taux de conversion à 40% donné par un pote, en creusant c'était sur 5 ventes
+
+Option 3 (Humour poussé) : j'imagine trop bien le test confidentiel hors internet, l'IA plantée devant une feuille blanche en mode bon les gars laissez moi au moins un wifi public steuplé 😭
+
+Option 4 (Insight) : honnêtement ça me fait un peu peur, un chiffre invérifié qui passe entre deux personnes qui font autorité devient une vérité collective en une semaine
+
+Option 5 (Clivant) : j'avoue que le contraste m'amuse, tu démontes une rumeur non vérifiée sur 220 de QI puis deux lignes plus bas tu proposes de construire mes agents IA sur mesure, l'autorité ça marche aussi comme ça visiblement
+
+Option 6 (Percutant) : 220 de QI et incapable de vérifier une source toute seule, ya un souci quelque part
+
+> Choix final (option retenue et éventuelles retouches) pas encore confirmé par Matthias — à mettre à jour dans cette entrée dès qu'il l'indique.
+
+---
+
 *Document créé le 22 juillet 2026, en complément de `JOURNAL.md`, à la demande de Matthias (besoin d'une sauvegarde du contenu, posts et vidéos, plus détaillée que le résumé du journal, sans dupliquer les transcriptions mot pour mot).*
