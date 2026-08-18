@@ -1060,13 +1060,6 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Stats : n/a (proposition, pas encore choisie/publiée par Matthias).
 - Notes : choix final pas encore connu — à mettre à jour ici et dans `ARCHIVE_CONTENU.md` dès qu'il confirme l'option retenue (et d'éventuelles retouches).
 
-### 18/08/2026 — Commentaire punch sous Florence Gregeois (le QI de 220 de l'IA, rumeur non vérifiée)
-- Format : commentaire punch
-- Accroche/angle du post commenté : une rumeur non vérifiée (IA = 220 de QI) démontée avec des faits (TrackingAI, Mensa Norway, records réels 141-144 public / 136 confidentiel) pour recentrer sur l'autorité : challenger ses sources, gouverner ses usages de l'IA.
-- Mécanisme : 6 options générées (Humour, Storytelling, Humour poussé, Insight, Clivant, Percutant) + question de fin. Post tactique/business à dose intello, humour qui marche sur les 2 slots dédiés, le reste garde la profondeur. Option Clivant pointe une tension réelle observée dans le post lui même (déconstruire un chiffre IA viral puis vendre la conception d'agents IA sur-mesure deux lignes plus bas) — tension sur le raisonnement/la structure du post, pas sur la personne.
-- Stats : n/a (proposition, pas encore choisie/publiée par Matthias).
-- Notes : choix final pas encore connu — à mettre à jour ici et dans `ARCHIVE_CONTENU.md` dès qu'il confirme l'option retenue (et d'éventuelles retouches).
-
 ---
 
 ### Laura Thouzeau — UX/UI Designer, fondatrice Outsiders (sites sur-mesure) et Head Control (DeepTech accessibilité)
