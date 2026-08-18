@@ -1060,6 +1060,14 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Stats : n/a (proposition, pas encore choisie/publiée par Matthias).
 - Notes : choix final pas encore connu — à mettre à jour ici et dans `ARCHIVE_CONTENU.md` dès qu'il confirme l'option retenue (et d'éventuelles retouches).
 
+### 18/08/2026 — Comparatif des 5 stratégies d'acquisition, premier carousel du corpus (SA-1, Angle 1, format carousel)
+
+- Format : carousel LinkedIn (10 slides, PDF 1080x1350px prêt à uploader en post Document) + texte d'accompagnement.
+- Accroche du texte d'accompagnement : "8 mois de prestations gratuites. Zéro euro sur le compte à la fin."
+- Mécanisme : première exécution de SA-1 Angle 1 ("Tableau comparatif objectif") en post/carousel complet — jusqu'ici SA-1 n'existait dans le corpus qu'en sondage (26/07, 134 impr) et en vidéo combiné à PA-5 (27/07, 65 impr). Premier format carousel du corpus entier (tous contenus confondus) : sujet choisi librement par Claude sur demande explicite de Matthias ("carte blanche"), généré en direct dans la session Stratégie (pôle 1). Structure : cover + 2 slides de mise en scène vécue (mode automatique sans structure, coaching à 1500€ inefficace) ancrées sur des faits déjà validés (`CLAUDE.md` Partie 1, Parcours) plutôt que sur le thème contenu organique lui-même (pour ne pas fabriquer un vécu non confirmé) → 5 slides de comparatif (contenu organique, pub payante, tunnels de vente, bouche à oreille, prospection directe, chiffres = doctrine déjà actée dans `SKILL_STRATEGIE.md` Partie 2, aucun chiffre nouveau inventé) → 2 slides de clôture. Aucune mention du framework, aucun CTA, aucun pitch (registre Solution Aware pur, cohérent avec le pattern déjà objectivé : le pitch explicite tue l'engagement, voir Patterns de performance). Design : fond sombre, accent ambre, un chip-verdict par stratégie, cohérent d'un slide à l'autre.
+- Stats : pas encore publié.
+- Notes : nouveau territoire non couvert par `SKILL_CONTENU_LINKEDIN.md` (aucune section carousel existante) — mise en page/format construits par Claude sans doctrine préalable, à documenter dans le skill si Matthias valide l'usage et souhaite en refaire. Texte intégral du post + détail des 10 slides à archiver dans `ARCHIVE_CONTENU.md` si Matthias confirme vouloir le publier tel quel.
+
 ---
 
 ### Laura Thouzeau — UX/UI Designer, fondatrice Outsiders (sites sur-mesure) et Head Control (DeepTech accessibilité)
