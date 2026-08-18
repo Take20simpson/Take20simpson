@@ -520,6 +520,25 @@ Le problème avec "combien tu gagnes par mois" n'est pas la profondeur du sujet,
 
 **Sources :** [LinkedIn Polls for Lead Generation 2026](https://connectsafely.ai/articles/linkedin-polls-lead-generation-guide-2026), [LinkedIn Poll Engagement Statistics 2026](https://meet-lea.com/en/blog/linkedin-poll-engagement-statistics-best-practices), [How to Ask Sensitive Survey Questions — Qualtrics](https://www.qualtrics.com/articles/strategy-research/how-to-get-the-truth-when-asking-survey-questions-about-sensitive-topics/), [Handling Sensitive Questions in Surveys — NN/G](https://www.nngroup.com/articles/sensitive-questions/)
 
+### Sous-format spécifique : Carousels
+
+> Ajouté le 18/08/2026. Premier format visuel du module (jusqu'ici uniquement du texte). Deux allers-retours ratés avant de trouver le bon process — capturés ici pour ne pas les refaire.
+
+**Process obligatoire, dans cet ordre — jamais inverser :**
+1. **Le sujet se discute et se valide avant tout, à l'écrit, sans aucune image.** Un sujet de type "tableau comparatif informatif" (lister des faits sans tension ni enjeu personnel) a été rejeté ("le sujet est éclaté au sol") — un carousel a besoin d'un vrai ressort qui donne envie de swiper jusqu'au bout, pas juste une liste de faits.
+2. **Le texte se livre page par page, en clair, avant toute génération visuelle.** Format : "Page 1 : [texte exact]", "Page 2 : [texte exact]", etc. Matthias corrige ligne par ligne ("ça il faut pas mettre, il faut mettre ça à la place"). Le carousel visuel ne se construit qu'une fois le texte validé à 100%, jamais avant, jamais en parallèle.
+3. Une fois le texte validé, construction visuelle (voir Design plus bas).
+
+**Sur le fond du texte (même voix que le Module 1, rien de spécifique en plus) :** le piège spécifique aux carousels est de retomber dans le "conseil/liste à plat" (voir Patterns de performance, Module 1 ci-dessus — ce format est le plus faible du corpus texte, même logique ici). Un carousel de type "3 signaux/erreurs/critères" a besoin d'un vrai angle ou d'une vraie thèse annoncée dès la cover, pas juste d'une énumération neutre.
+
+**Design — charte stricte, prend l'identité visuelle réelle de Matthias (bannière LinkedIn) comme référence, jamais une palette générique :**
+- **Couleurs : uniquement noir/navy, blanc, bleu (dégradés/nuances).** Aucune autre couleur d'accent (ambre/orange testé et rejeté le 18/08 — hors charte).
+- **Profondeur et effets, pas du flat design.** La bannière réelle de Matthias utilise des halos flous superposés, des pilules arrondies avec glow, un fond étoilé/texturé — reproduire ce niveau de profondeur (ombres, dégradés multiples, blur), pas un aplat de couleur avec du texte dessus. Premier essai jugé "on dirait trop que c'est Claude qui l'a fait" malgré une charte de couleur correcte — le flat design est identifiable comme IA même avec les bonnes couleurs, il faut la même densité de détails que la bannière de référence.
+- **Exception validée :** le petit point bleu lumineux à côté des labels (pilules) — élément à garder tel quel, c'est le seul détail explicitement validé du premier essai.
+- Page de référence : la bannière LinkedIn de Matthias (halos radiaux, pilules avec bordure lumineuse, un mot-clé surligné en pilule pleine dégradée dans un titre) — recalibrer dessus à chaque nouveau carousel, pas sur le essai précédent de Claude.
+
+**Format technique validé :** PDF multi-pages, 1080x1350px par page (format LinkedIn réel pour un post Document), prêt à uploader directement — pas besoin de repasser par Canva.
+
 ### Checklist qualité interne (jamais affichée)
 
 - Accroche : la phrase choisie par Matthias ouvre les 3 approches mot pour mot, jamais reformulée ni remplacée par une ouverture différente même proche du sujet.
