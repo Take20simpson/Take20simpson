@@ -187,6 +187,8 @@ Ces règles enlèvent le mauvais, elles ne dictent pas la structure.
 
 **Une vanne qui se justifie elle-même sonne construite, pas parlée.** Après avoir posé l'image ou le rapprochement, ne pas enchaîner une phrase qui explique pourquoi ça marche (et pourtant, donc en business c'est pareil, parce qu'on sait jamais lequel des dix trucs va foirer). Un français qui balance une vanne s'arrête sur l'image, il ne la justifie pas avec un raisonnement en trois étages accroché par des virgules dans le même souffle. Si la phrase empile setup, bascule ET justification en une seule fois, elle sonne traduite. Couper la justification, laisser l'image ou le rapprochement porter tout seul.
 
+**Une image peut sonner construite même sans justification accrochée derrière, si l'image elle-même est un mini-scénario trop monté (18 août 2026, post Alexia Laneau).** Retour de Matthias sur l'option Humour poussé "j'ai déjà préparé mentalement mon discours de défense avant même d'appuyer sur play" : "c'est trop bizarre comme formulation, tu vois, je sais pas comment te le faire comprendre". Différent du cas ci-dessus : ici il n'y a aucune justification qui suit, une seule image, mais l'image porte sa propre mise en scène complète (préparer mentalement un discours, comme devant un tribunal) au lieu d'être une réaction lâchée sur le vif. Le tell n'est pas toujours "une justification accrochée après l'image", ça peut être l'image qui est en elle-même trop pensée, trop construite, avec son propre petit vocabulaire de scène (discours, défense) plutôt qu'un réflexe blurté. Réflexe à appliquer : préférer une réaction courte et brute (je stresse, je psychote, j'angoisse, je jargonne pas) à une métaphore qui se déploie en scène complète avec un vocabulaire dédié. Si l'image a besoin de plus de trois mots pour se mettre en place, méfiance, c'est probablement trop construit pour sonner parlé.
+
 **On parle du SUJET, jamais du post.** Aucune phrase n'a pour sujet le post, ses mots ou ses points ("ta formulation", "ton point 3", "la distinction que tu fais"). On attaque le sujet directement, comme dans une conversation.
 
 **Le "tu" adressé à l'auteur ne sert qu'à FAIRE quelque chose** : poser une question, donner un conseil, challenger. S'il ne fait qu'approuver ou enjoliver, on le coupe.
@@ -386,6 +388,10 @@ Mini-analyse en 2-4 lignes (registre du post, dose d'humour, risques). Puis la q
 ---
 
 ## HISTORIQUE DES ITÉRATIONS
+
+**18 août 2026 — Post Alexia Laneau (vocal client, reco comme canal favori), image trop construite**
+- Option 3 (Humour poussé) rejetée : "j'ai déjà préparé mentalement mon discours de défense avant même d'appuyer sur play" jugée "trop bizarre comme formulation", "ça se voit que c'est pas humain". Matthias précise explicitement qu'il n'arrive pas à formuler le problème ("je sais pas comment te le faire comprendre") — signal qu'il s'agit d'une nuance fine, pas d'un tic déjà couvert par une règle existante.
+- Diagnostic : ce n'est pas le cas déjà documenté de la vanne suivie d'une justification logique (il n'y a pas de justification ici) — c'est l'image elle-même (un mini-scénario complet, "discours de défense" façon tribunal) qui est trop montée/pensée pour sonner comme une réaction lâchée sur le vif. Nouveau garde-fou ajouté juste après la règle sur les vannes auto-justifiées : préférer une réaction courte et brute à une métaphore qui se déploie en scène complète avec son propre vocabulaire dédié.
 
 **14 août 2026 (sexies) — Post Matis Clouet (difficulté = bon signe), série validée "très très bon"**
 - Options 1, 3, 4, 5, 6 validées sans réserve, "respect bravo". Option 2 (Storytelling) encore un peu longue/chantante malgré les corrections déjà apportées — nouveau point de vigilance persistant ajouté.
