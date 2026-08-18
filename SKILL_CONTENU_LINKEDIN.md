@@ -539,6 +539,8 @@ Le problème avec "combien tu gagnes par mois" n'est pas la profondeur du sujet,
 
 **Format technique validé :** PDF multi-pages, 1080x1350px par page (format LinkedIn réel pour un post Document), prêt à uploader directement — pas besoin de repasser par Canva.
 
+**Typo, validée le 18/08/2026 : Poppins** (police de la bannière LinkedIn de Matthias, look géométrique arrondi) — plus proche de l'identité réelle que Helvetica Neue utilisée au 1er essai. Piège technique rencontré : un `@import` Google Fonts direct dans le HTML ne se charge pas de façon fiable dans le Chromium headless (Playwright) de cet environnement, même quand `curl` prouve que le réseau fonctionne — le proxy HTTPS de la session ne se propage pas au processus navigateur. Fix qui marche : télécharger les fichiers woff2 (via curl, pas via le navigateur) et les embarquer en base64 directement dans le CSS (`@font-face` en `data:font/woff2;base64,...`) — rendu garanti offline, aucune dépendance réseau au moment du screenshot.
+
 ### Checklist qualité interne (jamais affichée)
 
 - Accroche : la phrase choisie par Matthias ouvre les 3 approches mot pour mot, jamais reformulée ni remplacée par une ouverture différente même proche du sujet.
