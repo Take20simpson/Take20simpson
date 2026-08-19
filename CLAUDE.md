@@ -113,6 +113,7 @@ Les fichiers suivants existent dans le repo mais **ne font pas partie du socle a
 - **Dossiers clients nommés** (Lucille/Lucile, Mélanie, etc.) : `STRATEGIE_LUCILLE.md`, `PREP_APPEL_LUCILE.md`, `FRAMEWORK_POSTS_LINKEDIN_LUCILE.md`, `TRAME_SETTING_MELANIE.md`
 - **Dossier partenariat nommé** : `STRATEGIE_POD_MARYLINE.md` (projet de pod LinkedIn avec Maryline Leroy, en pause depuis le 29 juillet — doctrine associée dans `SKILL_STRATEGIE.md` Partie 11, détail vivant du projet dans ce document dédié)
 - **Projet business actif** : `STRATEGIE_POD_SOLO.md` (roadmap complète du pod LinkedIn solo de Matthias, suite à la mise en pause du projet avec Maryline — doctrine associée dans `SKILL_STRATEGIE.md` Partie 11)
+- **Benchmark concurrent actif** : `BENCHMARK_KEVIN_DUMONT.md` (créé le 19 août 2026 — extraction + adaptation point par point du système de Kevin Dumont, couche d'exécution concrète par-dessus la doctrine existante, contient un point de friction non tranché sur le Principe #1 de `SKILL_STRATEGIE.md`)
 - **Dossier produit** (ce que Matthias livre à ses clients, pas sa propre stratégie) : `ASSISTANT_CLIENT.md`, `QUESTIONNAIRE_ONBOARDING.md`, `METHODOLOGIE_ACCOMPAGNEMENT.md`
 - **Références historiques** : `METHODE_ENZO_RACINE.md`, `CONVERSATION_ENZO_RACINE.md`, `TRONC_CENTRAL_YADULINK.md`, `LEAD_MAGNET.md`
 
