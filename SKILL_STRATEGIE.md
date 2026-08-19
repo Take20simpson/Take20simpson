@@ -142,6 +142,17 @@ Ce n'est pas "je suis coach en prospection". C'est l'idee differenciante qui gui
 
 **Pour Matthias :** "J'aide les freelances solo a remplir leur calendrier dans les 30 jours grace a la prospection directe avec intention — pas du volume aveugle, pas du contenu qui prend 12 mois. De la prospection structuree, consciente, qui donne des resultats rapides avec 0 budget."
 
+### Resolution du 19 aout 2026 — Cible Large + Offre Specifique Nommee (suite benchmark Kevin Dumont)
+
+Point de differenciation issu de `BENCHMARK_KEVIN_DUMONT.md` (deux voies : cible precise + offre large, OU cible large + offre ultra specifique) — tranche par Matthias : **cible large, offre specifique nommee**.
+
+- **Cible : inchangee**, reste large — voir `CLAUDE.md` Partie 2 (freelances/coachs/solopreneurs tous secteurs, ICP deja defini).
+- **Offre : nommee "Prospection chaude".** Definition = l'invariant vrai a 100% du temps, peu importe le canal : jamais de message a un inconnu total, toujours un point de contact reel avant (commentaire, post, like, echange — le canal varie, pas le principe).
+- **Distinction importante :** ca ne change PAS le produit livre (accompagnement complet reste sourcing + setting + closing + frameworks + suivi, voir `CLAUDE.md` Offre 1). Ca change la facade — comment c'est nomme et presente (banniere, headline, contenu, discours closing), pas ce qui est livre. Offre etroite en vitrine, produit large derriere — logique distincte de l'echec du Framework 50€ (narrow en facade ET en livraison, discontinue le 24 juillet).
+- **Ligne de positionnement validee**, reutilisable partout (banniere, bio, contenu) :
+  > "Avant que je t'ecrive, on s'est deja croises quelque part — un commentaire, un post, un like. Jamais a froid."
+- **Piege evite en cours de route :** tentation initiale de dire "je commente toujours avant de DM" — refuse, c'est verifiable et parfois faux (certains prospects arrivent via echange en commentaire sur SON contenu a lui, pas via commentaire de Matthias chez eux ; d'autres via sourcing direct sans commentaire immediat avant le DM). L'invariant retenu porte sur la presence d'un contact reel avant tout message, pas sur un canal unique — coherent avec la distinction warm/cold de Kevin Dumont (`BENCHMARK_KEVIN_DUMONT.md` A8).
+
 ---
 
 ## PARTIE 3 : PHILOSOPHIE — LES 8 PRINCIPES

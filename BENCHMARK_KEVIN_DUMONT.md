@@ -111,7 +111,7 @@
 
 | Thème | Verdict | Statut d'intégration |
 |---|---|---|
-| Deux voies de différenciation | À appliquer, déjà connu intuitivement | À revoir sur son positionnement actuel |
+| Deux voies de différenciation | À appliquer, déjà connu intuitivement | **Tranché le 19 août 2026** : cible large (inchangée) + offre nommée "Prospection chaude". Intégré dans `SKILL_STRATEGIE.md` Partie 2 et `CLAUDE.md` Partie 2. |
 | Photo pro IA (Sylab) | "Il va falloir vraiment le faire" | Action à prendre par Matthias |
 | Outil de RDV type Close | À discuter — ne colle pas avec sa méthode actuelle (2-3 créneaux proposés manuellement) | En attente, anecdotique |
 | CTA vidéo → RDV | D'accord | **Intégré** dans `SKILL_CONTENU_LINKEDIN.md` (nuance de la règle CTA, 19 août) |

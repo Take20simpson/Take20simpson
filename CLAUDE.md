@@ -44,6 +44,7 @@ Hub central pour les assistants IA travaillant avec Matthias. Contient l'identit
 
 - **Denomination :** "Prospecter avec intention" — pas de marque formelle, travaille sous son nom
 - Specialiste prospection LinkedIn pour freelances et solopreneurs (tous secteurs), avec intention (volume suffisant + structure), pas volume aveugle ni juste qualite
+- **Nom d'offre specifique, ajoute le 19 aout 2026 (suite benchmark Kevin Dumont) : "Prospection chaude".** Cible reste large (inchangee), l'offre se nomme desormais de facon etroite et memorable : jamais de message a un inconnu total, toujours un point de contact reel avant (commentaire, post, like, echange). Ne remplace pas "Prospecter avec intention" (identite globale) mais nomme l'offre concrete en dessous. Doctrine complete et ligne de positionnement validee dans `SKILL_STRATEGIE.md` Partie 2.
 
 ### Offre 1 : Accompagnement Complet (coaching + suivi)
 
