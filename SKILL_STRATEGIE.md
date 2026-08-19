@@ -650,6 +650,8 @@ Garder dans sa manche des ressources, des cadeaux, des choses qui n'etaient pas 
 4. Client que tu peux contacter directement
 5. Client qui vient de lui-meme recommander ton service
 
+**Nuance ajoutee le 19 aout 2026 (benchmark Kevin Dumont, voir `BENCHMARK_KEVIN_DUMONT.md`) :** a contenu egal dans cette hierarchie, un temoignage ancre sur le RESULTAT prime toujours sur un temoignage flatteur sur l'experience. Un client qui dit "l'accompagnement etait moyen mais je suis passe de X a Y" vaut mieux qu'un client qui dit "super accompagnement" sans chiffre. Coherent avec le Principe #7 (vendre par le produit, montrer le resultat, pas la promesse) — a appliquer des que Matthias aura des temoignages chiffres disponibles sur l'offre actuelle.
+
 ---
 
 ## PARTIE 9 : KPIs ESSENTIELS A TRACKER
