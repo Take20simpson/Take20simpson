@@ -1106,6 +1106,13 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Stats : pas encore publié.
 - Notes : reste à choisir l'approche avec Matthias, puis enchaîner sur le post de dimanche (même carte blanche, même registre humour léger).
 
+### 20/08/2026 — Le mot "annonce" ne veut plus rien dire, post prévu dimanche 23/08 (PB-3, nouvel angle)
+- Format : post
+- Accroche : "Le mot 'annonce' sur LinkedIn ne veut plus rien dire, ça peut aussi bien être un lancement qu'un simple repost." (accroche moyenne #6)
+- Mécanisme : 3e tentative de sujet pour le post de dimanche — Vaya refusée par Matthias ("arrête avec Vaya, trouve un autre sujet"), le badminton refusé aussi ("on ne parle pas de ma vie tout le temps"), consigne finale : un sujet lié à LinkedIn, sans storytelling personnel. Reclassé en PB-3 (Opinions tranchées) plutôt que PB-4 (L'humain) — observation/opinion sur un code de la plateforme (le mot "annonce" vidé de son sens), zéro vécu perso, registre court et humour léger conservé. 3 approches livrées (clivante, normale, Mathis Clouet), négation "change jamais" corrigée en "ne change jamais" dans l'Approche 3 avant livraison.
+- Stats : pas encore publié.
+- Notes : reste à choisir l'approche. Les deux tentatives écartées (Vaya, badminton) ne sont pas perdues — badminton en particulier reste une piste PB-4 valide pour une future session, juste pas retenue cette fois.
+
 ---
 
 ### Laura Thouzeau — UX/UI Designer, fondatrice Outsiders (sites sur-mesure) et Head Control (DeepTech accessibilité)
