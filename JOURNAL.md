@@ -1090,7 +1090,14 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Accroche : "ÉCOUTEZ-MOI BIEN 🚨🤐🚨 Voici comment j'obtiens un taux de closing de 100% en appel (sans jamais dire un mot)"
 - Mécanisme : premier post du sous-format "Bait comique (aberration + reveal + morale)", nouvellement documenté dans `SKILL_CONTENU_LINKEDIN.md` sur validation enthousiaste de Matthias à partir d'un post-référence externe qu'il a collé. Fausse technique de closing par intimidation présentée sérieusement sur le premier tiers (zéro indice), reveal net ("en vrai c'est complètement faux"), morale rattachée à un vrai principe de doctrine (vendre n'est pas convaincre — cohérent avec `SKILL_STRATEGIE.md` Partie 6 et A10 de `BENCHMARK_KEVIN_DUMONT.md`), chute humoristique en PS. Registre volontairement hors Ton & Voix habituel (majuscules répétées, emojis en rafale) — réservé à ce sous-format. Sujet, emojis et style de phrase choisis pour ne pas recopier le post-référence externe (règle d'originalité posée par Matthias).
 - Stats : pas encore publié.
-- Notes : à confirmer avec Matthias s'il veut une 2e variante sur une autre "aberration" avant de figer le format.
+- **Corrigé par Matthias (20/08/2026, même jour) :** "trop précisément repris les patterns du post de référence" et "pas crédible" — l'aberration (fixer la caméra, respirer dans le micro) était trop cartoonesque/physiquement excessive. Remplacé par l'entrée suivante. Nuance capturée dans `SKILL_CONTENU_LINKEDIN.md` (section Bait comique).
+
+### 20/08/2026 (bis) — Objection "j'ai pas l'argent", version crédible du sous-format "Bait comique"
+- Format : post
+- Accroche : "Voici comment je gère l'objection 'j'ai pas l'argent' quand un prospect veut rejoindre mon accompagnement"
+- Mécanisme : 2e essai du sous-format Bait comique, brief détaillé donné directement par Matthias (3 fausses techniques : demander le solde du compte, suggérer un prêt à un proche, rediriger vers un crédit rapide à rembourser sous 3 mois avec 15-20% d'intérêt). Aberration rendue crédible en puisant dans un vrai stéréotype de closer agressif (pousser à l'endettement) plutôt qu'un comportement cartoonesque, ton plus sobre (liste numérotée 1/2/3, majuscules/emojis réduits par rapport au 1er essai). Morale rattachée à un principe réel : Principe #5 `SKILL_STRATEGIE.md` (diagnostiquer avant de prescrire, éthique radicale, jamais pousser quelqu'un à s'endetter pour signer). Site de crédit volontairement non nommé (formulation générique) pour éviter d'attribuer des chiffres/pratiques non vérifiés à une société réelle identifiable sous le nom de Matthias — à ajuster si Matthias fournit un nom réel et des chiffres exacts qu'il veut assumer publiquement.
+- Stats : pas encore publié.
+- Notes : à confirmer avec Matthias si le ton/niveau de crédibilité est le bon cette fois.
 
 ---
 
