@@ -309,6 +309,10 @@ Fréquence max : 1 post tous les 10-14 jours. Ne jamais forcer.
 - Angle 2 : Avant vs après (stress -> visibilité, incertitude -> contrôle).
 - Angle 3 : Ce que les 2-3 premiers appels changent psychologiquement.
 
+**PR-5 - Le système d'itération continue, "la boucle" (ajouté 20 août 2026).** Le mécanisme personnel de Matthias appliqué sur ses 3 leviers (posts, commentaires, prospection) : chaque action est un test, jamais une répétition à l'identique, et un flop devient une donnée plutôt qu'une preuve d'incompétence — c'est ce qui l'empêche de stagner. **Piège identifié avant le premier post : ne pas retomber dans le pattern "méta/conseil sans scène vécue" qui a déjà flop une fois sur un sujet proche** (vidéo "voici la solution pour être bon dans son business", 25/07, 59 impr — voir Patterns de performance). Vendre ça comme SON process concret (Principe #7 `SKILL_STRATEGIE.md`), jamais comme une leçon générale sur l'itération.
+- Angle 1 : Le mécanisme complet sur les 3 leviers (posts, commentaires, prospection) — premier post publié le 20/08/2026 (voir `JOURNAL.md`).
+- Angles disponibles pour la suite (base pour un futur lead magnet en plusieurs posts, évoqué en session stratégie du 20/08) : le seuil de patience avant de juger un test (anti-dispersion, écho à PA-5) ; la capture/carnet de ce qui a été testé ; la sortie psychologique (rien n'est un échec, tout est une donnée) comme sujet à part entière.
+
 ### Catalogue — Personal Brand
 
 **PB-1 - Le coaching à 1500 euros.**
