@@ -1085,6 +1085,13 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Stats : pas encore publié.
 - Notes : reste à choisir l'approche avec Matthias. Nouvelle entrée catalogue PR-5 ajoutée dans `SKILL_CONTENU_LINKEDIN.md`. Si Matthias confirme vouloir enchaîner sur une série de plusieurs posts (le lead magnet évoqué en session stratégie), prévoir la suite ici au fur et à mesure plutôt qu'en un seul bloc.
 
+### 20/08/2026 — Closing sous pression (absurde), premier post du nouveau sous-format "Bait comique"
+- Format : post
+- Accroche : "ÉCOUTEZ-MOI BIEN 🚨🤐🚨 Voici comment j'obtiens un taux de closing de 100% en appel (sans jamais dire un mot)"
+- Mécanisme : premier post du sous-format "Bait comique (aberration + reveal + morale)", nouvellement documenté dans `SKILL_CONTENU_LINKEDIN.md` sur validation enthousiaste de Matthias à partir d'un post-référence externe qu'il a collé. Fausse technique de closing par intimidation présentée sérieusement sur le premier tiers (zéro indice), reveal net ("en vrai c'est complètement faux"), morale rattachée à un vrai principe de doctrine (vendre n'est pas convaincre — cohérent avec `SKILL_STRATEGIE.md` Partie 6 et A10 de `BENCHMARK_KEVIN_DUMONT.md`), chute humoristique en PS. Registre volontairement hors Ton & Voix habituel (majuscules répétées, emojis en rafale) — réservé à ce sous-format. Sujet, emojis et style de phrase choisis pour ne pas recopier le post-référence externe (règle d'originalité posée par Matthias).
+- Stats : pas encore publié.
+- Notes : à confirmer avec Matthias s'il veut une 2e variante sur une autre "aberration" avant de figer le format.
+
 ---
 
 ### Laura Thouzeau — UX/UI Designer, fondatrice Outsiders (sites sur-mesure) et Head Control (DeepTech accessibilité)

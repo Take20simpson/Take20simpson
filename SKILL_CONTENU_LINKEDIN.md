@@ -563,6 +563,22 @@ Le problème avec "combien tu gagnes par mois" n'est pas la profondeur du sujet,
 
 **Typo, validée le 18/08/2026 : Poppins** (police de la bannière LinkedIn de Matthias, look géométrique arrondi) — plus proche de l'identité réelle que Helvetica Neue utilisée au 1er essai. Piège technique rencontré : un `@import` Google Fonts direct dans le HTML ne se charge pas de façon fiable dans le Chromium headless (Playwright) de cet environnement, même quand `curl` prouve que le réseau fonctionne — le proxy HTTPS de la session ne se propage pas au processus navigateur. Fix qui marche : télécharger les fichiers woff2 (via curl, pas via le navigateur) et les embarquer en base64 directement dans le CSS (`@font-face` en `data:font/woff2;base64,...`) — rendu garanti offline, aucune dépendance réseau au moment du screenshot.
 
+### Sous-format spécifique : Bait comique (aberration + reveal + morale)
+
+> Ajouté le 20/08/2026, sur validation enthousiaste de Matthias ("j'adore ce style de poste") à partir d'un post-référence externe qu'il a collé (mécanisme de relance DM absurde, révélé faux, puis leçon de morale). **Registre à part, distinct du Ton & Voix habituel du Module 1** — ce sous-format autorise délibérément des entorses que le reste du module interdit (MAJUSCULES répétées, emojis en rafale, points d'exclamation multiples). Ne pas laisser ces entorses contaminer les posts classiques : elles sont réservées à ce sous-format précis.
+
+**Mécanisme, dans cet ordre strict :**
+1. **Hook choc en majuscules + emojis répétés**, différents à chaque fois (jamais le même trio d'emojis d'un post à l'autre).
+2. **Premise absurde présentée 100% sérieusement.** Zéro clin d'œil, zéro indice, sur tout le premier tiers du post — le lecteur doit croire que c'est un vrai conseil.
+3. **2-3 "techniques" ou faits qui escaladent dans l'aberration**, en liste ou en puces, toujours présentés au même niveau de sérieux que le reste.
+4. **Reveal net et court** ("en vrai c'est faux" / variante) — coupe l'aberration d'un coup, jamais de transition progressive.
+5. **La vraie leçon, en majuscules/exclamation**, rattachée à un principe réel de la doctrine (`SKILL_STRATEGIE.md`) — le post doit rester fond-vrai même si la forme est absurde.
+6. **Chute humoristique + PS gag** qui boucle sur l'aberration du départ sans la relancer sérieusement.
+
+**Règle d'originalité (posée par Matthias, non négociable) :** ne jamais reprendre le sujet, les emojis, ni le style de phrase du post-référence externe qui a inspiré le sous-format — reconstruire entièrement à chaque fois, sinon "ça va se voir" que c'est calqué sur un autre créateur.
+
+**CTA :** reste par défaut absent (règle "Pas de CTA" du Module 1 inchangée) même si le post-référence externe en avait un — à réactiver seulement si Matthias le demande explicitement pour ce sous-format.
+
 ### Checklist qualité interne (jamais affichée)
 
 - Accroche : la phrase choisie par Matthias ouvre les 3 approches mot pour mot, jamais reformulée ni remplacée par une ouverture différente même proche du sujet.
