@@ -1099,6 +1099,13 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Stats : pas encore publié.
 - Notes : à confirmer avec Matthias si le ton/niveau de crédibilité est le bon cette fois.
 
+### 20/08/2026 — L'anxiété des stats, post prévu samedi 22/08 (PB-4, nouvel angle)
+- Format : post
+- Accroche : "Personne ne m'a prévenu qu'être créateur de contenu ça rendait accro à un chiffre qui bouge presque jamais." (négation "personne m'a prévenu" corrigée en "personne ne m'a prévenu" avant livraison, même point de vigilance négations que le 20/08 précédent)
+- Mécanisme : premier post du corpus sur le réflexe compulsif de rafraîchir ses stats LinkedIn — carte blanche de Matthias, registre humour léger, plus court que les posts habituels, cadence week-end (`SKILL_STRATEGIE.md` Partie 5 : jamais de post stratégique samedi/dimanche, privilégier PB-4). Nouvel angle ajouté au catalogue PB-4 dans `SKILL_CONTENU_LINKEDIN.md`. 3 approches livrées (clivante, normale, Mathis Clouet), toutes courtes, aucune mention de Vaya pour garder l'angle disponible et frais pour le post de dimanche.
+- Stats : pas encore publié.
+- Notes : reste à choisir l'approche avec Matthias, puis enchaîner sur le post de dimanche (même carte blanche, même registre humour léger).
+
 ---
 
 ### Laura Thouzeau — UX/UI Designer, fondatrice Outsiders (sites sur-mesure) et Head Control (DeepTech accessibilité)

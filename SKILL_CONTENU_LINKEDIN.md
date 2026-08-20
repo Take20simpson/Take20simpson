@@ -334,6 +334,7 @@ Fréquence max : 1 post tous les 10-14 jours. Ne jamais forcer.
 - Nice et le quotidien, terrasse, promenade, observation du moment.
 - Les illuminations hors-business, leçon au badminton, réflexion sans lien direct.
 - L'entourage qui ne comprend pas, solitude de construire seul.
+- L'anxiété des stats (ajouté 20/08/2026) : le réflexe compulsif de rafraîchir ses stats LinkedIn pour un chiffre qui bouge presque jamais — vécu solo-créateur universel, jamais traité avant dans le corpus.
 
 **PB-5 - La vision de l'après.** Pas de méthode, pas de tactic. Peindre le tableau de ce que ressent un freelance avec un système qui tourne.
 - Angle 1 : Savoir ce que va donner le mois prochain, décrire cette sensation précisément.
