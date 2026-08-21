@@ -599,6 +599,8 @@ Le problème avec "combien tu gagnes par mois" n'est pas la profondeur du sujet,
 
 **Longueur :** volontairement minuscule, 4-6 lignes maximum au total. Aucun développement, aucune 2e chute, aucun CTA.
 
+**Correction du 20/08/2026, sur le 1er essai (version closing/objection) :** jugée "pas très claire, pas très fluide, pas assez punchline". Deux causes identifiées : (1) des guillemets autour d'une phrase citée dans la chute ("je vais réfléchir") cassent la fluidité — la chute doit rester une phrase directe, jamais une citation entre guillemets ; (2) le mot "argumentaire" jugé hors voix de Matthias ("jamais je vais utiliser ce terme") — vérifier le vocabulaire de la chute contre les mots que Matthias emploie réellement (voir Partie 6 `SKILL_STRATEGIE.md` : préparer ses réponses/son pitch, jamais "argumentaire"). La chute doit être une phrase simple et fluide, sans citation ni jargon, pour rester punchy.
+
 ### Checklist qualité interne (jamais affichée)
 
 - Accroche : la phrase choisie par Matthias ouvre les 3 approches mot pour mot, jamais reformulée ni remplacée par une ouverture différente même proche du sujet.
