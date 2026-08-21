@@ -329,6 +329,7 @@ Fréquence max : 1 post tous les 10-14 jours. Ne jamais forcer.
 - Angle 2 : "Je construis mon offre" = red flag immédiat.
 - Angle 3 : La motivation et la discipline ne servent à rien sans sens.
 - Angle 4 (ajouté 20/08/2026) : Les codes LinkedIn qui sonnent creux — le mot "annonce" utilisé pour absolument tout, jusqu'à ne plus rien vouloir dire. Observation sur la plateforme elle-même, pas de vécu perso ni de storytelling — registre demandé explicitement par Matthias après avoir écarté Vaya, le badminton et la famille pour le post du dimanche.
+- Angle 5 (ajouté 20/08/2026) : L'aberration administrative réelle (facturation électronique obligatoire) — second degré appuyé sur des faits vérifiés (dates, montants d'amende), pas une opinion abstraite. Voir note de recherche dans `JOURNAL.md` pour les sources et chiffres exacts à ne pas re-vérifier à chaque fois.
 
 **PB-4 - L'humain.** Court, spontané, sans structure imposée. Souvent les plus likés.
 - Vaya (sa chienne), les posts les plus humains.

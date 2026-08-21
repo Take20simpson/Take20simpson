@@ -1113,6 +1113,13 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Stats : pas encore publié.
 - Notes : reste à choisir l'approche. Les deux tentatives écartées (Vaya, badminton) ne sont pas perdues — badminton en particulier reste une piste PB-4 valide pour une future session, juste pas retenue cette fois.
 
+### 20/08/2026 — L'aberration de la facturation électronique obligatoire (PB-3, Angle 5, nouvel angle, recherche web réelle)
+- Format : post
+- Accroche : "À partir du 1er septembre 2026, je vais devoir être capable de recevoir mes factures via une plateforme agréée par l'État, pas juste par email."
+- Mécanisme : demande explicite de Matthias — post court, second degré mais appuyé sur des faits réels vérifiés par recherche web (pas de bait comique ni d'aberration inventée cette fois, tout est vrai). Faits vérifiés (20/08/2026) : réception de factures électroniques via plateforme agréée obligatoire pour tous dès le 1er septembre 2026 ; émission obligatoire pour les micro-entreprises/auto-entrepreneurs à partir du 1er septembre 2027 ; la franchise en base de TVA ne dispense pas de la réforme ; amende passée de 15€ à 50€ par facture non conforme à l'émission, jusqu'à 500€ par transmission de données manquante (contre 250€ avant), plafond annuel inchangé à 15 000€/an ; passage obligatoire par une Plateforme Agréée (PA, ex-PDP) immatriculée DGFiP, avec inscription dans un annuaire national (SIREN, TVA intracommunautaire). Sources : portail-autoentrepreneur.fr, pennylane.com, qonto.com, sufio.com, pennylane.com/sanctions-facture-electronique. Un seul post livré (pas de pipeline 8 accroches, brief direct de Matthias comme pour le post "objection j'ai pas l'argent").
+- Stats : pas encore publié.
+- Notes : sujet distinct du catalogue habituel (pain points prospection/ICP) — touche la vie administrative du freelance en général, pertinent aussi pour l'ICP de Matthias (tous auto-entrepreneurs). Chiffres et dates à ne pas re-vérifier à chaque fois, déjà sourcés ici.
+
 ---
 
 ### Laura Thouzeau — UX/UI Designer, fondatrice Outsiders (sites sur-mesure) et Head Control (DeepTech accessibilité)
