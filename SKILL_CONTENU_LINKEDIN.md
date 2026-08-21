@@ -187,15 +187,17 @@ Ratio hebdomadaire cible : 40% Problem Aware / 40% Solution + Product Aware / 20
 
 Constat de départ (Kevin Dumont) : traiter en boucle une seule objection dans son contenu ne monétise qu'une fraction de l'audience. La correction : mapper chaque post publié à l'objection primaire qu'il adresse, et viser à couvrir l'ensemble des objections primaires sur une fenêtre glissante de 2 semaines plutôt que de répéter toujours la même.
 
-**Liste de travail des objections primaires**, dérivée des pain points ICP déjà documentés (`CLAUDE.md` Partie 2) — à raffiner avec Matthias si besoin :
-1. Inconsistance de clients malgré l'activité déjà lancée (feast or famine) → PA-1
-2. Volume de prospection sans structure/intention → PA-4
-3. Tarifs bloqués, n'ose pas augmenter → PA-9
-4. Clients pas assez qualitatifs, mauvais fit → PA-10
-5. Peur de vendre/facturer plus cher → PA-8, PA-9
-6. Déjà accompagné ailleurs sans résultat → PA-2, PA-8
-7. Dispersion stratégique → PA-5
-8. Mauvaise stratégie pour son contexte / confusion sur ce qui marche vraiment → SA-1, SA-5
+**Liste validée par Matthias le 21 août 2026** — correction importante actée ce jour-là : les objections primaires ne sont PAS les pain points ICP (ça c'est le problème qu'ils vivent, déjà couvert par le catalogue Problem Aware ci-dessous). Ce sont les raisons pour lesquelles, malgré ce problème, le prospect ne réserve pas d'appel. Un premier jet dérivé des pain points avait été proposé le 19 août et a été explicitement rejeté sur ce point-là par Matthias — remplacé par la liste ci-dessous :
+1. **Méfiance envers les coachs/accompagnements en général** — "j'ai déjà tenté un accompagnement/une formation, ça a rien donné"
+2. **Budget anticipé** — imagine un prix trop élevé ou un mauvais moment financier avant même d'avoir l'info (le prix n'est annoncé qu'en visio, jamais en DM)
+3. **Pitch de vente déguisé** — l'appel est perçu comme une perte de temps, une manœuvre commerciale plutôt qu'un vrai échange
+4. **Minimisation du problème** — "je gère déjà, c'est pas si grave" (fait écho au moment de minimisation en closing, `SKILL_STRATEGIE.md` Partie 6)
+5. **Trop spécifique** — "ma situation/mon secteur est différent, ça marchera pas pour moi"
+6. **Solution gratuite perçue comme suffisante** — pense pouvoir apprendre seul via du contenu gratuit (YouTube, posts) sans payer un accompagnement
+7. **Pas le temps** — ne veut/peut pas s'engager sur 3 mois de suivi en plus de son activité déjà en cours
+8. **★ La plus importante (identifiée par Matthias, absente du premier jet) — peur de ne pas obtenir de résultats SPÉCIFIQUEMENT pour soi.** "Et si ça marche pour les autres mais pas pour moi ?" Distincte de l'objection 1 : là où la 1 est une méfiance générale envers le concept d'accompagnement, celle-ci persiste même quand la personne fait confiance à la méthode en général — le doute porte sur son propre cas particulier. Traiter ça dans le contenu ne suffit pas avec de la simple garantie ; connecté à la piste "closing continu" en cours de recherche (`SKILL_STRATEGIE.md` Partie 11).
+
+*(Objection "pas assez d'expérience/trop tôt dans son activité" évaluée puis écartée par Matthias le 21 août — jugée pas intéressante comme objection primaire, moins pertinente depuis le pivot ICP du 22 juillet qui exclut déjà les débutants en amont du sourcing.)*
 
 **Application pratique :** à l'Étape 1 (Classification), en plus de choisir catégorie/thématique/angle, noter en silence quelle(s) objection(s) de cette liste le post choisi adresse, et consigner cette info dans `JOURNAL.md` avec l'entrée. Objectif : sur 2 semaines de publications, avoir couvert la majorité de la liste plutôt que de sur-répéter les 2-3 mêmes. Ne remplace pas le ratio Problem/Solution+Product/Personal Brand existant (40/40/20) — vient en couche supplémentaire par-dessus.
 
