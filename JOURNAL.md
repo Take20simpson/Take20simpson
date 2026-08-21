@@ -1133,6 +1133,13 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Stats : pas encore publié.
 - Notes : reste à choisir le(s) meilleur(s) parmi les 10.
 
+### 20/08/2026 — Ce que veut dire avoir des compétences vente/marketing (SA-6, nouvel angle, brief direct)
+- Format : post
+- Accroche : "Tout le monde parle d'avoir des compétences en marketing et en vente, mais personne ne sait vraiment ce que ça veut dire avoir ce genre de compétence." (accroche donnée mot pour mot par Matthias, "et" ajouté entre "marketing" et "vente" — coquille de dictée corrigée avant livraison)
+- Mécanisme : nouvel angle SA-6, décompose la compétence vente/marketing en réflexes concrets et observables (question ouverte, silence après le prix, savoir dire non, objection cachée) plutôt que le récit narratif habituel du Principe #8. Format demandé : "plutôt court, mais pas aussi court qu'avant" — entre le micro-format punchline et un post complet standard. 3 approches livrées (clivante, normale, Mathis Clouet).
+- Stats : pas encore publié.
+- Notes : reste à choisir l'approche.
+
 ---
 
 ### Laura Thouzeau — UX/UI Designer, fondatrice Outsiders (sites sur-mesure) et Head Control (DeepTech accessibilité)

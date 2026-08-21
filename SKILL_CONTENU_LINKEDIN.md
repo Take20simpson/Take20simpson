@@ -286,6 +286,9 @@ Constat de départ (Kevin Dumont) : traiter en boucle une seule objection dans s
 - Angle 3 : La redéfinition (prospecter = rendre service à quelqu'un qui a un problème).
 - Angle 4 : La version spam qu'on t'a vendue vs la vraie.
 
+**SA-6 - Ce que "avoir des compétences en vente/marketing" veut vraiment dire (ajouté 20/08/2026).** Le terme est utilisé partout mais reste vague, jamais concrétisé. Rejoint le Principe #8 `SKILL_STRATEGIE.md` (la vente s'apprend, process pas talent) mais avec un mécanisme différent : décomposer la compétence en réflexes observables précis (poser une question ouverte, laisser un silence après le prix, savoir dire non) plutôt que raconter le parcours narratif déjà fait ("la vente s'apprend" version storytelling, voir Rattrapage lié au Principe #8).
+- Angle 1 : La liste de réflexes concrets qui composent la compétence, brief direct de Matthias (accroche donnée mot pour mot).
+
 ### Catalogue — Product Aware
 
 Fréquence max : 1 post tous les 10-14 jours. Ne jamais forcer.
