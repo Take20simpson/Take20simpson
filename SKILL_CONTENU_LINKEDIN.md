@@ -400,6 +400,8 @@ RÈGLES ABSOLUES :
 
 **Les 4 moyennes** : 2 à 3 phrases collées, pas de saut de ligne, sujet précis en premiers mots, insight concret + promesse de ce qu'on va montrer.
 
+**Point de vigilance ajouté le 21 août 2026 (confusion accroche / première phrase du développement).** Erreur identifiée par Matthias sur un lot d'accroches livrées pour l'objection #8 : une accroche qui plonge directement dans une scène ou une idée sans nommer le sujet dès les premiers mots ("Avant même de signer, je sais déjà à quelle semaine tombe ton premier appel qualifié") se lit comme la première phrase du CORPS du post, pas comme une accroche — le lecteur doit déjà avoir fini de lire la phrase pour comprendre de quoi ça parle. Ça ne contredit pas les Règles Absolues #1 (zéro effort mental) et #10 (nommer la situation direct) déjà posées, mais elles n'ont pas suffi en pratique sur un sujet abstrait (une objection/une peur plutôt qu'une scène concrète) — Matthias reconnaît explicitement que c'est plus difficile sur ce type de sujet, donc vigilance renforcée dessus spécifiquement. Le sujet doit être nommé dans les tout premiers mots (le mot ou groupe de mots qui dit de quoi on parle), jamais après une subordonnée ou une circonstancielle qui retarde l'annonce ("avant même de", "quand je", "chaque fois que"). **Test à appliquer avant de livrer chaque accroche : si on masque tout sauf les 5-6 premiers mots, est-ce qu'on sait déjà de quoi va parler le post ? Si non, retravailler.**
+
 Format de présentation :
 "Ce que j'ai capté : [Big Idea en 1 phrase]"
 "Catégorie : [catégorie] - Thématique : [thématique], Angle [n°]"
