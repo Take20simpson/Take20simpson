@@ -586,6 +586,19 @@ Le problème avec "combien tu gagnes par mois" n'est pas la profondeur du sujet,
 
 **Vigilance ajoutée : jamais nommer une entreprise réelle et identifiable avec des chiffres/pratiques inventés, même dans une aberration fictive.** Cas rencontré : Matthias a proposé de nommer un vrai site de crédit rapide comme 3e "technique". Claude a préféré une formulation générique (type de service décrit, pas de marque précise) pour éviter d'attribuer publiquement des taux/pratiques non vérifiés à une société réelle identifiable sous le nom de Matthias — risque de réputation/exactitude, pas un principe de doctrine contenu à proprement parler mais une règle de prudence à garder pour tout futur post de ce sous-format.
 
+### Sous-format spécifique : Subversion ironique courte
+
+> Ajouté le 20/08/2026, à partir d'un post-référence externe collé par Matthias (image "Quitte ton CDI... Lance ta propre boîte... C'est comme ça que je suis passé de 8000€ à 1400€"). **Exception explicite à l'interdiction punchline du Module 1** — ce sous-format EST une punchline construite, c'est le point. Réservé à ce format précis, ne pas laisser sa logique (parallélisme, chute qui inverse une attente) contaminer les posts classiques.
+
+**Mécanisme :**
+1. **3 lignes courtes, impératif ou déclaratif**, qui posent un conseil entrepreneurial générique et attendu (le genre de conseil qu'on lit partout sur LinkedIn).
+2. **Saut de ligne.**
+3. **Une chute qui commence par "C'est comme ça que..."** et qui inverse frontalement l'attente positive créée par les 3 lignes — un résultat décevant, absurde ou nul plutôt qu'un succès. Chiffres autorisés, même inventés (registre comique assumé, aucun résultat client réel en jeu).
+
+**Règle d'originalité (même principe que le Bait comique) :** jamais le même sujet que le post-référence externe qui a inspiré le sous-format, jamais recopier son thème precis — reconstruire sur un sujet propre à l'univers de Matthias (prospection, réseau, closing, contenu) à chaque fois.
+
+**Longueur :** volontairement minuscule, 4-6 lignes maximum au total. Aucun développement, aucune 2e chute, aucun CTA.
+
 ### Checklist qualité interne (jamais affichée)
 
 - Accroche : la phrase choisie par Matthias ouvre les 3 approches mot pour mot, jamais reformulée ni remplacée par une ouverture différente même proche du sujet.
