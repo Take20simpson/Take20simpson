@@ -591,9 +591,10 @@ Le problème avec "combien tu gagnes par mois" n'est pas la profondeur du sujet,
 > Ajouté le 20/08/2026, à partir d'un post-référence externe collé par Matthias (image "Quitte ton CDI... Lance ta propre boîte... C'est comme ça que je suis passé de 8000€ à 1400€"). **Exception explicite à l'interdiction punchline du Module 1** — ce sous-format EST une punchline construite, c'est le point. Réservé à ce format précis, ne pas laisser sa logique (parallélisme, chute qui inverse une attente) contaminer les posts classiques.
 
 **Mécanisme :**
-1. **3 lignes courtes, impératif ou déclaratif**, qui posent un conseil entrepreneurial générique et attendu (le genre de conseil qu'on lit partout sur LinkedIn).
-2. **Saut de ligne.**
-3. **Une chute qui commence par "C'est comme ça que..."** et qui inverse frontalement l'attente positive créée par les 3 lignes — un résultat décevant, absurde ou nul plutôt qu'un succès. Chiffres autorisés, même inventés (registre comique assumé, aucun résultat client réel en jeu).
+1. **Une ligne d'intro qui cadre le sujet** (ex : "Le conseil qu'on te donne pour prospecter plus.") — sans elle le lecteur ne comprend pas de quoi parlent les 3 lignes qui suivent, corrigé le 20/08/2026 après un 1er essai qui partait direct sur les 3 lignes sans contexte.
+2. **3 lignes courtes, impératif ou déclaratif**, qui posent un conseil entrepreneurial générique et attendu (le genre de conseil qu'on lit partout sur LinkedIn).
+3. **Saut de ligne.**
+4. **Une chute qui commence par "C'est comme ça que..."** et qui inverse frontalement l'attente positive créée par les 3 lignes — un résultat décevant, absurde ou nul plutôt qu'un succès. Chiffres autorisés, même inventés (registre comique assumé, aucun résultat client réel en jeu).
 
 **Règle d'originalité (même principe que le Bait comique) :** jamais le même sujet que le post-référence externe qui a inspiré le sous-format, jamais recopier son thème precis — reconstruire sur un sujet propre à l'univers de Matthias (prospection, réseau, closing, contenu) à chaque fois.
 

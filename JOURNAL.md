@@ -1125,7 +1125,13 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Format : post (micro-format, 4-6 lignes max)
 - Mécanisme : nouveau sous-format inspiré d'un post-référence externe collé par Matthias (meme "Quitte ton CDI... je suis passé de 8000€ à 1400€"), documenté dans `SKILL_CONTENU_LINKEDIN.md`. Exception explicite à l'interdiction punchline du Module 1 — assumée pour ce sous-format uniquement. 3 exemples proposés sur des sujets propres à Matthias (prospection/Excel, réseau/contacts qui ne répondent pas, closing/objection qui traîne), aucun ne reprend le sujet CDI/salariat du post-référence.
 - Stats : pas encore publié.
-- Notes : reste à choisir lequel des 3 (ou en demander un 4e sur un autre sujet).
+- **Corrigé par Matthias (20/08/2026) :** l'option 3 (closing) jugée la meilleure sur le fond mais mal exécutée — guillemets pas clairs, mot "argumentaire" hors voix, pas assez fluide. Réécrite sans guillemets ni jargon, mais jugée encore "trop le même format que la référence" : démarrer direct sur les 3 lignes sans contexte ne se comprend pas. Structure corrigée avec une ligne d'intro avant les 3 lignes (capturé dans `SKILL_CONTENU_LINKEDIN.md`). Matthias a ensuite demandé 10 propositions radicalement différentes sur des sujets variés plutôt que d'itérer sur un seul sujet.
+
+### 20/08/2026 — 10 propositions "Subversion ironique courte" avec intro, sujets variés
+- Format : post (micro-format)
+- Mécanisme : 10 sujets différents (prospection/volume, contenu/régularité, closing/objection, pricing, networking événements, témoignages, profil LinkedIn, productivité solo, formation/mentor — callback réel au coaching à 1500€ de `CLAUDE.md` Partie 1, automatisation IA), tous avec la structure corrigée (intro + 3 lignes + chute sans guillemets ni jargon).
+- Stats : pas encore publié.
+- Notes : reste à choisir le(s) meilleur(s) parmi les 10.
 
 ---
 
