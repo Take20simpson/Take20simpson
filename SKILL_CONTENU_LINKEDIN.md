@@ -201,6 +201,8 @@ Constat de départ (Kevin Dumont) : traiter en boucle une seule objection dans s
 
 **Application pratique :** à l'Étape 1 (Classification), en plus de choisir catégorie/thématique/angle, noter en silence quelle(s) objection(s) de cette liste le post choisi adresse, et consigner cette info dans `JOURNAL.md` avec l'entrée. Objectif : sur 2 semaines de publications, avoir couvert la majorité de la liste plutôt que de sur-répéter les 2-3 mêmes. Ne remplace pas le ratio Problem/Solution+Product/Personal Brand existant (40/40/20) — vient en couche supplémentaire par-dessus.
 
+**Règle active, ajoutée le 21 août 2026 — passe d'un tag rétroactif à une priorisation active.** Dès que Matthias amène un sujet, une idée brute ou demande une proposition de post, Claude doit proposer EN PRIORITÉ un angle qui adresse une des 8 objections primaires ci-dessus — pas se contenter de taguer après coup l'objection que le post choisi adresse par hasard. Concrètement, avant de proposer accroches/approches : vérifier dans `JOURNAL.md` quelles objections ont déjà été couvertes récemment (fenêtre glissante de 2 semaines) et prioriser celles pas encore traitées. Si le sujet amené par Matthias ne colle naturellement à aucune objection de la liste, le signaler explicitement plutôt que de l'ignorer en silence — Matthias tranche s'il veut quand même ce sujet ou pivoter vers une objection non couverte.
+
 ### Catalogue — Problem Aware
 
 **PA-1 - Feast or Famine.** Certains mois 3 clients, d'autres mois zéro. Stress financier, inconsistance, 0 contrôle sur le timing.
