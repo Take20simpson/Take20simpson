@@ -1140,6 +1140,14 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Stats : pas encore publié.
 - Notes : reste à choisir l'approche.
 
+### 21/08/2026 — Méfiance envers les accompagnements en général (Product Aware, nouveau pattern "contre-pied par aveu de vulnérabilité")
+- Format : post
+- Accroche : "8 clients sur 10 pensent, avant de signer, qu'ils vont revivre la même déception qu'avec leur dernier accompagnement….." (chiffre inventé, cohérent Principe #7 `SKILL_STRATEGIE.md`)
+- Objection primaire adressée : #1 méfiance envers les coachs/accompagnements en général (voir Hypermonétisation, `SKILL_CONTENU_LINKEDIN.md`).
+- Mécanisme : premier post construit sur le nouveau pattern "contre-pied par aveu de vulnérabilité" (pattern interrupt) documenté ce jour dans `SKILL_CONTENU_LINKEDIN.md` — accroche = aveu court et concret uniquement, la peur précise et l'empathie/le vécu (coaching à 1500€ inefficace, `CLAUDE.md` Partie 1) déployés dans le corps. Session de calibrage longue avant d'arriver à cette accroche : plusieurs itérations sur clarté du cadre (insight dans les 3-4 premiers mots), noms orphelins sans complément, construction "peur de + concret" vs "peur que + subordonnée", froideur analytique vs viscéral, chiffres précis vs quantificateurs vagues — tout capturé dans `SKILL_CONTENU_LINKEDIN.md` (section accroches + section patterns de copywriting). 3 approches livrées (clivante, normale, Mathis Clouet), ancrées sur le vécu réel du coaching à 1500€, aucun chiffre client inventé au-delà du "8 sur 10" (observation de pattern, pas un résultat client).
+- Stats : pas encore publié.
+- Notes : reste à choisir l'approche avec Matthias. Les 6 autres objections primaires ont des accroches prêtes (non transformées en post complet) — voir échange du 21/08 en session stratégie/contenu si besoin de les reprendre.
+
 ---
 
 ### Laura Thouzeau — UX/UI Designer, fondatrice Outsiders (sites sur-mesure) et Head Control (DeepTech accessibilité)
