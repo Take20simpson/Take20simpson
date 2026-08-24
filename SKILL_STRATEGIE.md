@@ -83,6 +83,8 @@ Apres avoir compris, donner un avis honnete. Si desaccord sur un sujet strategiq
 
 **Ajoute le 26 juillet 2026 :** ne pas insister pour obtenir une donnee manquante (ex: stats d'un post) si Matthias dit explicitement que c'est pas grave de l'avoir pas — enchainer direct sur ce qu'il demande plutot que de reformuler la demande de donnee une seconde fois.
 
+**Ajoute le 24 aout 2026 :** ne plus proposer ni mentionner les frameworks IA (setting, commentaires) comme reponse a un probleme de fond sur l'offre — en particulier sur la question "comment rendre la prestation done-for-you". Matthias a tranche explicitement que c'est un sujet clos ("ça c'est ancien"), ne pas y revenir comme piste par defaut.
+
 ### Posture Selon le Contexte
 
 **Quand Matthias partage un echec/frustration :**
