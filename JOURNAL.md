@@ -1187,6 +1187,13 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 
 > **Synthèse rapide — semaine du 24/08/2026 (18 posts au récap, 1 en attente de confirmation) :** écart de performance extrême entre le post "brokie" (27 174 impr, x5 le 2e du lot) et le reste — un seul incident réel + retournement net a dominé toute la semaine, à étudier comme pattern à part plutôt qu'à moyenner avec le reste. Hors ce cas, les meilleures perfs restent la facturation électronique (5 292 impr, coup de gueule chiffré 1ère personne) et le Macron/mineurs mis à jour (15 529 impr, continue de grossir 10 jours après publication — signal que ce post a une durée de vie inhabituellement longue). Les posts drafté-Claude du 14/08 et 20/08 (SA-6/SA-7, objection argent, mot annonce, anxiété stats, boucle PR-5) tournent tous dans une fourchette basse-moyenne (65-834 impr) sans flop ni perf marquante, sauf l'objection "j'ai pas l'argent" qui sort du lot sur le ratio commentaires (13 commentaires pour 576 impr, meilleur ratio hors "brokie"). Le sous-format Bait comique confirme sa valeur sur son 2e essai crédible. Les posts hors-ICP/actualité (Macron, France-Afrique, faux-culs) confirment un reach potentiellement élevé mais avec un engagement audience business plus dilué — cohérent avec la vigilance déjà notée dans `SKILL_CONTENU_LINKEDIN.md` sur ce territoire.
 
+### 28/08/2026 — "Le faire savoir devient plus fort que le savoir-faire", post prévu samedi 30/08 (PB-3, nouvel angle)
+- Format : post
+- Accroche : "Tu peux être hyper doué dans ton domaine, si personne ne le sait ça sert à rien." (accroche courte #1)
+- Mécanisme : brief donné en session stratégie (pôle 1) — post léger de cadence week-end (`SKILL_STRATEGIE.md` Partie 5 : jamais de post-pilier samedi/dimanche), généré via le skill `posts-linkedin`. Origine : nuance retenue de la première séance de coaching avec Yann Perono du 27/08/2026 (voir `SKILL_STRATEGIE.md` Partie 11) — opinion tranchée générale (compétence seule ≠ visibilité), volontairement pas construite sur un pain point précis de la cible actuelle de Matthias, conforme au brief de Yann sur les posts clivants de pure visibilité/TOFU. Premier angle proposé (le réflexe de trier ses relations LinkedIn, autre nuance de la même séance) refusé par Matthias avant celui-ci, sans motif précisé — piste écartée, non reprise. 3 approches livrées (clivante, normale, Mathis Clouet), toutes ancrées en première personne sur une observation générale (compétence vs visibilité), aucun chiffre inventé.
+- Stats : pas encore publié.
+- Notes : reste à choisir l'approche avec Matthias.
+
 ---
 
 ### Laura Thouzeau — UX/UI Designer, fondatrice Outsiders (sites sur-mesure) et Head Control (DeepTech accessibilité)
