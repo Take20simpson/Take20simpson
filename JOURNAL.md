@@ -1195,6 +1195,13 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Stats : pas encore publié.
 - Notes : reste à choisir l'approche finale avec Matthias.
 
+### 28/08/2026 — "Une stratégie de contenu exceptionnelle, mais des milliers d'euros perdus" (PA-2, nouvel angle)
+- Format : post
+- Accroche : "Y'a vraiment des gens sur LinkedIn qui ont une stratégie de contenu exceptionnelle, mais qui perdent des milliers d'euros à cause de ce détail." (accroche écrite directement par Matthias, pas choisie dans le lot des 8 proposées ; petite coquille de dictée "qui on" corrigée en "qui ont" avant livraison)
+- Mécanisme : 2e post de la même session stratégie (pôle 1), sujet distinct du précédent. Origine : nuance de la séance de coaching Yann Perono du 27/08/2026 (l'exemple de Léa dans `SKILL_STRATEGIE.md` Partie 11 — un contenu qui génère un vrai volume de leads qualifiés/likes, jamais converti faute de setting/DM actif dessus). Angle vérifié proche mais distinct de l'entrée existante SA-6 du 14/08 ("le contenu ne convertit pas", 176 impr) — signalé une fois à Matthias avant génération (règle de transparence sur les redites), jugé assez différencié (financier/urgence plutôt que mécanisme pédagogique) pour être traité comme nouvel angle plutôt qu'une répétition. Classé Problem Aware (perte d'argent nommée + prospection/setting mentionné), rattaché au catalogue PA-2 (contenu organique seul). Calibrage clivant du jour appliqué (voir entrée précédente) : Approche 1 pivote en 2e personne accusatoire dans le corps malgré une accroche à la 3e personne, aucun chiffre inventé par Claude (pas de stat type "90%" cette fois, Matthias n'en a pas fourni pour ce post).
+- Stats : pas encore publié.
+- Notes : reste à choisir l'approche finale avec Matthias.
+
 ---
 
 ### Laura Thouzeau — UX/UI Designer, fondatrice Outsiders (sites sur-mesure) et Head Control (DeepTech accessibilité)
