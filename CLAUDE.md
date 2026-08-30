@@ -46,12 +46,14 @@ Hub central pour les assistants IA travaillant avec Matthias. Contient l'identit
 - Specialiste prospection LinkedIn pour freelances et solopreneurs (tous secteurs), avec intention (volume suffisant + structure), pas volume aveugle ni juste qualite
 - **Nom d'offre specifique, ajoute le 19 aout 2026 (suite benchmark Kevin Dumont) : "Prospection chaude".** Cible reste large (inchangee), l'offre se nomme desormais de facon etroite et memorable : jamais de message a un inconnu total, toujours un point de contact reel avant (commentaire, post, like, echange). Ne remplace pas "Prospecter avec intention" (identite globale) mais nomme l'offre concrete en dessous. Doctrine complete et ligne de positionnement validee dans `SKILL_STRATEGIE.md` Partie 2.
 
-### Offre 1 : Accompagnement Complet (coaching + suivi)
+### Offre 1 : "Transforme ton audience LinkedIn en clients" (pivot du 30 aout 2026)
 
-- **Prix (juillet 2026) :** 2000 EUR, 3 mois avec suivi reel — monte progressivement depuis 350 EUR (fevrier 2026). Paiement en plusieurs fois possible, virement bancaire
-- **Statut actuel (24 juillet 2026) : 0 client signe a ce tarif.** Prospection volontairement mise en stand-by par Matthias pour se concentrer sur le contenu et tester des choses en parallele — ce n'est pas un pipeline qui stagne malgre l'effort. Diagnostic pricing/volume/credibilite mene et tranche le meme jour (voir `SKILL_STRATEGIE.md`, Principe #4) : Matthias confirme savoir generer des rendez-vous et closer sans difficulte, ce n'est pas la ou ca bloque.
-- **Mise a jour du 5 aout 2026 : prospection relancee**, apres un point strategie ou la pause a ete revisitee (12 jours plus tard, comme prevu). Objectif resserre a un seul client signe, pas de logique de volume. Detail du diagnostic et de la logique de calibrage du suivi dans `SKILL_STRATEGIE.md` Principe #4 et Partie 8.
-- Livrables non figes, adaptes a chaque client : frameworks IA personnalises (setting, commentaires), 1-2 videos strategie, groupe WhatsApp (3 canaux), suivi proactif 2x/semaine
+- **Prix :** 2000 EUR, 3 mois d'accompagnement individuel (prix inchange, structure de livraison entierement repensee avec Yann le 29 aout). Paiement en plusieurs fois possible, virement bancaire
+- **Promesse :** installer en 3 mois un systeme de prospection qui transforme l'audience et le reseau du client en clients, sans spam ni forcing
+- **Structure en 4 phases :** (1) terrain de prospection (ICP DFY, audit LinkedIn, dashboard KPI) → (2) vivier de prospects (sourcing, CRM, routine) → (3) visibilite aupres des bonnes personnes (engagement/nurturing) → (4) transformation en conversations et clients (sequences, reviews, accompagnement jusqu'aux premieres opportunites). **Detail complet des livrables : `SKILL_STRATEGIE.md` Partie 2 ("PIVOT DU 30 AOUT 2026"), reference canonique.**
+- **Inclus desormais :** sessions 1:1 illimitees + support WhatsApp 24/7 (remplace l'ancien "suivi proactif 2x/semaine" — changement d'echelle signale comme tension a `SKILL_STRATEGIE.md`, pas encore confirme comme durable par Matthias)
+- **Garantie nouvelle :** prolongation sans surcout jusqu'au premier client signe grace a la prospection, si le client a respecte ses engagements (cadence, suivi, presence, application)
+- **Statut pipeline (dernier point : 5 aout 2026, prospection relancee, objectif resserre a un seul client signe) :** a reverifier au prochain point strategie sur cette nouvelle offre — pas encore de client signe sur cette version
 
 ### Offre 2 : Framework(s) IA Seuls (sans suivi) — DISCONTINUEE (24 juillet 2026)
 
@@ -63,15 +65,17 @@ Hub central pour les assistants IA travaillant avec Matthias. Contient l'identit
 
 Alternative abordable aux coachings a 1500-3000 EUR.
 
-### Cible (ICP)
+### Cible (ICP) — avatar "Lucas" (pivot du 30 aout 2026, remplace l'ancien ICP large)
 
-**Pivot du 22 juillet 2026 : exclusion explicite des debutants.** Avant, la cible incluait les tout debuts d'activite (recherche des premiers clients). Matthias ne veut plus de ce profil : pas assez de budget, pas d'urgence reelle, engagement faible. Nouvelle regle : minimum 4-6 mois d'activite (jusqu'a 1-2 ans et plus), et surtout genere deja du chiffre d'affaires — meme modeste ou irregulier. Jamais un total debutant sans aucun client signe a ce jour.
+> **Changement majeur a bien integrer :** l'ancien ICP ci-dessous visait une audience LinkedIn PETITE (idealement <1000 abonnes). Le nouvel avatar cherche l'inverse : quelqu'un qui a DEJA une audience/visibilite reelle (parfois des milliers a dizaines de milliers d'abonnes), mais aucun systeme commercial derriere. Detail complet (croyances, objections, matrice frustrations/desirs/peurs/reves, preuves a reunir) : `SKILL_STRATEGIE.md` Partie 2, reference canonique.
 
-**Cible large sinon, pas limitee aux assistantes virtuelles.** Freelances (tous secteurs), coachs, solopreneurs, petites agences (1-5 employes), France/francophones, 300-5000 connexions LinkedIn.
+**Qui :** independant B2B qui vend une expertise (consultant, coach, freelance, createur de contenu, prestataire de service) — marketing/communication/contenu/conseil/accompagnement en priorite. Offre DEJA validee et vendue plusieurs fois (le pivot du 22 juillet excluant les purs debutants reste valide et se confirme ici). Cree du contenu regulierement sur LinkedIn, a deja une audience reelle. A historiquement eu ses clients via contenu/personal branding/reseau/bouche-a-oreille — mais prospecte tres peu ou pas du tout, aucune routine commerciale. Possede des prospects deja presents mais inexploites dans son reseau (abonnes, engageurs, connexions, anciens prospects, visiteurs de profil, conversations abandonnees).
 
-**Criteres :** actifs sur LinkedIn (postent 1x/semaine mini), profil soigne, commentent regulierement, cree un minimum de contenu, a une offre deja definie. **Genere deja du CA (meme modeste/irregulier) — critere de filtre desormais aussi important que l'activite sur LinkedIn.**
+**Signal qualifiant central :** activite en dents de scie — ca marche bien via le contenu/l'inbound par periodes, puis ralentit brutalement des que le reach baisse. "Il a construit une audience, pas un systeme d'acquisition."
 
-**Pain points frequents (par ordre, mis a jour 22 juillet 2026) :** inconsistance de clients malgre l'activite deja lancee (feast or famine) → volume sans structure/intention → tarifs bloques, n'arrive pas a augmenter ses prix malgre l'envie (blocage plus psychologique que technique) → clients pas assez qualitatifs, pas le bon profil → peur de vendre/facturer plus cher → deja accompagnes ailleurs sans resultats → dispersion strategique → mauvaise strategie pour leur contexte.
+**Pain points frequents (reformules autour de l'avatar Lucas) :** dependance au reach/a l'algorithme pour l'acquisition → peur de prospecter percue comme du forcing/du spam → prospects potentiels inexploites dans son propre reseau → aucune routine commerciale → alternance stress/soulagement au gre des performances de contenu.
+
+**A reconfirmer sur ce nouvel avatar (donnees issues de l'ancien ICP, pas encore verifiees sur Lucas) :** demographie ~99% femmes ; volume de prospection 50 messages/semaine ; fourchette de connexions LinkedIn.
 
 ### Ressources Gratuites
 
@@ -200,3 +204,4 @@ Des qu'un echange fait apparaitre une nuance, une confirmation, une correction o
 ---
 
 *Derniere restructuration : 22 juillet 2026 — passage a l'architecture 4 pôles (Stratégie / Setting / Contenu / Journaux) + hub allégé.*
+*Mise à jour du 30 août 2026 : pivot complet de l'Offre 1 et du Cible/ICP suite au travail avec Yann Perono du 29 août (offre "Transforme ton audience LinkedIn en clients", avatar "Lucas"). Détail complet dans `SKILL_STRATEGIE.md` Partie 2 — référence canonique, ce hub reste volontairement compressé. Cascade sur `SKILL_SETTING_DM.md` le même jour (Partie 7, Règle 18, nouvelle Règle 19 anti-vente).*

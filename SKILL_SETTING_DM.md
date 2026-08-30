@@ -33,7 +33,7 @@ Quand Matthias colle un message de prospect et demande quoi repondre, Claude doi
 
 1. **Lire le message du prospect** — mot par mot, y compris l'historique complet de LA MEME conversation (pour eviter de repeter un emoji/une expression deja utilisee)
 2. **Passer par l'arbre decisionnel** (Partie 2)
-3. **Appliquer les 18 regles** (Partie 1) dans l'ordre
+3. **Appliquer les 19 regles** (Partie 1) dans l'ordre
 4. **Generer la reponse** selon le format (Partie 3) — toujours un bloc ELAN (l'intention, pas la formulation) puis un bloc REPONSE (le message redige)
 5. **Faire le raisonnement complet en interne (mot cle, croyance cachee, regle(s) appliquee(s), phase, pourquoi, prochaine etape probable) mais NE PLUS L'ECRIRE dans la reponse (precision de Matthias, 13 juillet 2026)** — il ne la lit jamais. Le raisonnement reste indispensable pour construire une bonne reponse, il est juste garde pour soi, pas redige. Voir Partie 3 pour le detail.
 6. **Etre proactif, pas juste executant (precision du 13 juillet 2026, cas Manon Cressent).** Ne pas se limiter a produire LA reponse qui coche mecaniquement les regles. Anticiper les problemes avant que Matthias ait besoin de les relever (ex : une question dont la reponse est deja publique sur le profil, un ton qui sonne script), proposer spontanement des alternatives de format (texte vs message vocal) quand ca peut faire une vraie difference, et brainstormer des angles que Matthias n'a pas suggeres. Matthias attend un vrai collaborateur qui challenge et propose — pas quelqu'un qui attend d'etre corrige apres coup pour s'ameliorer.
@@ -77,9 +77,9 @@ Quand Matthias colle un message de prospect et demande quoi repondre, Claude doi
 
 ---
 
-## PARTIE 1 : LES 18 REGLES D'EXECUTION
+## PARTIE 1 : LES 19 REGLES D'EXECUTION
 
-> Ces 18 regles sont appliquees A CHAQUE reponse generee. Pas une de moins. Dans l'ordre. (La Regle 13 — teasing — et la Regle 14 — signal marche — ne s'appliquent que si leur declencheur respectif, Partie 1, est present ; sinon on reste sur les Regles 1-12. La Regle 15 — auto-partage preventif — s'applique specifiquement avant une question personnelle/identitaire, surtout la premiere d'une conversation. La Regle 7bis — chambrage Yann — s'applique en continu comme texture par defaut, pas seulement en reaction. Les Regles 16, 17, 18 — apports Yann du 30 aout 2026 — s'appliquent respectivement : des qu'un chiffre-objectif est enonce par le prospect, une fois l'objectif/pain point etabli, et des que le prospect detecte une technique de vente.)
+> Ces 19 regles sont appliquees A CHAQUE reponse generee. Pas une de moins. Dans l'ordre. (La Regle 13 — teasing — et la Regle 14 — signal marche — ne s'appliquent que si leur declencheur respectif, Partie 1, est present ; sinon on reste sur les Regles 1-12. La Regle 15 — auto-partage preventif — s'applique specifiquement avant une question personnelle/identitaire, surtout la premiere d'une conversation. La Regle 7bis — chambrage Yann — s'applique en continu comme texture par defaut, pas seulement en reaction. Les Regles 16, 17, 18 — apports Yann du 30 aout 2026 — s'appliquent respectivement : des qu'un chiffre-objectif est enonce par le prospect, une fois l'objectif/pain point etabli, et des que le prospect detecte une technique de vente. La Regle 19 — anti-vente calibree — s'applique en continu (mecanisme 1, diagnostic sans complaisance) et specifiquement quand le PROSPECT propose un call de lui-meme (mecanisme 2).)
 
 ### Regle 1 — Repondre a ce qu'elle VIENT de dire, jamais generique
 
@@ -566,9 +566,24 @@ Deux messages distincts a la suite (pas un seul pave fusionne) — ca imite le r
 
 **Difference cruciale avec la fausse rarete (deja proscrite) :** une fausse rarete cree une urgence artificielle pour faire pression ("plus que 4 places ce mois-ci" invente). La vraie rarete decrit une contrainte OPERATIONNELLE reelle qui existe independamment du prospect en face — elle informe plutot qu'elle presse.
 
-**Application a Matthias — a construire, pas encore formalise :** Matthias n'a pas encore de garantie formelle ni de contrainte de capacite explicite communiquee en closing (voir `SKILL_STRATEGIE.md` Partie 6, la garantie existe deja comme "massue finale" en closing visio mais n'est pas transposee en DM). Piste a discuter avec Matthias avant d'appliquer telle quelle en DM : quelle est SA contrainte reelle (temps de suivi disponible par client, nombre de clients qu'il peut vraiment accompagner en parallele avec un suivi 2x/semaine) — a poser explicitement plutot que d'improviser un chiffre en DM.
+**Application a Matthias — desormais formalisee (mise a jour du 30 aout 2026, pivot offre avec Yann) :** Matthias a maintenant une vraie garantie ecrite dans son offre : *"Tant que tu n'as pas signe ton premier client grace a la prospection, je ne te lache pas"* — prolongation sans surcout au-dela des 3 mois jusqu'au premier client signe, sous conditions (respect des engagements, cadence, suivi, presence sessions, application des recommandations). C'est une garantie de TEMPS (il continue a accompagner), pas de RESULTAT sans condition — ca evite le piege deja identifie ci-dessus (absorber le risque d'execution du client), puisqu'elle est explicitement conditionnee a l'application reelle du client. Utilisable en DM des maintenant comme la brique "garantie/filtre" de la Regle 18 : *"tant que t'as pas signe ton premier client grace a la prospection, je te lache pas"* — reste a calibrer le dosage/timing en DM (probablement reserve a une conversation deja engagee, jamais en ouverture, meme logique que la garantie en closing visio, `SKILL_STRATEGIE.md` Partie 6, "massue finale pas argument de vente").
 
 **Format obligatoire :** [Accueillir la detection avec humour, Regle 7bis, jamais nier] → [Expliquer LE mecanisme reel, une seule brique a la fois, jamais les deux d'un coup] → [revenir naturellement a la conversation, ne pas transformer ca en pitch].
+
+---
+
+### Regle 19 — Anti-vente calibree (jamais jouee, toujours vraie)
+
+> Ajoutee le 30 aout 2026. Deux mecanismes distincts, capture directe des retours de Matthias sur son coaching avec Yann (le premier est visible dans la conversation Maeva, le second lui a ete transmis directement en coaching). Le principe commun : la friction/le refus ne fonctionnent comme aimant QUE s'ils sont reels et calibres sur l'etat de qualification reel — une friction jouee/non calibree casse la confiance au lieu de la construire (meme logique que Regle 18 sur la fausse rarete).
+
+**Mecanisme 1 — Diagnostic sans complaisance.** Quand le prospect revele un vrai manque (pas de temoignages, pas de systeme, pas de resultats), ne PAS rassurer automatiquement ("t'inquiete on va gerer ca"). Reagir comme un vrai evaluateur qui note un vrai manque, meme si ca sonne legerement decourageant sur le moment. Exemple reel (Yann) : *"Ah ça c'est embêtant"* face a l'absence de preuves clients de Maeva — pas de tentative de minimiser, juste un constat honnete, avant de continuer la qualification. Ca positionne Matthias comme quelqu'un qui evalue si le prospect merite d'etre pris, pas quelqu'un qui accepte tout le monde pour vendre. Coherent avec le Principe #5 de `SKILL_STRATEGIE.md` (diagnostiquer avant prescrire, "un bon closer sait dire ce n'est pas pour toi") — pousse plus loin que l'application actuelle.
+
+**Mecanisme 2 — Refus calibre d'un call propose par le prospect (pas initie par Matthias).** Different des Situations 2 et 11 (qui traitent Matthias initiant la proposition de call). Ici c'est le PROSPECT qui propose spontanement. **La regle, donnee explicitement par Yann a Matthias :**
+- **Qualification reellement complete** (pain point clair + auto-qualification faite, Regle 17) → accepter tout de suite, sans jeu, sans faire durer. Refuser a ce stade serait absurde et casserait l'effet.
+- **Qualification incomplete** (une etape pas encore faite, ex : pas encore de pain point clair, ou vient d'ouvrir la conversation) → decliner, mais AVEC CHALEUR, en nommant honnetement ce qui manque encore ("j'ai pas encore assez compris ta situation pour etre sur que je peux t'aider, on peut creuser un peu avant ?") plutot qu'un refus sec ou un pretexte.
+- **Le mecanisme psychologique (temoignage direct de Matthias sur son propre closing par Yann) :** ce refus calibre donne au prospect l'envie de PROUVER qu'il merite le call, plutot que de le recevoir automatiquement. C'est l'effet recherche — mais il ne fonctionne QUE si le refus est authentiquement justifie par un vrai manque de qualification, jamais joue pour creer artificiellement de la demande.
+
+**Garde-fou absolu :** ne jamais refuser un call quand la qualification est reellement complete juste pour "faire l'anti-vente" — ce serait de la fausse rarete deguisee (deja proscrite, Regle 18) et ca detruirait exactement l'effet recherche des que le prospect s'en rendrait compte. Le test a chaque fois : est-ce que je decline parce que c'est objectivement premature, ou est-ce que je decline pour jouer un role ? Seule la premiere raison est valide.
 
 ---
 
@@ -993,6 +1008,28 @@ Bon deja bonne nouvelle : ton probleme c'est pas que tu sais pas te vendre. C'es
 
 ---
 
+### Situation 11bis : Le prospect propose LUI-MEME un call (Regle 19, mecanisme 2)
+
+**Different de la Situation 11 :** ici c'est le prospect qui prend l'initiative ("on pourrait en discuter en appel ?", "t'aurais 15 min ?"), pas Matthias.
+
+**Verifier d'abord :** la qualification est-elle reellement complete (pain point clair + auto-qualification faite, Regle 17) ?
+
+**Si OUI — accepter immediatement, sans jeu :**
+```
+Carrement oui, ca tombe bien en plus je pense pouvoir vraiment t'aider sur [reprendre SON blocage]. T'es dispo [creneau 1] ou [creneau 2] ?
+```
+
+**Si NON — decliner avec chaleur, en nommant honnetement ce qui manque (jamais un pretexte, jamais un refus sec) :**
+```
+Ah avec plaisir, mais j'ai pas encore assez compris ta situation pour etre sur de pouvoir vraiment t'aider — on peut creuser deux minutes avant ? [question qui reprend la qualification manquante]
+```
+
+**Pourquoi ca marche (mecanisme psychologique, temoignage direct de Matthias sur son propre closing par Yann) :** un refus honnete et calibre donne au prospect l'envie de prouver qu'il merite le call, plutot que de le recevoir automatiquement — l'inverse de l'effet obtenu si on accepte n'importe quel call propose sans discernement.
+
+**Garde-fou absolu :** ne JAMAIS decliner un call quand la qualification est deja complete, juste pour "faire genre" — voir Regle 19 pour le detail du garde-fou anti-fausse-friction.
+
+---
+
 ## PARTIE 5 : CE QU'ON NE FAIT JAMAIS EN DM
 
 > Liste absolue. Non-negociable. A verifier avant CHAQUE reponse.
@@ -1073,23 +1110,33 @@ Bon deja bonne nouvelle : ton probleme c'est pas que tu sais pas te vendre. C'es
 
 ## PARTIE 7 : ADAPTATION AU CONTEXTE DE MATTHIAS
 
+> **Refonte du 30 aout 2026 :** cette section decrivait un ICP large (tous secteurs, idealement <1000 abonnes) qui est desormais **contredit et remplace** par l'avatar "Lucas" construit avec Yann le 29 aout — voir `SKILL_STRATEGIE.md` Partie 2 pour l'avatar complet. Difference majeure a bien integrer : l'ancien ICP cherchait des profils avec PEU de visibilite ; le nouvel avatar a DEJA une audience (parfois des milliers/dizaines de milliers d'abonnes) — le probleme qualifiant n'est plus "pas assez visible" mais "audience non transformee en systeme commercial".
+
 ### Specificites de la prospection de Matthias
 
-- **Cible :** freelances, coachs, solopreneurs (TOUS secteurs, pas que VA)
-- **Demographie :** ~99% femmes
-- **Taille :** 300-5000 connexions, idealement < 1000 abonnes
+- **Cible (avatar "Lucas") :** independant B2B qui vend une expertise (consultant, coach, freelance, createur de contenu, prestataire de service) — marketing/communication/contenu/conseil/accompagnement en priorite. Offre DEJA validee (vendue plusieurs fois). Cree du contenu regulierement sur LinkedIn. A DEJA une audience/visibilite (peut aller de quelques milliers a plusieurs dizaines de milliers d'abonnes — la taille d'audience n'est plus un critere de selection, contrairement a l'ancien ICP). A historiquement eu ses clients via contenu/personal branding/reseau/bouche-a-oreille. Prospecte tres peu ou pas du tout. Aucune routine/cadence/suivi commercial reel. Possede des prospects potentiels DEJA presents mais inexploites : abonnes, personnes qui interagissent avec son contenu, relations LinkedIn, anciens prospects, visiteurs de profil, conversations abandonnees.
+- **Le signal qualifiant central :** activite en dents de scie (periodes ou ca marche bien via contenu/inbound, puis ralentissement brutal quand le reach baisse) — "il a construit une audience, pas un systeme d'acquisition."
+- **Demographie :** a reconfirmer sur ce nouvel avatar — l'ancienne donnee ~99% femmes venait de l'ICP precedent (large, tous secteurs, petite audience), pas encore verifiee sur le profil Lucas.
 - **Plateforme :** 100% LinkedIn DM
-- **Volume :** 50 messages/semaine (10/jour)
-- **Offre principale :** Accompagnement complet (2000 EUR, 3 mois avec suivi reel — prix monte progressivement depuis 350 EUR)
-- **Le manifeste :** Utilise dans ~10% des cas seulement, quand desengagement
+- **Volume :** 50 messages/semaine (10/jour) — a reconfirmer, l'ancien volume visait un ICP plus large/moins qualifie
+- **Offre principale (pivot 30 aout 2026, voir `SKILL_STRATEGIE.md` Partie 2) :** "Transforme ton audience LinkedIn en clients" — 2000 EUR, 3 mois, structure en 4 phases (terrain de prospection → vivier de prospects → visibilite aupres des bonnes personnes → transformation en conversations et clients), garantie : prolongation sans surcout jusqu'au premier client signe grace a la prospection (sous conditions d'application reelle du client)
+- **Le manifeste :** Utilise dans ~10% des cas seulement, quand desengagement — a reverifier si toujours pertinent avec le nouvel avatar (Lucas a deja du contenu/une audience, le manifeste visait potentiellement un profil moins avance)
 
 ### Ce que Matthias vend VRAIMENT
 
-Pas juste une methode de prospection. Une TRANSFORMATION de croyance :
-- **Avant :** "Je dois creer du contenu / attendre le bouche a oreille / tester plein de trucs"
-- **Apres :** "La prospection directe avec intention est mon levier principal"
+Pas juste une methode de prospection. Une TRANSFORMATION de croyance — reformulee suite au pivot du 30 aout :
+- **Avant (dans la tete du prospect) :** "Un excellent contenu finit par attirer des clients. Si mon contenu fonctionne, mon acquisition fonctionne."
+- **Apres :** "Tu n'as pas besoin de remplacer ton contenu. Tu dois arreter de lui demander de faire tout le travail." (formulation exacte validee avec Yann, voir `SKILL_STRATEGIE.md` Partie 2)
 
-Cette croyance ne se DIT pas. Elle s'INSTALLE via les questions socratiques.
+Cette croyance ne se DIT pas. Elle s'INSTALLE via les questions socratiques — coherent avec la Croyance Centrale de `SKILL_STRATEGIE.md` Partie 2, mais appliquee a un prospect qui a DEJA du contenu (le raisonnement n'est plus "le contenu est lent", c'est "le contenu seul ne suffit pas a transformer une audience en clients").
+
+### Croyances et objections specifiques a l'avatar Lucas (a utiliser dans la grille de detection, Regle 4)
+
+> Liste complete dans `SKILL_STRATEGIE.md` Partie 2 (avatar "Lucas"). Les plus frequentes a detecter en conversation :
+- "Prospecter, c'est faire du forcing" / "je n'ai pas envie de faire chier les gens" / "je ne veux pas passer pour le mec lourd en DM" → challenger avec une question sur la difference entre forcing et un vrai point de contact (coherent avec "Prospection chaude", `SKILL_STRATEGIE.md` Partie 2)
+- "Mon contenu m'apporte deja des clients" / "quand mon reach remontera ca ira mieux" → quantifier la regularite reelle (Regle 6) plutot que challenger frontalement
+- "Je ne suis pas commercial" / "je saurais meme pas quoi envoyer" → Regle 8 (faire vivre le coaching), montrer sans expliquer la methode
+- "Je prefere que les clients viennent naturellement" → creuser le cout de cette passivite (chaine des "pourquoi", Phase 4) plutot que d'affirmer que c'est faux
 
 ### Le framework comme demo
 
@@ -1138,6 +1185,8 @@ Quand on en parle au prospect, on ne dit PAS "j'ai un outil IA". On dit "j'ai un
 - [ ] **(30 aout 2026) A quelle etape Yann (Partie 2, Etape 0) correspond ce message ? La reponse est-elle coherente avec cette etape (ex : ne pas proposer le call avant l'auto-qualification si le pain point est encore flou) ?**
 - [ ] **(30 aout 2026) Si le prospect vient d'enoncer un chiffre-objectif precis : la preuve nominative (Regle 16) est-elle disponible (client reel, chiffre reel, accord) ? Si non, ne pas en inventer une — rester sur le teasing (Regle 13) ou le signal marche (Regle 14).**
 - [ ] **(30 aout 2026) Si l'objectif est deja etabli et qu'on approche de la proposition du call : l'auto-qualification (Regle 17) a-t-elle ete faite ?**
+- [ ] **(30 aout 2026) Si le prospect revele un manque reel (preuves, systeme, resultats) : la reponse est-elle un diagnostic honnete (Regle 19, mecanisme 1) plutot qu'une reassurance automatique ?**
+- [ ] **(30 aout 2026) Si le PROSPECT propose lui-meme un call (Situation 11bis) : la qualification est-elle reellement complete avant d'accepter ? Si non, decline-t-on avec chaleur en nommant honnetement ce qui manque, sans pretexte ni refus joue (Regle 19, mecanisme 2) ?**
 
 ---
 
@@ -1250,5 +1299,6 @@ Exactement. Et c'est la que tout se joue en fait. Le principe tu l'as capte, le 
 *Mis a jour le 13 juillet 2026 : correction critique teasing vs enrobage (Regle 13 et Regle 7 precisees — voir `TEASING_METHODE_DM.md` Partie 2bis), ajout Regle 14 (signal marche / "off market", inspire d'une methode observee chez une consoeur), ajout Situation 3bis (question d'opinion pour provoquer la reciprocite), ajout garde-fou anti "gros sabots" sur les relances (Situation 10bis), precision "le tableau n'est pas la conversation" (structure de reference vs fluidite reelle d'une conversation de 40 messages)*
 *Mis a jour le 13 juillet 2026 (2) : l'analyse (Partie 3, point 3) n'est plus redigee dans la reponse — Matthias ne la lit jamais. Le raisonnement reste fait en interne (obligatoire), juste plus ecrit. Format de reponse desormais : ELAN + REPONSE DM uniquement.*
 *Mis a jour le 30 aout 2026 : refonte structurelle suite a l'accompagnement Yann Perono (`SKILL_STRATEGIE.md` Partie 11). Structure macro passee de 5 Phases a 7 Etapes Yann (Pretexte de contact, Qualification, Don de valeur, Preuves, Auto-qualification, Urgence et rarete, Proposition du call) qui absorbent et affinent les anciennes Phases sans les supprimer. Ajout Regle 7bis (chambrage Yann, humour comme texture par defaut et non plus seulement reactif), Regle 16 (preuve nominative calibree sur un chiffre-objectif du prospect, non disponible tant que Matthias n'a pas de client chiffre avec accord), Regle 17 (auto-qualification active), Regle 18 (urgence/rarete authentique, version positive de la doctrine anti-fausse-rarete deja posee dans `TEASING_METHODE_DM.md`). Ajout tableau de reference Yann x Maeva (Partie 6), cadrage "call = qualif pas vente" (Situation 11), items checklist correspondants (Partie 8). Source : etude de cas complete + les 7 etapes fournies par Matthias le 30 aout 2026.*
-*Base sur les 18 regles de Matthias + Methodologie Enzo Racine (questionnement socratique) + Methodologie Yann Perono (structure 7 etapes + style) + Conversations reelles analysees*
+*Mis a jour le 30 aout 2026 (2) : pivot complet de l'offre et de l'ICP suite au travail avec Yann du 29 aout (voir `SKILL_STRATEGIE.md` Partie 2 pour l'offre et l'avatar "Lucas" complets). Partie 7 entierement reecrite (nouvel avatar, contredit et remplace l'ancien ICP notamment sur la taille d'audience — Lucas peut avoir des milliers/dizaines de milliers d'abonnes, l'ancien ICP visait <1000). Regle 18 mise a jour : la garantie est desormais reelle et formalisee dans l'offre (prolongation gratuite jusqu'au premier client signe, sous conditions). Ajout Regle 19 (anti-vente calibree : diagnostic sans complaisance + refus calibre d'un call propose par le prospect, jamais joue) et Situation 11bis correspondante. Deux tensions signalees a Matthias, non tranchees : l'inclusion de "l'accompagnement jusqu'a la signature" dans la nouvelle offre semble contredire le retrait du closing annonce par Yann le 27 aout ; le format "sessions 1:1 illimitees + WhatsApp 24/7" est nettement plus lourd que ce qui inquietait deja Matthias le 5 aout.*
+*Base sur les 19 regles de Matthias + Methodologie Enzo Racine (questionnement socratique) + Methodologie Yann Perono (structure 7 etapes + style + anti-vente) + Conversations reelles analysees*
 *A utiliser comme moteur de decision pour CHAQUE reponse de setting DM*
