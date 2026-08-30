@@ -748,4 +748,45 @@ mardi
 
 ---
 
+### Emma Cooman
+
+lundi
+19:42 Matthias : Yo yo yo
+
+mardi
+09:00 Emma : Hellooo ☀
+09:05 Matthias : La formeeeeee / Désolé, je suis de bonne humeur aujourd'hui
+09:12 Emma : J'aime la bonne humeur ahah
+09:15 Matthias : Toi aussi t'es chaud patate après les vacances ?
+09:16 Emma : En vrai, oui ! Je suis rentrée il y a 2 semaines et je suis remontée à bloc ☀ J'imagine que toi aussi ?
+09:30 Matthias : Let's goooo / Yes à donf / T'es sur LK depuis longtemps
+09:32 Emma : Ouh la, je crois que mon compte existe depuis 6 ans mais que je suis réellement active depuis octobre 2025
+09:35 Matthias : Ah bah pareil mdr septembre j'ai recommencé / T'as suivi des accompagnements ?
+09:37 Emma : Spécifique à LK ?
+09:48 Matthias : Oui
+09:52 Emma : J'ai déjà suivi des lives et accepté un challenge de 21 jours d'Elodie Delmas
+10:52 Matthias : Ah ok / Mais du coup t'y arrives tout seul j'imagine ? Tu fais du contenu qui fonctionne ou c'est autre chose ?
+11:10 Emma : Je commence à comprendre ce qui fonctionne et à tester !
+
+mercredi
+12:36 Matthias : C'est top / C'est quoi du coup pour toi les prochains step dans ton activité ?
+18:07 Emma : Prospecter et atteindre mon CA cible !
+
+jeudi
+13:47 Matthias : Donc tu fais pas partie des gens qui 🤮 sur la prospection, si je comprends bien 😄
+14:05 Emma : Ah bah je suis à fond dedans, prospection digitale et physique 😌
+14:06 Matthias : Ah ouais c'est quoi qui fonctionne le mieux ?
+14:07 Emma : Pour l'instant les MP !
+14:07 Matthias : Sur LK ?
+14:08 Emma : Instagram
+14:08 Matthias : Ah intéressant je connais pas du tout Insta sur cette partie-là / C'est quoi ta strate sur Insta ? Pourquoi ça fonctionne mieux que LinkedIn ?
+14:11 Emma : Je pense que je suis beaucoup plus naturelle sur Insta que sur LK
+14:11 Matthias : Ok / Parce que y a vraiment ta cible sur Insta c'est ça
+14:39 Emma : Oui puis j'ai vraiment une communauté avec qui je discute et ça finit par convertir
+14:41 Matthias : C'est génial c'est quoi ton Insta pour que j'aille jeter un coup d'œil
+15:01 Emma : https://www.instagram.com/studio_coom/ / Et j'ai carrément eu une cliente grâce à un MP sur Discord, c'est génial
+15:20 Matthias : 😙💁‍♂️🐕 Ah oui, tu gères
+
+---
+
 *Document créé le 22 juillet 2026, en complément de `JOURNAL.md`, à la demande de Matthias (besoin d'une sauvegarde brute complète des conversations, pas seulement un résumé).*

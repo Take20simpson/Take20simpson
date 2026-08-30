@@ -1278,6 +1278,15 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Prochaine étape probable : envoyer le message ci-dessus, puis dérouler Phase 1 classique avant transition vers focus/objectif
 - Dernière mise à jour : 5 août 2026
 
+### Emma Cooman — Community Manager & Coach Réseaux Sociaux, aide les TPE/PME à transformer leur audience Instagram/LinkedIn en clients (Toulouse)
+
+- Statut : Phase 2→3 (transition), objectif donné mais résultats pas encore quantifiés
+- Dernier point : réellement active sur LK depuis octobre 2025 (~10 mois), a suivi des lives + le challenge 21 jours d'Elodie Delmas (accompagnement spécifique LK). Objectif donné en Phase 2 : "Prospecter et atteindre mon CA cible". Se dit à fond dans la prospection digitale + physique, mais révèle que son canal qui marche le mieux est Instagram (MP) et pas LinkedIn — se sent plus naturelle là-bas, a une vraie communauté avec qui elle discute et qui convertit, vient d'avoir une cliente via un MP Discord. Point notable pour du teasing futur : elle vend elle-même à ses clients "transformer son audience en clients", mais pour elle-même c'est Insta qui convertit, pas encore de vue d'ensemble chiffrée (combien de clientes au total, où elle en est par rapport à son CA cible).
+- Patterns utilisés : R1 (rebond systématique sur ses mots exacts tout le long), séquence Phase 3 Q1-Q2 entamée (comment elle s'y prend, ce qu'elle a mis en place), R6 (quantification) pas encore lancée sur les résultats
+- Piège identifié : dernier message envoyé par Matthias lui-même ("Ah oui, tu gères", emojis) sans question de fin — Piège #10, fil en pause côté Matthias
+- Prochaine étape probable : relancer avec une question de quantification (Q3 — combien de clientes/mois avec cette combo, ou où elle en est par rapport à son CA cible) pour amorcer la vraie Phase 3 et faire émerger le GAP entre "ça convertit" et l'objectif encore non atteint
+- Dernière mise à jour : 30 août 2026
+
 ---
 
 *Document créé le 22 juillet 2026, dans le cadre de la nouvelle architecture à 4 pôles.*
