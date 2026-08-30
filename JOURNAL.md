@@ -1287,6 +1287,14 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Prochaine étape probable : relancer avec une question de quantification (Q3 — combien de clientes/mois avec cette combo, ou où elle en est par rapport à son CA cible) pour amorcer la vraie Phase 3 et faire émerger le GAP entre "ça convertit" et l'objectif encore non atteint
 - Dernière mise à jour : 30 août 2026
 
+### Sandrine Lasserre — Consultante SEO éditorial & stratégie de contenu business (contenus B2B au service du pipe commercial, approche ROI/conversions, FR/EN)
+
+- Statut : Phase 1 (tout début), pure politesse pour l'instant
+- Dernier point : premier DM en remerciement de son commentaire (parcours 1 — warming), échange de "bon weekend" réciproque, aucune matière business abordée. Dernier message envoyé par Matthias lui-même ("Merci", emojis) sans question de fin — Piège #10, fil en pause côté Matthias.
+- Patterns utilisés : Parcours 1 (warming via commentaire avant DM)
+- Prochaine étape probable : relancer avec une observation légère sur son positionnement (contenu B2B/pipe commercial, headline) pour ouvrir la vraie Phase 1
+- Dernière mise à jour : 30 août 2026
+
 ---
 
 *Document créé le 22 juillet 2026, dans le cadre de la nouvelle architecture à 4 pôles.*

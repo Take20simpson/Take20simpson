@@ -789,4 +789,13 @@ jeudi
 
 ---
 
+### Sandrine Lasserre
+
+22 août
+20:16 Matthias : Merci pour ton com au passage / Bon WE
+20:19 Sandrine : 👍 / Bon weekend a toi aussi
+20:22 Matthias : Merci
+
+---
+
 *Document créé le 22 juillet 2026, en complément de `JOURNAL.md`, à la demande de Matthias (besoin d'une sauvegarde brute complète des conversations, pas seulement un résumé).*
