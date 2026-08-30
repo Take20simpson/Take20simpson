@@ -388,6 +388,25 @@ mardi (date exacte non précisée, ~22 juillet)
 09:54 Julie : Ca depend des gens justement, certains sont à l'aise à lécrit d'autres à l'oral
 09:56 Matthias : Ouais complètement, ça existe ces profils. Mais toi tu compares à quoi pour dire que t'es plutôt côté écrit, t'as vraiment mis autant d'effort sur l'oral que sur l'écrit jusqu'ici ?
 09:57 Julie : Plutôt dans le sens ou à l'écrit ça ne me deamnde aucun effort, et à l'oral beaucoup d'energie
+10:30 Julie : Non c'est le cas depuis toujours
+13:06 Matthias : Top
+
+29 juillet
+17:10 Matthias : Au fait, je monte un petit truc en ce moment : un groupe fermé, une poignée de personnes seulement, où on s'entraide sur la visibilité LinkedIn (commentaires, engagement, ce genre de choses). Aucun coût, juste un vrai coup de main mutuel pendant quelques semaines. Je pensais. Ça te dit d'en savoir plus ?
+17:10 Julie : Alors je n'ai pas besoin d'aide sur ce point aha / Mais si il y a des créateurs qui ont besoin d'aide oui why not
+17:21 Matthias : Tu fais trop d'impression, c'est ça ?
+17:24 Julie : Jamais trop ! Mais beaucoup oui
+17:24 Matthias : ah bah tant mieux / Je te pose le cadre vite fait avant qu'on démarre, histoire que ce soit clair dès le départ. Le principe : un petit groupe fermé, 5 personnes pour l'instant, où on s'entraide vraiment sur la visibilité LinkedIn. Dès que quelqu'un poste, il le partage dans le groupe, et l'idée c'est de lire le post pour de vrai, mettre la réaction qui correspond (pas un like par réflexe), et laisser un commentaire qui dit un truc réel, jamais un emoji ou un "top post". Deux règles, simples mais sérieuses : on engage dans l'heure qui suit chaque post ; si je vois que quelqu'un décroche, 3 avertissements et il sort du groupe, pas de rancune, mais ça doit rester un truc où tout le monde est vraiment dedans, sinon ça sert à rien pour personne. C'est gratuit pour l'instant, on est en bêta. Ça deviendra payant dans quelques semaines/mois. Ça te va comme ça ? Si oui je t'ajoute
+17:26 Julie : Oulah si c'est un truc payant non laisse tomber j'ai énormément de visibilité ça va me prendre du temps en plus moi
+17:28 Matthias : ok ça marche
+
+21 août
+21:13 Julie : J'adore tes nouveaux posts !! / Tu as changé quelque chose dans ta strat non?
+21:47 Matthias : Je change tout le temps 😂😂 / Mais c'est grave, intéressant que tu me dises ça / C'est quoi qui t'a interpellé ? / J'essaye de commenter aussi tes postes pour que ce soit pertinent
+22:49 Julie : J'ai l'impression que tu mets plus de de ta personnalité dans tes posts !
+
+22 août
+08:16 Matthias : Oui c'est possible ahah
 
 ---
 
