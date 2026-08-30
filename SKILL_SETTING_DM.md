@@ -1,7 +1,13 @@
 # SKILL SETTING DM — Framework Operationnel de Reponse
 
-> Ce document donne a Claude la capacite COMPLETE de generer des reponses de setting DM exactement comme Matthias le ferait, en appliquant la methodologie Enzo Racine.
+> Ce document donne a Claude la capacite COMPLETE de generer des reponses de setting DM exactement comme Matthias le ferait, en appliquant la methodologie Enzo Racine ET, depuis le 30 aout 2026, la structure et le style de Yann Perono (coach de Matthias, voir `SKILL_STRATEGIE.md` Partie 11).
 > Ce n'est PAS un document theorique. C'est un MOTEUR DE DECISION en temps reel.
+
+**Refonte du 30 aout 2026 — structure Yann comme squelette macro.** Suite a l'accompagnement signe avec Yann (26 aout), Matthias a fourni une etude de cas complete (masterclass DM, prospect Maeva, issue positive : call de qualification accepte) et les 7 grandes etapes de sa methode de setting. Decision de Matthias, explicite : se calquer sur Yann pour la structure ET le style (humour constant, questions de transition, etapes), sans jeter ce qui existait — les deux sont complementaires. Concretement :
+- **Les 7 etapes de Yann (Partie 2 ci-dessous) remplacent les 5 "Phases" comme structure macro de reference.** Elles sont plus fines et nomment explicitement des moments qui existaient deja de facon diffuse dans l'ancien decoupage (don de valeur, preuves, auto-qualification, urgence/rarete).
+- **Les 15 regles d'execution (Partie 1) restent la couche tactique** — elles s'appliquent A L'INTERIEUR de chaque etape Yann, pas en remplacement. 3 nouvelles regles ajoutees (16, 17, 18) pour capturer des mecanismes observes chez Yann et absents jusqu'ici.
+- **Le style change de dosage sur un point precis : la frequence de l'humour/chambrage.** Voir Regle 7bis. Le reste du style (accents corrects, jamais de guillemets, jamais deux questions, etc.) ne change pas.
+- **Teasing (Regle 13) et signal marche (Regle 14), documentes dans `TEASING_METHODE_DM.md`, restent valides tels quels** — Yann utilise une variante proche mais non gated par reciprocite (voir Regle 16, preuve nominative calibree), qui s'ajoute a cote, ne remplace rien.
 
 **A lire avant utilisation :** `TEASING_METHODE_DM.md` (brique teasing de methode + signal marche, integrees ci-dessous en Regle 13, Regle 14, Situation 3, Situation 3bis et Situation 10bis).
 
@@ -27,7 +33,7 @@ Quand Matthias colle un message de prospect et demande quoi repondre, Claude doi
 
 1. **Lire le message du prospect** — mot par mot, y compris l'historique complet de LA MEME conversation (pour eviter de repeter un emoji/une expression deja utilisee)
 2. **Passer par l'arbre decisionnel** (Partie 2)
-3. **Appliquer les 15 regles** (Partie 1) dans l'ordre
+3. **Appliquer les 18 regles** (Partie 1) dans l'ordre
 4. **Generer la reponse** selon le format (Partie 3) — toujours un bloc ELAN (l'intention, pas la formulation) puis un bloc REPONSE (le message redige)
 5. **Faire le raisonnement complet en interne (mot cle, croyance cachee, regle(s) appliquee(s), phase, pourquoi, prochaine etape probable) mais NE PLUS L'ECRIRE dans la reponse (precision de Matthias, 13 juillet 2026)** — il ne la lit jamais. Le raisonnement reste indispensable pour construire une bonne reponse, il est juste garde pour soi, pas redige. Voir Partie 3 pour le detail.
 6. **Etre proactif, pas juste executant (precision du 13 juillet 2026, cas Manon Cressent).** Ne pas se limiter a produire LA reponse qui coche mecaniquement les regles. Anticiper les problemes avant que Matthias ait besoin de les relever (ex : une question dont la reponse est deja publique sur le profil, un ton qui sonne script), proposer spontanement des alternatives de format (texte vs message vocal) quand ca peut faire une vraie difference, et brainstormer des angles que Matthias n'a pas suggeres. Matthias attend un vrai collaborateur qui challenge et propose — pas quelqu'un qui attend d'etre corrige apres coup pour s'ameliorer.
@@ -71,9 +77,9 @@ Quand Matthias colle un message de prospect et demande quoi repondre, Claude doi
 
 ---
 
-## PARTIE 1 : LES 15 REGLES D'EXECUTION
+## PARTIE 1 : LES 18 REGLES D'EXECUTION
 
-> Ces 15 regles sont appliquees A CHAQUE reponse generee. Pas une de moins. Dans l'ordre. (La Regle 13 — teasing — et la Regle 14 — signal marche — ne s'appliquent que si leur declencheur respectif, Partie 1, est present ; sinon on reste sur les Regles 1-12. La Regle 15 — auto-partage preventif — s'applique specifiquement avant une question personnelle/identitaire, surtout la premiere d'une conversation.)
+> Ces 18 regles sont appliquees A CHAQUE reponse generee. Pas une de moins. Dans l'ordre. (La Regle 13 — teasing — et la Regle 14 — signal marche — ne s'appliquent que si leur declencheur respectif, Partie 1, est present ; sinon on reste sur les Regles 1-12. La Regle 15 — auto-partage preventif — s'applique specifiquement avant une question personnelle/identitaire, surtout la premiere d'une conversation. La Regle 7bis — chambrage Yann — s'applique en continu comme texture par defaut, pas seulement en reaction. Les Regles 16, 17, 18 — apports Yann du 30 aout 2026 — s'appliquent respectivement : des qu'un chiffre-objectif est enonce par le prospect, une fois l'objectif/pain point etabli, et des que le prospect detecte une technique de vente.)
 
 ### Regle 1 — Repondre a ce qu'elle VIENT de dire, jamais generique
 
@@ -496,6 +502,76 @@ Deux messages distincts a la suite (pas un seul pave fusionne) — ca imite le r
 
 ---
 
+### Regle 7bis — Chambrage Yann (l'humour comme texture par defaut, pas comme soupape reactive)
+
+> Ajoutee le 30 aout 2026, a partir de l'etude de cas fournie par Matthias (conversation Yann x Maeva, issue positive). Etend la Regle 7 (jauge d'empathie), ne la remplace pas — les deux coexistent selon le registre.
+
+**Le constat qui differencie Yann de la Regle 7 actuelle :** la Regle 7 traite l'empathie/la rondeur comme un correctif REACTIF, declenche apres 2-3 questions seches pour relacher une pression deja creee. Chez Yann, l'humour n'attend pas ce seuil — il est present dans quasiment CHAQUE message, y compris dans les questions les plus directes/diagnostiques. Exemple reel : *"Sauf qu'aujourd'hui vous avez zéro système pour trouver des clients ? (pour moi le BAO c'est pas un système, ça prouve que vous êtes bon mais pas plus)"* — la vanne/la nuance parenthetique est TISSEE dans la question elle-meme, pas ajoutee avant ou apres.
+
+**Trois mecanismes concrets a reproduire :**
+
+1. **Auto-derision / aveu de confusion a voix haute, jamais l'expert lisse.** Quand Matthias perd le fil ou doit clarifier, le dire ouvertement et avec humour plutot que de reformuler une question neutre comme si de rien n'etait. Exemples reels : *"Tu es en train de me perdre Maëva"*, *"Okkk mes fils commencent à se toucher"*, *"CDI tu me donnes de l'exéma là 😂"*. Ca humanise et desamorce — l'inverse de l'image du coach omniscient qui suit tout parfaitement.
+2. **Banter leger et impersonnel en ouverture de sequence** (stereotypes regionaux/culturels benins, exagerations comiques, reactions "wtf") pour installer un ton pote-a-pote avant meme d'entrer dans le vif du sujet business. Reste toujours SUR un sujet neutre (jamais sur elle/son business) — meme logique que la Regle 12 (jamais evaluer son business en filigrane), transposee a l'humour.
+3. **Cadrer explicitement l'objection meta ("je sens la vente") avec humour plutot que la nier.** Quand le prospect detecte une technique (rarete, closing), ne pas se defendre — l'assumer avec le sourire ("Je te chambre tkt mdrr") puis enchainer sur le mecanisme REEL derriere (voir Regle 18). Nier ou minimiser sonnerait faux ; l'assumer avec humour desamorce immediatement.
+
+**Dosage/frequence — vrai changement par rapport a l'existant :** la regle de style actuelle (Partie 3, "Emojis : avec parcimonie, max 1 par message") reste valable pour les emojis EN TANT QUE PONCTUATION VISUELLE, mais la densite orale de rire ("mdr", "mdrr", "mdrrr", "ahah", "haha") peut desormais monter nettement au-dessus d'avant, en particulier en Etape 1-2 (prétexte de contact, qualification legere) — a calibrer sur le registre du prospect (Partie 6 de `TEASING_METHODE_DM.md`), jamais impose si le prospect reste sobre/formel.
+
+**Garde-fou : ce chambrage frequent ne remplace jamais le fond.** Yann pose des questions tout aussi directes que la methode Enzo (Regle 1-6), juste enrobees different. Le risque a surveiller (deja documente Regle 13, "garde-fou anti-sur-teasing/sous-creusage") s'applique ici aussi : beaucoup d'humour + zero progression de qualification = echec de conversion malgre un excellent rapport. L'humour est un enrobage plus dense, pas un substitut au creusage.
+
+**Ou ca ne s'applique pas :** registre lourd/vulnerable (meme regle que Regle 13/Partie 6 de `TEASING_METHODE_DM.md`) — sur un prospect en detresse ou tres formel des le depart, revenir a une rondeur plus classique (Regle 7), le chambrage constant y sonnerait deplace.
+
+---
+
+### Regle 16 — Preuve nominative calibree sur le chiffre du prospect (non gated par reciprocite)
+
+> Ajoutee le 30 aout 2026, cas Yann x Maeva. Complementaire a la Regle 13 (teasing) et la Regle 14 (signal marche), mecanisme distinct des deux.
+
+**Le mecanisme observe :** des que le prospect enonce un objectif chiffre (CA vise, nombre de clients, delai), Yann peut repondre avec une preuve NOMMEE et REELLE d'un client a lui dont le resultat fait echo a ce chiffre precis. Exemple reel : Maeva annonce viser 12k€/mois ; Yann repond immediatement *"j'ai @julien ROBERT qui a déjà signé 12k dans l'accompagnement en moins de 3 semaines et il est sur le point d'en signer encore"*. La coincidence numerique (12k vise = 12k obtenu par un client reel) est ce qui rend la preuve percutante — ce n'est pas juste "j'ai des clients qui reussissent", c'est un echo direct au chiffre qu'ELLE vient de donner.
+
+**Difference avec la Regle 13 (teasing) :** le teasing est gated par reciprocite (le prospect doit demander/relancer en premier) et parle du parcours/de la methode de MATTHIAS lui-meme. La Regle 16 n'attend AUCUNE reciprocite — elle se declenche des qu'un chiffre-objectif est enonce par le prospect, et porte sur UN CLIENT NOMME, pas sur Matthias.
+
+**Difference avec la Regle 14 (signal marche) :** le signal marche reste anonyme/agrege ("j'ai discute avec deux personnes dans ta niche qui..."), jamais un nom ni un chiffre individuel precis. La Regle 16 est l'inverse : un cas UNIQUE, NOMME, avec un CHIFFRE EXACT — plus fort en impact mais qui demande un vrai client reel et verifiable derriere (garde-fou d'integrite ci-dessous).
+
+**Format obligatoire :** [Objectif chiffre enonce par le prospect] → [Validation courte de l'ambition, jamais un jugement sur si c'est realiste ou pas] → [Preuve nominative avec un chiffre qui fait echo, en une phrase] → revenir ensuite a la conversation (jamais s'attarder, jamais enchainer une deuxieme preuve).
+
+**Garde-fou d'integrite absolu (coherent avec Principe #2 de `SKILL_STRATEGIE.md`, ligne rouge sur les faux resultats) :** le client cite doit etre reel, le chiffre doit etre reel et verifiable, et l'accord du client pour etre cite nommement doit exister. **Statut actuel pour Matthias : mecanisme NON DISPONIBLE tant qu'il n'a pas de client signe sur l'offre 2000€ avec un resultat chiffre reel et l'accord explicite d'etre cite (voir `SKILL_STRATEGIE.md` Principe #2, gestion de la question resultats).** En attendant, Matthias peut soit ne pas utiliser ce mecanisme, soit l'adapter en s'appuyant sur ses propres resultats en prospection pour lui-meme (deja une donnee reelle, voir Regle 13/teasing) plutot que sur un client fictif — jamais inventer un nom ou un chiffre.
+
+---
+
+### Regle 17 — Auto-qualification active (forcer l'engagement verbal, pas l'attendre)
+
+> Ajoutee le 30 aout 2026, cas Yann x Maeva.
+
+**Le mecanisme :** une fois l'objectif/le pain point etabli, poser une question qui force explicitement le prospect a QUALIFIER SON PROPRE NIVEAU D'ENGAGEMENT a voix haute — pas juste son objectif ou sa douleur, mais sa determination reelle a agir. Exemple reel : *"Mais t'es déter pour ça ? Ça demande du taff par contre"* / *"Pas facilement, car tenir sur le long terme ça demande un vrai taff"*. Maeva repond en s'auto-qualifiant : *"je suis quand même en train de construire une agence 🤣 je suis pas à mon premier coup d'essai"*.
+
+**Pourquoi c'est different des Regles 1-12 existantes :** les regles actuelles font emerger la douleur/la croyance limitante par la question (Regle 2, 4). La Regle 17 va plus loin — elle fait emerger un ENGAGEMENT, pas juste une prise de conscience. C'est un pont entre le diagnostic (elle a un probleme) et la suite (elle est prete a s'investir pour le resoudre), qui manquait comme etape explicite.
+
+**Formulation-type, a adapter, jamais reformulee a l'identique :** [reconnecter a son objectif deja enonce] + [nommer honnetement que ca demande du travail/du temps, jamais vendre du facile] + question qui l'oblige a se positionner elle-meme sur son niveau d'engagement.
+
+**Garde-fou :** ne jamais transformer ca en pression/culpabilisation ("si t'es pas assez motivee ca marchera pas") — le ton reste taquin/complice (voir Regle 7bis), jamais une mise en accusation. L'objectif est qu'elle formule sa propre determination, pas qu'elle se sente jugee si elle hesite.
+
+**Ou ca s'insere :** juste avant l'urgence/rarete (Regle 18) et la proposition du call — c'est le dernier palier de qualification avant de proposer l'appel, coherent avec Enzo (Regle 10, "SI je dois" vs "COMMENT") : l'auto-qualification aide justement a distinguer les deux.
+
+---
+
+### Regle 18 — Urgence et rarete authentique (jamais fabriquee)
+
+> Ajoutee le 30 aout 2026, cas Yann x Maeva. Confirme et rend operationnelle une doctrine deja posee negativement dans `TEASING_METHODE_DM.md` Partie 10 ("a ecarter — fausse rarete mise en scene") — cette regle donne la version POSITIVE, ce qui manquait.
+
+**Le declencheur :** le prospect detecte lui-meme une technique de vente ("je sens la vente plein nez", "petite xp commerciale qui parle"). C'est une bonne nouvelle, pas un echec — c'est le moment ou la rarete authentique fait toute la difference face a la fausse.
+
+**Le mecanisme observe chez Yann, en deux briques, toutes les deux VERIFIABLEMENT REELLES :**
+1. **La garantie comme filtre, pas comme argument marketing :** *"On a une garantie... tu dois générer 3 fois le montant de l'accompagnement avant qu'on te lâche. Donc là-dessus si je prends les mauvaises personnes on perd de l'argent."* — reformule la selectivite comme un risque financier REEL pour le prestataire (pas juste un argument pour rassurer le prospect), ce qui la rend credible.
+2. **La contrainte de capacite reelle de delivery :** *"Je bloque à 3/4 places par mois, car c'est moi qui délivre, personne me remplace... si je prends trop de monde je peux pas aider correctement."* — rarete parce que la qualite de delivery degraderait au-dela d'un certain volume, pas une mise en scene ("plus que 3 places, depechez-vous").
+
+**Difference cruciale avec la fausse rarete (deja proscrite) :** une fausse rarete cree une urgence artificielle pour faire pression ("plus que 4 places ce mois-ci" invente). La vraie rarete decrit une contrainte OPERATIONNELLE reelle qui existe independamment du prospect en face — elle informe plutot qu'elle presse.
+
+**Application a Matthias — a construire, pas encore formalise :** Matthias n'a pas encore de garantie formelle ni de contrainte de capacite explicite communiquee en closing (voir `SKILL_STRATEGIE.md` Partie 6, la garantie existe deja comme "massue finale" en closing visio mais n'est pas transposee en DM). Piste a discuter avec Matthias avant d'appliquer telle quelle en DM : quelle est SA contrainte reelle (temps de suivi disponible par client, nombre de clients qu'il peut vraiment accompagner en parallele avec un suivi 2x/semaine) — a poser explicitement plutot que d'improviser un chiffre en DM.
+
+**Format obligatoire :** [Accueillir la detection avec humour, Regle 7bis, jamais nier] → [Expliquer LE mecanisme reel, une seule brique a la fois, jamais les deux d'un coup] → [revenir naturellement a la conversation, ne pas transformer ca en pitch].
+
+---
+
 ### Point en tension a trancher — annonce de prix en DM
 
 La Regle 7 de la Partie 5 dit "JAMAIS annoncer le prix en DM". Un cas reel observe (conversation Fanny Roos, juillet 2026) montre Matthias donnant son prix (2000 EUR / 8000 EUR brut) directement en DM, en reponse a une question tres frontale et dans un contexte de rapport tres eleve — et ca n'a pas fait fuir la prospect, au contraire. Ca rentre dans la logique de calibrage de la Regle 13 (question frontale → reponse precise).
@@ -510,42 +586,80 @@ La Regle 7 de la Partie 5 dit "JAMAIS annoncer le prix en DM". Un cas reel obser
 
 ### Etape 0 — Ou en est-on dans la conversation ?
 
+> **Refonte du 30 aout 2026 :** la structure macro est desormais calquee sur les 7 etapes de Yann (Prétexte de contact → Qualification → Don de valeur → Preuves → Auto-qualification → Urgence et rareté → Proposition du call). Les anciennes "PHASE 1-5" restent utilisees comme sous-decoupage tactique a l'interieur de ces 7 etapes (beaucoup de regles/situations plus bas dans ce document y font encore reference par leur nom de Phase) — les deux se lisent en parallele, l'une n'annule pas l'autre.
+
 ```
-PHASE 1 — Superficielle (1-3 messages apres le premier DM)
-    → Beaucoup de rondeur, s'interesser sincerement
-    → Questions : "Tu fais quoi ?", "Depuis combien de temps ?"
-    → Ton : decontracte, curieux, comme une pote
-    → Optionnel : question d'opinion pour amorcer la reciprocite tot (Situation 3bis), si ca sonne naturel
+ETAPE 1 (Yann) — PRETEXTE DE CONTACT
+    → Le premier message doit toujours s'ancrer sur un vrai point de contact reel (coherent avec
+      "Prospection chaude", `SKILL_STRATEGIE.md` Partie 2) : visite de profil, commentaire, like,
+      echange existant — jamais un message a un pur inconnu sans aucun signal.
+    → Format Yann observe : un choix binaire leger/drole sur la raison probable du contact, qui
+      qualifie DEJA en filigrane sans que ca sonne comme une question de qualification.
+      Exemple reel : "j'ai vu ton nom dans mes visites de profil donc deux possibilites :
+      1 tu me stalk gentiment / 2 tu cherches + de clients en ce moment mdr, je mise sur lequel ?"
+    → Ton : chambrage immediat (Regle 7bis), jamais un message plat de premier contact
 
-PHASE 2 — Transition
-    → LA question pivot : "Et du coup, ca va etre quoi ton focus cette annee ?"
-    → Variantes : "C'est quoi ton objectif la pour les prochains mois ?"
+ETAPE 2 (Yann) — QUALIFICATION  [= ancien PHASE 1 superficielle + PHASE 2 transition + debut PHASE 3]
+    PHASE 1 — Superficielle (1-3 messages apres le premier DM)
+        → Beaucoup de rondeur, s'interesser sincerement, chambrage frequent (Regle 7bis)
+        → Questions : "Tu fais quoi ?", "Depuis combien de temps ?"
+        → Ton : decontracte, curieux, comme une pote
+        → Optionnel : question d'opinion pour amorcer la reciprocite tot (Situation 3bis), si ca sonne naturel
+    PHASE 2 — Transition
+        → LA question pivot : "Et du coup, ca va etre quoi ton focus cette annee ?"
+        → Variantes : "C'est quoi ton objectif la pour les prochains mois ?"
+    PHASE 3 (debut) — Questions profondes
+        → On REDUIT la rondeur pure (max 2 phrases entre chaque question) mais le chambrage
+          (Regle 7bis) continue a tisser les questions, il ne s'arrete pas net a ce stade
+        → Sequence : methode actuelle → resultats → satisfaction → objectif → blocage
+        → "Methode actuelle" = LA priorite de debut de phase : comment le prospect trouve ses clients
+          aujourd'hui, simplement (bouche a oreille ? LinkedIn ? autre chose ?) — sans bombarder.
+        → Si confusion reelle sur sa situation (plusieurs activites, contexte complique) : le dire
+          ouvertement avec humour plutot que de fusionner silencieusement (Regle 7bis, mecanisme 1)
+        → On ne creuse jamais pour titiller/faire mal — chaque question sert a comprendre, jamais a eprouver
+        → 1 question = 1 message
 
-PHASE 3 — Questions profondes (qualification)
-    → On REDUIT la rondeur (max 2 phrases entre chaque question)
-    → Sequence : methode actuelle → resultats → satisfaction → objectif → blocage
-    → "Methode actuelle" = LA priorite de debut de phase : comment le prospect trouve ses clients
-      aujourd'hui, simplement (bouche a oreille ? LinkedIn ? autre chose ?) — sans bombarder.
-      Objectif : comprendre sa strategie, PAS creuser une douleur ponctuelle en boucle. Cette
-      question sert aussi de tremplin naturel vers la reciprocite (Regle 13) : en lui demandant
-      comment ELLE fait, on ouvre la porte a ce qu'elle demande en retour "et toi comment tu fais ?"
-    → On ne creuse jamais pour titiller/faire mal — chaque question sert a comprendre, jamais a eprouver
-    → 1 question = 1 message
+ETAPE 3 (Yann) — DON DE VALEUR  [reste leger, majoritairement implicite dans la conversation]
+    → Pas un moment separe/annonce. Se manifeste surtout via la Regle 8 (faire vivre le coaching
+      en temps reel — montrer un pattern, jamais donner la solution) et via l'acces implicite a
+      une expertise/un reseau (ex : mentionner en passant travailler avec des gens references
+      dans son domaine). Ne JAMAIS transformer ca en veritable conseil actionable (ligne rouge
+      Regle 8 inchangee) ni en pave de valeur non sollicite (Partie 2 de `TEASING_METHODE_DM.md`).
+
+ETAPE 4 (Yann) — PREUVES  [= fin PHASE 3, ancre Regles 13/14/16]
+    → Faire quantifier au prospect SA propre credibilite/experience passee avant de montrer la
+      sienne (ex : "t'as eu combien de projets sur 4 ans ?") — la preuve du prospect d'abord,
+      la preuve de Matthias ensuite seulement si un declencheur existe (reciprocite, chiffre-echo)
     → Si signal de reciprocite (Regle 13) : tease possible ici, enjoue/visceral, puis question
     → Signal marche (Regle 14) possible des qu'un sujet revele un pattern deja observe chez d'autres —
       n'importe quel sujet (tarifs, positionnement, acquisition, qualite client...), pas besoin de
       reciprocite, toujours ancre + suivi d'une question sur elle
+    → Preuve nominative calibree (Regle 16) possible des qu'un chiffre-objectif precis est enonce —
+      voir garde-fou de disponibilite actuelle dans la Regle 16 (pas encore utilisable sans client
+      reel chiffre et son accord)
 
-PHASE 4 — Creusage emotionnel
-    → Challenger ce que le prospect fait
-    → Chaine des "pourquoi"
-    → Projection temporelle
-    → Jauge d'empathie active
-    → Si le prospect ouvre lui-meme une vulnerabilite en retour : tease possible (Regle 13), sinon rester en creusage
+ETAPE 5 (Yann) — AUTO-QUALIFICATION  [nouveau palier explicite, Regle 17]
+    → Une fois l'objectif chiffre + un peu de preuve etablis : faire qualifier au prospect SON
+      PROPRE niveau d'engagement/determination a voix haute (Regle 17), pas seulement sa douleur
+    → Pont naturel vers "SI je dois" vs "COMMENT" (Regle 10) : l'auto-qualification aide a
+      distinguer les deux avant de proposer l'appel
 
-PHASE 5 — Proposition visio (ou pivot valeur gratuite)
-    → Seulement si : pain point clair + interet + qualification OK
-    → Sinon : pivoter vers valeur gratuite (video, manifeste)
+ETAPE 6 (Yann) — URGENCE ET RARETE (AUTHENTICITE)  [nouveau palier explicite, Regle 18]
+    → Ne s'active pas systematiquement — surtout pertinent si le prospect detecte lui-meme une
+      technique de vente, ou en fin de sequence juste avant la proposition du call
+    → Toujours une contrainte REELLE (garantie/filtre, capacite de delivery limitee), jamais une
+      fausse rarete fabriquee (voir Regle 18 pour le detail et le statut de disponibilite chez Matthias)
+    → Peut aussi se combiner avec la Regle 12 existante (posture d'offreur, jamais demandeur)
+
+ETAPE 7 (Yann) — PROPOSITION DU CALL  [= ancien PHASE 5, voir aussi Situation 11]
+    → Seulement si : pain point clair + interet + qualification OK (+ auto-qualification Regle 17
+      idealement passee)
+    → Cadrage a privilegier (nouveau, Regle 18/Situation 11) : reduire la friction en nommant
+      explicitement que ce n'est PAS un call de vente mais un call de qualification
+    → Sinon (pas encore qualifie) : pivoter vers valeur gratuite (video, manifeste) — ancien PHASE 4
+      "creusage emotionnel" (chaine des "pourquoi", projection temporelle, jauge d'empathie Regle 7)
+      reste l'etape a utiliser pour approfondir avant d'en arriver la, si le pain point n'est pas
+      encore assez clair pour proposer l'appel
 ```
 
 ### Etape 1 — Quel mot/phrase revele le vrai probleme ?
@@ -576,6 +690,12 @@ Formuler 1-2 phrases de validation (Regle 3).
 **Signal marche (Regle 14) :** le prospect vient-il de reveler quelque chose sur lequel Matthias a deja observe un vrai pattern chez d'autres prospects similaires, sur n'importe quel sujet ? Si oui, un fait de marche en 1 phrase est possible, sans attendre de reciprocite, toujours suivi d'une question qui recentre sur elle.
 
 **Dans les deux cas :** jamais deux prises de parole d'affilee. Si aucun declencheur n'est present, ignorer cette etape et continuer normalement sur les Regles 1-12.
+
+**Preuve nominative (Regle 16) :** le prospect vient-il d'enoncer un objectif chiffre precis (CA, nombre de clients, delai) ? Si oui et qu'un client reel/chiffre/accord existe pour y faire echo, preuve nominative possible. Statut actuel : non disponible pour Matthias tant qu'aucun client chiffre avec accord n'existe (voir Regle 16).
+
+**Auto-qualification (Regle 17) :** l'objectif et un minimum de preuve sont-ils deja etablis ? Si oui, envisager une question qui force le prospect a qualifier lui-meme son niveau d'engagement, avant de passer a la proposition du call.
+
+**Urgence/rarete authentique (Regle 18) :** le prospect vient-il de detecter une technique de vente, ou est-on juste avant la proposition du call ? Si oui, envisager d'expliquer UNE contrainte reelle (jamais fabriquee) en reponse.
 
 ### Etape 4 — Construire UNE question
 
@@ -869,6 +989,8 @@ Bon deja bonne nouvelle : ton probleme c'est pas que tu sais pas te vendre. C'es
 - Creneau dans les 72h
 - Reduire la friction ("15-20 min", "zero pression", "aucun engagement")
 
+**Nouveau cadrage (30 aout 2026, cas Yann x Maeva) : nommer explicitement que ce n'est pas un call de vente.** Exemple reel, delivre avec legerete (Regle 7bis) : *"Ça te chauffe on se fait un call pour voir si je peux t'aider ? C'est pas un call de vente, c'est de la qualif."* Ca reduit la friction encore davantage que "zero pression" — ca desamorce directement l'objection anticipee ("il va me vendre un truc") avant meme qu'elle soit formulee. A utiliser comme variante/complement aux formulations existantes, pas en remplacement systematique — reste a calibrer sur plusieurs cas reels avant d'en faire LA formulation par defaut.
+
 ---
 
 ## PARTIE 5 : CE QU'ON NE FAIT JAMAIS EN DM
@@ -924,6 +1046,28 @@ Bon deja bonne nouvelle : ton probleme c'est pas que tu sais pas te vendre. C'es
 4. Humaniser ("mdr", "bha", "boss") pour creer de la proximite
 5. Quand un angle ne marche pas → pivoter vers un autre
 6. La question piquante finale quand tout le reste a echoue
+
+---
+
+### Comment Yann repond (reference structurelle + style, ajoutee le 30 aout 2026)
+
+> Etude de cas complete fournie par Matthias : conversation Yann x Maeva, DM LinkedIn, declencheur = visite de profil, duree 08h14→09h35, issue = call de qualification accepte. Complementaire a la reference Enzo ci-dessus : Enzo donne le squelette du questionnement socratique, Yann donne le squelette des 7 etapes ET la texture de style (chambrage constant, Regle 7bis).
+
+| Message Maeva | Reponse Yann | Etape Yann / mecanisme |
+|---|---|---|
+| (visite de profil, aucun message) | "j'ai vu ton nom dans mes visites de profil donc deux possibilites : 1 tu me stalk gentiment / 2 tu cherches + de clients, je mise sur lequel ?" | Etape 1, Pretexte de contact — choix binaire humoristique qui qualifie deja en filigrane |
+| "un peu des deux... mais pour ton petit 2 c'est pas si simple" | "Ahhh un petit mix. C'est a dire c'est pas si simple ?" | Etape 2, question ouverte qui reprend ses mots exacts (Regle 1) |
+| [explique 2 activites, situation confuse] | "Okkk mes fils commencent a se toucher. Donc la, tu veux chopper des clients sur le free ou l'agence ?" | Regle 7bis mecanisme 1 — assumer sa propre confusion plutot que de fusionner silencieusement |
+| "Rien encore, j'y reflechis grandement" (sur le systeme d'acquisition) | "C'est rien ca se travaille. Faut juste se bouger le cul mdrrr. T'as pas mal de preuves clients j'imagine ?" | Regle 3 (validation avant redirection) + transition vers Etape 4 Preuves |
+| "no idea... facile 30 dont une dizaine en free" | (continue vers l'objectif CA) "C'est quoi vos objectifs avec l'agence ? d'ici la fin d'annee en CA ?" | Etape 4 Preuves (fait dire son propre chiffre AVANT de donner le sien) |
+| "objectifs rouler a 12k/mois" | "Ça me plaît les bons objectifs en termes de CA. J'ai @julien ROBERT qui a deja signe 12k dans l'accompagnement en moins de 3 semaines" | Regle 16 — preuve nominative calibree sur le chiffre exact enonce |
+| "C'est atteignable facilement" | "Mais t'es déter pour ça ? Ça demande du taff par contre. Pas facilement" | Regle 17 — auto-qualification active, refuse de vendre du facile |
+| "je suis quand même en train de construire une agence, pas mon premier coup d'essai" | "Nan mais y'en a qui se la touche, c'est pour ça je le dis" | Auto-qualification confirmee, chambrage (Regle 7bis) |
+| "Je sens la vente plein nez, petite xp commerciale qui parle" | "La garantie c'est que tu dois generer 3 fois le montant... si je prends les mauvaises personnes on perd de l'argent" | Regle 18 — urgence/rarete authentique, assume la detection sans nier |
+| "T'as déjà développé en Suisse Romande ?" | "Absolument pas. Je bloque a 3/4 places par mois, car c'est moi qui delivre" | Regle 18 — deuxieme brique, contrainte de capacite reelle |
+| (situation eclaircie, cible confirmee) | "Ça te chauffe on se fait un call pour voir si je peux t'aider ? C'est pas un call de vente, c'est de la qualif" | Etape 7, proposition du call, cadrage friction reduite |
+
+**Ce qui distingue le plus ce cas de la reference Enzo :** la densite de chambrage (quasi chaque message, voir Regle 7bis), l'auto-qualification comme etape nommee et deliberee (absente chez Enzo), et la preuve nominative non gated par reciprocite (contrairement au teasing classique).
 
 ---
 
@@ -990,6 +1134,10 @@ Quand on en parle au prospect, on ne dit PAS "j'ai un outil IA". On dit "j'ai un
 - [ ] Pas deux prises de parole d'affilee (teasing ou signal marche, meme de nature differente) sans creusage entre les deux
 - [ ] Si c'est la premiere question personnelle/identitaire de la conversation → enrobage preventif (Regle 15, auto-partage court avant la question), pas une question seche a froid
 - [ ] **Avant de valider une reponse en mode "validation courte + question" : ai-je explicitement envisage rondeur longue (Regle 7) / teasing (Regle 13) / signal marche (Regle 14) plutot que de me rabattre par defaut sur le format le plus mecanique ?** (feedback direct de Matthias, 13 juillet 2026 — piege recurrent, voir "COMMENT UTILISER CE DOCUMENT")
+- [ ] **(30 aout 2026) Chambrage (Regle 7bis) : la reponse a-t-elle une texture d'humour tissee dans la question, pas seulement avant/apres — sauf si le registre du prospect est lourd/formel ?**
+- [ ] **(30 aout 2026) A quelle etape Yann (Partie 2, Etape 0) correspond ce message ? La reponse est-elle coherente avec cette etape (ex : ne pas proposer le call avant l'auto-qualification si le pain point est encore flou) ?**
+- [ ] **(30 aout 2026) Si le prospect vient d'enoncer un chiffre-objectif precis : la preuve nominative (Regle 16) est-elle disponible (client reel, chiffre reel, accord) ? Si non, ne pas en inventer une — rester sur le teasing (Regle 13) ou le signal marche (Regle 14).**
+- [ ] **(30 aout 2026) Si l'objectif est deja etabli et qu'on approche de la proposition du call : l'auto-qualification (Regle 17) a-t-elle ete faite ?**
 
 ---
 
@@ -1101,5 +1249,6 @@ Exactement. Et c'est la que tout se joue en fait. Le principe tu l'as capte, le 
 *Mis a jour le 10 juillet 2026 (2) : ajout section "Processus de travail sur ce document" (construction collaborative iterative avec Matthias), ajout du bloc ELAN au format de reponse (Partie 3 — l'intention avant la formulation redigee), ajout regle anti-repetition d'emoji/expression au sein d'une meme conversation (Partie 3 — Ton et style)*
 *Mis a jour le 13 juillet 2026 : correction critique teasing vs enrobage (Regle 13 et Regle 7 precisees — voir `TEASING_METHODE_DM.md` Partie 2bis), ajout Regle 14 (signal marche / "off market", inspire d'une methode observee chez une consoeur), ajout Situation 3bis (question d'opinion pour provoquer la reciprocite), ajout garde-fou anti "gros sabots" sur les relances (Situation 10bis), precision "le tableau n'est pas la conversation" (structure de reference vs fluidite reelle d'une conversation de 40 messages)*
 *Mis a jour le 13 juillet 2026 (2) : l'analyse (Partie 3, point 3) n'est plus redigee dans la reponse — Matthias ne la lit jamais. Le raisonnement reste fait en interne (obligatoire), juste plus ecrit. Format de reponse desormais : ELAN + REPONSE DM uniquement.*
-*Base sur les 15 regles de Matthias + Methodologie Enzo Racine + Conversations reelles analysees*
+*Mis a jour le 30 aout 2026 : refonte structurelle suite a l'accompagnement Yann Perono (`SKILL_STRATEGIE.md` Partie 11). Structure macro passee de 5 Phases a 7 Etapes Yann (Pretexte de contact, Qualification, Don de valeur, Preuves, Auto-qualification, Urgence et rarete, Proposition du call) qui absorbent et affinent les anciennes Phases sans les supprimer. Ajout Regle 7bis (chambrage Yann, humour comme texture par defaut et non plus seulement reactif), Regle 16 (preuve nominative calibree sur un chiffre-objectif du prospect, non disponible tant que Matthias n'a pas de client chiffre avec accord), Regle 17 (auto-qualification active), Regle 18 (urgence/rarete authentique, version positive de la doctrine anti-fausse-rarete deja posee dans `TEASING_METHODE_DM.md`). Ajout tableau de reference Yann x Maeva (Partie 6), cadrage "call = qualif pas vente" (Situation 11), items checklist correspondants (Partie 8). Source : etude de cas complete + les 7 etapes fournies par Matthias le 30 aout 2026.*
+*Base sur les 18 regles de Matthias + Methodologie Enzo Racine (questionnement socratique) + Methodologie Yann Perono (structure 7 etapes + style) + Conversations reelles analysees*
 *A utiliser comme moteur de decision pour CHAQUE reponse de setting DM*
