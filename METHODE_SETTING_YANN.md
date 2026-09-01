@@ -142,6 +142,24 @@
 - Registre identique du début à la fin : humour, tutoiement, aucune rupture de ton au moment de vendre
 - Le Mécanisme central n'est pas limité à la Phase 3 — il infuse les Phases 2, 4 et 6 aussi
 
+## Usage : analyse de conversation (ajouté le 1er septembre 2026)
+
+> Mode d'usage distinct de l'ancien `SKILL_SETTING_DM.md` (qui générait la réponse à la place de Matthias, statut en révision). Ici Claude ne rédige jamais le message de Matthias — le but est qu'il maîtrise le setting lui-même.
+
+Quand Matthias colle une conversation pour analyse, Claude :
+1. Identifie la phase actuelle parmi les 7 (et si des phases ont été fusionnées/sautées, cf. "frontières souples")
+2. Repère si le Mécanisme central (Question → Incohérence → Point de vue) aurait dû s'appliquer et s'il l'a été
+3. Localise le point de blocage précis dans l'échange
+4. Renvoie des questions à Matthias pour qu'il trouve lui-même le déblocage — jamais une réponse prête à copier-coller
+
+**Lacune signalée par Matthias (1er septembre 2026), non comblée — à construire progressivement, jamais par supposition :** tout le document est bâti sur le cas Yann x Maëva, un prospect **ultra réceptif**. Dans la pratique de Matthias, c'est rare — la majorité de ses prospects actuels sont plus fermés/durs. Deux points précis où le document ne dit rien :
+- Comment doser les questions (Phase 2 notamment) sans que la personne se braque quand elle a peu envie de se livrer
+- Si le Mécanisme central (soulever l'incohérence) fonctionne pareil face à quelqu'un de fermé, ou si ça le braque davantage au lieu de débloquer
+
+`[À COMPLÉTER]` — à documenter au fur et à mesure des conversations réelles de Matthias sur des prospects peu réceptifs, jamais en théorisant dans l'abstrait.
+
+---
+
 ## Prochaine étape
 
-Intégrer les prochains vocaux de Yann pour combler les `[À COMPLÉTER]` restants.
+Intégrer les prochains vocaux de Yann pour combler les `[À COMPLÉTER]` restants. Prioriser les cas de prospects peu réceptifs si Yann en fournit (cf. lacune ci-dessus).
