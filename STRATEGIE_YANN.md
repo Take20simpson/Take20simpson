@@ -94,6 +94,10 @@ Décision de Matthias : ne plus utiliser une IA comme moteur qui génère les r�
 
 ---
 
-## Prochaine étape
+## Séance 2 avec Yann, 1er septembre 2026 — focus posts + review setting en direct
 
-Séance 2 avec Yann (1er septembre 2026, 15h, focus visibilité/contenu) — à capturer ici une fois faite.
+- **Format :** call enregistré, review en direct des posts de Matthias (visuels, structure — capture détaillée à faire dans `SKILL_CONTENU_LINKEDIN.md` si Matthias le demande, hors périmètre de ce document) puis review de vraies conversations de prospection (Élodie Delmas, Zineb Rais). Détail méthodologique du setting capturé dans `METHODE_SETTING_YANN.md` (nouvelles règles : rebond sans interaction préalable, "jamais un message sans question", gestion de la contre-prospection, timing de réponse aux objections, auto-révélation trop précoce).
+- **Objectif fixé par Yann pour la semaine :** décrocher au moins un R1 (idéalement un client signé) avant le prochain point — Matthias mis en compétition explicite avec un autre client de Yann (Lucas, R1 obtenu le même jour, R2 prévu jeudi). Ambiance de pression assumée par Yann.
+- **Règle business rappelée :** ne jamais annoncer de prix en DM, réservé au call — cohérent avec la Partie "Closing" de l'offre ci-dessus (prix annoncé uniquement en visio).
+- **Frustration de Matthias signalée en amont du call (à garder en tête, pas tranchée par Yann pendant ce call) :** sentiment que Yann met la pression sur les résultats sans toujours donner une méthode structurée en amont — c'est Matthias qui doit faire l'effort de structurer ce qu'il reçoit (avec Claude). Exemple cité : la technique du prétexte sans interaction préalable ("rebondir sur n'importe quoi") n'avait pas été expliquée avant ce call alors qu'elle aurait pu l'être plus tôt.
+- **Prochaine séance : mercredi prochain, 15h.**

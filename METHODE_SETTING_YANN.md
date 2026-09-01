@@ -4,7 +4,7 @@
 
 **Règle de construction :** rien d'inventé. Une info manque → `[À COMPLÉTER]`, jamais deviné.
 
-**Sources :** masterclass Yann (les 7 phases) · étude de cas Yann x Maëva (DM LinkedIn, call obtenu) · vocal Yann du 31 août (mécanisme des incohérences). Prochain enrichissement : autres vocaux à venir.
+**Sources :** masterclass Yann (les 7 phases) · étude de cas Yann x Maëva (DM LinkedIn, call obtenu) · vocal Yann du 31 août (mécanisme des incohérences) · séance 2 avec Yann, 1er septembre 2026 (call enregistré, focus posts + review en direct de vraies conversations de Matthias, dont Élodie Delmas et Zineb Rais). Prochain enrichissement : autres vocaux/calls à venir.
 
 ---
 
@@ -30,6 +30,15 @@ Exemple donné par Matthias : *"Je comprends pas trop pourquoi tu me dis ça, pa
 
 Condition stricte : l'affirmation doit toujours pointer vers une incohérence entre deux déclarations du prospect lui-même — jamais un jugement ou une supposition sur ce qu'il n'a pas dit. C'est un dernier recours après l'échec du questionnement, pas un remplacement de la méthode par défaut.
 
+**Validation terrain (séance 2, 1er septembre 2026, cas Zineb Rais) :** Yann a review en direct une conversation où Matthias avait tenté une affirmation ("donc t'as compris que le contenu tout seul ne convertit pas") sans l'ancrer sur une incohérence propre au prospect. Réaction de Yann, en observant que le prospect n'a pas lâché l'affaire : *"Fais gaffe en technique, parce que des fois, ça te nique un peu là-dessus... elle te lâche pas là-dessus, elle te pose des questions."* Confirme que l'affirmation non ancrée fait perdre du terrain plutôt que d'en gagner — cohérent avec la condition stricte ci-dessus.
+
+### Gestion de la contre-prospection et du timing de réponse (séance 2, 1er septembre 2026)
+
+Deux mécaniques nouvelles observées en direct par Yann sur le cas Zineb Rais, applicables à toutes les phases où le prospect reprend la main :
+
+- **Le prospect qui "contre-prospecte" (il pose des questions sur TOI/ton activité) :** répondre, mais bref — jamais un pavé aussi long que sa question. Le but est de garder la conversation centrée sur LUI, pas de se justifier longuement. Yann : *"C'est d'elle qu'on veut parler, pas de toi."* Dès qu'il arrête de te contre-questionner, il faut immédiatement relancer avec une question — ne jamais laisser le silence retomber après avoir "gagné" cet échange, sinon la conversation dérive sur un sujet secondaire. Nuance : Yann lui-même ne répond pas à ce type de question quand il a déjà l'autorité/les preuves — mais tant que Matthias n'a pas ce statut, il doit répondre (brièvement), pas ignorer.
+- **Répondre à une objection/un point contesté IMMÉDIATEMENT, jamais en différé.** Si le prospect pousse back sur un point (Mécanisme central ou autre), le traiter dans le tout prochain message. Attendre un ou deux échanges pour y revenir ("trop tard") ne fonctionne pas — le prospect a déjà classé la conversation ailleurs mentalement. Yann : *"Tout à l'heure il fallait le dire. Là tu reviens dessus beaucoup trop tard, il est là le problème... tu commences à la perdre."*
+
 ---
 
 ## PHASE 1 — Prétexte de contact
@@ -44,7 +53,14 @@ Condition stricte : l'affirmation doit toujours pointer vers une incohérence en
 **Exemple (Yann) :**
 > *"J'ai vu ton nom dans mes visites de profil donc là deux possibilités : 1. tu me stalk gentiment 2. tu cherches à avoir + de clients en ce moment mdr, je mise sur lequel ?"*
 
-`[À COMPLÉTER]` — autres déclencheurs que la visite de profil (like, commentaire, post) ? Non démontré.
+**Autres déclencheurs que la visite de profil (répond au `[À COMPLÉTER]`, séance 2 du 1er septembre 2026) :** même sans AUCUNE interaction préalable avec le prospect, il faut rebondir sur n'importe quoi de réel et vérifiable — son contenu récent, sa section "infos", un post qu'elle a publié, ce qu'elle mentionne dans sa bio. Exemples donnés par Yann en live (recherche de prétexte en moins de 30 secondes sur un profil quelconque) :
+- Rebond sur activité de contenu constatée : *"Putain, je veux que t'arrêtes pas de poster sur LinkedIn, je te vois passer partout dans mes trucs, et je viens de voir tes posts, c'est sympa, il y a ça, avoir pas mal de réactions. Qu'est-ce que ça donne ? Tu les contactes ces gens derrière ou pas ?"*
+- Rebond sur un post spécifique (recrutement) : *"Je vois que tu recrutes, hein, c'est que ça se passe bien. Comment tu cites tes clients ?"*
+- Rebond sur un détail de bio/activité mentionné : *"Putain, t'as envoyé des experts chez Disney. C'est toi qui as fait signer Mickey chez Disney."*
+
+**Ce qui compte, ce n'est pas le canal (visite de profil, post, bio) — c'est qu'il y ait TOUJOURS une question au bout, jamais un simple constat.** Yann : *"C'est juste se poser la question, ok, tu poses, tu cherches un truc... ça vient par la pratique."*
+
+**Erreur concrète à éviter (cas Élodie Delmas, séance 2) :** Matthias a envoyé un message sans poser de vraie question ET en parlant de lui-même avant même d'avoir obtenu une réponse. Critique de Yann : *"Tu ne la prospectes pas, là. Tu lui donnes l'opportunité de se barrer... tu n'as même pas répondu à ta question, tu ne sais même pas ce qu'elle fait... et tu as envie de parler directement de toi."* Résultat : le prospect a une porte de sortie facile et la conversation ne part sur rien de concret.
 
 ---
 
@@ -91,7 +107,11 @@ Condition stricte : l'affirmation doit toujours pointer vers une incohérence en
 **Exemple (Yann) :**
 > *"Si tu peux dire que t'as eu 30 clients ou plus avec 200 projets, t'as de la cred de ouf."* → puis, une fois l'objectif CA énoncé par le prospect : *"J'ai Julien Robert qui a déjà signé 12k dans l'accompagnement en moins de 3 semaines."*
 
-⚠️ **Point à surveiller :** la preuve de Yann n'arrive qu'après un signal fort du prospect, jamais spontanément — à vérifier que Matthias applique la même discipline (ne montrer ses propres résultats que si un signal fort le justifie, jamais spontanément).
+⚠️ **Point confirmé (séance 2, 1er septembre 2026) :** la preuve de Yann n'arrive qu'après un signal fort du prospect, jamais spontanément. Deux cas réels de Matthias confirment que c'est bien un point de discipline à travailler :
+- **Cas Élodie Delmas :** Matthias a parlé de lui avant même d'avoir posé une vraie question. Yann : *"Pourquoi tu parles de toi ?"* — réponse de Matthias : *"Je voulais instaurer la confiance."* Contre-argument de Yann : ça donne au prospect une porte de sortie facile, sans même avoir obtenu d'information sur elle.
+- **Cas Zineb Rais :** questionnée sur ses propres objectifs de rentrée, elle a retourné la question à Matthias — il a répondu avec un pavé aussi long que la question ET révélé son propre coaching ("j'ai pris un coaching... c'est déjà un sacré programme") avant qu'un vrai signal fort de sa part ne le justifie. Yann : *"C'était pas le moment de le lâcher"* — et Matthias a perdu la main sur la conversation quelques échanges après.
+
+Règle opérationnelle qui en découle : si le prospect retourne une question personnelle avant d'avoir donné de vraie matière sur lui-même, répondre bref (pas de pavé) et relancer une question sur LUI dans la foulée — ne jamais laisser l'auto-révélation devenir le sujet.
 
 `[À COMPLÉTER]` — gestion de cette phase si le prospect n'a AUCUN historique à faire valoir. Non démontré.
 
@@ -147,6 +167,8 @@ Condition stricte : l'affirmation doit toujours pointer vers une incohérence en
 - Phases à frontières souples, pas des blocs étanches (Preuves et Auto-qualification s'entremêlent dans le cas Maëva)
 - Registre identique du début à la fin : humour, tutoiement, aucune rupture de ton au moment de vendre
 - Le Mécanisme central n'est pas limité à la Phase 3 — il infuse les Phases 2, 4 et 6 aussi
+- **Règle absolue (répétée explicitement par Yann, séance 2 du 1er septembre 2026) : "Je veux plus voir un seul message sans question."** Vaut du tout premier message (Phase 1, même sans aucune interaction préalable) jusqu'à la fin — chaque message envoyé doit contenir une question, jamais un simple constat ou une réponse qui se suffit à elle-même.
+- Ne jamais balancer un prix/tarif en DM — réservé au call (cohérent avec `STRATEGIE_YANN.md`, "prix annoncé uniquement en visio"). Nuance de Yann : lui peut se permettre certaines libertés parce qu'il a déjà l'autorité et les preuves — pas encore le cas de Matthias, donc discipline stricte pour l'instant.
 
 ## Usage : analyse de conversation (ajouté le 1er septembre 2026)
 
@@ -168,4 +190,6 @@ Quand Matthias colle une conversation pour analyse, Claude :
 
 ## Prochaine étape
 
-Intégrer les prochains vocaux de Yann pour combler les `[À COMPLÉTER]` restants. Prioriser les cas de prospects peu réceptifs si Yann en fournit (cf. lacune ci-dessus).
+Intégrer les prochains vocaux/calls de Yann pour combler les `[À COMPLÉTER]` restants (Phase 2 : tronc de questions fixe ou 100% adaptatif ; Phase 3 : ressource écrite en plus ; Phase 4 : gestion si le prospect n'a aucun historique à faire valoir). Prioriser les cas de prospects peu réceptifs si Yann en fournit (cf. lacune ci-dessus) — la séance 2 du 1er septembre a surtout porté sur des mécaniques transverses (contre-prospection, timing de réponse, règle "jamais un message sans question"), pas sur ce cas de figure précis.
+
+**Contexte business de la séance 2 (1er septembre 2026, capturé dans `STRATEGIE_YANN.md`) :** objectif de la semaine fixé par Yann — décrocher au moins un R1 (idéalement un client signé) avant le prochain point, prochaine séance mercredi prochain 15h.
