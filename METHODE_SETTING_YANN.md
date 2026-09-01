@@ -170,15 +170,20 @@ Règle opérationnelle qui en découle : si le prospect retourne une question pe
 - **Règle absolue (répétée explicitement par Yann, séance 2 du 1er septembre 2026) : "Je veux plus voir un seul message sans question."** Vaut du tout premier message (Phase 1, même sans aucune interaction préalable) jusqu'à la fin — chaque message envoyé doit contenir une question, jamais un simple constat ou une réponse qui se suffit à elle-même.
 - Ne jamais balancer un prix/tarif en DM — réservé au call (cohérent avec `STRATEGIE_YANN.md`, "prix annoncé uniquement en visio"). Nuance de Yann : lui peut se permettre certaines libertés parce qu'il a déjà l'autorité et les preuves — pas encore le cas de Matthias, donc discipline stricte pour l'instant.
 
-## Usage : analyse de conversation (ajouté le 1er septembre 2026)
+## Usage : analyse de conversation (créé le 1er septembre 2026, format de réponse resserré le même jour — Matthias trouvait les réponses trop longues et pas assez actionnables)
 
-> Mode d'usage distinct de l'ancien `SKILL_SETTING_DM.md` (qui générait la réponse à la place de Matthias, statut en révision). Ici Claude ne rédige jamais le message de Matthias — le but est qu'il maîtrise le setting lui-même.
+> Mode d'usage distinct de l'ancien `SKILL_SETTING_DM.md` (qui générait la réponse à la place de Matthias, statut en révision).
 
-Quand Matthias colle une conversation pour analyse, Claude :
-1. Identifie la phase actuelle parmi les 7 (et si des phases ont été fusionnées/sautées, cf. "frontières souples")
-2. Repère si le Mécanisme central (Question → Incohérence → Point de vue) aurait dû s'appliquer et s'il l'a été
-3. Localise le point de blocage précis dans l'échange
-4. Renvoie des questions à Matthias pour qu'il trouve lui-même le déblocage — jamais une réponse prête à copier-coller
+**Analyse interne, avant de répondre (le travail de fond, pas ce qui s'affiche) :** identifier la phase parmi les 7, vérifier si le Mécanisme central s'applique, repérer questions ouvertes/fermées et le registre, vérifier si Matthias rebondit sur les infos déjà collectées, checker la cohérence ICP "Lucas", localiser le point de blocage précis.
+
+**Format de réponse imposé — court, structuré, jamais de pavé d'explications :**
+1. **Phase actuelle** — une ligne
+2. **Blocage** — une à deux lignes maximum
+3. **Objectif du prochain message** — une ligne
+4. **Éléments à mettre dedans** — bullets courts et concrets (quoi rebondir, quel type de question, quoi éviter) — jamais la phrase toute rédigée à ce stade
+5. Rappel bref en une ligne : Claude ne rédige pas le message à la place de Matthias, sauf demande explicite
+
+**Si Matthias demande explicitement la rédaction complète** (il bloque malgré le format ci-dessus) : Claude l'annonce clairement ("je te la rédige") puis l'écrit directement — pas de résistance, pas de rappel de la règle à chaque fois, il a le droit de le demander.
 
 **Lacune signalée par Matthias (1er septembre 2026), non comblée — à construire progressivement, jamais par supposition :** tout le document est bâti sur le cas Yann x Maëva, un prospect **ultra réceptif**. Dans la pratique de Matthias, c'est rare — la majorité de ses prospects actuels sont plus fermés/durs. Deux points précis où le document ne dit rien :
 - Comment doser les questions (Phase 2 notamment) sans que la personne se braque quand elle a peu envie de se livrer

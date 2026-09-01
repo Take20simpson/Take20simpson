@@ -159,26 +159,21 @@ Réflexes obligatoires à chaque conversation collée, sans que je le redemande 
 [Conversation collée ci-dessous]
 ```
 
-**Analyse de setting — méthode Yann (créé le 1er septembre 2026, enrichi le même jour après une première série de cas réels — Joviane, Danaë, Zineb — distinct du bloc "Setting DM" ci-dessus) :**
+**Analyse de setting — méthode Yann (créé le 1er septembre 2026, raccourci le même jour — je trouvais les réponses trop longues, je veux du direct et actionnable) :**
 ```
-On continue l'analyse de mes conversations de setting DM, méthode Yann.
+On continue l'analyse de mon setting DM, méthode Yann.
 
-LECTURE OBLIGATOIRE en entier (pas de connaissance antérieure) : METHODE_SETTING_YANN.md + STRATEGIE_YANN.md. CLAUDE.md déjà chargé automatiquement.
+LECTURE OBLIGATOIRE : METHODE_SETTING_YANN.md + STRATEGIE_YANN.md. Rien d'autre (pas l'ancien moteur SKILL_SETTING_DM.md/TEASING_METHODE_DM.md, pas de benchmark, pas Enzo Racine).
 
-Sources exclues, jamais utilisées pour cette analyse : SKILL_SETTING_DM.md, TEASING_METHODE_DM.md (ancien moteur IA, statut en révision), et toute référence historique ou benchmark concurrent (Enzo Racine, Kevin Dumont, etc.). Uniquement ce qui vient de Yann.
+Réponds TOUJOURS dans ce format, court, sans pavé :
+1. Phase actuelle (1 ligne)
+2. Blocage (1-2 lignes)
+3. Objectif du prochain message (1 ligne)
+4. Éléments à mettre dedans (bullets courts et concrets — pas la phrase rédigée)
 
-Rôle de Claude : analyste, jamais rédacteur. Je dois savoir faire mon setting moi-même pour pouvoir l'enseigner à mes clients — ne jamais écrire le message à ma place, sauf si je le redemande explicitement en connaissance de cause (cas exceptionnel, jamais la norme silencieuse, et je reviens au mode analyse au message suivant).
+Tu ne rédiges jamais le message à ma place, sauf si je le demande explicitement — dans ce cas, dis "je te la rédige" et écris-la directement, sans résistance.
 
-Réflexes obligatoires à chaque conversation collée :
-1. Identifier la phase actuelle parmi les 7 (Prétexte, Qualification, Don de valeur, Preuves, Auto-qualification, Urgence/rareté, Proposition du call) — frontières souples, une phase peut être partielle.
-2. Vérifier si le Mécanisme central (Question → Incohérence → Point de vue) s'applique et s'il est bien dans l'ordre — jamais d'affirmation en ouverture, SAUF exception : conversation qui tourne en rond + prospect aveugle à sa propre incohérence après questionnement → affirmation directe autorisée, mais uniquement ancrée sur une contradiction entre deux choses que LE PROSPECT a dites lui-même.
-3. Repérer si mes questions sont ouvertes ou fermées, et si le registre (curiosité vs audit, léger vs sérieux) correspond à ce qui est déjà établi dans la conversation — une rupture de ton fait autant de dégâts qu'une question trop dure.
-4. Vérifier si je rebondis vraiment sur les infos de qualification déjà collectées (ses mots à elle/lui, son objectif déjà énoncé) plutôt que de repartir sur un point générique ou tangent — c'est souvent là que je bloque, pas sur la réceptivité du prospect.
-5. Checker la cohérence ICP : le prospect colle-t-il au signal central de l'avatar "Lucas" (dépendance au contenu, aucune routine de prospection) ? Si non (il prospecte déjà, par exemple), le dire clairement — ça change l'angle à prendre, voire la pertinence de continuer sur ce prospect.
-6. Localiser précisément le point de blocage dans l'échange.
-7. Me renvoyer des questions pour que je débloque moi-même — jamais une réponse prête à copier-coller, sauf demande explicite de ma part.
-
-[Prospect : Prénom Nom, headline si connu]
+[Prospect : Prénom, headline si connu]
 [Conversation collée ci-dessous]
 ```
 
