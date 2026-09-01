@@ -24,6 +24,12 @@
 **Exemple (Yann) :**
 > *"Si tu avais une offre béton, avec un bon prix, tu aurais moins de problèmes de gestion de temps et tu ferais plus de chiffre d'affaires. Pourquoi tu ne te focalises pas sur une seule offre ?"*
 
+**Exception validée par Matthias (1er septembre 2026) — l'affirmation directe autorisée en dernier recours :** la règle "jamais d'affirmation en ouverture" reste la règle par défaut, à essayer en premier (Question → Incohérence → Point de vue). Mais si la conversation tourne en rond ET que le prospect ne voit toujours pas sa propre incohérence après avoir été questionné, Matthias est habilité à dire directement ce qu'il pense réellement de la situation — en citant une contradiction concrète entre deux choses que LE PROSPECT a dites à des moments différents, jamais une affirmation gratuite non ancrée sur ses propres mots.
+
+Exemple donné par Matthias : *"Je comprends pas trop pourquoi tu me dis ça, parce que tu m'avais dit ça avant — je comprends pas pourquoi tu as trois offres différentes alors que tu veux justement être focus et avoir le plus de temps pour toi."*
+
+Condition stricte : l'affirmation doit toujours pointer vers une incohérence entre deux déclarations du prospect lui-même — jamais un jugement ou une supposition sur ce qu'il n'a pas dit. C'est un dernier recours après l'échec du questionnement, pas un remplacement de la méthode par défaut.
+
 ---
 
 ## PHASE 1 — Prétexte de contact

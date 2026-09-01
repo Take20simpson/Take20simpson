@@ -146,6 +146,18 @@ Réflexes obligatoires à chaque conversation collée, sans que je le redemande 
 [Conversation collée ci-dessous]
 ```
 
+**Analyse de setting — méthode Yann (ajouté le 1er septembre 2026, distinct du bloc "Setting DM" ci-dessus) :**
+```
+On continue l'analyse de mes conversations de setting DM, méthode Yann.
+LECTURE OBLIGATOIRE en entier (pas de connaissance antérieure) : METHODE_SETTING_YANN.md. CLAUDE.md déjà chargé automatiquement (utile pour l'ICP "Lucas" et l'offre, Partie 2, pour juger si un prospect colle au signal central — reste secondaire à la méthode Yann elle-même).
+Ne jamais se baser sur SKILL_SETTING_DM.md, TEASING_METHODE_DM.md (ancien moteur IA, statut en révision, voir SKILL_STRATEGIE.md Partie 11) ni sur les références historiques (Enzo Racine, etc., déjà exclues Partie 3 ci-dessus) — uniquement METHODE_SETTING_YANN.md + le contexte business courant.
+Rôle de Claude ici : analyser, jamais écrire le message de Matthias à sa place (sauf s'il le redemande explicitement en connaissance de cause, cas exceptionnel, jamais la norme silencieuse).
+Réflexes obligatoires à chaque conversation collée : identifier la phase actuelle parmi les 7 ; repérer si le Mécanisme central s'applique et comment ; localiser le point de blocage précis ; renvoyer des questions à Matthias pour qu'il débloque lui-même plutôt qu'une réponse prête à copier-coller.
+
+[Prospect : Prénom Nom]
+[Conversation collée ci-dessous]
+```
+
 **Commentaires LinkedIn (pas de posts pour le moment, voir note) :**
 ```
 On continue les commentaires LinkedIn de Matthias (pas de rédaction de posts pour le moment).
