@@ -130,6 +130,8 @@ Règle opérationnelle qui en découle : si le prospect retourne une question pe
 
 `[À COMPLÉTER]` — rien à signaler, phase bien démontrée.
 
+**Qualification au niveau du prix — formulation (1er septembre 2026, cas Caroline Keller) :** Yann propose une formulation directe type "est-ce que tu as prévu de l'argent de côté pour sauter le pas ?" — Matthias trouve ça trop cash/intrusif (sonne comme une question sur les économies perso). Version plus légère retenue, même objectif (forcer un engagement explicite sur le budget, sans l'affirmer à sa place) mais présentée comme un choix plutôt qu'un interrogatoire : *"Si je te trouve un moyen d'accélérer tout ça, t'es plutôt en mode t'as un petit budget de prévu pour te faire accompagner, ou c'est encore trop tôt financièrement pour toi ?"* Le "ou c'est encore trop tôt" laisse une sortie honnête si la réponse est non, sans mettre le prospect en défaut.
+
 ---
 
 ## PHASE 6 — Urgence et rareté (authenticité)
