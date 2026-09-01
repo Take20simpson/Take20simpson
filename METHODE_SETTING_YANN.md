@@ -18,6 +18,7 @@
 - Toujours ancré sur l'expérience ("de mon expérience...", "avec mes clients...") — un avis, jamais une vérité assénée
 - Prospect qui se justifie → rebond sur SON objectif déjà énoncé plus tôt ("tu m'as dit que... est-ce que ton système actuel te permet ça ?")
 - Prospect qui admet une faiblesse (ex : "j'ai 15% de closing") → confirmer honnêtement, sans vexer, sans minimiser
+- **Ne jamais complimenter la stratégie/méthode du prospect quand il se justifie ou sort un contre-exemple** (jamais "tu gères", "ta stratégie est bien ficelée/bien foutue") — il y a toujours des choses à améliorer, et valider trop fort son système contredit la thèse structurelle qu'on cherche à faire émerger. Réaction courte et neutre à la place : "c'est cool", "top ça" — on avance sans creuser un compliment.
 - Chercher la douleur structurelle (le *pourquoi* derrière), pas la douleur de surface ("je manque de clients")
 - Enjeu : douleur pas assez creusée en setting = closing en appel très difficile, voire impossible
 
