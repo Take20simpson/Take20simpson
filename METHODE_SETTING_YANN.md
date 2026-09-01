@@ -1,6 +1,6 @@
 # MÉTHODE SETTING — Yann Perono (7 Phases)
 
-> Pas un skill IA, pas des templates. Objectif : que Matthias maîtrise le setting lui-même, pour pouvoir l'enseigner à ses clients. Contexte de décision : `SKILL_STRATEGIE.md` Partie 11, pivot du 31 août 2026.
+> Pas un skill IA, pas des templates. Objectif : que Matthias maîtrise le setting lui-même, pour pouvoir l'enseigner à ses clients. Contexte de décision : `STRATEGIE_YANN.md`, pivot du 31 août 2026.
 
 **Règle de construction :** rien d'inventé. Une info manque → `[À COMPLÉTER]`, jamais deviné.
 
@@ -39,7 +39,7 @@ Condition stricte : l'affirmation doit toujours pointer vers une incohérence en
 - S'appuie sur un signal réel et vérifiable (ici : visite de profil) et le nomme explicitement
 - Humour + choix volontairement ambigu pour désamorcer la lourdeur du démarchage
 - Finit sur une question ouverte — jamais un message qui appelle un oui/non
-- Le prétexte doit toujours être vrai, jamais un besoin inventé (cohérent avec `SKILL_STRATEGIE.md` Partie 5)
+- Le prétexte doit toujours être vrai, jamais un besoin inventé
 
 **Exemple (Yann) :**
 > *"J'ai vu ton nom dans mes visites de profil donc là deux possibilités : 1. tu me stalk gentiment 2. tu cherches à avoir + de clients en ce moment mdr, je mise sur lequel ?"*
@@ -91,7 +91,7 @@ Condition stricte : l'affirmation doit toujours pointer vers une incohérence en
 **Exemple (Yann) :**
 > *"Si tu peux dire que t'as eu 30 clients ou plus avec 200 projets, t'as de la cred de ouf."* → puis, une fois l'objectif CA énoncé par le prospect : *"J'ai Julien Robert qui a déjà signé 12k dans l'accompagnement en moins de 3 semaines."*
 
-⚠️ **Tension non tranchée** avec `SKILL_STRATEGIE.md` Partie 6 ("jamais montrer ses résultats sans qu'on demande") — à clarifier avec Matthias.
+⚠️ **Point à surveiller :** la preuve de Yann n'arrive qu'après un signal fort du prospect, jamais spontanément — à vérifier que Matthias applique la même discipline (ne montrer ses propres résultats que si un signal fort le justifie, jamais spontanément).
 
 `[À COMPLÉTER]` — gestion de cette phase si le prospect n'a AUCUN historique à faire valoir. Non démontré.
 

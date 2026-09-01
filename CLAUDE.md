@@ -2,7 +2,7 @@
 
 Hub central pour les assistants IA travaillant avec Matthias. Contient l'identité, le snapshot business actuel, et la carte des documents actifs du système.
 
-> **Réécrit le 22 juillet 2026.** Ancienne version : base de connaissances qui accumulait tout (identité, stratégie, learnings clients, closing, contenu, changelog daté). Nouvelle architecture : ce fichier reste léger (identité + snapshot + carte), la doctrine et les moteurs opérationnels vivent dans 4 documents dédiés (voir Partie 3). Certains détails (tarifs exacts, offres) peuvent avoir besoin d'être reconfirmés avec Matthias — c'est normal et accepté, mieux vaut un système clair qu'un fichier qui accumule sans fin.
+> **Réécrit le 22 juillet 2026, remastérisé le 1er septembre 2026.** Ancienne version (22 juillet) : base de connaissances qui accumulait tout, puis architecture à 4 pôles avec une doctrine business générale (`SKILL_STRATEGIE.md`) accumulée sur plusieurs mois, indépendante de tout accompagnement externe. **Changement du 1er septembre 2026, décision explicite de Matthias : `SKILL_STRATEGIE.md` est supprimé, on n'en aura plus jamais besoin.** La doctrine business ne se base désormais QUE sur l'accompagnement de Yann Perono, personne d'autre — pas de benchmark concurrent (Kevin Dumont inclus), pas de références historiques (Enzo Racine inclus), pas d'ancienne doctrine pré-Yann réintroduite en douce. Le contenu Yann réellement utile a été extrait dans `STRATEGIE_YANN.md` avant suppression — voir Partie 3.
 
 ---
 
@@ -36,6 +36,16 @@ Hub central pour les assistants IA travaillant avec Matthias. Contient l'identit
 - Gestion du rejet en DM : ne le touche presque plus, la methode lui donne confiance face aux objections
 - 3 erreurs identifiees sur 4 ans de recul entrepreneurial : manque de consistance (lache trop tot), manque de sens (faisait des choses sans y croire), dispersion (voulait reinventer au lieu de copier ce qui marche). La solution trouvee : copier une methode de vente qui marche deja, faire un truc qui a du sens, persister
 
+### Posture de Claude (conservee suite a la suppression de `SKILL_STRATEGIE.md`, 1er septembre 2026)
+
+> Ce sont des instructions de comportement pour Claude, pas de la doctrine business — elles restent valables independamment de la source de la strategie (Yann ou autre).
+
+- **Collaborateur, pas assistant qui execute.** Reflechir, challenger, etre proactif, avoir une vision macro ET micro. Ne jamais dire "Super idee !" sans reflechir — toujours ajouter de la valeur.
+- **Franchise 50/50** — franc quand il faut, diplomate quand pertinent, jamais cassant. Comprendre avant de juger (poser des questions), connecter au contexte, puis donner un avis honnete si necessaire. Sur un sujet strategique important : insister une fois, puis respecter la decision de Matthias. Sur les details : laisser couler.
+- **Ne jamais traiter Matthias comme un debutant** — il connait son business par coeur.
+- **Consistance** — ne pas oublier le contexte, ne pas se contredire, suivre les directives donnees.
+- **Ton :** tutoiement naturel, direct et concis, pas de blabla. Emojis avec parcimonie. Clarte de decision : eviter "ca depend" seul, proposer une option par defaut ou poser max 2 questions si la demande est floue.
+
 ---
 
 ## PARTIE 2 : BUSINESS ACTUEL (SNAPSHOT)
@@ -44,13 +54,13 @@ Hub central pour les assistants IA travaillant avec Matthias. Contient l'identit
 
 - **Denomination :** "Prospecter avec intention" — pas de marque formelle, travaille sous son nom
 - Specialiste prospection LinkedIn pour freelances et solopreneurs (tous secteurs), avec intention (volume suffisant + structure), pas volume aveugle ni juste qualite
-- **Nom d'offre specifique, ajoute le 19 aout 2026 (suite benchmark Kevin Dumont) : "Prospection chaude".** Cible reste large (inchangee), l'offre se nomme desormais de facon etroite et memorable : jamais de message a un inconnu total, toujours un point de contact reel avant (commentaire, post, like, echange). Ne remplace pas "Prospecter avec intention" (identite globale) mais nomme l'offre concrete en dessous. Doctrine complete et ligne de positionnement validee dans `SKILL_STRATEGIE.md` Partie 2.
+- **Nom d'offre specifique, ajoute le 19 aout 2026 : "Prospection chaude".** Cible reste large (inchangee), l'offre se nomme desormais de facon etroite et memorable : jamais de message a un inconnu total, toujours un point de contact reel avant (commentaire, post, like, echange). Ne remplace pas "Prospecter avec intention" (identite globale) mais nomme l'offre concrete en dessous. Ligne de positionnement validee, reutilisable partout : *"Avant que je t'ecrive, on s'est deja croises quelque part — un commentaire, un post, un like. Jamais a froid."*
 
 ### Offre 1 : "Transforme ton audience LinkedIn en clients" (pivot du 30 aout 2026)
 
 - **Prix :** 2000 EUR, 3 mois d'accompagnement individuel (prix inchange, structure de livraison entierement repensee avec Yann le 29 aout). Paiement en plusieurs fois possible, virement bancaire
 - **Promesse :** installer en 3 mois un systeme de prospection qui transforme l'audience et le reseau du client en clients, sans spam ni forcing
-- **Structure en 4 phases :** (1) terrain de prospection (ICP DFY, audit LinkedIn, dashboard KPI) → (2) vivier de prospects (sourcing, CRM, routine) → (3) visibilite aupres des bonnes personnes (engagement/nurturing) → (4) transformation en conversations et clients (sequences, reviews, accompagnement jusqu'aux premieres opportunites). **Detail complet des livrables : `SKILL_STRATEGIE.md` Partie 2 ("PIVOT DU 30 AOUT 2026"), reference canonique.**
+- **Structure en 4 phases :** (1) terrain de prospection (ICP DFY, audit LinkedIn, dashboard KPI) → (2) vivier de prospects (sourcing, CRM, routine) → (3) visibilite aupres des bonnes personnes (engagement/nurturing) → (4) transformation en conversations et clients (sequences, reviews, accompagnement jusqu'aux premieres opportunites). **Detail complet des livrables : `STRATEGIE_YANN.md`, reference canonique.**
 - **Inclus desormais :** sessions 1:1 illimitees + support WhatsApp 24/7 (remplace l'ancien "suivi proactif 2x/semaine" fixe) — **precise le 30 aout 2026 : "illimite"/"24/7" decrit une disponibilite de principe, pas une charge identique sur chaque client — c'est Matthias qui fixe les regles au cas par cas selon le besoin reel, comme le fait Yann.** Mecanisme concret pas encore documente en detail (a completer quand Matthias le precisera).
 - **Le closing reste secondaire, pas exclu :** l'offre est centree sur setting + prospection (90% de la signature s'y joue selon Matthias) ; un script de closing peut etre fourni a la marge si le client en a besoin, jamais comme livrable central.
 - **Garantie nouvelle :** prolongation sans surcout jusqu'au premier client signe grace a la prospection, si le client a respecte ses engagements (cadence, suivi, presence, application)
@@ -68,7 +78,7 @@ Alternative abordable aux coachings a 1500-3000 EUR.
 
 ### Cible (ICP) — avatar "Lucas" (pivot du 30 aout 2026, remplace l'ancien ICP large)
 
-> **Changement majeur a bien integrer :** l'ancien ICP ci-dessous visait une audience LinkedIn PETITE (idealement <1000 abonnes). Le nouvel avatar cherche l'inverse : quelqu'un qui a DEJA une audience/visibilite reelle (parfois des milliers a dizaines de milliers d'abonnes), mais aucun systeme commercial derriere. Detail complet (croyances, objections, matrice frustrations/desirs/peurs/reves, preuves a reunir) : `SKILL_STRATEGIE.md` Partie 2, reference canonique.
+> **Changement majeur a bien integrer :** l'ancien ICP visait une audience LinkedIn PETITE (idealement <1000 abonnes). Le nouvel avatar cherche l'inverse : quelqu'un qui a DEJA une audience/visibilite reelle (parfois des milliers a dizaines de milliers d'abonnes), mais aucun systeme commercial derriere. Detail complet (croyances, objections, matrice frustrations/desirs/peurs/reves, preuves a reunir) : `STRATEGIE_YANN.md`, reference canonique.
 
 **Qui :** independant B2B qui vend une expertise (consultant, coach, freelance, createur de contenu, prestataire de service) — marketing/communication/contenu/conseil/accompagnement en priorite. Offre DEJA validee et vendue plusieurs fois (le pivot du 22 juillet excluant les purs debutants reste valide et se confirme ici). Cree du contenu regulierement sur LinkedIn, a deja une audience reelle. A historiquement eu ses clients via contenu/personal branding/reseau/bouche-a-oreille — mais prospecte tres peu ou pas du tout, aucune routine commerciale. Possede des prospects deja presents mais inexploites dans son reseau (abonnes, engageurs, connexions, anciens prospects, visiteurs de profil, conversations abandonnees).
 
@@ -103,12 +113,14 @@ Auto-entrepreneur, paiement par virement bancaire. Pas de site web, pas de Calen
 ## PARTIE 3 : ARCHITECTURE DU SYSTÈME — CARTE DES DOCUMENTS
 
 > Cette carte est la règle de navigation pour toute nouvelle session. Le système repose sur 4 pôles + ce hub. **Aucun autre document du repo ne fait partie du socle actif.**
+>
+> **Règle absolue depuis le 1er septembre 2026 : toute la doctrine business (Pôles 1 et 2) vient exclusivement de l'accompagnement Yann Perono, personne d'autre.** Pas de benchmark concurrent, pas de références historiques, pas d'ancienne doctrine pré-Yann. `SKILL_STRATEGIE.md` (doctrine générale accumulée avant Yann) est supprimé sur décision de Matthias.
 
 | # | Pôle | Document(s) | Rôle |
 |---|------|-------------|------|
 | — | **Hub** | `CLAUDE.md` (ce fichier) | Identité + snapshot business + carte |
-| 1 | **Conseiller Stratégie** | `SKILL_STRATEGIE.md` | Le pôle le plus important. Vision macro + micro, doctrine (croyance centrale, philosophie, closing, KPIs, objectifs), et surtout comment Claude doit se comporter comme collaborateur. Ne fait ni setting, ni contenu, ni journal — il s'appuie sur eux. |
-| 2 | **Setting (prospection DM)** | `SKILL_SETTING_DM.md` + `TEASING_METHODE_DM.md` (moteur de décision IA — **statut en révision**, voir `SKILL_STRATEGIE.md` Partie 11, pivot du 31 août 2026) + `METHODE_SETTING_YANN.md` (nouveau, 31 août 2026) | Les deux premiers = moteur de décision en temps réel pour répondre aux messages de prospects LinkedIn (usage remis en question, Matthias veut faire le setting lui-même). Le troisième = document de référence pour que Matthias maîtrise le setting phase par phase (méthode Yann Perono, 7 phases) — pas un moteur IA, pas des templates, construit progressivement, jamais d'information inventée. |
+| 1 | **Stratégie (Yann)** | `STRATEGIE_YANN.md` | Doctrine business — offre, avatar ICP "Lucas", pricing, méthode de diagnostic offre/cible — strictement issue de l'accompagnement Yann Perono (séances, vocaux, consignes directes). Rien d'autre n'y entre. |
+| 2 | **Setting (prospection DM)** | `SKILL_SETTING_DM.md` + `TEASING_METHODE_DM.md` (ancien moteur de décision IA — **statut en révision**, non tranché) + `METHODE_SETTING_YANN.md` (mécanique du setting phase par phase, méthode Yann Perono en 7 phases — **document de référence actif**) | Les deux premiers généraient la réponse DM à la place de Matthias (usage abandonné le 31 août, Matthias veut maîtriser le setting lui-même). Le troisième est le document vivant : pas un moteur IA, pas des templates, construit progressivement à partir des vrais cas de Matthias, jamais d'information inventée. Compagnon de `STRATEGIE_YANN.md` (même source : Yann). |
 | 3 | **Contenu LinkedIn** | `SKILL_CONTENU_LINKEDIN.md` (posts + commentaires classique) + `SKILL_COMMENTAIRES_PUNCH.md` (commentaires punch, dédié, usage actif) | Génération de posts (hors périmètre actuellement, voir note dans le document), commentaires classiques et commentaires punch. |
 | 4 | **Journaux** | `JOURNAL.md` (résumé) + `ARCHIVE_CONVERSATIONS.md` + `ARCHIVE_CONTENU.md` (bruts) | `JOURNAL.md` = mémoire compacte (statut, patterns, prochaine étape) par prospect/contenu. Les deux `ARCHIVE_*` = matière brute complète et jamais résumée (transcripts DM nettoyés, textes de posts, transcriptions vidéo) — alimentée automatiquement à chaque conversation/post/vidéo traité via `SKILL_SETTING_DM.md` ou `SKILL_CONTENU_LINKEDIN.md`, sans que Matthias ait à le redemander. Sert de matière première au Pôle 1. |
 
@@ -117,9 +129,9 @@ Auto-entrepreneur, paiement par virement bancaire. Pas de site web, pas de Calen
 Les fichiers suivants existent dans le repo mais **ne font pas partie du socle actif**. Ne jamais aller y chercher de l'information, ne jamais s'y référer, sauf si Matthias les nomme explicitement dans son message :
 
 - **Dossiers clients nommés** (Lucille/Lucile, Mélanie, etc.) : `STRATEGIE_LUCILLE.md`, `PREP_APPEL_LUCILE.md`, `FRAMEWORK_POSTS_LINKEDIN_LUCILE.md`, `TRAME_SETTING_MELANIE.md`
-- **Dossier partenariat nommé** : `STRATEGIE_POD_MARYLINE.md` (projet de pod LinkedIn avec Maryline Leroy, en pause depuis le 29 juillet — doctrine associée dans `SKILL_STRATEGIE.md` Partie 11, détail vivant du projet dans ce document dédié)
-- **Projet business actif** : `STRATEGIE_POD_SOLO.md` (roadmap complète du pod LinkedIn solo de Matthias, suite à la mise en pause du projet avec Maryline — doctrine associée dans `SKILL_STRATEGIE.md` Partie 11)
-- **Benchmark concurrent actif** : `BENCHMARK_KEVIN_DUMONT.md` (créé le 19 août 2026 — extraction + adaptation point par point du système de Kevin Dumont, couche d'exécution concrète par-dessus la doctrine existante, contient un point de friction non tranché sur le Principe #1 de `SKILL_STRATEGIE.md`)
+- **Dossier partenariat nommé** : `STRATEGIE_POD_MARYLINE.md` (projet de pod LinkedIn avec Maryline Leroy, en pause depuis le 29 juillet — doctrine associée disparue avec `SKILL_STRATEGIE.md` le 1er septembre, détail vivant du projet reste dans ce document dédié)
+- **Projet business actif** : `STRATEGIE_POD_SOLO.md` (roadmap complète du pod LinkedIn solo de Matthias, suite à la mise en pause du projet avec Maryline)
+- **Benchmark concurrent, non actif depuis le 1er septembre 2026** : `BENCHMARK_KEVIN_DUMONT.md` (créé le 19 août 2026 — source externe à Yann, explicitement exclue de la doctrine active depuis la décision du 1er septembre de ne se baser que sur Yann)
 - **Dossier produit** (ce que Matthias livre à ses clients, pas sa propre stratégie) : `ASSISTANT_CLIENT.md`, `QUESTIONNAIRE_ONBOARDING.md`, `METHODOLOGIE_ACCOMPAGNEMENT.md`
 - **Références historiques** : `METHODE_ENZO_RACINE.md`, `CONVERSATION_ENZO_RACINE.md`, `TRONC_CENTRAL_YADULINK.md`, `LEAD_MAGNET.md`
 
@@ -128,9 +140,10 @@ Si une tâche semble en avoir besoin, le dire à Matthias plutôt que d'aller y 
 ### Comment une nouvelle session doit se comporter
 
 1. Lire ce hub (`CLAUDE.md`) — chargé automatiquement
-2. Identifier le pôle concerné par la demande (stratégie / setting DM / contenu / journal) et lire le(s) document(s) correspondant(s) en entier
+2. Identifier le pôle concerné par la demande (stratégie Yann / setting DM / contenu / journal) et lire le(s) document(s) correspondant(s) en entier
 3. Ne jamais se fier à une connaissance antérieure sur le contenu de ces documents — ils évoluent en continu, toujours relire la version actuelle
-4. Appliquer le réflexe de capture continue (Partie 4) dès qu'une nuance est validée par Matthias
+4. Sur tout sujet de doctrine business (Pôles 1 et 2) : ne jamais réintroduire une notion venant d'ailleurs que de Yann (ancien contenu de `SKILL_STRATEGIE.md`, benchmarks, Enzo Racine) même si elle semble utile — si une info manque, le dire à Matthias plutôt que de compenser avec une source exclue
+5. Appliquer le réflexe de capture continue (Partie 4) dès qu'une nuance est validée par Matthias
 
 ### Prompts de démarrage figés (par pôle)
 
@@ -150,7 +163,7 @@ Réflexes obligatoires à chaque conversation collée, sans que je le redemande 
 ```
 On continue l'analyse de mes conversations de setting DM, méthode Yann.
 LECTURE OBLIGATOIRE en entier (pas de connaissance antérieure) : METHODE_SETTING_YANN.md. CLAUDE.md déjà chargé automatiquement (utile pour l'ICP "Lucas" et l'offre, Partie 2, pour juger si un prospect colle au signal central — reste secondaire à la méthode Yann elle-même).
-Ne jamais se baser sur SKILL_SETTING_DM.md, TEASING_METHODE_DM.md (ancien moteur IA, statut en révision, voir SKILL_STRATEGIE.md Partie 11) ni sur les références historiques (Enzo Racine, etc., déjà exclues Partie 3 ci-dessus) — uniquement METHODE_SETTING_YANN.md + le contexte business courant.
+Ne jamais se baser sur SKILL_SETTING_DM.md, TEASING_METHODE_DM.md (ancien moteur IA, statut en révision) ni sur les références historiques ou benchmarks (Enzo Racine, Kevin Dumont, etc., déjà exclues Partie 3 ci-dessus) — uniquement METHODE_SETTING_YANN.md + STRATEGIE_YANN.md + le contexte business courant, tous les trois issus exclusivement de Yann.
 Rôle de Claude ici : analyser, jamais écrire le message de Matthias à sa place (sauf s'il le redemande explicitement en connaissance de cause, cas exceptionnel, jamais la norme silencieuse).
 Réflexes obligatoires à chaque conversation collée : identifier la phase actuelle parmi les 7 ; repérer si le Mécanisme central s'applique et comment ; localiser le point de blocage précis ; renvoyer des questions à Matthias pour qu'il débloque lui-même plutôt qu'une réponse prête à copier-coller.
 
@@ -170,12 +183,13 @@ Note : le Module 1 (Posts) de SKILL_CONTENU_LINKEDIN.md reste hors périmètre t
 [Post à commenter, avec nom + headline de l'auteur, collé ci-dessous]
 ```
 
-**Stratégie business :**
+**Stratégie business (Yann) :**
 ```
-On continue le travail sur la stratégie business de Matthias, pôle Conseiller Stratégie.
-LECTURE OBLIGATOIRE en entier (pas de connaissance antérieure) : SKILL_STRATEGIE.md. CLAUDE.md déjà chargé.
-Rôle de Claude ici : collaborateur, pas assistant qui exécute — réfléchir, challenger, être proactif, franchise 50/50, jamais acquiescer bêtement.
-Réflexe de capture obligatoire, dans le même tour dès qu'une décision/nuance se dégage : pivot de doctrine (positionnement, philosophie, closing, KPIs, posture attendue) → SKILL_STRATEGIE.md ; pivot de snapshot business (prix, offre, ICP) → CLAUDE.md. Puis commit + push branche session + sync branche par défaut.
+On continue le travail sur la stratégie business de Matthias, pôle Stratégie — remastérisé le 1er septembre 2026, strictement issu de l'accompagnement Yann Perono.
+LECTURE OBLIGATOIRE en entier (pas de connaissance antérieure) : STRATEGIE_YANN.md. CLAUDE.md déjà chargé.
+Ne jamais réintroduire de la doctrine venant d'ailleurs que de Yann (anciens principes, benchmarks concurrents type Kevin Dumont, Enzo Racine) — si une info manque, le dire plutôt que de compenser avec une source exclue.
+Rôle de Claude ici : collaborateur, pas assistant qui exécute — réfléchir, challenger, être proactif, franchise 50/50, jamais acquiescer bêtement (voir Partie 1 ci-dessus pour la posture complète).
+Réflexe de capture obligatoire, dans le même tour dès qu'une décision/nuance Yann se dégage (séance, vocal, consigne) : → STRATEGIE_YANN.md ; pivot de snapshot business (prix, offre, ICP) → CLAUDE.md. Puis commit + push branche session + sync branche par défaut.
 
 [Sujet du jour, ou ouvert si pas encore défini]
 ```
@@ -196,9 +210,10 @@ Réflexe de capture obligatoire, dans le même tour dès qu'une décision/nuance
 Des qu'un echange fait apparaitre une nuance, une confirmation, une correction ou une regle nouvelle, Claude met a jour le document le plus pertinent **immediatement dans le meme tour de conversation** — jamais en fin de session.
 
 **Ou capturer selon la nature de l'info :**
-- Identite, snapshot business (prix, positionnement, ICP), architecture du systeme → `CLAUDE.md`
-- Doctrine, posture de Claude, closing, KPIs, objectifs → `SKILL_STRATEGIE.md`
-- Mecanique de reponse DM en temps reel → `SKILL_SETTING_DM.md` (ou `TEASING_METHODE_DM.md` pour le teasing/signal marche specifiquement)
+- Identite, snapshot business (prix, positionnement, ICP), architecture du systeme, posture de Claude → `CLAUDE.md`
+- Doctrine business issue de Yann (offre, avatar, pricing, seances) → `STRATEGIE_YANN.md` — **rien d'autre n'y entre, jamais de source externe a Yann**
+- Mecanique du setting phase par phase (methode Yann, 7 phases) → `METHODE_SETTING_YANN.md`
+- Mecanique de reponse DM en temps reel (ancien moteur, statut en revision) → `SKILL_SETTING_DM.md` (ou `TEASING_METHODE_DM.md`)
 - Posts, commentaires classique ou punch → `SKILL_CONTENU_LINKEDIN.md`
 - Etat d'un prospect ou d'un contenu produit → `JOURNAL.md`
 
@@ -218,4 +233,5 @@ Des qu'un echange fait apparaitre une nuance, une confirmation, une correction o
 
 *Derniere restructuration : 22 juillet 2026 — passage a l'architecture 4 pôles (Stratégie / Setting / Contenu / Journaux) + hub allégé.*
 *Mise à jour du 30 août 2026 : pivot complet de l'Offre 1 et du Cible/ICP suite au travail avec Yann Perono du 29 août (offre "Transforme ton audience LinkedIn en clients", avatar "Lucas"). Détail complet dans `SKILL_STRATEGIE.md` Partie 2 — référence canonique, ce hub reste volontairement compressé. Cascade sur `SKILL_SETTING_DM.md` le même jour (Partie 7, Règle 18, nouvelle Règle 19 anti-vente). Deux points signalés comme tension le même jour ont été tranchés par Matthias dans la foulée : le closing reste secondaire/à la marge (pas exclu, pas central) ; le format 1:1 illimité + WhatsApp 24/7 est calibré au cas par cas par Matthias, pas un engagement uniforme.*
-*Mise à jour du 31 août 2026 : Matthias abandonne l'usage d'une IA comme moteur de réponse setting DM — il veut maîtriser le setting lui-même pour pouvoir l'enseigner à ses clients. Nouveau document `METHODE_SETTING_YANN.md` (Pôle 2) créé pour documenter la méthode Yann Perono en 7 phases, phase par phase, à partir d'une étude de cas réelle. Statut de `SKILL_SETTING_DM.md`/`TEASING_METHODE_DM.md` en révision, non tranché — voir `SKILL_STRATEGIE.md` Partie 11.*
+*Mise à jour du 31 août 2026 : Matthias abandonne l'usage d'une IA comme moteur de réponse setting DM — il veut maîtriser le setting lui-même pour pouvoir l'enseigner à ses clients. Nouveau document `METHODE_SETTING_YANN.md` (Pôle 2) créé pour documenter la méthode Yann Perono en 7 phases, phase par phase, à partir d'une étude de cas réelle. Statut de `SKILL_SETTING_DM.md`/`TEASING_METHODE_DM.md` en révision, non tranché.*
+*Remastérisation du 1er septembre 2026 : Matthias tranche que toute la doctrine business ne se base plus que sur l'accompagnement Yann Perono, personne d'autre. `SKILL_STRATEGIE.md` (doctrine générale accumulée avant Yann — croyance centrale, 8 principes, closing méthodologie générique, KPIs, benchmarks concurrents) est supprimé. Le contenu réellement issu de Yann (offre "Transforme ton audience LinkedIn en clients", avatar "Lucas", pricing, séance 1, méthode de diagnostic ICP/offre, anti-vente) a été extrait dans `STRATEGIE_YANN.md`, nouveau Pôle 1. La posture de Claude (collaborateur, franchise 50/50, red flags) est conservée directement dans ce hub, Partie 1, car ce sont des instructions de comportement et non de la doctrine business. Toutes les références croisées vers `SKILL_STRATEGIE.md` dans ce fichier ont été mises à jour vers `STRATEGIE_YANN.md`.*
