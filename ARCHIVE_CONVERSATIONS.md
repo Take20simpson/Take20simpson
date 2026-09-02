@@ -817,4 +817,56 @@ jeudi
 
 ---
 
+### Floriane Bardet
+
+1er septembre
+19:51 Matthias : Holà Floriane, j'espère que la rentrée commence bien / J'ai vu passé que tu t'étais formé avec Nathalie, c'est trop cool en vrai :) / Ton lancement s'est bien passé ?
+
+2 septembre
+12:11 Floriane : Bonjour Matthias, Oui c'était une très bonne expérience. Je ne me suis pas tout à fait lancée, je créer mon projet et je fais ce que tout freelance fait, parler de lui, trouver du réseau, se former aux outils, prospecter, créer de la visibilité....
+12:41 Matthias : Trop bien / Et du coup t'en es à quel stade de ton activité ? / Les objectifs que t'as pour les prochains mois
+12:46 Floriane : Je pense me lancer officiellement dès qu'un client et mission se confirme. Néanmoins, je pense un lancement conforme pour octobre 👍🏽 Et l'idéal serait 2 ou 3 missions prévues octobre-novembre. En complément d'un temps partiel salariat car les débuts sont lents d'après moi et d'autres 😄
+Matthias : Ok je vois 😀 / En fait, y a pas de secret pour vraiment débloquer les choses, faut vraiment taffer / Et persévérer / C'est quoi les actions concrètes que tu fais au quotidien justement pour réussir tout ça ?
+12:53 Floriane : J'écris à des prospects LinkedIn (peut-être 5 à 10/jour actuellement) par mail avec relances (plus de 300 ces 2 derniers mois) aussi, aux personnes que je rencontre pour des appels découverte. Je publie sur les RS régulièrement. J'apprends sur les sujets comme l'IA et autres outils d'organisation tous les jours. Je créer des tunnels clients. J'échange avec des paires. Et toi tu proposes des accompagnement a ce sujet, c'est ça ?
+12:54 Matthias : C'est bien toi, au moins tu taffes !! / Pourquoi t'as privilégié les e-mails plutôt que LinkedIn ? / Yes j'ai un accompagnement autour de ça en effet
+12:58 Floriane : Oui, j'ai privilégié d'autres pistes plus faciles à trouver au niveau des coordonnées au début ... Certains prospects dans le médical notamment ne sont pas sur LinkedIn. Je commence à être plus pro active sur LinkedIn en faisant des recherches de contact aussi, à voir si ça fonctionne.
+13:00 Matthias : Ok / C'est qui ta cible exactement ?
+13:02 Floriane : professionnel de la santé/bien-être organisateurs de stages (formation, sport, événements...) et les indépendants en croissance globale
+Matthias : Je vois le tableau / 300 mails et des DM tous les jours depuis 2 mois sans encore de client signé, ça doit être frustrant non ?
+13:11 Floriane : Non je viens de faire les messages LinkedIn depuis hier ahhaa / J'ai eu une mission client en juin
+13:16 Matthias : Ah ok top / T'as réussi à avoir des résultats clients ?
+14:10 Floriane : j'ai obtenu son retour et son avis et des séances de yoga 😄
+14:53 Matthias : ahah ok / Mais quand je parle de résultats clients, est-ce que tu as réussi à lui faire obtenir des changements concrets dans ce que tu lui as apporté ? / Parce que d'expérience, c'est bien plus pertinent de documenter un résultat client qu'un simple avis client.
+Floriane : Il a libéré du temps qu'il n'avait pas vraiment et une tâche qu'il n'avait pas envie de faire. Le retour sur investissement c'est plutôt celui-ci. En terme de CA ça se calcule aussi bien-sûr. Maintenant c'était une petite mission mais qui a permis à un festival qui accueille une centaine de personnes de démarrer avec moins de stress pour tous. / Et toi, tu as des tips à me donner ? [vocal]
+15:31 Matthias : Je commence à avoir des idées pour te donner des conseils / Vu le travail que t'as déjà fourni, tu m'as vraiment l'air de pas faire les choses à moitié / Rappelle-moi actuellement du coup t'es toujours salarié c'est ça ? / Mais à mi-temps, tu m'avais dit
+15:34 Floriane : Merci pour ton retour, c'est top 👌🏽 c'est vrai que j'ai plutôt intérêt à mettre ça en avant des le départ ! Non je ne suis plus salariée, mais j'envisage de m'assurer un revenu par des remplacements à temps partiels.
+15:36 Matthias : OK parfait / Du coup pour que je comprenne même si t'es pas lancé réellement tu poses toujours une bonne partie de tes journées sur la prospection et etc. comme tu me le disais ?
+15:36 Floriane : Oui je pose des blocs temps pour mes relances et messages de prospection
+15:37 Matthias : Top / Et tu ouvres ton auto entreprise dans quelques mois où j'ai mal compris
+15:56 Floriane : Oui je pense que ce sera pour octobre, mais j'aimerais mieux ouvrir que si j'ai des clients "signés"
+15:57 Matthias : Ah oui pourquoi ?
+15:59 Floriane : Parceque techniquement, je préfère déjà ouvrir en début de trimestre (pour l'ACRE notamment) et puis ouvrir et perdre justement l'exo de l'ACRE si je ne génère pas de CA, c'est dommage.
+16:01 Matthias : Ah oui je comprends / Et du coup ça se passe comment imaginons que demain t'as un client sérieux… Tu lui dis quoi ? / Est-ce que tu peux pas lui faire de facture ou alors t'as peut-être un stratagème que je ne connais pas ?
+16:02 Floriane : Je lui envoie la facture dès que je suis en regle 😁
+Matthias : Ahah ok
+Floriane : Bien sûr le mieux c'est d'être en lice tt de suite mais ce n'est pas un problème en soi
+16:03 Matthias : Ok
+Floriane : J'imagine que ça doit surprendre aha
+Matthias : Moi j'ai pas fait comme ça mais ouais
+Floriane : En tt cas ça n'empêche pas d'avoir tous les documents conformes pour demarrer
+Matthias : Top alors / Mais je reviens sur les efforts que t'as mis pour aller contacter les gens et d'ailleurs le client que t'as eu derrière / Sur toutes ces prises de contact, ça bloque plutôt à quelle étape ? / Les gens répondent pas du tout, ou ça part en discussion mais ça n'aboutit jamais ?
+16:09 Floriane : Il y a une personne qui s'est portée prescriptrice pour un second appel découverte dans l'enceinte d'un cabinet. Des besoins identifiés mais plutot du type aide à éclaircir des priorités dans un premier temps. Et puis pour l'instant, pas de besoin identifié sur les retours, ou alors pas de réponse. Des ébauches de discussion qui pourront peut être aller plus loin. Je ne force pas les personnes type commercial ou marketing, je cherche à discuter et donc à faire des appels de decouvertes, ça permet d'identifier des besoins et de qualifier ma cible. Sinon, plutôt des possibilités de partenariat pour envisager de mieux connaître certain milieu professionnel.
+17:49 Matthias : Ok je vois / Tu me disais que t'évitais justement le côté trop commercial, tu restes en mode découverte / Mais du coup comment tu comptes passer de ces discussions à des missions signées d'ici octobre-novembre ?
+17:58 Floriane : J'identifie la cible et j'ai une trame de question / L'objectif c'est de connaître leur douleur et d'apporter des solutions grâce à mes offres d'accompagnement / Sauf si il y a d'autres remèdes plus rapides.. j'offre aussi des tâches admin en échange d'avis actuellement
+18:00 Matthias : Oui je comprends / Après je pense que si t'as fait autant de volume, et que t'as pas eu le temps de résultats que ça c'est qu'il y a des choses à ajuster dans ta stratégie / Je parle en connaissance de cause au début, c'est jamais facile de justement réussir à avoir une conversation qui convertit derrière
+18:16 Floriane : 👍
+18:22 Matthias : Mais du coup comment tu comptes passer de ces discussions à des missions signées d'ici octobre-novembre ?
+Floriane : là j'optimise mon pitch et tout ça / d'ailleurs j'ai un atelier de présentation avec support deck à venir :)
+18:40 Matthias : Ça avance c'est bien / Ce deck tu comptes t'en servir direct dans tes discussions actuelles, ou c'est plutôt pour un autre contexte ?
+18:54 Floriane : à mon avis, ça sera exploitable, non?
+Matthias : Pour les appels, oui mais pour les conversations je ne vois pas l'intérêt / Ah du coup ça me chiffonne un truc / T'as un objectif de 2-3 missions d'ici novembre mais tout ce que tu me racontes s'arrête toujours avant la conversion / Ça te parle ce que je dis, ou je me trompe complètement ?
+19:43 Floriane : et qu'est ce que je peux faire d'autres sur ce qui te chiffonne ?
+
+---
+
 *Document créé le 22 juillet 2026, en complément de `JOURNAL.md`, à la demande de Matthias (besoin d'une sauvegarde brute complète des conversations, pas seulement un résumé).*

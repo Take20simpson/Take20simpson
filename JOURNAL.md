@@ -1304,6 +1304,13 @@ Une entrée se met à jour en place (pas de duplication) quand une conversation 
 - Prochaine étape probable : relancer avec une observation légère sur son positionnement (contenu B2B/pipe commercial, headline) pour ouvrir la vraie Phase 1
 - Dernière mise à jour : 30 août 2026
 
+### Floriane Bardet — Organisation/pilotage pour PME & indépendants du soin, du bien-être et de l'événement
+- Statut : Étape 6-7 (Yann) — qualification quasi complète, elle vient de demander directement quoi faire d'autre (auto-qualification implicite, mode COMMENT plutôt que SI, Règle 10) juste après que Matthias a nommé le GAP (Situation 10) ; moment identifié pour proposer la visio (Situation 11)
+- Dernier point : projet en cours de lancement (officialisation visée pour octobre, calée sur le début de trimestre pour garder l'exonération ACRE), garde un mi-temps salarié en parallèle le temps du démarrage. Volume de prospection déjà très élevé et quantifié (5-10 DM LinkedIn/jour, plus de 300 mails avec relances sur 2 mois, appels découverte, contenu régulier, veille IA/outils, tunnels clients). Un seul client à ce jour (mission courte en juin — retour, avis et séances de yoga en échange, pas de résultat client chiffré documenté ; croyance "avis = résultat" challengée par Matthias). Blocage nommé par Matthias et confirmé implicitement par elle : tout s'arrête avant la conversion (ébauches de discussion, une prescriptrice, un atelier pitch/deck à venir) malgré un objectif clair de 2-3 missions signées d'ici octobre-novembre. Dernier message : elle demande directement "et qu'est-ce que je peux faire d'autre sur ce qui te chiffonne ?"
+- Patterns utilisés : Règle 1 (rebond sur ses mots exacts, "chiffonne"/conversion), Règle 6 (quantification du volume et des résultats), Règle 4 (croyance "avis client = résultat client" challengée), Règle 3 (validation avant redirection), Situation 10/Règle 9 (GAP nommé après prise de conscience), Situation 11 (proposition de visio, les 3 conditions réunies : pain point clair + intérêt exprimé + qualifiée), cadrage "pas un call de vente" (Règle 18, 30 août)
+- Prochaine étape probable : si elle accepte, cadrer le call comme de la qualification (regarder précisément ce qui bloque entre la découverte et la signature), jamais comme un call de vente déguisé ; si elle décline ou hésite, revenir creuser plus précisément l'étape de closing/conversion avant de reproposer
+- Dernière mise à jour : 2 septembre 2026
+
 ---
 
 *Document créé le 22 juillet 2026, dans le cadre de la nouvelle architecture à 4 pôles.*
