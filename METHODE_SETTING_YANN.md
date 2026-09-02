@@ -214,6 +214,10 @@ Règle opérationnelle qui en découle : si le prospect retourne une question pe
 
 `[À COMPLÉTER]` — à documenter au fur et à mesure des conversations réelles de Matthias sur des prospects peu réceptifs, jamais en théorisant dans l'abstrait.
 
+**Premier élément de réponse, observé sur cas réel (2 septembre 2026, cas Laura Langlet) :** face à un prospect fermé qui refuse explicitement de montrer une faiblesse quand on la sollicite directement (questions frontales sur ses difficultés → réponses lisses, minimisantes, "j'ai pas à me plaindre"), forcer davantage ne débloque rien — elle se braque. En revanche, quand Matthias arrête de chercher et se contente de valider légèrement ce qu'elle dit ("Ah ça a l'air de tourner en tout cas 😄", "Donc si je comprends bien, il y a tout qui roule de votre côté"), c'est À CE MOMENT-LÀ qu'elle laisse échapper une nuance spontanée ("On a pas à se plaindre, effectivement. Néanmoins, on ne sait jamais de quoi l'avenir est fait..."). Piste opérationnelle qui en découle : avec un prospect fermé, arrêter de pousser sur la douleur et se contenter de refléter/valider ce qu'il vient de dire — la faiblesse sort d'elle-même, sans pression, quand la personne ne se sent plus challengée.
+
+`[À COMPLÉTER]` — un seul cas observé, à confirmer sur d'autres prospects fermés avant d'en faire une règle générale.
+
 ---
 
 ## Prochaine étape
