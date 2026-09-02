@@ -2996,6 +2996,49 @@ Option 6 (Percutant) : un client relou à 300 euros, ça finit toujours par coû
 
 > Choix final (option retenue et éventuelles retouches) pas encore confirmé par Matthias — à mettre à jour dans cette entrée dès qu'il l'indique. Thème proche du post Jeremy Kohlmann archivé plus tôt dans la session (filtrage clients) — angle et matériau volontairement différents (le prix comme signal plutôt qu'un dépôt/blacklist).
 
+### [02/09/2026] — post — Réécriture directe par Matthias, avant/après (bouche-à-oreille = chance déguisée en compétence, SA-1 Angle 3)
+
+> Même exercice que les réécritures du 31/07 et du 09/08 (comparaison avant/après ligne à ligne). Analyse et leçons capturées dans `SKILL_CONTENU_LINKEDIN.md`, section "Retour du 02 septembre 2026".
+
+**AVANT (Approche 1 Clivante, rédigée par Claude) :**
+Le bouche-à-oreille n'est pas une stratégie. C'est de la chance déguisée en compétence.
+
+Et je sais que ça va en faire tiquer certains, alors je précise tout de suite : c'est pas nul, le bouche-à-oreille. Si des clients parlent de toi, c'est plutôt bon signe, ça veut dire que ton taf tient la route.
+
+Le problème c'est pas le résultat. Le problème c'est de croire que c'est un système.
+
+Une compétence, tu la sors quand tu veux. Le bouche-à-oreille, non. Tu peux livrer un travail nickel pendant des mois sans une seule recommandation, juste parce que personne dans le réseau de tes clients n'avait besoin de toi à ce moment précis. Zéro main sur la fréquence, zéro main sur le timing.
+
+Et à chaque fois que ça a marché, tu t'es dit "je suis bon, on parle de moi". Moi le premier, j'ai mis du temps à voir la différence. Jamais "j'ai eu la chance que telle personne pense à moi dans la bonne conversation, au bon moment". Ça, on préfère tous ne pas se l'avouer.
+
+Le vrai réveil arrive le jour où le réseau se tarit. Plus personne pense à toi, et tu réalises que t'avais un filet de sécurité tout ce temps. Pas une compétence d'acquisition.
+
+La vraie compétence, c'est celle qui construit ce qui déclenche des clients volontairement. Le bouche-à-oreille redevient un bonus à côté. Jamais la fondation.
+
+**APRÈS (réécrit par Matthias, avant correction orthographe) :**
+Pour moi le bouche à oreille c'est de la chance déguisé en compétence.
+
+Et je sais que ça va énerver certains, alors je précise tout de suite :
+
+C'est pas nul le bouche-à-oreille.
+Si des clients parlent de toi, c'est plutôt bon signe, ça veut dire que ton taf est bon.
+
+Pour moi le problème c'est pas le résultat, le problème c'est de croire que c'est un système d'acquisition client.
+
+Une compétence, quand tu en as besoin tu l'utilises et derrière tu as du résultat.
+
+Le bouche à oreille tu ne maîtrises en aucun cas le résultat.
+
+Tu vois la diff ?
+
+Donc reste focus sur le développement de tes compétences.
+
+Derrière, la vraie compétence c'est celle qui déclenche des clients VOLONTAIREMENT.
+
+Le bouche-à-oreille doit être un bonus à côté, jamais la fondation.
+
+**Corrections signalées par Claude, pas encore appliquées par Matthias dans le texte ci-dessus :** "déguisé" → "déguisée" (accord avec "la chance") ; harmoniser "bouche à oreille" / "bouche-à-oreille" (les deux graphies coexistent dans ce texte, la forme avec tirets est la bonne).
+
 ---
 
 *Document créé le 22 juillet 2026, en complément de `JOURNAL.md`, à la demande de Matthias (besoin d'une sauvegarde du contenu, posts et vidéos, plus détaillée que le résumé du journal, sans dupliquer les transcriptions mot pour mot).*
