@@ -190,7 +190,7 @@ Règle opérationnelle qui en découle : si le prospect retourne une question pe
 - Registre identique du début à la fin : humour, tutoiement, aucune rupture de ton au moment de vendre
 - Le Mécanisme central n'est pas limité à la Phase 3 — il infuse les Phases 2, 4 et 6 aussi
 - **Règle absolue (répétée explicitement par Yann, séance 2 du 1er septembre 2026) : "Je veux plus voir un seul message sans question."** Vaut du tout premier message (Phase 1, même sans aucune interaction préalable) jusqu'à la fin — chaque message envoyé doit contenir une question, jamais un simple constat ou une réponse qui se suffit à elle-même.
-- **Format des messages (consigne Yann, capturée le 2 septembre 2026) : toujours découper une réponse en plusieurs messages (viser 2-3), jamais un seul gros pavé.** Vaut pour toutes les phases, du premier message à la fin de la conversation.
+- **Format des messages — règle précisée par Yann (2 septembre 2026) : une seule phrase par message, jamais plus.** Pas de limite sur le nombre de messages à la suite (2, 3, 4 ou plus) — ce qui compte c'est qu'aucun message individuel ne dépasse une phrase. Vaut pour toutes les phases, du premier message à la fin de la conversation.
 - Ne jamais balancer un prix/tarif en DM — réservé au call (cohérent avec `STRATEGIE_YANN.md`, "prix annoncé uniquement en visio"). Nuance de Yann : lui peut se permettre certaines libertés parce qu'il a déjà l'autorité et les preuves — pas encore le cas de Matthias, donc discipline stricte pour l'instant.
 
 ## Usage : analyse de conversation (créé le 1er septembre 2026, format de réponse resserré le même jour — Matthias trouvait les réponses trop longues et pas assez actionnables)
