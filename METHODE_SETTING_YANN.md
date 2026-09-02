@@ -130,7 +130,7 @@ Règle opérationnelle qui en découle : si le prospect retourne une question pe
 
 `[À COMPLÉTER]` — rien à signaler, phase bien démontrée.
 
-**Qualification au niveau du prix — formulation (1er septembre 2026, cas Caroline Keller) :** Yann propose une formulation directe type "est-ce que tu as prévu de l'argent de côté pour sauter le pas ?" — Matthias trouve ça trop cash/intrusif (sonne comme une question sur les économies perso). Version plus légère retenue, même objectif (forcer un engagement explicite sur le budget, sans l'affirmer à sa place) mais présentée comme un choix plutôt qu'un interrogatoire : *"Si je te trouve un moyen d'accélérer tout ça, t'es plutôt en mode t'as un petit budget de prévu pour te faire accompagner, ou c'est encore trop tôt financièrement pour toi ?"* Le "ou c'est encore trop tôt" laisse une sortie honnête si la réponse est non, sans mettre le prospect en défaut.
+**Qualification au niveau du prix — formulation, corrigée par Yann sur cas réel (review du 2 septembre 2026, cas Caroline Keller) :** version employée en vrai par Matthias (issue d'une tentative d'allègement du 1er septembre) : *"tu es plutôt en mode t'as un petit budget de prévu pour te faire accompagner, ou c'est encore trop tôt financièrement pour toi ?"* — Yann a corrigé cette formulation en review. **Le problème n'était pas la dureté du mot "argent de côté"** (l'euphémiser n'était pas la bonne piste) **mais l'absence d'ancrage sur l'objectif du prospect.** Bonne formulation selon Yann : *"Est-ce que tu as prévu de l'argent de côté pour justement te lancer au mieux dans cette activité, aller chercher ton objectif de [X] clients ?"* — la question de budget doit être reliée explicitement à l'objectif que LE PROSPECT a lui-même énoncé plus tôt (cohérent avec le Mécanisme central : rebond sur son objectif), pas juste présentée comme un choix binaire abstrait sur le fait de "se faire accompagner". **La bullet du 1er septembre ci-dessus est donc invalidée par ce retour terrain — allègement du vocabulaire ≠ bonne formulation, l'ancrage sur l'objectif du prospect est ce qui compte.**
 
 ---
 
@@ -145,7 +145,12 @@ Règle opérationnelle qui en découle : si le prospect retourne une question pe
 **Exemple (Yann) :**
 > *"Je bloque à 3/4 places par mois, car c'est moi qui délivre."* / *"Oui c'est vrai que si t'as pas de preuves clients ça va être compliqué."*
 
-`[À COMPLÉTER]` — rien à signaler, phase bien démontrée.
+**Anti-vente/sélectivité — affirmation directe requise, jamais de conditionnel (review du 2 septembre 2026, cas réel Caroline Keller) :**
+- Mauvaise formulation utilisée par Matthias : *"Ça ferait partie de ce qu'on verrait ensemble SI je peux te proposer quelque chose."* Matthias pensait que le "SI" (mis en avant) montrait la sélectivité — Yann a jugé que ça sonne au contraire comme un doute sur sa propre capacité à aider, pas comme de la sélectivité.
+- Bonne formulation, même conversation, validée par Yann ("maximiser l'anti-vente") : *"Je prends pas n'importe qui dans mon accompagnement, c'est pour ça que je préfère poser autant de questions avant de faire un call."* — affirmation directe et confiante de sa sélectivité, sans conditionnel.
+- Règle qui en découle : l'anti-vente se formule toujours en affirmation assurée sur SA sélectivité (qui il prend/ne prend pas), jamais en conditionnel sur SA capacité à aider — le conditionnel se lit comme un manque de confiance, pas comme de la rareté.
+
+`[À COMPLÉTER]` — reste à démontrer : phase bien couverte sur la formulation, mais pas encore sur le dosage (à quel moment précis introduire l'anti-vente dans la conversation).
 
 ---
 
