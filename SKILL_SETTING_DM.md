@@ -664,7 +664,8 @@ ETAPE 6 (Yann) — URGENCE ET RARETE (AUTHENTICITE)  [nouveau palier explicite, 
 
 ETAPE 7 (Yann) — PROPOSITION DU CALL  [= ancien PHASE 5, voir aussi Situation 11]
     → Seulement si : pain point clair + interet + qualification OK (+ auto-qualification Regle 17
-      idealement passee)
+      idealement passee) + capacite financiere suggeree par le contexte (4e condition, Situation 11,
+      2 septembre 2026) — jamais demandee frontalement, lue dans les signaux deja donnes
     → Cadrage a privilegier (nouveau, Regle 18/Situation 11) : reduire la friction en nommant
       explicitement que ce n'est PAS un call de vente mais un call de qualification
     → Sinon (pas encore qualifie) : pivoter vers valeur gratuite (video, manifeste) — ancien PHASE 4
@@ -980,10 +981,17 @@ Hey [prenom], j'espere que t'as pu un peu souffler.
 
 ### Situation 11 : Proposition de visio (quand c'est le moment)
 
-**Les 3 conditions reunies :**
+**Les 4 conditions reunies (4e ajoutee le 2 septembre 2026, cas Floriane Bardet) :**
 1. Pain point clairement exprime
 2. Interet pour la methode
 3. Qualifiee (minimum d'experience, offre definie)
+4. **Capacite financiere suggeree par le contexte** — un signal, meme indirect, qu'elle peut probablement investir sur l'accompagnement (2000€). Si rien ne le suggere, ou pire si le contexte suggere l'inverse (voir plus bas), ne PAS proposer la visio meme si les conditions 1-3 sont reunies — continuer a creuser un cran de plus avant de degainer l'appel.
+
+**Comment lire la condition 4 — jamais en demandant le budget/revenu frontalement (deja interdit, Partie 5, regle 1) :**
+- Lire les signaux deja donnes spontanement dans la conversation : elle mentionne compter sur un salariat/des remplacements pour "assurer un revenu" (filet de securite = signe que le CA freelance actuel est insuffisant) ? Elle retarde volontairement une depense/un lancement pour des raisons de tresorerie (ex : Floriane qui attend d'avoir un client signe avant d'ouvrir son auto-entreprise, pour ne pas perdre l'exoneration ACRE sans CA en face) ? Sa seule "mission" a ce jour a ete payee en nature (avis, contrepartie) plutot qu'en cash ? Ce sont des signaux qui vont plutot dans le sens CONTRAIRE d'une capacite financiere confirmee — prudence.
+- A l'inverse, des signaux favorables : elle a deja investi dans une formation/un coaching payant recemment (le fait meme d'avoir paye pour se former est un signal d'investissement), elle a un CDI/CA stable en parallele, elle parle de son activite comme rentable ou en croissance.
+- Si le signal est absent ou ambigu : ne pas le forcer artificiellement par une question a peine deguisee sur l'argent — rester en creusage/qualification (Regles 1-9, Regle 6 sur l'urgence/le timing) jusqu'a ce qu'un signal clair (favorable ou defavorable) apparaisse naturellement, ou remonter le sujet indirectement via l'urgence/le timing plutot que via le prix (ex : la marge de temps avant que la situation devienne tendue, jamais "t'as combien de budget cote de toi").
+- **Coherent avec Regle 19, mecanisme 1 (diagnostic sans complaisance) :** si le contexte suggere clairement qu'elle n'a pas encore les moyens d'investir, ce n'est pas un echec a masquer — c'est une donnee reelle de qualification, a traiter avec honnetete plutot qu'a ignorer pour "faire avancer" la conversation vers un call qui ne mene nulle part.
 
 **Formulation :**
 ```
