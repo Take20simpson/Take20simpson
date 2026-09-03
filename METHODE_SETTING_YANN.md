@@ -184,6 +184,18 @@ Règle opérationnelle qui en découle : si le prospect retourne une question pe
 
 ---
 
+## Cas de référence validé par Yann — Elora Landwerlin (3 septembre 2026)
+
+Matthias a demandé un retour direct à Yann sur cette conversation précise. Réponse de Yann : conversation jugée "vraiment bonne", ça se sent que c'est un humain en face, il y a une vraie proximité, le calibrage et les questions sont bons — cité comme référence.
+
+**Nuance posée par Matthias lui-même, à garder impérativement avec ce cas :** c'est plus facile parce que la prospect est très réceptive dès le départ — ce calibrage validé ne dit rien sur le dosage face à un prospect fermé/froid (cf. le `[À COMPLÉTER]` déjà ouvert plus haut sur ce point, cas Laura Langlet). Ne pas généraliser ce cas comme LE calibrage universel — c'est une référence pour un profil réceptif.
+
+**Ce qui a fonctionné dans cette conversation (Phase 2, qualification en cascade) :** questions ouvertes qui rebondissent sur ce qu'elle vient de dire (objectifs → volume clients → panier moyen → conjoncture → moment le plus dur → ce qu'elle fait pendant les creux), jamais deux questions fermées à la suite, ton léger avec une pointe d'humour ("400€ vs 1000€ la presta 😂") qui n'a jamais cassé le rythme.
+
+`[À COMPLÉTER]` — suite de la conversation en cours au moment de la capture, à enrichir dès qu'elle avance encore (elle vient de répondre "posts, bouche à oreille" sur ce qu'elle fait pour trouver d'autres opportunités pendant un creux).
+
+---
+
 ## Notes transverses
 
 - Phases à frontières souples, pas des blocs étanches (Preuves et Auto-qualification s'entremêlent dans le cas Maëva)
