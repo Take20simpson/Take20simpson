@@ -583,6 +583,25 @@ Deux messages distincts a la suite (pas un seul pave fusionne) — ca imite le r
 
 ---
 
+### Regle 20 — Recapitulatif diagnostic (faire acquiescer et assumer, pas juste constater)
+
+> Ajoutee le 2 septembre 2026, transmise directement par Yann a Matthias en coaching (pas encore observee sur un transcript, contrairement aux Regles 16-19).
+
+**Le mecanisme :** une fois assez d'elements factuels reunis (Etape 4, Preuves), resumer explicitement la situation du prospect sous forme de liste courte — "Ok, du coup si je comprends bien ta situation : [liste de faits]" — puis refermer par une question qui l'invite a confirmer ou corriger. **L'objectif n'est pas juste d'informer ou de constater : c'est que le prospect ACQUIESCE et ASSUME sa problematique lui-meme**, a voix haute, plutot que de la laisser implicite ou de la lui asséner (meme logique que la Regle 2 : le prospect formule/valide SES constats).
+
+**Difference avec la Situation 10 (la prise de conscience vient d'arriver) :** la Situation 10 REAGIT a une prise de conscience deja exprimee spontanement par le prospect ("Ah ok je vois ce que tu veux dire"). La Regle 20 PROVOQUE activement ce moment — c'est Matthias qui initie la bascule en resumant lui-meme les faits deja donnes, sans attendre que le prospect le formule en premier.
+
+**Format obligatoire :**
+1. [Validation courte optionnelle]
+2. [Liste de 3-5 faits, un par ligne — QUE des elements deja reveles par le prospect lui-meme dans la conversation, jamais deduits ni inventes, jamais un jugement de valeur ("c'est pas terrible" est interdit — rester sur le fait neutre)]
+3. [UNE question qui invite a confirmer/corriger — jamais une question fermee de type "t'es d'accord ?", plutot "c'est bien ça le tableau, ou j'ai loupé un truc ?" qui laisse une vraie place a la nuance]
+
+**Garde-fou :** la liste reste 100% factuelle et neutre — c'est au prospect de tirer la conclusion/le sens de ce qui est liste, jamais a Matthias de la formuler a sa place en meme temps qu'il liste les faits (sinon on retombe dans l'affirmation sechee, Regle 2). Un fait sensible (ex : une dependance financiere revelee indirectement) peut figurer dans la liste s'il a deja ete dit par le prospect, mais toujours enonce neutrement, jamais souligne comme un probleme.
+
+**Ou ca s'insere :** entre Etape 4 (Preuves) et Etape 5 (Auto-qualification) de l'arbre decisionnel (Partie 2) — sert de palier de synthese explicite avant l'auto-qualification (Regle 17) et avant d'envisager la visio (Situation 11, y compris sa 4e condition sur la capacite financiere, ajoutee le meme jour).
+
+---
+
 ### Point en tension a trancher — annonce de prix en DM
 
 La Regle 7 de la Partie 5 dit "JAMAIS annoncer le prix en DM". Un cas reel observe (conversation Fanny Roos, juillet 2026) montre Matthias donnant son prix (2000 EUR / 8000 EUR brut) directement en DM, en reponse a une question tres frontale et dans un contexte de rapport tres eleve — et ca n'a pas fait fuir la prospect, au contraire. Ca rentre dans la logique de calibrage de la Regle 13 (question frontale → reponse precise).
@@ -650,6 +669,9 @@ ETAPE 4 (Yann) — PREUVES  [= fin PHASE 3, ancre Regles 13/14/16]
       reel chiffre et son accord)
 
 ETAPE 5 (Yann) — AUTO-QUALIFICATION  [nouveau palier explicite, Regle 17]
+    → Juste avant, envisager le recapitulatif diagnostic (Regle 20, 2 septembre 2026) : resumer en
+      liste les faits deja reveles pour la faire acquiescer/assumer sa problematique elle-meme,
+      plutot que de passer directement a l'auto-qualification sans ce palier de synthese
     → Une fois l'objectif chiffre + un peu de preuve etablis : faire qualifier au prospect SON
       PROPRE niveau d'engagement/determination a voix haute (Regle 17), pas seulement sa douleur
     → Pont naturel vers "SI je dois" vs "COMMENT" (Regle 10) : l'auto-qualification aide a
