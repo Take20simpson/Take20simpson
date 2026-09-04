@@ -178,7 +178,9 @@ Règle opérationnelle qui en découle : si le prospect retourne une question pe
 **Exemple (Yann) :**
 > *"Ça te chauffe on se fait un call pour voir si je peux vous aider ? C'est pas un call de vente, c'est de la qualif. Je fonctionne en r2 mdrr."*
 
-`[À COMPLÉTER]` — rien à signaler, phase bien démontrée.
+**Posture derrière la formule (conseil Yann, capturé le 4 septembre 2026) :** variante donnée par Yann à Matthias — *"Est-ce que ça te chauffe ? Qu'on se fasse un call afin de voir si je peux t'aider."* Le point n'est pas la formule mot pour mot mais la posture qu'elle installe : **arriver** sur la proposition en disant *"j'ai envie de voir si je peux t'aider"* — Matthias qui offre son aide, jamais Matthias qui demande une faveur ou vend un call. Cohérent avec l'anti-vente de la Phase 6 (affirmation assurée, jamais de conditionnel) : ici aussi la posture est assurée, centrée sur l'intention d'aider, pas sur le besoin d'obtenir le call.
+
+`[À COMPLÉTER]` — rien d'autre à signaler, phase bien démontrée.
 
 ---
 
