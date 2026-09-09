@@ -869,4 +869,58 @@ Matthias : Pour les appels, oui mais pour les conversations je ne vois pas l'int
 
 ---
 
+### Maeva Mintz
+
+vendredi
+10:38 Matthias : Hello Maëva / Première fois que je vois quelqu'un qui met vraiment bien en valeur MASE sur son profil
+10:40 Matthias : Je te dis ça parce que mon père a une petite société dans le secteur des remplacements de auvent etc, je ne te raconte pas le bordel avec la certification MASE, ils ont toujours eu un dossier béton avec une reconductibilité de 3 ans (à chaque fois) mais là cette année j'ai l'impression que les normes se durcissent, ils ne leur ont accordé que pour 1 an / Toi aussi de ton côté c'est dur ou pas ?
+13:12 Maeva : Hello Matthias ! Première fois que je vois un business développer (si je peux dire que tu es dans cette case) qui connaît le MASE 😂 / Oh dur pour ton père, et oui on est passés à la version 2024 du référentiel, ça pique un peu pour certaines boîtes, il y a de nouvelles exigences ! / Tu peux préciser ta question "c'est dur" pour quoi exactement ?
+13:15 Matthias : [vocal 0:11] / Oui en fait est-ce que c'est dur de faire des dossiers béton pour pas te faire emmerder par le MASE
+13:23 Maeva : Haha bah c'est cool ça comme activité ! Dur ou pas je sais pas trop te dire, ça dépend des ressources que t'as, et surtout surtout... de l'auditeur 😂 je devrais pas le dire mdr mais y'en a des plus "bienveillants" que d'autres
+13:39 Matthias : Ah ok je vois le tableau / Parce que tes clients tu les trouves sur LinkedIn ?
+14:01 Maeva : Oui pour les accompagnements MASE. Pour les audits c'est plutôt via les cabinets d'audit. En gros pour la certification je peux travailler avec 2 cabinets d'audit agréés (on ne peut pas faire en direct), du coup ils m'envoient les missions. Pour les audits internes, comme les cabinets sont souvent sollicités mais qu'ils ne peuvent faire que la certif, ils nous les renvoient aussi. Pas mal de réseau aussi : typiquement un consultant qui a accompagné une boîte en MASE, s'il me connaît il va probablement m'envoyer la mission d'audit. Et vice versa un qui a audité mais qui ne fait pas d'accompagnement peut me l'envoyer.
+14:06 Matthias : [vocal 0:14]
+15:05 Maeva : je réponds pas en vocal jsuis dans le train. Mais oui niveau accompagnement jsuis full. Audit j'ai encore 3 ou 4 jours de dispo d'ici fin d'année et je commence à planifier sur janvier-février. C'est un business récurrent donc d'ici 2 ou 3 ans ça va même se remplir encore plus tout seul. (et limite si les 3 ou 4 jours se remplissent pas je m'en fiche, j'ai laaarge mon CA de l'année)
+15:07 Matthias : OK bah c'est top ça / Et t'as des objectifs plus long terme ou tu veux aller chercher plus haut par exemple ?
+15:10 Maeva : Oui déjà j'essaie de me constituer un réseau de consultants que je pourrai faire bosser en sous-traitance pour faire des accompagnements sur toute la France, et juste piloter pour sortir de l'opérationnel. Je suis en train de créer une formation en ligne pour le MASE, que je commence à vendre. Et d'ici 3 ans faire agréer ma boîte comme cabinet d'audit agréé.
+15:13 Matthias : Trop bien / Ce sont les mêmes clients que tu as actuellement auxquels tu pourras proposer ta formation ?
+15:26 Maeva : Certains oui. Audit de certif techniquement non car on ne peut pas faire du conseil et de la certif. Par contre audit interne, et accompagnement oui. Typiquement la formation je vais l'inclure dans l'accompagnement car comme ça le client bosse et je corrige, plus besoin de tout réexpliquer à chaque fois. Et là les clients que j'ai eus en audit interne, je pourrai leur vendre soit la formation, soit la communauté (en gros c'est des lives d'expert, forum, réponses aux questions par moi qui suis auditrice...). J'ai déjà proposé, j'ai de la traction, la formation je l'ai déjà vendue une fois, la communauté aussi, faut juste que je termine et que je vende plus. Donc posts LinkedIn, refaire un lead magnet, faire du setting, et prospecter un peu.
+15:40 Matthias : OK c'est génial ça / Sur ton setting tu t'y prends comment exactement ?
+15:41 Maeva : Pour l'instant je m'y prends pas 😂 il faut que je le fasse et que je construise le bon lead magnet, la conv qui va bien...
+15:43 Maeva : J'avais testé avec des lead magnets un peu génériques (quarts d'heure sécu...), beaucoup de téléchargement, peu de réponse quand on demande aux gens s'ils l'ont lu/utilisé. Donc je me dis un lead magnet plus ciblé déjà, et après faut que je regarde comment je vais aborder les conversations.
+15:50 Matthias : [vocal 0:26] [vocal 0:33] / Tu penses que tu vas commencer le setting sérieusement à quel moment ?
+16:00 Maeva : [vocal 0:23] [vocal 0:19]
+16:01 Matthias : Top, tu t'es fait accompagner par qui sur le setting ?
+16:01 Maeva : [vocal 0:18] / Julien Guy
+16:02 Matthias : Ok cool je connais pas
+16:02 Maeva : Alors c'était prospection / call de vente, et du coup on a fait un peu de setting mais ça avait pas trop donné. J'avais pas une offre claire à l'époque
+16:03 Matthias : Le setting n'avait pas trop donné uniquement parce que tu n'avais pas une offre claire ?
+16:03 Maeva : (je savais même pas ce que ça voulait dire setting 😂) Non, parce que je n'y ai pas mis d'énergie
+16:04 Matthias : Ah ok oui c'est logique
+16:04 Maeva : [vocal 0:18]
+16:05 Matthias : Ok je vois
+16:07 Maeva : Et comme en plus je n'étais pas trop sûre de moi et de la valeur de ce que je proposais, autant dire que c'était compliqué
+16:07 Matthias : Logique oui / [vocal 0:08]
+16:47 Maeva : [vocal 0:34]
+17:50 Maeva : [vocal 0:31]
+18:05 Matthias : J'écoute tes vocaux après les courses
+18:14 Maeva : Aucune urgence haha
+21:21 Matthias : [vocal 0:30]
+
+dimanche
+21:42 Maeva : Hello ! Désolée pour la réponse très tardive. Pas possible pour moi cette semaine je suis en déplacement toute la semaine. Est-ce qu'on peut faire ça le 14 sept ?
+
+lundi
+08:45 Matthias : Yes ça marche / Je peux te proposer du coup lundi à 13h ou 14h
+12:01 Matthias : J'avais zappé je pourrai pas le 14, mais le 15 à 13h ou 14h c'est bon
+12:54 Maeva : Le 15 à 14h c'est ok !
+13:32 Matthias : Vas-y parfait, je peux avoir ton mail, je t'envoie l'invite
+14:58 Maeva : maeva.mintz@gmail.com
+15:12 Matthias : Normalement t'as dû le recevoir par mail / Je te le mets en double au cas où… (invite Google Meet, mardi 15 sept. 14:00-14:45)
+16:40 Maeva : Yes bien reçu !!
+
+*(call confirmé pour le 15 septembre 14h-14h45, Google Meet — préparation call en cours le 9 septembre avec Yann, voir `JOURNAL.md`)*
+
+---
+
 *Document créé le 22 juillet 2026, en complément de `JOURNAL.md`, à la demande de Matthias (besoin d'une sauvegarde brute complète des conversations, pas seulement un résumé).*
