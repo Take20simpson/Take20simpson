@@ -246,6 +246,15 @@ Matthias a demandé un retour direct à Yann sur cette conversation précise. R�
 
 ---
 
+## Format topo de préparation d'appel (créé le 9 septembre 2026, cas Maeva Mintz)
+
+> Distinct du format "analyse de setting" ci-dessus (qui sert à décider du prochain message DM). Ici l'objectif est un récap que Matthias envoie tel quel à Yann avant un call déjà obtenu.
+
+- **Uniquement des bullets courts, jamais de paragraphe.** Matthias relit vite (il se souvient déjà de la conversation), il ne veut pas re-décortiquer un pavé.
+- Sections fixes : Activité / Objectifs / Douleur réelle (bien la distinguer de l'activité qui va bien si c'est le cas) / Setting-prospection (état des lieux) / À creuser en call / Infos call (date, heure, canal).
+- Une info par ligne, un fait par bullet — pas de justification développée, pas de citation longue.
+- Rien de perdu par rapport à la conversation source (le détail complet reste dans `JOURNAL.md`/`ARCHIVE_CONVERSATIONS.md`) — juste densifié pour l'envoi direct à Yann.
+
 ## Prochaine étape
 
 Intégrer les prochains vocaux/calls de Yann pour combler les `[À COMPLÉTER]` restants (Phase 2 : tronc de questions fixe ou 100% adaptatif ; Phase 3 : ressource écrite en plus ; Phase 4 : gestion si le prospect n'a aucun historique à faire valoir). Prioriser les cas de prospects peu réceptifs si Yann en fournit (cf. lacune ci-dessus) — la séance 2 du 1er septembre a surtout porté sur des mécaniques transverses (contre-prospection, timing de réponse, règle "jamais un message sans question"), pas sur ce cas de figure précis.
