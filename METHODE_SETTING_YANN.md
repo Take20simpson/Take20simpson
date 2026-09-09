@@ -196,6 +196,8 @@ Règle opérationnelle qui en découle : si le prospect retourne une question pe
 
 `[À COMPLÉTER]` — au bout de combien de temps de silence relancer, et combien de relances avant d'arrêter ? Non démontré.
 
+**⚠️ Tension non tranchée (capturée le 9 septembre 2026, vidéo Yann "vendre sale") :** dans cette vidéo, Yann dit ne **jamais** relancer un prospect silencieux — contredit frontalement cette section. Détail et hypothèse (le volume de contenu de Yann génère déjà assez de signaux entrants pour se passer de relance) dans `STRATEGIE_YANN.md`. Ne pas trancher seul — à poser directement à Yann. Cette section garde sa validité tant que le point n'est pas clarifié.
+
 ---
 
 ## Cas de référence validé par Yann — Elora Landwerlin (3 septembre 2026)
