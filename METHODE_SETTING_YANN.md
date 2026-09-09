@@ -251,7 +251,9 @@ Matthias a demandé un retour direct à Yann sur cette conversation précise. R�
 > Distinct du format "analyse de setting" ci-dessus (qui sert à décider du prochain message DM). Ici l'objectif est un récap que Matthias envoie tel quel à Yann avant un call déjà obtenu.
 
 - **Uniquement des bullets courts, jamais de paragraphe.** Matthias relit vite (il se souvient déjà de la conversation), il ne veut pas re-décortiquer un pavé.
-- Sections fixes : Activité / Objectifs / Douleur réelle (bien la distinguer de l'activité qui va bien si c'est le cas) / Setting-prospection (état des lieux) / À creuser en call / Infos call (date, heure, canal).
+- Sections fixes, dans cet ordre : **Objectif de l'appel** (en premier, toujours) / Ce qu'elle fait actuellement / Objectifs long terme / Douleur réelle (bien la distinguer de l'activité qui va bien si c'est le cas) / Setting-prospection (état des lieux) / À creuser en call / Infos call (date, heure, canal).
+- **Objectif de l'appel = ce qui manquait la première fois (cas Maeva Mintz, 9 septembre 2026), à ne plus jamais oublier.** Le préciser explicitement, pas juste le laisser se déduire des autres sections — Matthias doit pouvoir dire à Yann en une phrase pourquoi ce call a lieu.
+- Si la proposition de call elle-même n'est pas dans le texte retranscrit (ex : passée par vocal non transcrit), ne jamais l'affirmer comme un fait établi — dire explicitement "déduit du fil de la conversation, à reconfirmer" et donner le raisonnement en une ligne. Rien d'inventé, cohérent avec la règle de construction de ce document.
 - Une info par ligne, un fait par bullet — pas de justification développée, pas de citation longue.
 - Rien de perdu par rapport à la conversation source (le détail complet reste dans `JOURNAL.md`/`ARCHIVE_CONVERSATIONS.md`) — juste densifié pour l'envoi direct à Yann.
 
