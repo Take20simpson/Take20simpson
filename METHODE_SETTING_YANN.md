@@ -4,7 +4,7 @@
 
 **Règle de construction :** rien d'inventé. Une info manque → `[À COMPLÉTER]`, jamais deviné.
 
-**Sources :** masterclass Yann (les 7 phases) · étude de cas Yann x Maëva (DM LinkedIn, call obtenu) · vocal Yann du 31 août (mécanisme des incohérences) · séance 2 avec Yann, 1er septembre 2026 (call enregistré, focus posts + review en direct de vraies conversations de Matthias, dont Élodie Delmas et Zineb Rais). Prochain enrichissement : autres vocaux/calls à venir.
+**Sources :** masterclass Yann (les 7 phases) · étude de cas Yann x Maëva (DM LinkedIn, call obtenu) · vocal Yann du 31 août (mécanisme des incohérences) · séance 2 avec Yann, 1er septembre 2026 (call enregistré, focus posts + review en direct de vraies conversations de Matthias, dont Élodie Delmas et Zineb Rais) · 2e vidéo masterclass setting (capturée le 9 septembre 2026, demandée par Yann à Matthias) — reprend le cas Maëva en détaillant les mécanismes internes (pourquoi chaque message, pas juste quoi dire) + analyse par Yann de sa propre conversation de closing avec Matthias (24 août 2026, 4500€). Prochain enrichissement : autres vocaux/calls à venir.
 
 ---
 
@@ -52,6 +52,15 @@ Deux mécaniques nouvelles observées en direct par Yann sur le cas Zineb Rais, 
 - **Le prospect qui "contre-prospecte" (il pose des questions sur TOI/ton activité) :** répondre, mais bref — jamais un pavé aussi long que sa question. Le but est de garder la conversation centrée sur LUI, pas de se justifier longuement. Yann : *"C'est d'elle qu'on veut parler, pas de toi."* Dès qu'il arrête de te contre-questionner, il faut immédiatement relancer avec une question — ne jamais laisser le silence retomber après avoir "gagné" cet échange, sinon la conversation dérive sur un sujet secondaire. Nuance : Yann lui-même ne répond pas à ce type de question quand il a déjà l'autorité/les preuves — mais tant que Matthias n'a pas ce statut, il doit répondre (brièvement), pas ignorer.
 - **Répondre à une objection/un point contesté IMMÉDIATEMENT, jamais en différé.** Si le prospect pousse back sur un point (Mécanisme central ou autre), le traiter dans le tout prochain message. Attendre un ou deux échanges pour y revenir ("trop tard") ne fonctionne pas — le prospect a déjà classé la conversation ailleurs mentalement. Yann : *"Tout à l'heure il fallait le dire. Là tu reviens dessus beaucoup trop tard, il est là le problème... tu commences à la perdre."*
 
+### Casser toutes les objections pendant le setting, jamais les laisser remonter au moment du prix (2e vidéo masterclass, cas Maëva)
+
+> Étend la règle ci-dessus ("répondre immédiatement") à une discipline plus large : ne pas juste répondre vite quand l'objection arrive, mais activement la neutraliser avant qu'elle puisse resurgir plus tard.
+
+- Dès qu'un vrai point de blocage/objection apparaît en setting (ex : Maëva mentionne vouloir travailler uniquement en Suisse romande), le traiter sur-le-champ et à fond — ne jamais le laisser filer en se disant qu'on le rattrapera en call.
+- Règle explicite de Yann : *"Il faut la casser avant qu'elle vous la sorte quand vous balancez votre prix... nous ce qu'on veut c'est des gens qui disent oui quand vous donnez votre prix, on ne veut pas qu'il y ait d'objection à faire."*
+- Objectif final : au moment du closing, il ne doit plus rester aucune objection en réserve chez le prospect — tout est déjà désamorcé pendant la conversation DM.
+- Exemple (Maëva) : elle objecte vouloir bosser seulement en Suisse romande → Yann répond immédiatement qu'il couvre déjà cette zone (référence à un partenaire/couverture existante) → elle valide, l'objection ne reviendra jamais en closing car elle n'a même pas eu l'occasion de se cristalliser.
+
 ---
 
 ## PHASE 1 — Prétexte de contact
@@ -92,6 +101,10 @@ Deux mécaniques nouvelles observées en direct par Yann sur le cas Zineb Rais, 
 
 `[À COMPLÉTER]` — Yann a-t-il un tronc de questions fixe, ou c'est 100% adaptatif ? Non démontré.
 
+**Vitesse de réponse — mécanique explicite (2e vidéo masterclass, cas Maëva) :** Yann répond "à la minute" pendant toute la qualification, pas seulement pour traiter les objections (cf. règle de timing déjà documentée plus haut). Son image : *"Imaginez-vous avec votre crush à 2h du matin et que là vous répondiez en continu... c'est un jeu de séduction."* Plus la réponse est rapide, plus ça crée d'élan/de dynamique côté prospect. Nuance : la durée totale de l'échange n'a pas besoin d'être longue (le cas Maëva a duré ~1h, "vous n'êtes pas obligé de discuter aussi longtemps") — c'est la vitesse de chaque réponse qui compte, pas le volume total de temps passé.
+
+**La question "objectifs" — à poser au début ET à la fin de la qualification (2e vidéo masterclass) :** ne pas la poser qu'une fois. Utilité double : (1) qualifier normalement, (2) servir de levier anti-objection plus tard dans la conversation — si le prospect hésite ensuite ("est-ce que j'ai vraiment besoin de ça"), Yann peut rebondir directement sur l'objectif qu'il a lui-même énoncé : *"tu veux atteindre tes objectifs d'ici la fin de l'année, donc oui t'en as besoin."* Cohérent avec le Mécanisme central (rebond sur l'objectif du prospect) mais appliqué ici en prévention, pas seulement en réaction à une incohérence.
+
 ---
 
 ## PHASE 3 — Don de valeur
@@ -106,6 +119,8 @@ Deux mécaniques nouvelles observées en direct par Yann sur le cas Zineb Rais, 
 > *"Pour moi le BAO c'est pas un système, ça prouve que vous êtes bon mais pas plus."* / *"Ça demande au moins 5/6 semaines minimum, c'est avec ça que mes clients obtiennent des résultats."*
 
 `[À COMPLÉTER]` — Yann envoie-t-il parfois une ressource écrite en plus ? Non démontré ici.
+
+**Ne pas trop en donner (2e vidéo masterclass) :** Yann met en garde explicitement contre l'excès inverse — donner trop de valeur en amont retire au prospect une raison de vouloir le call. *"J'ai vu certains qui en donnaient beaucoup, beaucoup, beaucoup... si on donne trop, la personne n'a plus d'intérêt à nous suivre en call."* Le dosage reste la même logique que la Phase 3 ci-dessus (une phrase suffit) — cette mise en garde en est la justification explicite : le don de valeur sert à créer la confiance, pas à répondre déjà à tout ce que le call devait couvrir.
 
 ---
 
@@ -127,6 +142,12 @@ Deux mécaniques nouvelles observées en direct par Yann sur le cas Zineb Rais, 
 Règle opérationnelle qui en découle : si le prospect retourne une question personnelle avant d'avoir donné de vraie matière sur lui-même, répondre bref (pas de pavé) et relancer une question sur LUI dans la foulée — ne jamais laisser l'auto-révélation devenir le sujet.
 
 `[À COMPLÉTER]` — gestion de cette phase si le prospect n'a AUCUN historique à faire valoir. Non démontré.
+
+**Disclaimer obligatoire si le prospect dit "c'est facile" après une preuve (2e vidéo masterclass, cas Maëva) :** quand une preuve chiffrée impressionne le prospect et qu'il en déduit que c'est facile/atteignable sans effort, ne jamais valider ça, même sur le ton de l'humour. Yann : *"Ne commencez pas à leur dire 'ouais c'est easy'... non, ce n'est pas easy de faire ça, il y a beaucoup de taf."* Objectif : se positionner comme "pas un vendeur de rêve" — ça renforce la crédibilité au lieu de la casser, et prépare l'auto-qualification suivante (l'effort réel devient la condition d'accès).
+
+**Preuve calibrée sur le chiffre-objectif du prospect — mécanisme confirmé en direct (2e vidéo masterclass, cas Maëva) :** cohérent avec la Règle 16 déjà documentée dans `SKILL_SETTING_DM.md`. Séquence observée : le prospect énonce un objectif chiffré (ex : "je veux faire 10-12k/mois") → Yann réagit brièvement ("ça me plaît, il est bon") → puis balance IMMÉDIATEMENT une preuve nominative avec un chiffre proche/cohérent (*"Juju il a signé 12k en 30 jours"*) — jamais une preuve générique, toujours calée sur le chiffre que le prospect vient lui-même de citer. Yann précise qu'il peut empiler plusieurs preuves à ce moment-là s'il en a (*"j'aurais pu lui balancer Quentin, Victor..."*) mais choisit de doser plutôt que de tout sortir d'un coup.
+
+**Réordonnancement des phases — privilège de l'autorité déjà établie, pas encore un réflexe sûr pour Matthias (2e vidéo masterclass, cas Matthias lui-même, 24 août 2026) :** dans sa propre conversation avec Matthias, Yann a délibérément inversé l'ordre par défaut et amené ses preuves TRÈS tôt, avant la qualification en profondeur — *"j'ai marché à instinct, j'ai repris les étapes qui m'arrangeaient... je voulais qu'il soit chaud patate."* Il justifie ce choix par le fait qu'une preuve tierce le précédait déjà (voir cas de référence "Matthias" plus bas — Juliette avait déjà vanté Yann à Matthias avant même le premier message) : la crédibilité était donc déjà acquise, ce qui rendait l'ouverture par la preuve sans risque. Cohérent avec la nuance déjà notée plus haut dans ce document (contre-prospection) : Yann peut se permettre ces libertés parce qu'il a l'autorité/les preuves déjà établies — reste à valider si Matthias peut faire pareil une fois qu'il aura ses propres preuves tierces solides, pas encore le cas par défaut.
 
 ---
 
@@ -164,6 +185,24 @@ Règle opérationnelle qui en découle : si le prospect retourne une question pe
 
 `[À COMPLÉTER]` — reste à démontrer : phase bien couverte sur la formulation, mais pas encore sur le dosage (à quel moment précis introduire l'anti-vente dans la conversation).
 
+### Le "tournant de la discussion" — inversion des forces (2e vidéo masterclass, cas Maëva) : ceci répond au dosage manquant ci-dessus
+
+> Mécanisme central de la Phase 6, jusqu'ici pas décrit en détail. C'est le moment précis où introduire l'anti-vente.
+
+- Après un enchaînement suffisant de qualification + preuves + auto-qualification, le prospect atteint un point où **c'est LUI qui commence à pousser pour avancer vite** (ex : Maëva dit vouloir consulter son associé avant d'y aller — signal d'urgence venant d'elle, pas de Yann).
+- **C'est exactement ce moment-là qu'il faut introduire l'anti-vente**, pas avant, pas après : Yann dit alors, sans avoir encore rien vendu explicitement : *"Attends, mais Maëva, je t'ai rien vendu, pourquoi tu veux en parler à ton associé ?"*
+- Deux réactions possibles du prospect, toutes les deux bonnes :
+  1. Il recule légèrement, s'excuse ("oui mais quand même, excuse-moi") — l'anti-vente a fait son effet en douceur.
+  2. Il nomme directement la technique ("je sens que tu es en train de me vendre un truc") — **c'est le meilleur cas de figure, pas un problème à gérer.** Ne jamais nier : confirmer ouvertement ("oui, je suis en train de te vendre quelque chose") puis enchaîner tout de suite sur le mécanisme réel derrière (qualification sérieuse + rareté réelle + garantie) — et continuer d'appuyer dans cette direction plutôt que de reculer. Yann : *"Ça sent encore mieux, je peux continuer à appuyer sur le bouchon."*
+- La garantie sert de pièce justificative à ce moment précis (pas juste un argument générique glissé n'importe où) : quand le prospect nomme la technique, c'est le bon moment pour balancer la garantie comme preuve que la sélectivité est réelle, pas du marketing (*"on fait attention à qui on prend, on fait ultra gaffe"*).
+- Résultat observé : cette inversion des forces amène le prospect à proposer LUI-MÊME le call ou la suite, sans que Yann ait eu à le pousser (*"c'est lui qui a proposé le call, ce n'est pas moi"*).
+
+### Anti-vente même quand le prospect propose le call lui-même (2e vidéo masterclass, cas Matthias) — précise la Règle 19 Mécanisme 2 de `SKILL_SETTING_DM.md`
+
+- Yann raconte avoir failli accepter directement, par réflexe/surprise, quand Matthias lui a proposé spontanément un call — puis s'est repris et a quand même fait un temps d'anti-vente avant de valider, alors même que la qualification semblait déjà complète.
+- Formulation utilisée : *"Attends, je veux te qualifier d'abord, je veux être sûr de pouvoir t'aider pour qu'on ne perde pas notre temps, mon temps est important, je ne suis pas sûr, des fois je refuse des clients."*
+- Nuance par rapport à la règle déjà documentée (qualification complète → accepter tout de suite sans jeu) : ce cas montre que même quand la qualification est en réalité déjà bonne, un bref réflexe d'anti-vente reste presque systématique chez Yann avant d'accepter un call proposé par le prospect — à traiter comme une discipline quasi-automatique, pas seulement conditionnelle à un doute réel.
+
 ---
 
 ## PHASE 7 — Proposition du call
@@ -182,6 +221,8 @@ Règle opérationnelle qui en découle : si le prospect retourne une question pe
 
 `[À COMPLÉTER]` — rien d'autre à signaler, phase bien démontrée.
 
+**Toujours proposer 2 créneaux, jamais un seul (2e vidéo masterclass) :** Yann le souligne comme important — *"demain 14h ou 16h, est-ce que ça tient ?"* — donner le choix entre deux options plutôt qu'une seule date fixe.
+
 ---
 
 ## Relance — rappel après silence (capturé le 2 septembre 2026)
@@ -196,7 +237,7 @@ Règle opérationnelle qui en découle : si le prospect retourne une question pe
 
 `[À COMPLÉTER]` — au bout de combien de temps de silence relancer, et combien de relances avant d'arrêter ? Non démontré.
 
-**⚠️ Tension non tranchée (capturée le 9 septembre 2026, vidéo Yann "vendre sale") :** dans cette vidéo, Yann dit ne **jamais** relancer un prospect silencieux — contredit frontalement cette section. Détail et hypothèse (le volume de contenu de Yann génère déjà assez de signaux entrants pour se passer de relance) dans `STRATEGIE_YANN.md`. Ne pas trancher seul — à poser directement à Yann. Cette section garde sa validité tant que le point n'est pas clarifié.
+**Point clarifié par Matthias (9 septembre 2026) :** l'écart entre le "jamais de relance" de Yann (vidéo "vendre sale", cf. `STRATEGIE_YANN.md`) et cette section n'est pas un vrai sujet — Matthias relance un peu de son côté et ce n'est pas un point qu'il veut creuser davantage. Cette section reste la règle active, sans plus de tension à signaler.
 
 ---
 
@@ -212,6 +253,28 @@ Matthias a demandé un retour direct à Yann sur cette conversation précise. R�
 
 ---
 
+## Cas de référence — le closing de Matthias lui-même par Yann (24 août 2026, capturé le 9 septembre 2026 via la 2e vidéo masterclass)
+
+> Yann raconte, de son propre point de vue, comment il a closé Matthias pour 4500€. Valeur unique de ce cas : Matthias a vécu cette conversation de l'intérieur, il peut maintenant la relire avec le mécanisme expliqué par celui qui l'a mené.
+
+**Déclencheur :** sondage posté par Yann le 24 août, Matthias y répond, Yann demande "vous avez fait combien cet été" en commentaire du sondage, Matthias répond 30K — Yann surpris, questionne (sans agressivité, en mode curieux) plutôt que de prendre pour argent comptant, découvre que c'était une vanne de Matthias.
+
+**Preuve tierce déjà en place avant le premier message :** Juliette (autre cliente de Yann, déjà croisée par Matthias) lui avait dit spontanément qu'elle travaillait avec Yann et que "ça marchait du feu de Dieu" — la crédibilité de Yann était donc déjà acquise avant même que la conversation commence. Yann : *"J'avais déjà le travail qui était préfait parce que mes preuves parlaient pour moi avant même que j'arrive."* C'est cette preuve tierce préexistante qui justifie le réordonnancement des phases (preuve en ouverture, voir Phase 4 ci-dessus) — un levier que Matthias n'a pas encore construit pour lui-même.
+
+**Déroulé (phases mélangées, pas dans l'ordre standard) :**
+- Qualification légère ("ça donne quoi en ce moment ?"), puis bascule vite vers les preuves (Juliette, puis d'autres clients).
+- Matthias objecte que l'accompagnement (au sens : délivrer un accompagnement à ses propres clients) est "énergivore" pour lui — Yann répond immédiatement en reformulant l'objection comme un problème de structure/delivery, pas un défaut inhérent : *"Ce n'est pas si énergivore que ça, ça dépend comment tu délivres"* — puis appuie avec sa propre preuve d'efficacité (*"perso je gère 11 clients et 3h de livraison par jour"*) et se positionne comme celui qui peut résoudre précisément ce problème-là (*"je veux t'accompagner là-dessus, je ne veux pas que tu recommences depuis zéro"*).
+- Petit accroc assumé avec humour : Yann réutilise par erreur la même formulation d'auto-qualification qu'il venait d'envoyer à Juliette le même jour — s'en rend compte, ne le cache pas, dévie avec humour plutôt que de corriger lourdement. Illustre la Règle 7bis (`SKILL_SETTING_DM.md`) : l'aveu de confusion à voix haute humanise, ne dessert pas.
+- Matthias révèle plusieurs problématiques business dans des vocaux — Yann les reflète directement comme relevant exactement de son domaine d'expertise (il fait le même métier — prospection), puis double le bénéfice : *"je peux te faire monter en compétence pour avoir plus de résultats clients, et en plus tu peux obtenir plus de clients toi-même."*
+- Point de friction honnête (anti-vente, pas caché) : Matthias n'avait pas encore de preuves clients à lui — Yann le nomme sans détour (*"ça me fait chier si t'as pas de preuves"*) puis le reformule aussitôt comme surmontable par le travail et la motivation, relié à l'auto-qualification (*"c'est pour ça que je refuse du monde qui n'est pas motivé"*).
+- Matthias propose lui-même le call — Yann fait quand même un temps d'anti-vente avant d'accepter (voir Phase 6 ci-dessus), propose deux créneaux, cale un R1 direct (pas de R2) parce qu'il sentait que ça passerait directement.
+
+**Résultat — auto-closing démontré concrètement :** avant même que Yann présente formellement son offre, Matthias avait dit être "à 90%" (Yann : c'était en réalité 100%). C'est Matthias lui-même qui a proposé la structure de paiement : *"j'ai 4500, j'ai le temps de le mettre sur la table... et après j'aurai le paiement ensuite"* (paiement en deux fois) — Yann n'a eu qu'à dire oui. Confirme en exemple vécu par Matthias lui-même le mécanisme "c'est lui qui se vend à vous" (Phase 6/Anti-lead).
+
+**Leçon transverse rappelée par Yann en clôture de la vidéo :** les 7 phases sont un cadre, pas un script rigide — savoir les réordonner selon la lecture du prospect (ici : preuve tierce déjà là → preuve en ouverture) est ce qui a fait la différence, autant que suivre chaque étape dans l'ordre.
+
+---
+
 ## Notes transverses
 
 - Phases à frontières souples, pas des blocs étanches (Preuves et Auto-qualification s'entremêlent dans le cas Maëva)
@@ -219,7 +282,7 @@ Matthias a demandé un retour direct à Yann sur cette conversation précise. R�
 - Le Mécanisme central n'est pas limité à la Phase 3 — il infuse les Phases 2, 4 et 6 aussi
 - **Règle absolue (répétée explicitement par Yann, séance 2 du 1er septembre 2026) : "Je veux plus voir un seul message sans question."** Vaut du tout premier message (Phase 1, même sans aucune interaction préalable) jusqu'à la fin — chaque message envoyé doit contenir une question, jamais un simple constat ou une réponse qui se suffit à elle-même.
 - **Format des messages — règle précisée par Yann (2 septembre 2026) : une seule phrase par message, jamais plus.** Pas de limite sur le nombre de messages à la suite (2, 3, 4 ou plus) — ce qui compte c'est qu'aucun message individuel ne dépasse une phrase. Vaut pour toutes les phases, du premier message à la fin de la conversation.
-- Ne jamais balancer un prix/tarif en DM — réservé au call (cohérent avec `STRATEGIE_YANN.md`, "prix annoncé uniquement en visio"). Nuance de Yann : lui peut se permettre certaines libertés parce qu'il a déjà l'autorité et les preuves — pas encore le cas de Matthias, donc discipline stricte pour l'instant.
+- Ne jamais balancer un prix/tarif en DM — réservé au call (cohérent avec `STRATEGIE_YANN.md`, "prix annoncé uniquement en visio"). Nuance de Yann : lui peut se permettre certaines libertés parce qu'il a déjà l'autorité et les preuves — pas encore le cas de Matthias, donc discipline stricte pour l'instant. **Confirmé en exemple réel (2e vidéo masterclass, cas Matthias) :** Yann a donné son prix (4500€) directement en DM à Matthias avant même le call — justification explicite : *"j'ai des preuves donc je m'en fous"*. Il précise lui-même que sans preuves solides, l'annonce en DM "risque de rebuter directement" — donc pour Matthias aujourd'hui, le prix reste réservé au call tant qu'il n'a pas ce niveau de preuves.
 
 ## Usage : analyse de conversation (créé le 1er septembre 2026, format de réponse resserré le même jour — Matthias trouvait les réponses trop longues et pas assez actionnables)
 
@@ -261,6 +324,6 @@ Matthias a demandé un retour direct à Yann sur cette conversation précise. R�
 
 ## Prochaine étape
 
-Intégrer les prochains vocaux/calls de Yann pour combler les `[À COMPLÉTER]` restants (Phase 2 : tronc de questions fixe ou 100% adaptatif ; Phase 3 : ressource écrite en plus ; Phase 4 : gestion si le prospect n'a aucun historique à faire valoir). Prioriser les cas de prospects peu réceptifs si Yann en fournit (cf. lacune ci-dessus) — la séance 2 du 1er septembre a surtout porté sur des mécaniques transverses (contre-prospection, timing de réponse, règle "jamais un message sans question"), pas sur ce cas de figure précis.
+Intégrer les prochains vocaux/calls de Yann pour combler les `[À COMPLÉTER]` restants (Phase 2 : tronc de questions fixe ou 100% adaptatif ; Phase 3 : ressource écrite en plus ; Phase 4 : gestion si le prospect n'a aucun historique à faire valoir). Prioriser les cas de prospects peu réceptifs si Yann en fournit (cf. lacune ci-dessus) — la séance 2 du 1er septembre a surtout porté sur des mécaniques transverses (contre-prospection, timing de réponse, règle "jamais un message sans question"), pas sur ce cas de figure précis. **La 2e vidéo masterclass (9 septembre 2026) a comblé le dosage de l'anti-vente (Phase 6, "tournant de la discussion") mais aucun des `[À COMPLÉTER]` listés ci-dessus** — reste ouvert.
 
 **Contexte business de la séance 2 (1er septembre 2026, capturé dans `STRATEGIE_YANN.md`) :** objectif de la semaine fixé par Yann — décrocher au moins un R1 (idéalement un client signé) avant le prochain point, prochaine séance mercredi prochain 15h.
