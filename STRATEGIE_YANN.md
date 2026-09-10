@@ -130,3 +130,45 @@ Décision de Matthias : ne plus utiliser une IA comme moteur qui génère les r�
 - Il contacte toujours en premier sur un signal réel — cohérent avec la Phase 1 (prétexte de contact vrai) de `METHODE_SETTING_YANN.md`.
 
 **Point clarifié par Matthias (9 septembre 2026) :** l'écart entre le "jamais de relance" de Yann dans cette vidéo et la section "Relance" de `METHODE_SETTING_YANN.md` n'est pas un vrai sujet — Matthias relance un peu de son côté et ne veut pas creuser davantage ce point.
+
+---
+
+## Script de closing R1 → R2 — transmis par Yann (visio du 10 septembre 2026)
+
+> Script personnel de Yann (celui qu'il utilise pour son propre closing), transmis à Matthias parce que sa situation business est jugée assez proche pour rester proche de cette structure. Cohérent avec la doctrine déjà posée dans "L'offre" ci-dessus : le closing reste secondaire, mais un script peut être fourni — c'est celui-ci.
+
+**Contexte donné par Yann (information, pas doctrine à appliquer) :** Yann augmente son propre prix (8000€), a recruté une équipe de délivrance ("les avengers" — Alban, Charlotte, Antoine + intervention ponctuelle de Kevin Dumont sur les coachings de groupe via un partenariat). Mentionné pour situer d'où vient le script, sans impact sur l'offre de Matthias.
+
+### R1 — Appel de qualification (~30-45 min)
+
+- **Obligation légale :** annoncer explicitement en début d'appel qu'un outil d'IA (notetaker) enregistre/transcrit, puis demander "c'est ok pour toi ?" — attendre la réponse avant de continuer.
+- **Cadrage immédiat, avant toute question :** dire clairement que c'est Matthias qui mène l'appel (jamais l'inverse), que l'objectif est de voir s'il peut aider, que ce n'est pas un pur appel de vente, et qu'il n'accompagne pas tout le monde — pose la sélectivité dès le départ.
+- **Humour pour désamorcer** avant les questions plus personnelles/dures (ex. Yann utilise une blague sur l'orientation politique du prospect) — sert à faire sourire, pas à minimiser le sérieux de l'appel.
+- **Revalider à voix haute ce qui est déjà su du prospect** (son profil, son ICP, sa situation) — montre que l'info est reçue, avant d'aller plus loin. Ne pas juste passer à la suite sans ce retour.
+- **Question sur la découverte + la raison de l'appel** : "comment tu m'as découvert ?" puis "pour quelle raison tu as pris cet appel ?" (ou "accepté" pour un call entrant) — objectif : faire dire au prospect lui-même qu'il a besoin d'aide, jamais l'affirmer à sa place.
+- **Batterie de questions de qualification — pas besoin de toutes les poser**, à adapter selon la conversation. Dont : demander si le prospect a lui-même des preuves clients à montrer sur son activité (sert à jauger sa crédibilité, pas la sienne à Matthias).
+- **Creuser la douleur structurelle, pas la douleur de surface** — ne pas s'arrêter à "pas assez de clients", aller chercher l'impact réel (revenu perdu, stagnation) et reformuler l'écart : "donc si je résume, t'as ça, ça, ça comme problème, et t'as toujours pas réussi à régler ça."
+- **Projection long terme** : où il se voit dans 3/6/12/24 mois, pour ancrer l'urgence de régler le problème maintenant plutôt que plus tard.
+- **Check interne avant de vendre : "est-ce que je peux vraiment l'aider ?"** Si non, le dire clairement et ne pas pousser vers un R2 (cas Swan Rossignol — pas d'énergie, pas prêt, Yann a refusé le R2 directement). Mais dans la phase actuelle de développement, **rester en mode acceptation** — ne pas refuser sur un doute mineur, accepter si l'aide est possible même sans certitude parfaite.
+- **Demander la permission avant de présenter l'offre** : "est-ce que tu voudrais que je te présente mon offre ?" — jamais enchaîner directement dessus.
+- **Règle des 3 "oui" :** viser plusieurs micro-oui successifs pendant l'appel (compréhension, situation confirmée, envie d'aide) — prépare mentalement le prospect à dire oui à la fin.
+- **Formulation des résultats — mots obligatoires :** toujours dire que les clients accompagnés obtiennent des résultats "**rapidement**" et "**parfaitement**" — vocabulaire imposé par Yann, pas à édulcorer.
+- **Demander qui décide** ("est-ce que tu es le seul décideur sur le projet ?") — à poser en R1 pour éviter la surprise d'un tiers décideur non consulté plus tard.
+- **Fin de R1 :** caler directement 2 créneaux pour le R2 (jamais un seul) — ex. "demain 11h ou 14h ?"
+
+### R2 — Appel de présentation + closing
+
+- **Tout lire à l'écran, ne rien sauter, rien laisser dans le flou** — l'objectif est que le prospect ne comprenne pas "à moitié", il faut que tout soit explicite.
+- **Présentation en 4 phases avec un twist sur le rythme :** annoncer que l'essentiel se fait dès la **semaine 1** (pas étalé platement sur 3 mois), puis que le reste du temps sert au suivi/à l'amélioration — vendre la vitesse d'action, pas la durée de l'accompagnement.
+- **Répéter "un maximum de résultats" à chaque étape du pitch** — phrase qui revient volontairement plusieurs fois, c'est ce que les gens veulent entendre et ça fait closer.
+- **Preuves — décision ferme pour le pitch deck actuel de Matthias : retirer la section preuves clients** (têtes/noms/chiffres) tant qu'il n'a pas de vrais résultats chiffrés à montrer — mieux vaut l'absence de section que du contenu flou ou gonflé. Si le prospect demande quand même des preuves : ne pas s'arrêter sur l'absence de closing, parler des rendez-vous/conversations obtenus, et justifier par "nouvelle offre, en train d'ajouter encore plus de résultats" plutôt que d'éviter le sujet.
+- **Garantie — formulation calibrée :** pas un suivi disproportionné façon "je ne te lâche jamais", mais un engagement normal maintenu sur les 3 mois tant que le premier client n'est pas signé grâce à la prospection (cohérent avec la garantie déjà posée dans "L'offre" ci-dessus).
+- **Disclaimer obligatoire avant de closer :** pas de résultat magique, dépend de la régularité en prospection, de l'application des séquences, de la présence aux sessions, et de la capacité à sortir de sa zone de confort.
+- **Ne jamais accepter "je vais réfléchir" comme issue de l'appel.** Toujours demander explicitement un oui ou un non clair à la fin ("ça te va si tu me donnes un oui ou un non clair, je suis à l'aise avec les deux"). Raison : un prospect qui "réfléchit" soit revient sur sa décision dans le mauvais sens, soit devient — même s'il signe — un client indécis et difficile à suivre par la suite (retour d'expérience direct de Yann sur un client actuel).
+- **Objection "il y a déjà quelqu'un en interne" (ex. un frère/proche qui pourrait faire le travail) :** retourner la question — "pourquoi tu as quand même pris cet appel si cette personne suffit ?" Le simple fait d'avoir pris le call trahit un doute réel du prospect sur cette solution interne.
+- **Closing :** une fois le oui obtenu, envoyer le lien de paiement directement, ne pas laisser de flottement entre l'accord verbal et l'envoi.
+
+### Transverse aux deux appels
+
+- Toujours attendre la réponse du prospect avant d'enchaîner une nouvelle question — ne jamais bouffer le silence.
+- Personnaliser au maximum selon le cas réel du prospect — ce script est un cadre, pas une lecture mécanique (cohérent avec la leçon transverse déjà posée dans `METHODE_SETTING_YANN.md` sur les 7 phases du setting DM : réordonner selon la lecture du prospect).

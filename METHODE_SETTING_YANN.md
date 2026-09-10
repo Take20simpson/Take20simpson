@@ -82,6 +82,8 @@ Deux mécaniques nouvelles observées en direct par Yann sur le cas Zineb Rais, 
 
 **Ce qui compte, ce n'est pas le canal (visite de profil, post, bio) — c'est qu'il y ait TOUJOURS une question au bout, jamais un simple constat.** Yann : *"C'est juste se poser la question, ok, tu poses, tu cherches un truc... ça vient par la pratique."*
 
+**Variante — rebond sur l'acceptation de connexion (visio Yann, 10 septembre 2026) :** quand un prospect vient d'accepter une demande de connexion, plutôt qu'un message générique, rebondir directement sur l'acceptation elle-même avec un ton second degré/humoristique : *"Merci pour l'ajout, tu m'as accepté juste comme ça, ou parce que t'as besoin de prospection ?"* Peut se pousser plus loin en second degré ("MDR merci") pour casser l'effet lisse/robotique. Sert le même principe que les autres prétextes (toujours une question au bout) mais avec un déclencheur différent (l'ajout lui-même, pas le profil/contenu).
+
 **Erreur concrète à éviter (cas Élodie Delmas, séance 2) :** Matthias a envoyé un message sans poser de vraie question ET en parlant de lui-même avant même d'avoir obtenu une réponse. Critique de Yann : *"Tu ne la prospectes pas, là. Tu lui donnes l'opportunité de se barrer... tu n'as même pas répondu à ta question, tu ne sais même pas ce qu'elle fait... et tu as envie de parler directement de toi."* Résultat : le prospect a une porte de sortie facile et la conversation ne part sur rien de concret.
 
 ---
@@ -238,6 +240,10 @@ Règle opérationnelle qui en découle : si le prospect retourne une question pe
 `[À COMPLÉTER]` — au bout de combien de temps de silence relancer, et combien de relances avant d'arrêter ? Non démontré.
 
 **Point clarifié par Matthias (9 septembre 2026) :** l'écart entre le "jamais de relance" de Yann (vidéo "vendre sale", cf. `STRATEGIE_YANN.md`) et cette section n'est pas un vrai sujet — Matthias relance un peu de son côté et ce n'est pas un point qu'il veut creuser davantage. Cette section reste la règle active, sans plus de tension à signaler.
+
+**Nouvelle alternative de relance — "clip ghost" (visio Yann, 10 septembre 2026) :** technique de Yann pour relancer un silence avec humour — poser une question courte accompagnée d'un émoji marquant (ex. l'émoji choqué) qui nomme directement le ghost sans lourdeur : *"Tu me ghostes déjà 😱 ?"* Distincte du gif animé (propre à Yann, toujours pas repris par Matthias) — celle-ci, textuelle, est adoptée par Matthias.
+
+**Benchmark taux de réponse au premier message (10 septembre 2026) :** un taux de réponse de 60% sur les premiers messages est considéré par Yann comme déjà très bon — à ne pas voir comme un échec. Une prospection manuelle et soignée peut monter jusqu'à environ 80%, rarement plus. Sert de repère pour ne pas paniquer sur un taux qui semble bas en valeur absolue.
 
 ---
 
