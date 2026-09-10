@@ -133,40 +133,124 @@ Décision de Matthias : ne plus utiliser une IA comme moteur qui génère les r�
 
 ---
 
-## Script de closing R1 → R2 — transmis par Yann (visio du 10 septembre 2026)
+## Script de closing R1 → R2 — document écrit officiel de Yann (PDF "Script_Closing_Matthias", reçu le 10 septembre 2026)
 
-> Script personnel de Yann (celui qu'il utilise pour son propre closing), transmis à Matthias parce que sa situation business est jugée assez proche pour rester proche de cette structure. Cohérent avec la doctrine déjà posée dans "L'offre" ci-dessus : le closing reste secondaire, mais un script peut être fourni — c'est celui-ci.
+> Remplace la version résumée à l'oral capturée pendant la visio du même jour — ceci est le script mot pour mot envoyé par Yann par écrit, la référence à appliquer telle quelle. Cohérent avec la doctrine déjà posée dans "L'offre" ci-dessus : le closing reste secondaire, mais un script peut être fourni — c'est celui-ci. Les remarques faites à l'oral pendant la visio et absentes du document écrit sont regroupées séparément en fin de section, jamais fondues silencieusement dans le script littéral.
+>
+> **Contexte donné par Yann pendant la visio (information, pas doctrine à appliquer) :** Yann augmente son propre prix (8000€), a recruté une équipe de délivrance ("les avengers" — Alban, Charlotte, Antoine + intervention ponctuelle de Kevin Dumont sur les coachings de groupe via un partenariat). Mentionné pour situer d'où vient le script, sans impact sur l'offre de Matthias.
 
-**Contexte donné par Yann (information, pas doctrine à appliquer) :** Yann augmente son propre prix (8000€), a recruté une équipe de délivrance ("les avengers" — Alban, Charlotte, Antoine + intervention ponctuelle de Kevin Dumont sur les coachings de groupe via un partenariat). Mentionné pour situer d'où vient le script, sans impact sur l'offre de Matthias.
+### R1 — Appel de qualification
 
-### R1 — Appel de qualification (~30-45 min)
+**Ice breaker et cadre**
+> "Hello {prénom}, tu me vois bien, tu m'entends bien ?" → attendre la réponse
+> "Ok top. Pour info, mon notetaker record cet appel, tu recevras un récap AI de l'appel par email. C'est ok pour toi ?" → attendre la réponse
+> "OK super ! L'objectif de cet appel, c'est de voir si je peux t'aider, donc je vais te poser des questions. Et à la fin de l'appel, si tu corresponds au type de personne que je peux aider, et que j'ai envie de bosser avec toi, je te présenterai éventuellement mon offre dans un second appel. Est-ce que tu es ok ?" → attendre la réponse
+> "Super."
 
-- **Obligation légale :** annoncer explicitement en début d'appel qu'un outil d'IA (notetaker) enregistre/transcrit, puis demander "c'est ok pour toi ?" — attendre la réponse avant de continuer.
-- **Cadrage immédiat, avant toute question :** dire clairement que c'est Matthias qui mène l'appel (jamais l'inverse), que l'objectif est de voir s'il peut aider, que ce n'est pas un pur appel de vente, et qu'il n'accompagne pas tout le monde — pose la sélectivité dès le départ.
-- **Humour pour désamorcer** avant les questions plus personnelles/dures (ex. Yann utilise une blague sur l'orientation politique du prospect) — sert à faire sourire, pas à minimiser le sérieux de l'appel.
-- **Revalider à voix haute ce qui est déjà su du prospect** (son profil, son ICP, sa situation) — montre que l'info est reçue, avant d'aller plus loin. Ne pas juste passer à la suite sans ce retour.
-- **Question sur la découverte + la raison de l'appel** : "comment tu m'as découvert ?" puis "pour quelle raison tu as pris cet appel ?" (ou "accepté" pour un call entrant) — objectif : faire dire au prospect lui-même qu'il a besoin d'aide, jamais l'affirmer à sa place.
-- **Batterie de questions de qualification — pas besoin de toutes les poser**, à adapter selon la conversation. Dont : demander si le prospect a lui-même des preuves clients à montrer sur son activité (sert à jauger sa crédibilité, pas la sienne à Matthias).
-- **Creuser la douleur structurelle, pas la douleur de surface** — ne pas s'arrêter à "pas assez de clients", aller chercher l'impact réel (revenu perdu, stagnation) et reformuler l'écart : "donc si je résume, t'as ça, ça, ça comme problème, et t'as toujours pas réussi à régler ça."
-- **Projection long terme** : où il se voit dans 3/6/12/24 mois, pour ancrer l'urgence de régler le problème maintenant plutôt que plus tard.
-- **Check interne avant de vendre : "est-ce que je peux vraiment l'aider ?"** Si non, le dire clairement et ne pas pousser vers un R2 (cas Swan Rossignol — pas d'énergie, pas prêt, Yann a refusé le R2 directement). Mais dans la phase actuelle de développement, **rester en mode acceptation** — ne pas refuser sur un doute mineur, accepter si l'aide est possible même sans certitude parfaite.
-- **Demander la permission avant de présenter l'offre** : "est-ce que tu voudrais que je te présente mon offre ?" — jamais enchaîner directement dessus.
-- **Règle des 3 "oui" :** viser plusieurs micro-oui successifs pendant l'appel (compréhension, situation confirmée, envie d'aide) — prépare mentalement le prospect à dire oui à la fin.
-- **Formulation des résultats — mots obligatoires :** toujours dire que les clients accompagnés obtiennent des résultats "**rapidement**" et "**parfaitement**" — vocabulaire imposé par Yann, pas à édulcorer.
-- **Demander qui décide** ("est-ce que tu es le seul décideur sur le projet ?") — à poser en R1 pour éviter la surprise d'un tiers décideur non consulté plus tard.
-- **Fin de R1 :** caler directement 2 créneaux pour le R2 (jamais un seul) — ex. "demain 11h ou 14h ?"
+**Rappel des informations sur le prospect** (calé sur l'ICP "Lucas")
+> "Tu es indépendant B2B : consultant, coach, freelance ou créateur. Ton offre est déjà validée, tu l'as vendue plusieurs fois. Tu es visible sur LinkedIn, tu as une vraie audience et du réseau. Jusqu'ici, tes clients viennent surtout de ton contenu, de ton réseau et du bouche-à-oreille. Le souci, c'est que ça arrive par vagues : tu ne sais jamais vraiment d'où viendra ton prochain client. Et quand ton reach baisse, tu sens tout de suite ton acquisition ralentir. Tu sais que tu devrais prospecter, mais l'idée de 'déranger' ou de forcer te bloque."
+> "Est-ce que je résume bien ta situation ?" → attendre la réponse
 
-### R2 — Appel de présentation + closing
+**Questions de qualification — les deux premières, fixes**
+> 1. "Comment tu m'as découvert ?" → attendre la réponse
+> 2. "Dis-moi, pour quelle raison as-tu pris cet appel ?" → laisser parler puis approfondir
 
-- **Tout lire à l'écran, ne rien sauter, rien laisser dans le flou** — l'objectif est que le prospect ne comprenne pas "à moitié", il faut que tout soit explicite.
-- **Présentation en 4 phases avec un twist sur le rythme :** annoncer que l'essentiel se fait dès la **semaine 1** (pas étalé platement sur 3 mois), puis que le reste du temps sert au suivi/à l'amélioration — vendre la vitesse d'action, pas la durée de l'accompagnement.
-- **Répéter "un maximum de résultats" à chaque étape du pitch** — phrase qui revient volontairement plusieurs fois, c'est ce que les gens veulent entendre et ça fait closer.
-- **Preuves — décision ferme pour le pitch deck actuel de Matthias : retirer la section preuves clients** (têtes/noms/chiffres) tant qu'il n'a pas de vrais résultats chiffrés à montrer — mieux vaut l'absence de section que du contenu flou ou gonflé. Si le prospect demande quand même des preuves : ne pas s'arrêter sur l'absence de closing, parler des rendez-vous/conversations obtenus, et justifier par "nouvelle offre, en train d'ajouter encore plus de résultats" plutôt que d'éviter le sujet.
-- **Garantie — formulation calibrée :** pas un suivi disproportionné façon "je ne te lâche jamais", mais un engagement normal maintenu sur les 3 mois tant que le premier client n'est pas signé grâce à la prospection (cohérent avec la garantie déjà posée dans "L'offre" ci-dessus).
-- **Disclaimer obligatoire avant de closer :** pas de résultat magique, dépend de la régularité en prospection, de l'application des séquences, de la présence aux sessions, et de la capacité à sortir de sa zone de confort.
-- **Ne jamais accepter "je vais réfléchir" comme issue de l'appel.** Toujours demander explicitement un oui ou un non clair à la fin ("ça te va si tu me donnes un oui ou un non clair, je suis à l'aise avec les deux"). Raison : un prospect qui "réfléchit" soit revient sur sa décision dans le mauvais sens, soit devient — même s'il signe — un client indécis et difficile à suivre par la suite (retour d'expérience direct de Yann sur un client actuel).
-- **Objection "il y a déjà quelqu'un en interne" (ex. un frère/proche qui pourrait faire le travail) :** retourner la question — "pourquoi tu as quand même pris cet appel si cette personne suffit ?" Le simple fait d'avoir pris le call trahit un doute réel du prospect sur cette solution interne.
-- **Closing :** une fois le oui obtenu, envoyer le lien de paiement directement, ne pas laisser de flottement entre l'accord verbal et l'envoi.
+**Puis, à piocher selon la conversation (pas besoin de toutes les poser) :**
+- Ça fait combien de temps que tu es à ton compte ?
+- Tu fais quoi exactement, et pour qui ?
+- Aujourd'hui tu fais combien de chiffre par mois, à peu près ? Et c'est régulier ou en dents de scie ?
+- Tu aimerais être à combien, et surtout avec quelle régularité ?
+- Aujourd'hui, quand tu signes un client, il vient d'où la plupart du temps ?
+- Tu as combien d'abonnés / quelle taille d'audience sur LinkedIn ?
+- Tes posts, ils t'amènent des rendez-vous, ou surtout des likes et des commentaires ?
+- Quand un post floppe, ça se voit sur ton business ?
+- Est-ce que tu prospectes, aujourd'hui, ne serait-ce qu'un peu ? Si non : qu'est-ce qui t'a empêché de t'y mettre jusqu'ici ?
+- Quand tu penses à envoyer un message à un prospect, il se passe quoi dans ta tête ?
+- Tu as déjà essayé ? Ça a donné quoi, et pourquoi tu as arrêté ?
+- Dans ton réseau et tes abonnés, tu dirais qu'il y a combien de prospects potentiels que tu n'exploites pas ?
+- Qu'est-ce qui te bloque le plus : savoir qui contacter, savoir quoi envoyer, ou juste t'y mettre régulièrement ?
+- Si tu avais une méthode qui ne te donne pas l'impression de forcer, tu t'y mettrais ?
+- Est-ce que tu pourrais gérer 3 nouveaux clients le mois prochain si tu les signais ? Et 5 ?
+- Qu'est-ce qui se passe si dans 6 mois ton acquisition dépend toujours autant de l'algorithme ?
+- À quel point c'est important pour toi de régler ça maintenant, sur une échelle de 1 à 10 ? Pourquoi ce n'est pas un 5 ?
+
+**Framework de la douleur :**
+1. Trouver une douleur — avec Lucas, elle est rarement "pas de clients" : c'est l'irrégularité, la dépendance à un algo qu'il ne contrôle pas, et l'inconfort qui l'empêche d'agir seul.
+2. Appuyer dessus légèrement.
+3. Dire qu'on le traite : *"Ok, ça, c'est exactement ce qu'on débloque : une façon de prospecter qui ne trahit pas ton image, et surtout un cadre pour que tu t'y tiennes. Je l'ai fait avec des gens qui avaient exactement ton blocage."*
+
+**Croyance clé à installer (le cœur du pitch pour Lucas) :**
+> *"Tu n'as pas besoin de remplacer ton contenu. Tu dois juste arrêter de lui demander de faire tout le travail tout seul."*
+> → La prospection vient compléter l'inbound, pas le remplacer. Et bien faite, elle ne ressemble pas à du spam.
+
+**Permission de vendre**
+> "Ok super, j'ai toutes les infos dont j'ai besoin."
+> **"Tu corresponds PARFAITEMENT au type de personnes avec qui j'obtiens des résultats RAPIDEMENT aujourd'hui."** *(en rouge/gras dans le document original — formulation obligatoire, jamais édulcorée)*
+> "Est-ce que tu voudrais que je te présente mon offre ?" → Oui
+
+**Transition vers le R2**
+> "Ok super, je vais te présenter ça dans un second appel comme je te disais. En plus là j'ai un rendez-vous juste après. Ce que je te propose, c'est qu'on se re-booke un call demain pour que je te montre exactement comment on transforme ton audience et ton réseau en clients, sans spam ni forcing. J'ai demain 11h ou 14h." *(toujours deux créneaux)*
+> → On booke le call.
+
+**Faire accepter l'invitation + prévenir en cas d'imprévu**
+> "Ok top. Préviens-moi surtout si t'as un imprévu…"
+
+**Rareté / cadrage**
+> "Pour info, je ne mets pas de pression. Si on n'avance pas ensemble, c'est parfaitement OK. Je te préviens juste : je bosse en individuel, en 1:1, donc je ne prends qu'un nombre limité de personnes en même temps. Je prends surtout ceux qui sont vraiment prêts à s'y mettre. (Et je crois savoir que c'est ton cas, corrige-moi si je me trompe.) Je fonctionne en premier arrivé, premier servi. Ça ne veut pas dire que si tu me dis non on ne bossera jamais ensemble, juste que ce ne sera peut-être pas tout de suite. Je préfère que tu aies toutes les cartes en main demain."
+
+### R2 — Appel de closing
+
+**Connexion & cadrage** (refaits comme en R1)
+> "Hello {prénom}, tu me vois bien, tu m'entends bien ?" → attendre réponse
+> "Mon notetaker record toujours l'appel, tu recevras le récap par email. C'est ok ?" → "Super."
+
+**Disclaimer**
+> "Avant de rentrer dedans, un petit disclaimer : mon accompagnement n'est pas magique, ça demande du taf de ton côté. Je ne garantis pas un résultat du jour au lendemain, parce que ça dépend aussi de toi : ta régularité dans la prospection, le fait que tu appliques les séquences qu'on construit, ta présence aux sessions, ta capacité à sortir un peu de ta zone de confort. Par contre, ce que je peux te dire, c'est que les indépendants qui installent le système sérieusement arrêtent de dépendre uniquement de leur reach : ils savent provoquer des conversations quand ils en ont besoin, au lieu de les attendre. Ça te va ?"
+
+**Anticiper "je dois réfléchir" — les 3 options**
+> "À la fin de cet échange, si tu sens que c'est un bon fit et que moi aussi, il y aura trois options.
+> **Option 1** — Tu dis oui. Tu veux arrêter de dépendre uniquement de ton contenu et installer un vrai système pour transformer ton audience en clients. On avance ensemble, je t'envoie les accès et on programme la première session.
+> **Option 2** — Tu dis non. Tu ne veux pas qu'on bosse ensemble. Et c'est totalement OK. Tu ne vexeras personne.
+> **Option 3** — Certaines personnes disent : 'J'ai besoin d'y réfléchir.' Et avec l'expérience, j'ai remarqué que ceux qui repoussent la décision repoussent souvent aussi le problème — un peu comme la prospection qu'on repousse depuis des mois, tu vois l'idée. Donc je vais chercher un oui ou un non clair à la fin de l'appel. Je suis à l'aise avec les deux.
+> Ça te va ?"
+
+**Anticiper "je dois en parler à…"**
+> "Tu es le seul décideur sur ce projet ?" → réponse
+> Si oui : "Ok top. Donc à la fin, si la solution te convient, tu ne me diras pas que tu dois en parler à quelqu'un ?" → "Non ? Ok super."
+> Si le conjoint doit être impliqué : "Parfait. On reprogramme un appel où vous êtes tous les deux présents, comme ça vous avez la même info et vous décidez ensemble."
+
+**Projection dans les désirs**
+> "Imagine que dans 2 ou 3 mois, tu ouvres ta semaine en sachant exactement qui contacter, et que tu génères des conversations avec des prospects qualifiés même les semaines où tu ne postes pas. Ça change quoi pour toi ?"
+> "Qu'est-ce que ça changerait de ne plus avoir le ventre noué quand un post ne prend pas ?"
+> "Tu pourrais recommencer à choisir tes clients, ou pas ?"
+> "Ça vaudrait quoi, pour toi, d'être enfin tranquille sur ton pipeline ?"
+
+**Coût de l'inaction**
+> "Rappelle-moi, ça fait combien de temps que tu te dis que tu devrais prospecter ?"
+> "Et objectivement, si tu continues exactement comme aujourd'hui, où tu en seras dans 6 mois ?"
+> "Le reach, tu penses qu'il va remonter tout seul et régler le problème, ou pas ?"
+
+**Admettre qu'il a besoin d'aide**
+> "Tu me l'as dit toi-même : seul, tu retournes vite à ta zone de confort, c'est-à-dire créer du contenu. Donc la vraie question, ce n'est pas 'est-ce que la prospection marche', c'est 'qu'est-ce qui va faire que cette fois tu t'y tiennes vraiment'. On est d'accord ?"
+
+**Si le prospect dit "j'ai pas besoin de me faire accompagner"**
+> "Ok, alors pourquoi est-ce que tu as pris cet appel avec moi ?"
+
+**Présentation de l'offre (transition vers le pitch deck)**
+> "Ok super. Comme tu le sais, je sélectionne les personnes avec qui je bosse, parce que je t'accompagne en individuel et je mets vraiment les mains dedans. Et il se trouve que toi, j'ai apprécié nos échanges. Tu corresponds exactement au type de personne avec qui ça marche bien. Est-ce que tu veux toujours que je te présente comment on bosserait ensemble ?"
+> → Enchaîne directement sur le pitch deck (support séparé, hors de ce document écrit — voir remarques orales ci-dessous pour ce qui concerne le pitch deck de Matthias).
+
+### Remarques orales de la visio du 10 septembre 2026 — absentes du document écrit, à appliquer en plus
+
+- **Légal :** annoncer l'IA notetaker n'est pas qu'une formule de politesse dans le script — Yann insiste à l'oral que c'est une obligation légale, à ne jamais sauter.
+- **Humour de dégel avant les questions dures**, pas présent dans le texte écrit mais utilisé par Yann à l'oral (ex. blague sur l'orientation politique du prospect) — à placer où c'est naturel, surtout juste avant la partie qualification qui peut se sentir comme un interrogatoire.
+- **Règle des 3 "oui" (explication orale du mécanisme derrière l'écrit) :** les micro-confirmations du script ("tu me vois bien", "c'est ok pour toi", "est-ce que tu es ok", "est-ce que je résume bien ta situation") ne sont pas de simples formalités — elles sont volontairement enchaînées pour préparer mentalement le prospect à dire oui à la fin.
+- **Mode acceptation actuel :** dans la phase de développement où en est Matthias, rester en mode acceptation en R1 (ne pas sur-filtrer sur un doute mineur) — sauf cas clair où on sent qu'on ne peut vraiment pas aider (ex. Swan Rossignol, refusé directement en R1 par Yann).
+- **Pitch deck de Matthias — retirer la section preuves clients** (têtes/noms/chiffres), absente de ce document écrit car le pitch deck est un support séparé : tant que Matthias n'a pas de vrais résultats chiffrés à montrer, mieux vaut l'absence de section que du contenu flou ou gonflé. Si le prospect en demande quand même, parler des rendez-vous obtenus et justifier par "nouvelle offre, en train d'ajouter des résultats" plutôt que d'éviter le sujet.
+- **Garantie** (déjà posée dans "L'offre" plus haut dans ce document, absente elle aussi de ce script écrit) : engagement normal maintenu sur les 3 mois tant que le premier client n'est pas signé grâce à la prospection — pas un suivi disproportionné façon "je ne te lâche jamais".
+- **Objection "quelqu'un en interne peut le faire" (ex. un frère/proche) :** même logique que le "Si le prospect dit 'j'ai pas besoin de me faire accompagner'" ci-dessus ("pourquoi est-ce que tu as pris cet appel avec moi ?") — appliquée en direct par Yann au cas de Maëva Mintz (elle envisage de faire porter le setting par son frère, cf. `JOURNAL.md`) : retourner "pourquoi tu as quand même pris cet appel si cette personne suffit ?" Le doute du prospect lui-même trahit le vrai besoin.
+- **Après le "oui" (Option 1) :** envoyer le lien de paiement directement, sans laisser de flottement entre l'accord verbal et l'envoi — précision orale ; le texte écrit se contente de "je t'envoie les accès et on programme la première session".
+- **Tension à noter, jamais lissée silencieusement :** à l'oral, Yann a dit que la question "es-tu le seul décideur" pouvait aussi se poser dès le R1 — le script écrit la place uniquement en R2 ("Anticiper je dois en parler à…"). Le document écrit fait foi comme référence par défaut ; la poser plus tôt (R1) reste une adaptation consciente de Matthias, pas une erreur s'il la fait.
 
 ### Transverse aux deux appels
 
