@@ -9,7 +9,7 @@
 ## Priorités absolues de ce call (à ne pas rater)
 
 1. **Le prix de sa formation — inconnu, à demander tôt.** Stratégie complètement différente selon la réponse : low ticket (~<200-300€) → le setting complet n'est probablement pas rentable pour elle, mieux vaut pub/contenu, ce serait un signal de non-fit à assumer honnêtement. High ticket (probable vu que c'est une certif pro) → le setting est pertinent, on peut avancer normalement.
-2. **Le frère.** Elle envisage de lui faire porter le setting (freelance, veut bosser en famille). Si elle en reparle : ne pas demander "comment le former" — retourner "pourquoi t'as quand même pris cet appel si ton frère peut le faire ?", et demander les résultats concrets déjà obtenus par lui en prospection (pas juste "un peu d'expérience"). Laisser venir le sujet, ne pas le lancer toi-même.
+2. **Le frère — à amener toi-même, pas à attendre.** Elle veut bosser en famille et déléguer le setting à son frère, freelance. Tu le sais déjà par les vocaux échangés, donc ne fais pas style tu l'apprends en call : pose la question toi-même à un moment naturel plutôt que d'espérer qu'elle la ramène. Ex. : *"Tu me disais vouloir que ton frère s'occupe du setting, c'est toujours le plan ?"* L'enjeu réel : savoir qui va concrètement exécuter la prospection au quotidien — elle, lui, ou les deux — parce que ça change qui a besoin d'être accompagné dans l'offre (un accompagnement individuel pensé pour qu'elle fasse le setting elle-même ne fonctionne pas pareil si c'est son frère qui l'exécute). Si elle confirme vouloir tout lui déléguer : ne pas demander "comment le former" — retourner *"pourquoi t'as quand même pris cet appel si ton frère peut le faire ?"*, et demander ses résultats concrets déjà obtenus en prospection (pas juste "un peu d'expérience"). Le doute qu'elle a elle-même sur cette solution interne — vu qu'elle a quand même pris ce call — est le vrai signal.
 3. **Vérifier si les 3 freins de l'époque Julien Guy sont vraiment réglés aujourd'hui** : offre floue / pas d'énergie mise dessus / pas confiante dans la valeur. Elle les a nommés elle-même comme causes de l'échec passé, aucune n'était liée à la méthode.
 4. **Taille d'audience LinkedIn** : jamais donnée dans l'échange, à demander.
 
@@ -52,6 +52,7 @@ La réponse à la Q2 doit confirmer qu'on est bien sur le sujet formation/commun
 **Puis, dans cet ordre de priorité (pas besoin de toutes les poser, mais celles-ci comptent plus que les autres pour elle) :**
 
 - **Prix de la formation, et de la communauté** : "Elle est à combien ta formation aujourd'hui ? Et la communauté, ça se structure comment, à quel tarif ?" — *à poser tôt, ça conditionne toute la suite du call.*
+- **Qui va exécuter le setting concrètement** : "Tu me disais vouloir que ton frère s'occupe du setting, c'est toujours le plan ?" — à poser toi-même, tôt aussi, ça change la nature de l'offre à présenter en R2 (elle qui applique / son frère qui applique / les deux). Voir traitement complet en priorité absolue #2 ci-dessus.
 - Comment elle a vendu les deux premières (formation + communauté) — à qui, par quel canal, ça a pris combien de temps ?
 - Taille d'audience / nombre d'abonnés sur LinkedIn.
 - Tes posts, ils t'amènent des inscriptions à la formation, ou surtout des likes et des commentaires ?
@@ -61,10 +62,6 @@ La réponse à la Q2 doit confirmer qu'on est bien sur le sujet formation/commun
 - Si la formation se vend bien, genre 10-15 ventes le mois prochain, t'arrives à suivre derrière (tu corriges les exercices toi-même) ? Ça reste gérable ou ça devient un problème ?
 - Si dans 6 mois t'as toujours vendu la formation une fois et la communauté une fois, et rien de plus — ça te va, ou pas ?
 - Sur une échelle de 1 à 10, à quel point c'est important pour toi de mettre un vrai système de vente derrière la formation maintenant ? Pourquoi ce n'est pas un 5 ?
-
-**Si elle reparle du frère** (info donnée par Matthias en vocal, pas à sortir toi-même) :
-> "Pourquoi tu as quand même pris cet appel si ton frère peut le faire ?"
-Puis demander les résultats concrets qu'il a déjà obtenus en prospection — pas juste "il a de l'expérience".
 
 ### 4. Framework douleur — adapté
 
