@@ -129,6 +129,7 @@ Auto-entrepreneur, paiement par virement bancaire. Pas de site web, pas de Calen
 Les fichiers suivants existent dans le repo mais **ne font pas partie du socle actif**. Ne jamais aller y chercher de l'information, ne jamais s'y référer, sauf si Matthias les nomme explicitement dans son message :
 
 - **Dossiers clients nommés** (Lucille/Lucile, Mélanie, etc.) : `STRATEGIE_LUCILLE.md`, `PREP_APPEL_LUCILE.md`, `FRAMEWORK_POSTS_LINKEDIN_LUCILE.md`, `TRAME_SETTING_MELANIE.md`
+- **Prep d'appel prospect nommée** : `PREP_APPEL_MAEVA.md` (créée le 11 septembre 2026 — script R1 personnalisé pour le call du 15 septembre avec Maëva Mintz, construit à partir du script Yann dans `STRATEGIE_YANN.md` + la fiche prospect `JOURNAL.md`. Document jetable, propre au call — à ne pas confondre avec `JOURNAL.md` qui reste la mémoire durable sur Maëva)
 - **Dossier partenariat nommé** : `STRATEGIE_POD_MARYLINE.md` (projet de pod LinkedIn avec Maryline Leroy, en pause depuis le 29 juillet — doctrine associée disparue avec `SKILL_STRATEGIE.md` le 1er septembre, détail vivant du projet reste dans ce document dédié)
 - **Projet business actif** : `STRATEGIE_POD_SOLO.md` (roadmap complète du pod LinkedIn solo de Matthias, suite à la mise en pause du projet avec Maryline)
 - **Benchmark concurrent, non actif depuis le 1er septembre 2026** : `BENCHMARK_KEVIN_DUMONT.md` (créé le 19 août 2026 — source externe à Yann, explicitement exclue de la doctrine active depuis la décision du 1er septembre de ne se baser que sur Yann)
