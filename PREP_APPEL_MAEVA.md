@@ -8,8 +8,12 @@
 
 ## Priorités absolues de ce call (à ne pas rater)
 
-1. **Le prix de sa formation — inconnu, à demander tôt.** Stratégie complètement différente selon la réponse : low ticket (~<200-300€) → le setting complet n'est probablement pas rentable pour elle, mieux vaut pub/contenu, ce serait un signal de non-fit à assumer honnêtement. High ticket (probable vu que c'est une certif pro) → le setting est pertinent, on peut avancer normalement.
+1. **Le prix de sa formation — inconnu, à demander tôt.** Règle générale précisée par Yann (voir `STRATEGIE_YANN.md`) : low ticket (environ <100-200€, non récurrent) → le setting complet n'est probablement pas rentable, mieux vaut pub/contenu, signal de non-fit à assumer honnêtement. High ticket → le setting est pertinent, on avance normalement. Hypothèse de Matthias lui-même (non confirmée, à vérifier en call) : plutôt 1000-1500€, vu que c'est une certification pour des professionnels — donc probablement du high ticket, mais ne pas partir du principe que c'est acquis avant qu'elle le confirme.
+   - **Pour la communauté, poser la question séparément** : si c'est un abonnement mensuel à prix modeste, ce n'est pas forcément un signal négatif — un produit récurrent gardé ~2 ans peut représenter une LTV de 3000-4200€ même à ~150€/mois, ce qui reste pertinent pour le setting. Demander la structure (prix, mensuel ou unique) et pas seulement le montant affiché.
+   - Si low ticket confirmé sans potentiel récurrent : ne pas insister sur une stratégie de setting complète, en parler à Yann/Alban avant le R2.
 2. **Le frère — à amener toi-même, pas à attendre.** Elle veut bosser en famille et déléguer le setting à son frère, freelance. Tu le sais déjà par les vocaux échangés, donc ne fais pas style tu l'apprends en call : pose la question toi-même à un moment naturel plutôt que d'espérer qu'elle la ramène. Ex. : *"Tu me disais vouloir que ton frère s'occupe du setting, c'est toujours le plan ?"* L'enjeu réel : savoir qui va concrètement exécuter la prospection au quotidien — elle, lui, ou les deux — parce que ça change qui a besoin d'être accompagné dans l'offre (un accompagnement individuel pensé pour qu'elle fasse le setting elle-même ne fonctionne pas pareil si c'est son frère qui l'exécute). Si elle confirme vouloir tout lui déléguer : ne pas demander "comment le former" — retourner *"pourquoi t'as quand même pris cet appel si ton frère peut le faire ?"*, et demander ses résultats concrets déjà obtenus en prospection (pas juste "un peu d'expérience"). Le doute qu'elle a elle-même sur cette solution interne — vu qu'elle a quand même pris ce call — est le vrai signal.
+   - **Contexte pour ta propre confiance (pas à sortir tel quel en call)** : d'après ce que tu en sais, le frère est freelance généraliste, "touche un peu à tout", pas un spécialiste de la prospection — cohérent avec le fait qu'elle ait quand même pris cet appel malgré cette option en interne. Et c'est elle-même qui est venue vers toi avec l'idée d'un accompagnement, pas l'inverse : signal que sa confiance dans la solution "frère" n'est déjà pas totale.
+   - **Pour plus tard (R2, hors scope ici) :** Yann suggère qu'il pourrait être utile d'avoir le frère présent au R2 si le sujet reste flou après le R1 — à garder en tête, pas à décider maintenant.
 3. **Vérifier si les 3 freins de l'époque Julien Guy sont vraiment réglés aujourd'hui** : offre floue / pas d'énergie mise dessus / pas confiante dans la valeur. Elle les a nommés elle-même comme causes de l'échec passé, aucune n'était liée à la méthode.
 4. **Taille d'audience LinkedIn** : jamais donnée dans l'échange, à demander.
 
@@ -29,6 +33,8 @@ Vous avez déjà une vraie complicité construite en DM (le délire du tréma, l
 
 > "OK super ! L'objectif de cet appel, c'est de voir si je peux t'aider, donc je vais te poser des questions. Et à la fin de l'appel, si tu corresponds au type de personne que je peux aider, et que j'ai envie de bosser avec toi, je te présenterai éventuellement mon offre dans un second appel. Est-ce que tu es ok ?" → attendre la réponse
 > "Super."
+
+Ne pas sauter ce cadrage même si vous vous connaissez déjà bien — Yann le précise à l'oral : ça sert à prendre le lead de la conversation, pas juste à être poli. Sans ça, c'est elle qui peut mener l'échange.
 
 ### 2. Rappel de la situation — personnalisé pour elle
 
@@ -68,8 +74,10 @@ La réponse à la Q2 doit confirmer qu'on est bien sur le sujet formation/commun
 Ici la douleur n'est pas "pas de clients" (elle n'en manque pas sur son cœur de métier) — c'est plutôt : *un produit qui a fait ses preuves (vendu 1x chacun) et un vivier de prospects déjà dans son réseau, mais aucune machine pour transformer ça en ventes régulières. Elle laisse de l'argent sur la table sur un truc qui marche déjà.*
 
 1. Trouver cette douleur précise en la faisant reformuler elle-même dans les réponses ci-dessus.
-2. Appuyer dessus légèrement.
-3. Dire qu'on le traite : *"Ok, ça, c'est exactement ce qu'on débloque : un système pour vendre ta formation à ton réseau sans avoir l'impression de forcer, et un cadre pour que tu t'y tiennes vraiment cette fois."*
+2. Appuyer dessus légèrement. Formulation directe suggérée par Yann (transposée à son cas) : *"Donc aujourd'hui, tu me dis que tu prospectes pas sur les gens qui s'intéressent déjà à ton contenu ? Tu laisses passer un paquet de thune, en fait."*
+3. Dire qu'on le traite : *"Ok, ça, c'est exactement ce qu'on débloque : un système pour vendre ta formation à ton réseau sans avoir l'impression de forcer, et un cadre pour que tu t'y tiennes vraiment cette fois."* Reformulation du rôle que tu joues (utile pour cadrer l'offre sans donner l'impression de remplacer ce qu'elle fait déjà) : *"Mon rôle, c'est de t'aider à faire plus via un nouveau canal, les DM. C'est tout — je touche pas au reste."*
+
+**Si elle objecte "je suis déjà full sur l'audit/l'accompagnement" :** recadrer immédiatement, sans se justifier longuement — *"C'est pas ton audit, c'est ta formation, le nouveau truc"* — et revenir à la douleur formation/communauté. Ne jamais laisser l'objection s'installer comme si elle remettait en cause tout l'appel.
 
 **Croyance clé, adaptée pour elle** (pas de contenu à "remplacer" ici, elle en fait peu autour de la formation) :
 > *"T'as pas besoin d'un meilleur produit, t'en as déjà un qui se vend. Tu dois juste arrêter de laisser le hasard décider qui l'achète."*
@@ -101,4 +109,4 @@ Ici la douleur n'est pas "pas de clients" (elle n'en manque pas sur son cœur de
 
 - Toujours attendre sa réponse avant d'enchaîner une nouvelle question — ne jamais bouffer le silence.
 - Ce script est un cadre, pas une lecture mécanique — avec la complicité déjà là entre vous, ça doit rester une vraie conversation, pas un interrogatoire.
-- Si elle donne le prix et que c'est clairement low ticket (<200-300€), ne pas forcer la suite du script comme si de rien n'était — c'est un signal de non-fit à traiter honnêtement plutôt qu'à ignorer.
+- Si elle donne le prix et que c'est clairement low ticket (<100-200€, non récurrent), ne pas forcer la suite du script comme si de rien n'était — c'est un signal de non-fit à traiter honnêtement plutôt qu'à ignorer. Vérifier d'abord si un potentiel récurrent (communauté) change la donne avant de conclure au non-fit.
