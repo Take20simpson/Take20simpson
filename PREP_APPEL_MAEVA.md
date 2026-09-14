@@ -2,14 +2,14 @@
 
 > Construit le 11 septembre 2026. Sources : script R1 générique de Yann + remarques orales du 10 septembre (`STRATEGIE_YANN.md`), fiche prospect complète (`JOURNAL.md`), conversation DM réelle. Ne fait pas partie du socle actif (voir `CLAUDE.md`, règle d'exclusion) — document de prep pour ce call précis, jetable une fois le call passé (à archiver/mettre à jour dans `JOURNAL.md` après coup, pas ici).
 >
-> **Objectif du call, à ne jamais perdre de vue :** vendre sa formation MASE + la communauté associée. PAS son activité cœur de métier (accompagnement/audit MASE), qui va très bien et n'a besoin de rien. Toute la conversation DM qui a précédé le call obtenu porte uniquement sur ce sujet.
+> **Objectif du call, à ne jamais perdre de vue :** vendre son package formation MASE + communauté (un tout, pas deux produits séparés). PAS son activité cœur de métier (accompagnement/audit MASE), qui va très bien et n'a besoin de rien. Toute la conversation DM qui a précédé le call obtenu porte uniquement sur ce sujet.
 
 ---
 
 ## Priorités absolues de ce call (à ne pas rater)
 
-1. **Le prix de sa formation — inconnu, à demander tôt.** Règle générale précisée par Yann (voir `STRATEGIE_YANN.md`) : low ticket (environ <100-200€, non récurrent) → le setting complet n'est probablement pas rentable, mieux vaut pub/contenu, signal de non-fit à assumer honnêtement. High ticket → le setting est pertinent, on avance normalement. Hypothèse de Matthias lui-même (non confirmée, à vérifier en call) : plutôt 1000-1500€, vu que c'est une certification pour des professionnels — donc probablement du high ticket, mais ne pas partir du principe que c'est acquis avant qu'elle le confirme.
-   - **Pour la communauté, poser la question séparément** : si c'est un abonnement mensuel à prix modeste, ce n'est pas forcément un signal négatif — un produit récurrent gardé ~2 ans peut représenter une LTV de 3000-4200€ même à ~150€/mois, ce qui reste pertinent pour le setting. Demander la structure (prix, mensuel ou unique) et pas seulement le montant affiché.
+1. **Le prix du package — inconnu, à demander tôt.** Formation et communauté ne forment qu'un seul package, pas deux produits séparés (correction de Matthias, 14 septembre) — une seule question de prix à poser, pas deux. Règle générale précisée par Yann (voir `STRATEGIE_YANN.md`) : low ticket (environ <100-200€, non récurrent) → le setting complet n'est probablement pas rentable, mieux vaut pub/contenu, signal de non-fit à assumer honnêtement. High ticket → le setting est pertinent, on avance normalement. Hypothèse de Matthias lui-même (non confirmée, à vérifier en call) : plutôt 1000-1500€, vu que c'est une certification pour des professionnels — donc probablement du high ticket, mais ne pas partir du principe que c'est acquis avant qu'elle le confirme.
+   - **Vérifier si une partie est récurrente** : si l'accès à la communauté implique un abonnement (pas juste inclus une fois dans le package), un tarif mensuel modeste n'est pas forcément un signal négatif — un produit gardé ~2 ans peut représenter une LTV de 3000-4200€ même à ~150€/mois, ce qui reste pertinent pour le setting.
    - Si low ticket confirmé sans potentiel récurrent : ne pas insister sur une stratégie de setting complète, en parler à Yann/Alban avant le R2.
 2. **Le frère — à amener toi-même, pas à attendre.** Elle veut bosser en famille et déléguer le setting à son frère, freelance. Tu le sais déjà par les vocaux échangés, donc ne fais pas style tu l'apprends en call : pose la question toi-même à un moment naturel plutôt que d'espérer qu'elle la ramène. Ex. : *"Tu me disais vouloir que ton frère s'occupe du setting, c'est toujours le plan ?"* L'enjeu réel : savoir qui va concrètement exécuter la prospection au quotidien — elle, lui, ou les deux — parce que ça change qui a besoin d'être accompagné dans l'offre (un accompagnement individuel pensé pour qu'elle fasse le setting elle-même ne fonctionne pas pareil si c'est son frère qui l'exécute). Si elle confirme vouloir tout lui déléguer : ne pas demander "comment le former" — retourner *"pourquoi t'as quand même pris cet appel si ton frère peut le faire ?"*, et demander ses résultats concrets déjà obtenus en prospection (pas juste "un peu d'expérience"). Le doute qu'elle a elle-même sur cette solution interne — vu qu'elle a quand même pris ce call — est le vrai signal.
    - **Contexte pour ta propre confiance (pas à sortir tel quel en call)** : d'après ce que tu en sais, le frère est freelance généraliste, "touche un peu à tout", pas un spécialiste de la prospection — cohérent avec le fait qu'elle ait quand même pris cet appel malgré cette option en interne. Et c'est elle-même qui est venue vers toi avec l'idée d'un accompagnement, pas l'inverse : signal que sa confiance dans la solution "frère" n'est déjà pas totale.
@@ -43,31 +43,32 @@ Le paragraphe générique du script Yann (calé sur l'ICP "Lucas") suppose que l
 Version adaptée :
 
 > "Si je résume : ton activité MASE, accompagnement et audits, elle tourne bien, t'as même déjà large ton CA de l'année là-dessus, aucun souci de ce côté.
-> Par contre t'as un nouveau produit, la formation MASE et la communauté, que t'as déjà vendu une fois chacun — donc tu sais que ça se vend — mais sans système derrière pour le vendre en volume. Aujourd'hui ça part un peu au feeling : pas de lead magnet vraiment ciblé, pas de routine de setting, pas de prospection.
+> Par contre t'as ton package formation + communauté MASE, que t'as déjà vendu une fois — donc tu sais que ça se vend. Et c'est pas un terrain totalement inconnu pour toi, t'as déjà eu un aperçu de la prospection avec Julien à l'époque. Mais sur ce package-là précisément, t'as pas encore de vraie routine installée pour le vendre en volume : pas de lead magnet vraiment ciblé, pas de prospection régulière.
 > Est-ce que je résume bien ta situation ?" → attendre la réponse
+
+*(Formulation choisie pour éviter "tu fais ça au feeling" — ça peut sonner comme si elle bricolait sans rien savoir, alors qu'elle a déjà été exposée à la prospection via Julien. On reconnaît son expérience passée avant de nommer le manque de routine actuelle sur ce produit précis.)*
 
 ### 3. Questions de qualification
 
-Les deux questions fixes du script, gardées :
+Une seule question fixe gardée (l'autre, "comment tu m'as découvert ?", supprimée — inutile vu votre historique DM déjà riche, elle sonnerait artificielle) :
 
-> 1. "Comment tu m'as découvert ?" → attendre la réponse (probablement rapide vu l'historique DM, ne pas s'attarder)
-> 2. "Dis-moi, pour quelle raison as-tu pris cet appel ?" → laisser parler puis approfondir
+> "Dis-moi, pour quelle raison as-tu pris cet appel ?" → laisser parler puis approfondir
 
-La réponse à la Q2 doit confirmer qu'on est bien sur le sujet formation/communauté. Si elle part sur autre chose (ex. son activité cœur de métier), recadrer sans forcer.
+La réponse doit confirmer qu'on est bien sur le sujet du package formation + communauté. Si elle part sur autre chose (ex. son activité cœur de métier), recadrer sans forcer.
 
 **Puis, dans cet ordre de priorité (pas besoin de toutes les poser, mais celles-ci comptent plus que les autres pour elle) :**
 
-- **Prix de la formation, et de la communauté** : "Elle est à combien ta formation aujourd'hui ? Et la communauté, ça se structure comment, à quel tarif ?" — *à poser tôt, ça conditionne toute la suite du call.*
+- **Prix du package** : "Il est à combien ton package aujourd'hui ?" — *à poser tôt, ça conditionne toute la suite du call.* Si l'accès à la communauté implique un abonnement à part, le demander aussi.
 - **Qui va exécuter le setting concrètement** : "Tu me disais vouloir que ton frère s'occupe du setting, c'est toujours le plan ?" — à poser toi-même, tôt aussi, ça change la nature de l'offre à présenter en R2 (elle qui applique / son frère qui applique / les deux). Voir traitement complet en priorité absolue #2 ci-dessus.
-- Comment elle a vendu les deux premières (formation + communauté) — à qui, par quel canal, ça a pris combien de temps ?
+- Comment elle a vendu ce package la première fois — à qui, par quel canal, ça a pris combien de temps ?
 - Taille d'audience / nombre d'abonnés sur LinkedIn.
-- Tes posts, ils t'amènent des inscriptions à la formation, ou surtout des likes et des commentaires ?
-- Dans ton réseau (anciens clients d'audit interne, abonnés, consultants du réseau MASE), tu dirais qu'il y a combien de prospects potentiels pour la formation/communauté que tu n'exploites pas ?
-- Les 3 trucs qui avaient coincé avec Julien Guy à l'époque — offre floue, pas d'énergie mise dessus, pas confiante dans la valeur — aujourd'hui sur la formation, c'est réglé ces trois points ?
+- Tes posts, ils t'amènent des inscriptions au package, ou surtout des likes et des commentaires ?
+- Dans ton réseau (anciens clients d'audit interne, abonnés, consultants du réseau MASE), tu dirais qu'il y a combien de prospects potentiels pour le package que tu n'exploites pas ?
+- Les 3 trucs qui avaient coincé avec Julien à l'époque — offre floue, pas d'énergie mise dessus, pas confiante dans la valeur — aujourd'hui sur ce package, c'est réglé ces trois points ?
 - Qu'est-ce qui te bloque le plus aujourd'hui : savoir qui contacter, savoir quoi leur dire, ou juste t'y mettre régulièrement ?
-- Si la formation se vend bien, genre 10-15 ventes le mois prochain, t'arrives à suivre derrière (tu corriges les exercices toi-même) ? Ça reste gérable ou ça devient un problème ?
-- Si dans 6 mois t'as toujours vendu la formation une fois et la communauté une fois, et rien de plus — ça te va, ou pas ?
-- Sur une échelle de 1 à 10, à quel point c'est important pour toi de mettre un vrai système de vente derrière la formation maintenant ? Pourquoi ce n'est pas un 5 ?
+- Si le package se vend bien, genre 10-15 ventes le mois prochain, t'arrives à suivre derrière (tu corriges les exercices toi-même) ? Ça reste gérable ou ça devient un problème ?
+- Si dans 6 mois t'as toujours vendu ce package une seule fois, et rien de plus — ça te va, ou pas ?
+- Sur une échelle de 1 à 10, à quel point c'est important pour toi de mettre un vrai système de vente derrière ce package maintenant ? Pourquoi ce n'est pas un 5 ?
 
 ### 4. Framework douleur — adapté
 
@@ -75,11 +76,11 @@ Ici la douleur n'est pas "pas de clients" (elle n'en manque pas sur son cœur de
 
 1. Trouver cette douleur précise en la faisant reformuler elle-même dans les réponses ci-dessus.
 2. Appuyer dessus légèrement. Formulation directe suggérée par Yann (transposée à son cas) : *"Donc aujourd'hui, tu me dis que tu prospectes pas sur les gens qui s'intéressent déjà à ton contenu ? Tu laisses passer un paquet de thune, en fait."*
-3. Dire qu'on le traite : *"Ok, ça, c'est exactement ce qu'on débloque : un système pour vendre ta formation à ton réseau sans avoir l'impression de forcer, et un cadre pour que tu t'y tiennes vraiment cette fois."* Reformulation du rôle que tu joues (utile pour cadrer l'offre sans donner l'impression de remplacer ce qu'elle fait déjà) : *"Mon rôle, c'est de t'aider à faire plus via un nouveau canal, les DM. C'est tout — je touche pas au reste."*
+3. Dire qu'on le traite : *"Ok, ça, c'est exactement ce qu'on débloque : un système pour vendre ton package à ton réseau sans avoir l'impression de forcer, et un cadre pour que tu t'y tiennes vraiment cette fois."* Reformulation du rôle que tu joues (utile pour cadrer l'offre sans donner l'impression de remplacer ce qu'elle fait déjà) : *"Mon rôle, c'est de t'aider à faire plus via un nouveau canal, les DM. C'est tout — je touche pas au reste."*
 
-**Si elle objecte "je suis déjà full sur l'audit/l'accompagnement" :** recadrer immédiatement, sans se justifier longuement — *"C'est pas ton audit, c'est ta formation, le nouveau truc"* — et revenir à la douleur formation/communauté. Ne jamais laisser l'objection s'installer comme si elle remettait en cause tout l'appel.
+**Si elle objecte "je suis déjà full sur l'audit/l'accompagnement" :** recadrer immédiatement, sans se justifier longuement — *"C'est pas ton audit, c'est ton package, le nouveau truc"* — et revenir à la douleur autour du package. Ne jamais laisser l'objection s'installer comme si elle remettait en cause tout l'appel.
 
-**Croyance clé, adaptée pour elle** (pas de contenu à "remplacer" ici, elle en fait peu autour de la formation) :
+**Croyance clé, adaptée pour elle** (pas de contenu à "remplacer" ici, elle en fait peu autour du package) :
 > *"T'as pas besoin d'un meilleur produit, t'en as déjà un qui se vend. Tu dois juste arrêter de laisser le hasard décider qui l'achète."*
 
 ### 5. Permission de vendre
@@ -90,10 +91,10 @@ Ici la douleur n'est pas "pas de clients" (elle n'en manque pas sur son cœur de
 
 ### 6. Transition vers le R2
 
-> "Ok super, je vais te présenter ça dans un second appel comme je te disais. En plus là j'ai un rendez-vous juste après. Ce que je te propose, c'est qu'on se re-booke un call demain pour que je te montre exactement comment on transforme ton réseau en ventes pour ta formation, sans spam ni forcing. J'ai demain [deux créneaux réels à proposer selon ton agenda]."
+> "Ok super, je vais te présenter ça dans un second appel comme je te disais. En plus là j'ai un rendez-vous juste après. Ce que je te propose, c'est qu'on se re-booke un call demain pour que je te montre exactement comment on transforme ton réseau en ventes pour ton package, sans spam ni forcing. J'ai demain [deux créneaux réels à proposer selon ton agenda]."
 > → On booke le call.
 
-*(Note pour le R2, hors scope de cette prep mais à garder en tête : le pitch devra parler de "transformer ton réseau en ventes de formation", pas en "clients d'accompagnement" — vocabulaire à adapter, on le travaillera au moment du R2.)*
+*(Note pour le R2, hors scope de cette prep mais à garder en tête : le pitch devra parler de "transformer ton réseau en ventes de ton package", pas en "clients d'accompagnement" — vocabulaire à adapter, on le travaillera au moment du R2.)*
 
 ### 7. Faire accepter l'invitation + prévenir en cas d'imprévu
 
