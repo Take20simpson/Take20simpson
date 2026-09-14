@@ -86,7 +86,7 @@ Ici la douleur n'est pas "pas de clients" (elle n'en manque pas sur son cœur de
 ### 5. Permission de vendre
 
 > "Ok super, j'ai toutes les infos dont j'ai besoin."
-> **"Tu corresponds PARFAITEMENT au type de personnes avec qui j'obtiens des résultats RAPIDEMENT aujourd'hui."** *(formulation obligatoire, jamais édulcorée)*
+> **"Tu corresponds PARFAITEMENT au type de personnes que j'accompagne."** *(adaptation de Matthias — le texte original de Yann parle de "résultats RAPIDEMENT", retiré tant qu'il n'a pas de preuves clients concrètes, voir `STRATEGIE_YANN.md`)*
 > "Est-ce que tu voudrais que je te présente mon offre ?" → Oui
 
 ### 6. Transition vers le R2
