@@ -4,7 +4,7 @@
 
 **Règle de construction :** rien d'inventé. Une info manque → `[À COMPLÉTER]`, jamais deviné.
 
-**Sources :** masterclass Yann (les 7 phases) · étude de cas Yann x Maëva (DM LinkedIn, call obtenu) · vocal Yann du 31 août (mécanisme des incohérences) · séance 2 avec Yann, 1er septembre 2026 (call enregistré, focus posts + review en direct de vraies conversations de Matthias, dont Élodie Delmas et Zineb Rais) · 2e vidéo masterclass setting (capturée le 9 septembre 2026, demandée par Yann à Matthias) — reprend le cas Maëva en détaillant les mécanismes internes (pourquoi chaque message, pas juste quoi dire) + analyse par Yann de sa propre conversation de closing avec Matthias (24 août 2026, 4500€). Prochain enrichissement : autres vocaux/calls à venir.
+**Sources :** masterclass Yann (les 7 phases) · étude de cas Yann x Maëva (DM LinkedIn, call obtenu) · vocal Yann du 31 août (mécanisme des incohérences) · séance 2 avec Yann, 1er septembre 2026 (call enregistré, focus posts + review en direct de vraies conversations de Matthias, dont Élodie Delmas et Zineb Rais) · 2e vidéo masterclass setting (capturée le 9 septembre 2026, demandée par Yann à Matthias) — reprend le cas Maëva en détaillant les mécanismes internes (pourquoi chaque message, pas juste quoi dire) + analyse par Yann de sa propre conversation de closing avec Matthias (24 août 2026, 4500€) · vocal Yann du 13 septembre 2026 (cas réel, prospect qui annule 3 jours avant l'appel — antivente jusqu'à annuler un call déjà obtenu). Prochain enrichissement : autres vocaux/calls à venir.
 
 ---
 
@@ -204,6 +204,21 @@ Règle opérationnelle qui en découle : si le prospect retourne une question pe
 - Yann raconte avoir failli accepter directement, par réflexe/surprise, quand Matthias lui a proposé spontanément un call — puis s'est repris et a quand même fait un temps d'anti-vente avant de valider, alors même que la qualification semblait déjà complète.
 - Formulation utilisée : *"Attends, je veux te qualifier d'abord, je veux être sûr de pouvoir t'aider pour qu'on ne perde pas notre temps, mon temps est important, je ne suis pas sûr, des fois je refuse des clients."*
 - Nuance par rapport à la règle déjà documentée (qualification complète → accepter tout de suite sans jeu) : ce cas montre que même quand la qualification est en réalité déjà bonne, un bref réflexe d'anti-vente reste presque systématique chez Yann avant d'accepter un call proposé par le prospect — à traiter comme une discipline quasi-automatique, pas seulement conditionnelle à un doute réel.
+
+### Anti-vente jusqu'à annuler un call déjà obtenu — la détermination prime sur toute autre qualification (vocal Yann, 13 septembre 2026, cas réel)
+
+> Point désigné par Matthias comme "ultra important" à ne jamais perdre. Débloqué par un vocal de Yann après que Matthias ne savait pas comment gérer la situation.
+
+**Contexte :** prospect qui avait très bien verbalisé sa douleur, qualifié facilement, closable, call calé. Trois jours avant l'appel, il annule : pas envie de consacrer du temps à un accompagnement, pas assez motivé. Matthias soulève l'incohérence (Mécanisme central) — le prospect avait dit avoir 5h/jour de libre, même avec des clients en cours. Le prospect se justifie : il veut d'abord finir ses 3 clients actuels du mois. Cette justification révèle, en creux, un manque de détermination réelle malgré la disponibilité affirmée plus tôt.
+
+- **Ce qu'a débloqué Yann :** dans ce cas précis, faire de l'anti-vente complète — jamais se justifier, jamais argumenter pour retenir le prospect, jamais chercher à sauver le call.
+- **Vocal envoyé par Matthias, formulation validée par Yann :** *"Ok d'accord. Si tu n'es pas déter, ça ne sert à rien qu'on se fasse l'appel parce qu'on n'ira pas chercher les résultats. Je pensais qu'on était aligné dans les conversations qu'on a eues avant, mais apparemment non. Donc j'ai annulé le call de mercredi."*
+- **Deux issues possibles à l'anti-vente, toutes les deux bonnes :**
+  1. Le prospect ne revient jamais → tant mieux, ça confirme qu'il ne se serait pas investi.
+  2. Le prospect revient de lui-même → à ce moment-là il s'investit vraiment (l'anti-vente a inversé le rapport de force, cohérent avec le "tournant de la discussion" documenté plus haut).
+- **Règle qui en découle, valable même sans client en pipeline (situation de Matthias au moment des faits) :** ne jamais avoir peur de faire de l'anti-vente ou de montrer un besoin, même sous la pression du manque de clients — c'est précisément dans ce moment de manque que la tentation de "sauver" un call est la plus forte, et c'est précisément là qu'il ne faut pas céder.
+- **Distinction cruciale :** même si Matthias avait réussi à convaincre ce prospect de prendre le call puis de closer autrement, ça aurait été un client pas qualitatif du tout. La détermination prime sur toute autre preuve de qualification apparente (ici : douleur bien verbalisée, facilité de closing perçue). Un prospect qui a "tout pour réussir" (preuves, moyens) mais pas la détermination réelle mène systématiquement à une prestation foireuse — donc mieux vaut perdre ce client que de l'accepter.
+- **Complète la Phase 5 (auto-qualification, "t'es déter pour ça ?") :** la détermination n'est pas acquise une fois pour toutes lors de la qualification initiale — une contradiction ultérieure (même juste avant l'appel, même après un call déjà calé) doit être retestée avec la même rigueur, quitte à annuler.
 
 ---
 
