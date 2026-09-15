@@ -63,9 +63,10 @@ La réponse doit confirmer qu'on est bien sur le sujet de sa formation. Si elle 
 
 1. **Situer qui elle est** → skip, déjà connu (son activité, son ancienneté, tu la connais).
 
-2. **Objectif de CA sur la formation**
-   - "Tu aimerais être à combien en chiffre d'affaires avec la vente de cette formation ?"
-   - *(pas la peine de demander son CA actuel global ou "régulier/dents de scie" — cœur de métier déjà connu, et sur la formation la réponse est évidente : vendue une fois)*
+2. **Contexte + objectif sur la formation** *(pas la peine de demander son CA actuel global ou "régulier/dents de scie" — cœur de métier déjà connu)*
+   - "Elle est à combien ta formation aujourd'hui ?" — confirmer le prix (hypothèse ~1000-1500€, à vérifier, pas à assumer)
+   - "Ça fait combien de temps que t'essaies de la vendre ?" — contextualiser avant d'affirmer qu'elle n'a pas de routine, pour éviter qu'elle contredise plus tard ("ah si, ça fait 3 mois que je m'y mets")
+   - "T'aimerais faire combien de ventes de formations par mois, dans l'idéal ?" — pas un chiffre de CA, un nombre de ventes
 
 3. **Dépendance à l'inbound, côté formation**
    - "Tu as combien d'abonnés / quelle taille d'audience LinkedIn ?" — inconnu, à demander (priorité #4)
@@ -85,14 +86,13 @@ La réponse doit confirmer qu'on est bien sur le sujet de sa formation. Si elle 
 7. **Capacité à absorber le succès**
    - "Tu pourrais gérer 3 formations vendues le mois prochain ? Et 5 ?" — peut-elle suivre/corriger derrière si ça vend bien ?
 
-8. **Coût de l'inaction**
-   - "Si dans 6 mois t'as toujours vendu cette formation une seule fois et rien de plus, ça te va ?"
+8. **Coût de l'inaction** *(à poser sans présumer la réponse — elle a son accompagnement/audits en filet de sécurité, la question doit rester ouverte)*
+   - "Si dans 6 mois t'as toujours rien vendu de plus, c'est grave ou c'est pas grave pour toi ?"
 
 9. **Auto-qualification chiffrée**
    - "Sur une échelle de 1 à 10, à quel point c'est important de régler ça maintenant ? Pourquoi pas un 5 ?"
 
-**En plus de cette liste — deux informations propres à son cas, pas des questions du script de Yann, à ne pas confondre avec une modification de sa hiérarchie :**
-- **Prix de la formation** : "Elle est à combien ta formation aujourd'hui ?" — sans ça, impossible de savoir si le setting est la bonne stratégie (voir priorité absolue #1).
+**En plus de cette liste — une information propre à son cas, pas une question du script de Yann :**
 - **Qui va exécuter le setting** : "Tu me disais vouloir que ton frère s'occupe du setting, c'est toujours le plan ?" — change la nature de l'offre à présenter en R2 (voir priorité absolue #2).
 
 ### 4. Framework douleur
