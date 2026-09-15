@@ -1,62 +1,56 @@
-# MAËVA — R1 — PENSE-BÊTE LIVE (15/09, 14h)
+# MAËVA — R1 — SCRIPT PUR (15/09, 14h)
 
-> Version condensée pour lecture pendant l'appel. Le détail/justifications sont dans `PREP_APPEL_MAEVA.md`.
-
-**OBJECTIF : vendre sa formation MASE (communauté = feature dedans, pas un 2e produit). PAS l'audit/accompagnement (ça va déjà bien).**
-
-## ⚠️ À NE PAS OUBLIER
-- **Elle a de la répartie → risque que ce soit TOI qui te justifies.** Si objection compétence (frère / Julien / "je sais déjà") → jamais contester le savoir-faire, retourner sur le temps : *"C'est le temps qui te manque, pas la compétence, non ?"*
-- Prix de la formation → demander tôt (conditionne toute la stratégie)
-- Qui fait le setting : elle ou son frère ?
-- Frère "moyennement" → réagir : *"ça va me coincer"*
-- Proposer que le frère vienne au R2
-
----
-
-## 1. CADRAGE
+## 1. Cadrage
 > "Hello Maëva, tu me vois bien, tu m'entends bien ?"
-> "Notetaker enregistre, récap par mail, ok ?"
-> "Aujourd'hui c'est uniquement un call de qualif : voir si je peux t'aider, je te pose des questions. Si ça matche, je te présente mon offre, mais dans un 2e appel. Là on reste sur du qualif. Ok ?"
+> "Ok top. Pour info, mon notetaker record cet appel, tu recevras un récap AI de l'appel par email. C'est ok pour toi ?"
+> "OK super ! Aujourd'hui c'est uniquement un call de qualif : l'objectif, c'est de voir si je peux t'aider, donc je vais te poser des questions. Et à la fin, si tu corresponds au type de personne que je peux aider, et que j'ai vraiment envie de bosser avec toi, je te présenterai mon offre — mais ça, ce sera dans un second appel. Là aujourd'hui, on reste vraiment sur du qualif. C'est ok pour toi ?"
+> "Super."
+> "Ça va être un peu ça : je vais te poser plein de questions, ça va limite être une interview pendant une demi-heure."
 
-*(Callback complicité DM si ça vient naturellement — tréma / les 5 Matthias)*
+## 2. Situation
+> "Si je résume : ton activité MASE, accompagnement et audits, elle tourne bien, t'as même déjà large ton CA de l'année là-dessus, aucun souci de ce côté. Par contre t'as ta formation MASE — avec la communauté dedans — que t'as déjà vendue une fois, donc tu sais que ça se vend. Et c'est pas un terrain totalement inconnu pour toi, t'as déjà eu un aperçu de la prospection avec Julien à l'époque. Mais sur cette formation-là précisément, t'as pas encore de vraie routine installée pour la vendre en volume."
+> "Est-ce que je résume bien ta situation ?"
 
-## 2. SITUATION
-> "Ton activité MASE tourne bien, CA déjà large. Par contre ta formation, vendue une fois, mais pas de vraie routine pour la vendre en volume. Et c'est pas nouveau pour toi, t'as eu un aperçu avec Julien. Je résume bien ?"
+## 3. Questions
+- "Dis-moi, pour quelle raison as-tu pris cet appel ?"
+- "Elle est à combien ta formation aujourd'hui ?"
+- "Ça fait combien de temps que tu essaies de la vendre ?"
+- "Qu'est-ce que t'as déjà fait pour la vendre ?"
+- "T'aimerais faire combien de ventes de formations par mois, dans l'idéal ?"
+- "Tes posts t'amènent des inscriptions à la formation, ou surtout des likes et des commentaires ?"
+- "Et à ton avis, pourquoi ça reste des likes et pas des inscriptions ?"
+- "Tu prospectes aujourd'hui, ne serait-ce qu'un peu ? Si non, qu'est-ce qui t'a empêché ?"
+- "Quand tu penses à envoyer un message, il se passe quoi dans ta tête ?"
+- "Tu as déjà essayé, avec Julien ? Ça a donné quoi, pourquoi t'as arrêté ?"
+- "Dans ton réseau et tes abonnés, combien de prospects potentiels pour la formation que tu n'exploites pas ?"
+- "Qu'est-ce qui est flou pour toi : qui contacter, quoi leur dire, ou comment t'y tenir régulièrement ?"
+- "Tu pourrais gérer 3 formations vendues le mois prochain ? Et 5 ?"
+- "Si dans 6 mois t'as toujours rien vendu de plus, c'est grave ou c'est pas grave pour toi ?"
+- "Sur une échelle de 1 à 10, à quel point c'est important de régler ça maintenant ? Pourquoi pas un 5 ?"
+- "Tu me disais vouloir que ton frère s'occupe du setting, c'est toujours le plan ?"
 
-## 3. QUESTIONS (piocher, pas tout poser — orientées formation, pas générique)
-- Pourquoi t'as pris cet appel ?
-- **Prix de la formation ?**
-- **Ça fait combien de temps que t'essaies de la vendre ?**
-- **Qu'est-ce que t'as déjà fait pour la vendre ?**
-- **Frère : toujours le plan ?**
-- Combien de ventes de formations/mois dans l'idéal ?
-- Posts → inscriptions formation ou juste likes ? Si likes → pourquoi à son avis ?
-- Vivier réseau inexploité (audit interne, consultants MASE)
-- Julien : les 3 freins réglés aujourd'hui ?
-- Flou sur : qui contacter / quoi dire / comment s'y tenir ?
-- Capacité à suivre si ça vend
-- 6 mois sans rien vendu de plus, grave ou pas grave ?
-- 1 à 10, pourquoi pas 5 ?
+## 4. Objections (si elles sortent)
+- "Ok, mais du coup si tu veux déléguer à ton frère, j'imagine que c'est surtout le temps qui te manque pour l'accompagner là-dessus, pas la compétence ?"
+- "T'as déjà l'expérience avec Julien — mais si c'était juste une question de compétence, tu l'aurais déjà fait, non ?"
+- "Ça va me coincer."
+- "Pourquoi t'as pris cet appel si ton frère peut le faire ?"
+- "C'est pas ton audit, c'est ta formation, le nouveau truc."
 
-## 4. DOULEUR
-*Technique : reprends ce qu'elle vient de dire + question qui la pousse à conclure elle-même. Ne jamais affirmer le diagnostic toi-même — c'est elle qui doit dire "je laisse passer" / "je fais rien".*
-Ex. : "Donc t'as réglé les blocages d'avant mais tu t'y mets toujours pas, ça coince où ?" / "T'as [X] prospects sous le coude et t'en contactes combien ?"
+## 5. Douleur
+> "Donc tu prospectes pas sur les gens qui s'intéressent déjà à ton contenu ? Tu laisses passer un paquet de thune, en fait."
+> "Ok, ça, c'est exactement ce qu'on débloque : un système pour vendre ta formation sans avoir l'impression de forcer, et un cadre pour que tu t'y tiennes vraiment cette fois."
+> "Mon rôle, c'est de t'aider à faire plus via un nouveau canal, les DM. C'est tout."
+> "T'as pas besoin d'un meilleur produit, t'en as déjà un qui se vend. Tu dois juste arrêter de laisser le hasard décider qui l'achète."
 
-> "Tu laisses passer un paquet de thune." / "Mon rôle : un nouveau canal, les DM, c'est tout."
+## 6. Permission de vendre
+> "Ok super, j'ai toutes les infos dont j'ai besoin. Tu corresponds PARFAITEMENT au type de personnes que j'accompagne. Est-ce que tu voudrais que je te présente mon offre ?"
 
-Si "je suis full sur l'audit" → *"C'est pas ton audit, c'est ta formation."*
+## 7. Transition R2
+> "Ok super, je vais te présenter ça dans un second appel comme je te disais. En plus là j'ai un rendez-vous juste après. Ce que je te propose, c'est qu'on se re-booke un call demain pour que je te montre exactement comment on transforme ton réseau en ventes pour ta formation, sans spam ni forcing. J'ai demain [deux créneaux]."
+> "Et ça te dirait que ton frère soit présent aussi sur ce prochain call, vu qu'il pourrait être impliqué dans l'exécution ?"
 
-> Croyance : "T'as déjà un produit qui vend, arrête de laisser le hasard décider qui l'achète."
+## 8. Confirmation
+> "Ok top. Préviens-moi surtout si t'as un imprévu…"
 
-## 5. PERMISSION DE VENDRE
-> "J'ai toutes les infos. Tu corresponds PARFAITEMENT au type de personnes que j'accompagne. Tu veux que je te présente mon offre ?"
-
-## 6. TRANSITION R2
-> "Je te montre ça dans un 2e call, j'ai un rdv après. On rebooke demain ? [2 créneaux]"
-> → "Ça te dirait que ton frère soit là aussi ?"
-
-## 7. CONFIRMATION
-> "Préviens-moi si imprévu."
-
-## 8. RARETÉ
-> "Pas de pression, je bosse en 1:1, nombre limité, premier arrivé premier servi, je préfère que t'aies toutes les cartes en main demain."
+## 9. Rareté
+> "Pour info, je ne mets pas de pression. Si on n'avance pas ensemble, c'est parfaitement OK. Je te préviens juste : je bosse en individuel, en 1:1, donc je ne prends qu'un nombre limité de personnes en même temps. Je prends surtout ceux qui sont vraiment prêts à s'y mettre. Et je crois savoir que c'est ton cas, corrige-moi si je me trompe. Je fonctionne en premier arrivé, premier servi. Ça ne veut pas dire que si tu me dis non on ne bossera jamais ensemble, juste que ce ne sera peut-être pas tout de suite. Je préfère que tu aies toutes les cartes en main demain."
