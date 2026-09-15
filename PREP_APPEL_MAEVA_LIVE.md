@@ -31,7 +31,7 @@
 - Posts → inscriptions formation ou juste likes ?
 - Vivier réseau inexploité (audit interne, consultants MASE)
 - Julien : les 3 freins réglés aujourd'hui ?
-- Bloquée par : qui contacter / quoi dire / régularité ?
+- Flou sur : qui contacter / quoi dire / comment s'y tenir ?
 - Capacité à suivre si ça vend (corriger les exercices) ?
 - 6 mois, formation vendue une seule fois → ok ?
 - 1 à 10, pourquoi pas 5 ?

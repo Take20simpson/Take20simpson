@@ -79,9 +79,8 @@ La réponse doit confirmer qu'on est bien sur le sujet de sa formation. Si elle 
 5. **Vivier inexploité**
    - "Dans ton réseau et tes abonnés, combien de prospects potentiels pour la formation que tu n'exploites pas ?"
 
-6. **Nature précise du blocage**
-   - "Qu'est-ce qui te bloque le plus : qui contacter, quoi envoyer, ou juste t'y mettre régulièrement ?"
-   - "Si t'avais une méthode qui force pas, tu t'y mettrais ?"
+6. **Ce qui est flou pour elle** *("bloque" sonne accusateur, "flou" reste neutre — et la question "méthode qui force pas" retirée : pas pertinente si c'est le frère qui exécute, et le "forcing" c'est pas son souci à elle)*
+   - "Qu'est-ce qui est flou pour toi : qui contacter, quoi leur dire, ou comment t'y tenir régulièrement ?"
 
 7. **Capacité à absorber le succès**
    - "Tu pourrais gérer 3 formations vendues le mois prochain ? Et 5 ?" — peut-elle suivre/corriger derrière si ça vend bien ?
