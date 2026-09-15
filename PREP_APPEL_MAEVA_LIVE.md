@@ -27,6 +27,7 @@
 - Pourquoi t'as pris cet appel ?
 - **Prix de la formation ?** (confirmer, hypothèse 1000-1500€)
 - **Ça fait combien de temps que t'essaies de la vendre ?** (contexte, avant d'assumer aucune routine)
+- **Qu'est-ce que t'as déjà fait pour la vendre ?** (avant de parler objectif)
 - **Frère : toujours le plan ?**
 - Combien de ventes de formations/mois dans l'idéal ? (pas un CA en €)
 - Posts → inscriptions formation ou juste likes ? Si likes → pourquoi à son avis ?

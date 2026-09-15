@@ -72,6 +72,7 @@ La réponse doit confirmer qu'on est bien sur le sujet de sa formation. Si elle 
 2. **Contexte + objectif sur la formation** *(pas la peine de demander son CA actuel global ou "régulier/dents de scie" — cœur de métier déjà connu)*
    - "Elle est à combien ta formation aujourd'hui ?" — confirmer le prix (hypothèse ~1000-1500€, à vérifier, pas à assumer)
    - "Ça fait combien de temps que t'essaies de la vendre ?" — contextualiser avant d'affirmer qu'elle n'a pas de routine, pour éviter qu'elle contredise plus tard ("ah si, ça fait 3 mois que je m'y mets")
+   - "Qu'est-ce que t'as déjà fait pour la vendre ?" — dans la continuité, avant de parler d'objectif : savoir ce qu'elle a concrètement tenté (posts, demandes directes, etc.)
    - "T'aimerais faire combien de ventes de formations par mois, dans l'idéal ?" — pas un chiffre de CA, un nombre de ventes
 
 3. **Dépendance à l'inbound, côté formation**
