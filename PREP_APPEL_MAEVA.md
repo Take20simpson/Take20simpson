@@ -102,22 +102,24 @@ La réponse doit confirmer qu'on est bien sur le sujet du package formation + co
 - **Prix du package** : "Il est à combien ton package aujourd'hui ?" — sans ça, impossible de savoir si le setting est la bonne stratégie (voir priorité absolue #1).
 - **Qui va exécuter le setting** : "Tu me disais vouloir que ton frère s'occupe du setting, c'est toujours le plan ?" — change la nature de l'offre à présenter en R2 (voir priorité absolue #2).
 
-### 4. Framework douleur — adapté
+### 4. Framework douleur
 
-Ici la douleur n'est pas "pas de clients" (elle n'en manque pas sur son cœur de métier) — c'est plutôt : *un produit qui a fait ses preuves (vendu 1x chacun) et un vivier de prospects déjà dans son réseau, mais aucune machine pour transformer ça en ventes régulières. Elle laisse de l'argent sur la table sur un truc qui marche déjà.*
+**À lire pendant l'appel :**
+> 1. Reflet de sa réponse + question qui la pousse à conclure elle-même — jamais un diagnostic assené par toi.
+> 2. *"Donc tu prospectes pas sur les gens qui s'intéressent déjà à ton contenu ? Tu laisses passer un paquet de thune, en fait."*
+> 3. *"Ok, ça, c'est exactement ce qu'on débloque : un système pour vendre ton package sans avoir l'impression de forcer, et un cadre pour que tu t'y tiennes vraiment cette fois."*
+> *"Mon rôle, c'est de t'aider à faire plus via un nouveau canal, les DM. C'est tout."*
+>
+> Si "je suis full sur l'audit" → *"C'est pas ton audit, c'est ton package, le nouveau truc."*
+>
+> Croyance clé : *"T'as pas besoin d'un meilleur produit, t'en as déjà un qui se vend. Tu dois juste arrêter de laisser le hasard décider qui l'achète."*
 
-1. **Trouver cette douleur précise en la faisant reformuler elle-même — comment concrètement :** ne jamais lui asséner le diagnostic ("t'as un problème de X"). Tu reprends ce qu'elle vient de dire dans les questions de qualification (section 3) et tu lui renvoies avec une question ouverte qui la pousse à conclure elle-même, plutôt que d'affirmer à sa place. C'est elle qui doit dire "je laisse passer" / "je fais rien" / "ça bloque", pas toi. Exemples concrets à partir des réponses attendues :
-   - Si elle confirme que les freins de l'époque Julien sont réglés mais qu'elle ne prospecte toujours pas : *"Donc si je comprends bien, t'as plus les blocages d'avant, mais tu t'y mets quand même pas sur ce package ? Ça coince où alors ?"*
-   - Si elle donne un chiffre sur son vivier de prospects inexploités : *"Et sur ces [chiffre] personnes-là, t'en as contacté combien ces derniers mois ?"* → réponse probable "aucune/peu" → *"Donc t'as [chiffre] clients potentiels sous le coude et tu les touches pas ?"*
-   - Si ses posts amènent surtout des likes, pas des inscriptions : *"Donc t'as de la visibilité, mais ça se transforme pas en inscriptions au package, c'est bien ça ?"*
-   - Le principe général : reflet de ce qu'elle a dit + question qui ferme sur la conséquence, jamais une affirmation de ta part.
-2. Appuyer dessus légèrement, une fois qu'elle l'a dit elle-même. Formulation directe suggérée par Yann (transposée à son cas), à utiliser en relance juste après qu'elle a confirmé le constat ci-dessus : *"Donc aujourd'hui, tu me dis que tu prospectes pas sur les gens qui s'intéressent déjà à ton contenu ? Tu laisses passer un paquet de thune, en fait."*
-3. Dire qu'on le traite : *"Ok, ça, c'est exactement ce qu'on débloque : un système pour vendre ton package à ton réseau sans avoir l'impression de forcer, et un cadre pour que tu t'y tiennes vraiment cette fois."* Reformulation du rôle que tu joues (utile pour cadrer l'offre sans donner l'impression de remplacer ce qu'elle fait déjà) : *"Mon rôle, c'est de t'aider à faire plus via un nouveau canal, les DM. C'est tout — je touche pas au reste."*
-
-**Si elle objecte "je suis déjà full sur l'audit/l'accompagnement" :** recadrer immédiatement, sans se justifier longuement — *"C'est pas ton audit, c'est ton package, le nouveau truc"* — et revenir à la douleur autour du package. Ne jamais laisser l'objection s'installer comme si elle remettait en cause tout l'appel.
-
-**Croyance clé, adaptée pour elle** (pas de contenu à "remplacer" ici, elle en fait peu autour du package) :
-> *"T'as pas besoin d'un meilleur produit, t'en as déjà un qui se vend. Tu dois juste arrêter de laisser le hasard décider qui l'achète."*
+**Explication (pas à relire en call) :**
+- La douleur ici : pas "pas de clients" — un produit qui marche déjà (vendu 1x) mais aucune machine pour le vendre en volume.
+- Pour la faire dire par elle : reprendre sa réponse + question ouverte, jamais affirmer à sa place.
+  - Freins Julien réglés mais toujours rien → *"Ça coince où alors ?"*
+  - Chiffre du vivier → *"T'en as contacté combien ?"* → *"Donc t'as [X] sous le coude et tu les touches pas ?"*
+  - Posts = likes pas inscriptions → *"Ça se transforme pas en inscriptions, c'est ça ?"*
 
 ### 5. Permission de vendre
 
