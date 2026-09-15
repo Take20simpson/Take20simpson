@@ -8,9 +8,9 @@
 
 ## Priorités absolues de ce call (à ne pas rater)
 
-**⚠️ Elle a de la répartie, maîtrise son sujet — risque d'inversion du rapport de force (c'est toi qui te justifies au lieu d'elle qui se vend).** Elle va sûrement enchaîner les objections de compétence : "mon frère peut le faire", "j'ai déjà de l'expérience avec Julien", "je sais déjà faire ça". Ne jamais argumenter contre la compétence — la retourner sur le temps/la priorité, jamais sur le savoir-faire :
+**⚠️ Elle a de la répartie, maîtrise son sujet — risque d'inversion du rapport de force (c'est toi qui te justifies au lieu d'elle qui se vend).** Elle va sûrement enchaîner les objections de compétence : "mon frère peut le faire", "j'ai déjà de l'expérience avec Julien Guy", "je sais déjà faire ça". Ne jamais argumenter contre la compétence — la retourner sur le temps/la priorité, jamais sur le savoir-faire :
 > *"Ok, mais du coup si tu veux déléguer à ton frère, j'imagine que c'est surtout le temps qui te manque pour l'accompagner là-dessus, pas la compétence ?"*
-> *"T'as déjà l'expérience avec Julien — mais si c'était juste une question de compétence, tu l'aurais déjà fait, non ?"*
+> *"T'as déjà l'expérience avec Julien Guy — mais si c'était juste une question de compétence, tu l'aurais déjà fait, non ?"*
 Objectif : elle reste sur "j'ai besoin d'aide" (peu importe si c'est le temps ou la compétence qui manque), toi tu restes en position de solution — jamais en justification.
 
 1. **Prix de la formation** → demander tôt, conditionne toute la stratégie (low/high ticket, détail `STRATEGIE_YANN.md`). Hypothèse Matthias (non confirmée) : 1000-1500€.
@@ -18,7 +18,7 @@ Objectif : elle reste sur "j'ai besoin d'aide" (peu importe si c'est le temps ou
    - Si "moyennement/un peu" → réagir direct : *"ça va me coincer"*
    - Si elle veut tout déléguer → *"pourquoi t'as pris cet appel si ton frère peut le faire ?"*
    - Si ça avance vers un R2 → proposer que le frère soit présent
-3. **Freins Julien (offre floue / pas d'énergie / pas confiance)** → vérifier si réglés aujourd'hui.
+3. **Freins Julien Guy (offre floue / pas d'énergie / pas confiance)** → vérifier si réglés aujourd'hui.
 
 ---
 
@@ -50,12 +50,12 @@ Le paragraphe générique du script Yann (calé sur l'ICP "Lucas") suppose que l
 Version adaptée :
 
 > "Si je résume : ton activité MASE, accompagnement et audits, elle tourne bien, t'as même déjà large ton CA de l'année là-dessus, aucun souci de ce côté.
-> Par contre t'as ta formation MASE — avec la communauté dedans — que t'as déjà vendue une fois, donc tu sais que ça se vend. Et c'est pas un terrain totalement inconnu pour toi, t'as déjà eu un aperçu de la prospection avec Julien à l'époque. Mais sur cette formation-là précisément, t'as pas encore de vraie routine installée pour la vendre en volume.
+> Par contre t'as ta formation MASE — avec la communauté dedans — que t'as déjà vendue une fois, donc tu sais que ça se vend. Et c'est pas un terrain totalement inconnu pour toi, t'as déjà eu un aperçu de la prospection avec Julien Guy à l'époque. Mais sur cette formation-là précisément, t'as pas encore de vraie routine installée pour la vendre en volume.
 > Est-ce que je résume bien ta situation ?" → attendre la réponse
 
 *(Les deux points retirés du 15 septembre — "pas de lead magnet ciblé" et "pas de prospection régulière" — n'apparaissent plus : le lead magnet n'a pas sa place dans la stratégie de Matthias, même si elle en a parlé de son côté, et "pas de prospection régulière" était redondant/bizarre à ce stade de la phrase.)*
 
-*(Formulation choisie pour éviter "tu fais ça au feeling" — ça peut sonner comme si elle bricolait sans rien savoir, alors qu'elle a déjà été exposée à la prospection via Julien. On reconnaît son expérience passée avant de nommer le manque de routine actuelle sur ce produit précis.)*
+*(Formulation choisie pour éviter "tu fais ça au feeling" — ça peut sonner comme si elle bricolait sans rien savoir, alors qu'elle a déjà été exposée à la prospection via Julien Guy. On reconnaît son expérience passée avant de nommer le manque de routine actuelle sur ce produit précis.)*
 
 ### 3. Questions de qualification
 
@@ -76,7 +76,7 @@ Version adaptée :
 4. **Rapport à la prospection, passé et blocage**
    - "Tu prospectes aujourd'hui, ne serait-ce qu'un peu ? Si non, qu'est-ce qui t'a empêché ?"
    - "Quand tu penses à envoyer un message, il se passe quoi dans ta tête ?"
-   - "Tu as déjà essayé, avec Julien ? Ça a donné quoi, pourquoi t'as arrêté ?"
+   - "Tu as déjà essayé, avec Julien Guy ? Ça a donné quoi, pourquoi t'as arrêté ?"
 
 5. **Vivier inexploité**
    - "Dans ton réseau et tes abonnés, combien de prospects potentiels pour la formation que tu n'exploites pas ?"
@@ -111,7 +111,7 @@ Version adaptée :
 **Explication (pas à relire en call) :**
 - La douleur ici : pas "pas de clients" — un produit qui marche déjà (vendu 1x) mais aucune machine pour le vendre en volume.
 - Pour la faire dire par elle : reprendre sa réponse + question ouverte, jamais affirmer à sa place.
-  - Freins Julien réglés mais toujours rien → *"Ça coince où alors ?"*
+  - Freins Julien Guy réglés mais toujours rien → *"Ça coince où alors ?"*
   - Chiffre du vivier → *"T'en as contacté combien ?"* → *"Donc t'as [X] sous le coude et tu les touches pas ?"*
   - Posts = likes pas inscriptions → *"Ça se transforme pas en inscriptions, c'est ça ?"*
 

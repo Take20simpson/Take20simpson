@@ -3,25 +3,22 @@
 🎯 = question clé, à ne pas rater · ⚠️ = réaction si ça sort
 
 ## 1. Cadrage
-- "Tu me vois bien, tu m'entends bien ?"
-- Notetaker enregistre, récap par mail — "c'est ok pour toi ?"
-- Aujourd'hui, uniquement un call de qualif
-- Objectif : voir si je peux t'aider
-- Je vais te poser des questions
-- Si ça matche → je présente mon offre, mais au 2e appel
-- "Aujourd'hui on reste sur du qualif, c'est ok pour toi ?"
-- "Ça va être une interview, plein de questions, une demi-heure"
+> "Hello Maëva, tu me vois bien, tu m'entends bien ?"
+
+> "Ok top. Pour info, mon notetaker record cet appel, tu recevras un récap AI de l'appel par email. C'est ok pour toi ?"
+
+> "OK super ! Aujourd'hui c'est uniquement un call de qualif : l'objectif, c'est de voir si je peux t'aider, donc je vais te poser des questions. Et à la fin, si tu corresponds au type de personne que je peux aider, et que j'ai vraiment envie de bosser avec toi, je te présenterai mon offre — mais ça, ce sera dans un second appel. Là aujourd'hui, on reste vraiment sur du qualif. C'est ok pour toi ?"
+
+> "Super."
+
+> "Ça va être un peu ça : je vais te poser plein de questions, ça va limite être une interview pendant une demi-heure."
 
 ---
 
 ## 2. Situation
-- Ton MASE (accompagnement + audits) tourne bien
-- CA déjà large cette année, aucun souci de ce côté
-- Ta formation (communauté dedans) : déjà vendue une fois
-- Donc tu sais que ça se vend
-- Pas un terrain inconnu : aperçu avec Julien
-- Mais sur cette formation précisément : pas de vraie routine pour la vendre en volume
-- "Je résume bien ta situation ?"
+> "Si je résume : ton activité MASE, accompagnement et audits, elle tourne bien, t'as même déjà large ton CA de l'année là-dessus, aucun souci de ce côté.
+> Par contre t'as ta formation MASE — avec la communauté dedans — que t'as déjà vendue une fois, donc tu sais que ça se vend. Et c'est pas un terrain totalement inconnu pour toi, t'as déjà eu un aperçu de la prospection avec Julien Guy à l'époque. Mais sur cette formation-là précisément, t'as pas encore de vraie routine installée pour la vendre en volume.
+> Est-ce que je résume bien ta situation ?"
 
 ---
 
@@ -35,7 +32,7 @@
 - "Et à ton avis, pourquoi ça reste des likes et pas des inscriptions ?"
 - "Tu prospectes aujourd'hui, ne serait-ce qu'un peu ? Si non, qu'est-ce qui t'a empêché ?"
 - "Quand tu penses à envoyer un message, il se passe quoi dans ta tête ?"
-- 🎯 **"Tu as déjà essayé, avec Julien ? Ça a donné quoi, pourquoi t'as arrêté ?"**
+- 🎯 **"Tu as déjà essayé, avec Julien Guy ? Ça a donné quoi, pourquoi t'as arrêté ?"**
 - "Dans ton réseau et tes abonnés, combien de prospects potentiels pour la formation que tu n'exploites pas ?"
 - "Qu'est-ce qui est flou pour toi : qui contacter, quoi leur dire, ou comment t'y tenir régulièrement ?"
 - "Tu pourrais gérer 3 formations vendues le mois prochain ? Et 5 ?"
@@ -47,7 +44,7 @@
 
 ## 4. Objections (si elles sortent)
 - ⚠️ "Si tu veux déléguer à ton frère, j'imagine que c'est surtout le temps qui te manque, pas la compétence ?"
-- ⚠️ "T'as déjà l'expérience avec Julien — mais si c'était juste une question de compétence, tu l'aurais déjà fait, non ?"
+- ⚠️ "T'as déjà l'expérience avec Julien Guy — mais si c'était juste une question de compétence, tu l'aurais déjà fait, non ?"
 - ⚠️ "Ça va me coincer."
 - ⚠️ "Pourquoi t'as pris cet appel si ton frère peut le faire ?"
 - ⚠️ "C'est pas ton audit, c'est ta formation, le nouveau truc."
