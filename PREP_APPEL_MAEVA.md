@@ -46,8 +46,10 @@ Le paragraphe générique du script Yann (calé sur l'ICP "Lucas") suppose que l
 Version adaptée :
 
 > "Si je résume : ton activité MASE, accompagnement et audits, elle tourne bien, t'as même déjà large ton CA de l'année là-dessus, aucun souci de ce côté.
-> Par contre t'as ton package formation + communauté MASE, que t'as déjà vendu une fois — donc tu sais que ça se vend. Et c'est pas un terrain totalement inconnu pour toi, t'as déjà eu un aperçu de la prospection avec Julien à l'époque. Mais sur ce package-là précisément, t'as pas encore de vraie routine installée pour le vendre en volume : pas de lead magnet vraiment ciblé, pas de prospection régulière.
+> Par contre t'as ton package formation + communauté MASE, que t'as déjà vendu une fois — donc tu sais que ça se vend. Et c'est pas un terrain totalement inconnu pour toi, t'as déjà eu un aperçu de la prospection avec Julien à l'époque. Mais sur ce package-là précisément, t'as pas encore de vraie routine installée pour le vendre en volume.
 > Est-ce que je résume bien ta situation ?" → attendre la réponse
+
+*(Les deux points retirés du 15 septembre — "pas de lead magnet ciblé" et "pas de prospection régulière" — n'apparaissent plus : le lead magnet n'a pas sa place dans la stratégie de Matthias, même si elle en a parlé de son côté, et "pas de prospection régulière" était redondant/bizarre à ce stade de la phrase.)*
 
 *(Formulation choisie pour éviter "tu fais ça au feeling" — ça peut sonner comme si elle bricolait sans rien savoir, alors qu'elle a déjà été exposée à la prospection via Julien. On reconnaît son expérience passée avant de nommer le manque de routine actuelle sur ce produit précis.)*
 
@@ -59,19 +61,21 @@ Une seule question fixe gardée (l'autre, "comment tu m'as découvert ?", suppri
 
 La réponse doit confirmer qu'on est bien sur le sujet du package formation + communauté. Si elle part sur autre chose (ex. son activité cœur de métier), recadrer sans forcer. **Le vrai but de cette question (Yann) :** lui faire dire, même implicitement, qu'elle a besoin d'aide — si elle a pris l'appel, c'est qu'il y a une raison derrière. Pas juste une question d'entrée en matière.
 
-**Puis, dans cet ordre de priorité (pas besoin de toutes les poser, mais celles-ci comptent plus que les autres pour elle) :**
+**Ensuite, la liste de Yann — ordre d'origine intact, rien de réordonné.** Tu n'es pas obligé de toutes les poser (Yann le dit lui-même), mais la hiérarchie ci-dessous est la sienne, pas une reprioritisation pour Maëva. Regroupée par objectif pour que tu voies ce que chaque bloc cherche à établir :
 
-- **Prix du package** : "Il est à combien ton package aujourd'hui ?" — *à poser tôt, ça conditionne toute la suite du call.* Si l'accès à la communauté implique un abonnement à part, le demander aussi.
-- **Qui va exécuter le setting concrètement** : "Tu me disais vouloir que ton frère s'occupe du setting, c'est toujours le plan ?" — à poser toi-même, tôt aussi, ça change la nature de l'offre à présenter en R2 (elle qui applique / son frère qui applique / les deux). Voir traitement complet en priorité absolue #2 ci-dessus.
-- Comment elle a vendu ce package la première fois — à qui, par quel canal, ça a pris combien de temps ?
-- Taille d'audience / nombre d'abonnés sur LinkedIn.
-- Tes posts, ils t'amènent des inscriptions au package, ou surtout des likes et des commentaires ?
-- Dans ton réseau (anciens clients d'audit interne, abonnés, consultants du réseau MASE), tu dirais qu'il y a combien de prospects potentiels pour le package que tu n'exploites pas ?
-- Les 3 trucs qui avaient coincé avec Julien à l'époque — offre floue, pas d'énergie mise dessus, pas confiante dans la valeur — aujourd'hui sur ce package, c'est réglé ces trois points ?
-- Qu'est-ce qui te bloque le plus aujourd'hui : savoir qui contacter, savoir quoi leur dire, ou juste t'y mettre régulièrement ?
-- Si le package se vend bien, genre 10-15 ventes le mois prochain, t'arrives à suivre derrière (tu corriges les exercices toi-même) ? Ça reste gérable ou ça devient un problème ?
-- Si dans 6 mois t'as toujours vendu ce package une seule fois, et rien de plus — ça te va, ou pas ?
-- Sur une échelle de 1 à 10, à quel point c'est important pour toi de mettre un vrai système de vente derrière ce package maintenant ? Pourquoi ce n'est pas un 5 ?
+1. **Situer qui elle est** (déjà connu, à ne pas reposer) : *"Ça fait combien de temps que tu es à ton compte ? Tu fais quoi exactement, et pour qui ?"*
+2. **Chiffrer l'écart entre aujourd'hui et l'objectif** : *"Tu fais combien de chiffre par mois, à peu près ? Régulier ou en dents de scie ?"* — déjà connu sur son cœur de métier, à recentrer sur le package si posée : "sur le package précisément, ça donne quoi ?". *"Tu aimerais être à combien, et avec quelle régularité ?"* — inconnu sur le package, à demander.
+3. **Établir la dépendance à l'inbound/l'algo** : *"Quand tu signes un client, il vient d'où la plupart du temps ?"* — à redemander côté package (connu côté cœur de métier). *"Tu as combien d'abonnés / quelle taille d'audience sur LinkedIn ?"* — inconnu, à demander (priorité #4 plus haut). *"Tes posts t'amènent des rendez-vous, ou surtout des likes et des commentaires ?"* — à demander pour le package. *"Quand un post floppe, ça se voit sur ton business ?"* — probablement pas sur son cœur de métier, à nuancer si posée.
+4. **Comprendre le rapport à la prospection, passé et blocage** : *"Tu prospectes aujourd'hui, ne serait-ce qu'un peu ? Si non, qu'est-ce qui t'a empêché de t'y mettre ?"* — en partie connu ("je m'y prends pas"). *"Quand tu penses à envoyer un message à un prospect, il se passe quoi dans ta tête ?"* — à demander, intéressant vu son passif avec Julien. *"Tu as déjà essayé ? Ça a donné quoi, pourquoi tu as arrêté ?"* — en partie connu (Julien Guy), bon moment pour vérifier si les 3 freins de l'époque sont réglés aujourd'hui (priorité #3 plus haut).
+5. **Quantifier le vivier inexploité** : *"Dans ton réseau et tes abonnés, combien de prospects potentiels que tu n'exploites pas ?"* — à demander (anciens clients d'audit interne, consultants du réseau MASE).
+6. **Isoler la nature précise du blocage** : *"Qu'est-ce qui te bloque le plus : qui contacter, quoi envoyer, ou juste t'y mettre régulièrement ?"* / *"Si t'avais une méthode qui force pas, tu t'y mettrais ?"* — à demander.
+7. **Vérifier la capacité à absorber le succès** : *"Tu pourrais gérer 3 nouveaux clients le mois prochain si tu les signais ? Et 5 ?"* — à adapter en "packages vendus" (produit, pas accompagnement 1:1) : peut-elle suivre/corriger derrière si ça vend bien ?
+8. **Projeter le coût de l'inaction** : *"Qu'est-ce qui se passe si dans 6 mois ton acquisition dépend toujours autant de l'algorithme ?"* — à adapter : "si dans 6 mois t'as toujours vendu ce package une seule fois."
+9. **Auto-qualification chiffrée** : *"Sur une échelle de 1 à 10, à quel point c'est important de régler ça maintenant ? Pourquoi ce n'est pas un 5 ?"* — à demander telle quelle, adaptée au package.
+
+**En plus de cette liste — deux informations propres à son cas, pas des questions du script de Yann, à ne pas confondre avec une modification de sa hiérarchie :**
+- **Prix du package** : "Il est à combien ton package aujourd'hui ?" — sans ça, impossible de savoir si le setting est la bonne stratégie (voir priorité absolue #1).
+- **Qui va exécuter le setting** : "Tu me disais vouloir que ton frère s'occupe du setting, c'est toujours le plan ?" — change la nature de l'offre à présenter en R2 (voir priorité absolue #2).
 
 ### 4. Framework douleur — adapté
 
