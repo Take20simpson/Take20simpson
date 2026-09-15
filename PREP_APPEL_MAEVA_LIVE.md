@@ -25,17 +25,17 @@
 
 ## 3. QUESTIONS (piocher, pas tout poser — orientées formation, pas générique)
 - Pourquoi t'as pris cet appel ?
-- **Prix de la formation ?** (confirmer, hypothèse 1000-1500€)
-- **Ça fait combien de temps que t'essaies de la vendre ?** (contexte, avant d'assumer aucune routine)
-- **Qu'est-ce que t'as déjà fait pour la vendre ?** (avant de parler objectif)
+- **Prix de la formation ?**
+- **Ça fait combien de temps que t'essaies de la vendre ?**
+- **Qu'est-ce que t'as déjà fait pour la vendre ?**
 - **Frère : toujours le plan ?**
-- Combien de ventes de formations/mois dans l'idéal ? (pas un CA en €)
+- Combien de ventes de formations/mois dans l'idéal ?
 - Posts → inscriptions formation ou juste likes ? Si likes → pourquoi à son avis ?
 - Vivier réseau inexploité (audit interne, consultants MASE)
 - Julien : les 3 freins réglés aujourd'hui ?
 - Flou sur : qui contacter / quoi dire / comment s'y tenir ?
-- Capacité à suivre si ça vend (corriger les exercices) ?
-- 6 mois sans rien vendu de plus → grave ou pas grave ? (ouvert, elle a son accompagnement/audits en filet)
+- Capacité à suivre si ça vend
+- 6 mois sans rien vendu de plus, grave ou pas grave ?
 - 1 à 10, pourquoi pas 5 ?
 
 ## 4. DOULEUR

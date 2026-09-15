@@ -59,47 +59,42 @@ Version adaptée :
 
 ### 3. Questions de qualification
 
-Une seule question fixe gardée (l'autre, "comment tu m'as découvert ?", supprimée — inutile vu votre historique DM déjà riche, elle sonnerait artificielle) :
-
 > "Dis-moi, pour quelle raison as-tu pris cet appel ?" → laisser parler puis approfondir
 
-La réponse doit confirmer qu'on est bien sur le sujet de sa formation. Si elle part sur autre chose (ex. son activité cœur de métier), recadrer sans forcer. **Le vrai but de cette question (Yann) :** lui faire dire, même implicitement, qu'elle a besoin d'aide — si elle a pris l'appel, c'est qu'il y a une raison derrière. Pas juste une question d'entrée en matière.
+1. **Situer qui elle est** → skip
 
-**Ensuite, le pattern de Yann — même ordre, mêmes objectifs. Mais on ne pose pas tout mot pour mot : chaque question est réorientée sur sa formation, et on saute ce qui est déjà connu ou hors-sujet (Yann le permet lui-même — "pas besoin de toutes les poser").**
+2. **Contexte + objectif sur la formation**
+   - "Elle est à combien ta formation aujourd'hui ?"
+   - "Ça fait combien de temps que tu essaies de la vendre ?"
+   - "Qu'est-ce que t'as déjà fait pour la vendre ?"
+   - "T'aimerais faire combien de ventes de formations par mois, dans l'idéal ?"
 
-1. **Situer qui elle est** → skip, déjà connu (son activité, son ancienneté, tu la connais).
-
-2. **Contexte + objectif sur la formation** *(pas la peine de demander son CA actuel global ou "régulier/dents de scie" — cœur de métier déjà connu)*
-   - "Elle est à combien ta formation aujourd'hui ?" — confirmer le prix (hypothèse ~1000-1500€, à vérifier, pas à assumer)
-   - "Ça fait combien de temps que t'essaies de la vendre ?" — contextualiser avant d'affirmer qu'elle n'a pas de routine, pour éviter qu'elle contredise plus tard ("ah si, ça fait 3 mois que je m'y mets")
-   - "Qu'est-ce que t'as déjà fait pour la vendre ?" — dans la continuité, avant de parler d'objectif : savoir ce qu'elle a concrètement tenté (posts, demandes directes, etc.)
-   - "T'aimerais faire combien de ventes de formations par mois, dans l'idéal ?" — pas un chiffre de CA, un nombre de ventes
-
-3. **Dépendance à l'inbound, côté formation**
-   - "Tes posts t'amènent des inscriptions à la formation, ou surtout des likes et des commentaires ?" — si "surtout des likes" → creuser : *"Et à ton avis, pourquoi ça reste des likes et pas des inscriptions ?"*
+3. **Dépendance à l'inbound**
+   - "Tes posts t'amènent des inscriptions à la formation, ou surtout des likes et des commentaires ?"
+   - Si "surtout des likes" → "Et à ton avis, pourquoi ça reste des likes et pas des inscriptions ?"
 
 4. **Rapport à la prospection, passé et blocage**
-   - "Tu prospectes aujourd'hui, ne serait-ce qu'un peu ? Si non, qu'est-ce qui t'a empêché ?" — en partie connu ("je m'y prends pas")
+   - "Tu prospectes aujourd'hui, ne serait-ce qu'un peu ? Si non, qu'est-ce qui t'a empêché ?"
    - "Quand tu penses à envoyer un message, il se passe quoi dans ta tête ?"
-   - "Tu as déjà essayé (avec Julien) ? Ça a donné quoi, pourquoi t'as arrêté ?" — bon moment pour vérifier si les 3 freins de l'époque sont réglés (priorité #3)
+   - "Tu as déjà essayé, avec Julien ? Ça a donné quoi, pourquoi t'as arrêté ?"
 
 5. **Vivier inexploité**
    - "Dans ton réseau et tes abonnés, combien de prospects potentiels pour la formation que tu n'exploites pas ?"
 
-6. **Ce qui est flou pour elle** *("bloque" sonne accusateur, "flou" reste neutre — et la question "méthode qui force pas" retirée : pas pertinente si c'est le frère qui exécute, et le "forcing" c'est pas son souci à elle)*
+6. **Ce qui est flou pour elle**
    - "Qu'est-ce qui est flou pour toi : qui contacter, quoi leur dire, ou comment t'y tenir régulièrement ?"
 
 7. **Capacité à absorber le succès**
-   - "Tu pourrais gérer 3 formations vendues le mois prochain ? Et 5 ?" — peut-elle suivre/corriger derrière si ça vend bien ?
+   - "Tu pourrais gérer 3 formations vendues le mois prochain ? Et 5 ?"
 
-8. **Coût de l'inaction** *(à poser sans présumer la réponse — elle a son accompagnement/audits en filet de sécurité, la question doit rester ouverte)*
+8. **Coût de l'inaction**
    - "Si dans 6 mois t'as toujours rien vendu de plus, c'est grave ou c'est pas grave pour toi ?"
 
 9. **Auto-qualification chiffrée**
    - "Sur une échelle de 1 à 10, à quel point c'est important de régler ça maintenant ? Pourquoi pas un 5 ?"
 
-**En plus de cette liste — une information propre à son cas, pas une question du script de Yann :**
-- **Qui va exécuter le setting** : "Tu me disais vouloir que ton frère s'occupe du setting, c'est toujours le plan ?" — change la nature de l'offre à présenter en R2 (voir priorité absolue #2).
+10. **Qui exécute le setting**
+    - "Tu me disais vouloir que ton frère s'occupe du setting, c'est toujours le plan ?"
 
 ### 4. Framework douleur
 
