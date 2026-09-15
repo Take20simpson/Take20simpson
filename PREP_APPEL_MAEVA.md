@@ -8,6 +8,11 @@
 
 ## Priorités absolues de ce call (à ne pas rater)
 
+**⚠️ Elle a de la répartie, maîtrise son sujet — risque d'inversion du rapport de force (c'est toi qui te justifies au lieu d'elle qui se vend).** Elle va sûrement enchaîner les objections de compétence : "mon frère peut le faire", "j'ai déjà de l'expérience avec Julien", "je sais déjà faire ça". Ne jamais argumenter contre la compétence — la retourner sur le temps/la priorité, jamais sur le savoir-faire :
+> *"Ok, mais du coup si tu veux déléguer à ton frère, j'imagine que c'est surtout le temps qui te manque pour l'accompagner là-dessus, pas la compétence ?"*
+> *"T'as déjà l'expérience avec Julien — mais si c'était juste une question de compétence, tu l'aurais déjà fait, non ?"*
+Objectif : elle reste sur "j'ai besoin d'aide" (peu importe si c'est le temps ou la compétence qui manque), toi tu restes en position de solution — jamais en justification.
+
 1. **Prix de la formation** → demander tôt, conditionne toute la stratégie (low/high ticket, détail `STRATEGIE_YANN.md`). Hypothèse Matthias (non confirmée) : 1000-1500€.
 2. **Qui exécute le setting : elle ou son frère ?** → à demander toi-même, tôt, tu le sais déjà par les vocaux.
    - Si "moyennement/un peu" → réagir direct : *"ça va me coincer"*

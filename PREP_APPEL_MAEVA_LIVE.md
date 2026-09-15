@@ -5,6 +5,7 @@
 **OBJECTIF : vendre sa formation MASE (communauté = feature dedans, pas un 2e produit). PAS l'audit/accompagnement (ça va déjà bien).**
 
 ## ⚠️ À NE PAS OUBLIER
+- **Elle a de la répartie → risque que ce soit TOI qui te justifies.** Si objection compétence (frère / Julien / "je sais déjà") → jamais contester le savoir-faire, retourner sur le temps : *"C'est le temps qui te manque, pas la compétence, non ?"*
 - Prix de la formation → demander tôt (conditionne toute la stratégie)
 - Qui fait le setting : elle ou son frère ?
 - Frère "moyennement" → réagir : *"ça va me coincer"*
