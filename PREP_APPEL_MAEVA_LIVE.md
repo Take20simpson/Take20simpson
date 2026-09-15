@@ -37,6 +37,9 @@
 - 1 à 10, pourquoi pas 5 ?
 
 ## 4. DOULEUR
+*Technique : reprends ce qu'elle vient de dire + question qui la pousse à conclure elle-même. Ne jamais affirmer le diagnostic toi-même — c'est elle qui doit dire "je laisse passer" / "je fais rien".*
+Ex. : "Donc t'as réglé les blocages d'avant mais tu t'y mets toujours pas, ça coince où ?" / "T'as [X] prospects sous le coude et t'en contactes combien ?"
+
 > "Tu laisses passer un paquet de thune." / "Mon rôle : un nouveau canal, les DM, c'est tout."
 
 Si "je suis full sur l'audit" → *"C'est pas ton audit, c'est ton package."*
