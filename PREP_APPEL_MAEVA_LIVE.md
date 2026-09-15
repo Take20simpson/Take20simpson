@@ -2,10 +2,10 @@
 
 > Version condensée pour lecture pendant l'appel. Le détail/justifications sont dans `PREP_APPEL_MAEVA.md`.
 
-**OBJECTIF : vendre le package formation + communauté MASE. PAS l'audit/accompagnement (ça va déjà bien).**
+**OBJECTIF : vendre sa formation MASE (communauté = feature dedans, pas un 2e produit). PAS l'audit/accompagnement (ça va déjà bien).**
 
 ## ⚠️ À NE PAS OUBLIER
-- Prix du package → demander tôt (conditionne toute la stratégie)
+- Prix de la formation → demander tôt (conditionne toute la stratégie)
 - Qui fait le setting : elle ou son frère ?
 - Frère "moyennement" → réagir : *"ça va me coincer"*
 - Proposer que le frère vienne au R2
@@ -20,13 +20,13 @@
 *(Callback complicité DM si ça vient naturellement — tréma / les 5 Matthias)*
 
 ## 2. SITUATION
-> "Ton activité MASE tourne bien, CA déjà large. Par contre ton package formation + communauté, vendu une fois, mais pas de vraie routine pour le vendre en volume. Et c'est pas nouveau pour toi, t'as eu un aperçu avec Julien. Je résume bien ?"
+> "Ton activité MASE tourne bien, CA déjà large. Par contre ta formation, vendue une fois, mais pas de vraie routine pour la vendre en volume. Et c'est pas nouveau pour toi, t'as eu un aperçu avec Julien. Je résume bien ?"
 
 ## 3. QUESTIONS (piocher, pas tout poser)
 - Pourquoi t'as pris cet appel ?
-- **Prix du package ?**
+- **Prix de la formation ?**
 - **Frère : toujours le plan ?**
-- CA sur le package / objectif de régularité
+- CA sur la formation / objectif de régularité
 - Clients viennent d'où / audience LinkedIn
 - Posts → RDV ou juste likes ?
 - Vivier réseau inexploité (audit interne, consultants MASE)
@@ -42,7 +42,7 @@ Ex. : "Donc t'as réglé les blocages d'avant mais tu t'y mets toujours pas, ça
 
 > "Tu laisses passer un paquet de thune." / "Mon rôle : un nouveau canal, les DM, c'est tout."
 
-Si "je suis full sur l'audit" → *"C'est pas ton audit, c'est ton package."*
+Si "je suis full sur l'audit" → *"C'est pas ton audit, c'est ta formation."*
 
 > Croyance : "T'as déjà un produit qui vend, arrête de laisser le hasard décider qui l'achète."
 
