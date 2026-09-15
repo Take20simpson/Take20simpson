@@ -28,8 +28,7 @@
 - **Ça fait combien de temps que t'essaies de la vendre ?** (contexte, avant d'assumer aucune routine)
 - **Frère : toujours le plan ?**
 - Combien de ventes de formations/mois dans l'idéal ? (pas un CA en €)
-- Audience LinkedIn ?
-- Posts → inscriptions formation ou juste likes ?
+- Posts → inscriptions formation ou juste likes ? Si likes → pourquoi à son avis ?
 - Vivier réseau inexploité (audit interne, consultants MASE)
 - Julien : les 3 freins réglés aujourd'hui ?
 - Flou sur : qui contacter / quoi dire / comment s'y tenir ?

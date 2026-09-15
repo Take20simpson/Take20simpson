@@ -14,7 +14,6 @@
    - Si elle veut tout déléguer → *"pourquoi t'as pris cet appel si ton frère peut le faire ?"*
    - Si ça avance vers un R2 → proposer que le frère soit présent
 3. **Freins Julien (offre floue / pas d'énergie / pas confiance)** → vérifier si réglés aujourd'hui.
-4. **Audience LinkedIn** → jamais donnée, à demander.
 
 ---
 
@@ -69,8 +68,7 @@ La réponse doit confirmer qu'on est bien sur le sujet de sa formation. Si elle 
    - "T'aimerais faire combien de ventes de formations par mois, dans l'idéal ?" — pas un chiffre de CA, un nombre de ventes
 
 3. **Dépendance à l'inbound, côté formation**
-   - "Tu as combien d'abonnés / quelle taille d'audience LinkedIn ?" — inconnu, à demander (priorité #4)
-   - "Tes posts t'amènent des inscriptions à la formation, ou surtout des likes ?"
+   - "Tes posts t'amènent des inscriptions à la formation, ou surtout des likes et des commentaires ?" — si "surtout des likes" → creuser : *"Et à ton avis, pourquoi ça reste des likes et pas des inscriptions ?"*
 
 4. **Rapport à la prospection, passé et blocage**
    - "Tu prospectes aujourd'hui, ne serait-ce qu'un peu ? Si non, qu'est-ce qui t'a empêché ?" — en partie connu ("je m'y prends pas")
