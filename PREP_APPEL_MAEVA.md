@@ -13,7 +13,8 @@
    - Si low ticket confirmé sans potentiel récurrent : ne pas insister sur une stratégie de setting complète, en parler à Yann/Alban avant le R2.
 2. **Le frère — à amener toi-même, pas à attendre.** Elle veut bosser en famille et déléguer le setting à son frère, freelance. Tu le sais déjà par les vocaux échangés, donc ne fais pas style tu l'apprends en call : pose la question toi-même à un moment naturel plutôt que d'espérer qu'elle la ramène. Ex. : *"Tu me disais vouloir que ton frère s'occupe du setting, c'est toujours le plan ?"* L'enjeu réel : savoir qui va concrètement exécuter la prospection au quotidien — elle, lui, ou les deux — parce que ça change qui a besoin d'être accompagné dans l'offre (un accompagnement individuel pensé pour qu'elle fasse le setting elle-même ne fonctionne pas pareil si c'est son frère qui l'exécute). Si elle confirme vouloir tout lui déléguer : ne pas demander "comment le former" — retourner *"pourquoi t'as quand même pris cet appel si ton frère peut le faire ?"*, et demander ses résultats concrets déjà obtenus en prospection (pas juste "un peu d'expérience"). Le doute qu'elle a elle-même sur cette solution interne — vu qu'elle a quand même pris ce call — est le vrai signal.
    - **Contexte pour ta propre confiance (pas à sortir tel quel en call)** : d'après ce que tu en sais, le frère est freelance généraliste, "touche un peu à tout", pas un spécialiste de la prospection — cohérent avec le fait qu'elle ait quand même pris cet appel malgré cette option en interne. Et c'est elle-même qui est venue vers toi avec l'idée d'un accompagnement, pas l'inverse : signal que sa confiance dans la solution "frère" n'est déjà pas totale.
-   - **Pour plus tard (R2, hors scope ici) :** Yann suggère qu'il pourrait être utile d'avoir le frère présent au R2 si le sujet reste flou après le R1 — à garder en tête, pas à décider maintenant.
+   - **Anti-vente opportuniste sur cette question précise (confirmé par Yann le 15 septembre) :** l'anti-vente ne se limite pas au sujet des preuves — elle se déclenche sur n'importe quelle réponse hésitante. Si tu demandes "et ton frère, il s'y connaît bien en setting ?" et qu'elle répond "moyennement" ou "un peu", ne pas laisser passer : réagir en direct, sincèrement — *"Ok, là c'est vrai que ça va me coincer."* Même une expérience limitée ou une hésitation dans la réponse suffit comme point d'accroche, pas besoin d'un vide total côté frère.
+   - **Pour le R2 (confirmé par Yann le 15 septembre, plus une simple suggestion) :** si vous partez vraiment sur un R2, proposer que le frère soit présent — pas dramatique s'il ne vient pas, mais il faut le proposer. Voir la ligne ajoutée en section 6 ci-dessous.
 3. **Vérifier si les 3 freins de l'époque Julien Guy sont vraiment réglés aujourd'hui** : offre floue / pas d'énergie mise dessus / pas confiante dans la valeur. Elle les a nommés elle-même comme causes de l'échec passé, aucune n'était liée à la méthode.
 4. **Taille d'audience LinkedIn** : jamais donnée dans l'échange, à demander.
 
@@ -36,6 +37,8 @@ Vous avez déjà une vraie complicité construite en DM (le délire du tréma, l
 
 Ne pas sauter ce cadrage même si vous vous connaissez déjà bien — Yann le précise à l'oral : ça sert à prendre le lead de la conversation, pas juste à être poli. Sans ça, c'est elle qui peut mener l'échange.
 
+**Juste après, avant d'enchaîner les questions — humour de dégel (technique Yann, optionnelle vu votre complicité déjà là) :** annoncer qu'il va y avoir beaucoup de questions, sur le ton léger — *"Ça va être un peu ça : je vais te poser plein de questions, ça va limite être une interview pendant une demi-heure."* Yann enchaîne ensuite avec une blague type "je vais deviner un truc sur toi" (son exemple à lui porte sur la politique — à ne pas copier tel quel, pas ton registre avec elle) ; avec Maëva, plus simple et plus sûr de rebondir sur votre délire déjà installé plutôt que d'inventer une nouvelle blague ici.
+
 ### 2. Rappel de la situation — personnalisé pour elle
 
 Le paragraphe générique du script Yann (calé sur l'ICP "Lucas") suppose que le business entier du prospect est irrégulier. **Ce n'est pas son cas** : son cœur de métier (accompagnement + audit MASE) tourne très bien, elle a déjà large son CA de l'année, plus de dispo en accompagnement. Ne surtout pas lui dire que son business est en dents de scie — elle va corriger, ça sonnera comme si tu n'avais pas écouté.
@@ -54,7 +57,7 @@ Une seule question fixe gardée (l'autre, "comment tu m'as découvert ?", suppri
 
 > "Dis-moi, pour quelle raison as-tu pris cet appel ?" → laisser parler puis approfondir
 
-La réponse doit confirmer qu'on est bien sur le sujet du package formation + communauté. Si elle part sur autre chose (ex. son activité cœur de métier), recadrer sans forcer.
+La réponse doit confirmer qu'on est bien sur le sujet du package formation + communauté. Si elle part sur autre chose (ex. son activité cœur de métier), recadrer sans forcer. **Le vrai but de cette question (Yann) :** lui faire dire, même implicitement, qu'elle a besoin d'aide — si elle a pris l'appel, c'est qu'il y a une raison derrière. Pas juste une question d'entrée en matière.
 
 **Puis, dans cet ordre de priorité (pas besoin de toutes les poser, mais celles-ci comptent plus que les autres pour elle) :**
 
@@ -93,6 +96,8 @@ Ici la douleur n'est pas "pas de clients" (elle n'en manque pas sur son cœur de
 
 > "Ok super, je vais te présenter ça dans un second appel comme je te disais. En plus là j'ai un rendez-vous juste après. Ce que je te propose, c'est qu'on se re-booke un call demain pour que je te montre exactement comment on transforme ton réseau en ventes pour ton package, sans spam ni forcing. J'ai demain [deux créneaux réels à proposer selon ton agenda]."
 > → On booke le call.
+
+**Si le sujet du frère est resté présent pendant le R1** (proposition confirmée par Yann, 15 septembre) : proposer qu'il soit présent au R2 lui aussi — *"Et ça te dirait que ton frère soit présent aussi sur ce prochain call, vu qu'il pourrait être impliqué dans l'exécution ?"* Ne pas insister s'il ne peut pas venir, ce n'est pas dramatique, mais il faut le proposer plutôt que de ne pas y penser.
 
 *(Note pour le R2, hors scope de cette prep mais à garder en tête : le pitch devra parler de "transformer ton réseau en ventes de ton package", pas en "clients d'accompagnement" — vocabulaire à adapter, on le travaillera au moment du R2.)*
 
