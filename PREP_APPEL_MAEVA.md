@@ -34,8 +34,10 @@ Vous avez déjà une vraie complicité construite en DM (le délire du tréma, l
 
 **Ne jamais sauter cette phrase** — Yann insiste à l'oral : c'est une obligation légale, pas une formule de politesse.
 
-> "OK super ! L'objectif de cet appel, c'est de voir si je peux t'aider, donc je vais te poser des questions. Et à la fin de l'appel, si tu corresponds au type de personne que je peux aider, et que j'ai envie de bosser avec toi, je te présenterai éventuellement mon offre dans un second appel. Est-ce que tu es ok ?" → attendre la réponse
+> "OK super ! Aujourd'hui c'est uniquement un call de qualif : l'objectif, c'est de voir si je peux t'aider, donc je vais te poser des questions. Et à la fin, si tu corresponds au type de personne que je peux aider, et que j'ai vraiment envie de bosser avec toi, je te présenterai mon offre — mais ça, ce sera dans un second appel. Là aujourd'hui, on reste vraiment sur du qualif. C'est ok pour toi ?" → attendre la réponse
 > "Super."
+
+*(Nommer explicitement "call de qualif" — plus décontracté, plus fluide que la version générique de Yann, et ça pose clairement le cadre : pas de pression de vente aujourd'hui.)*
 
 Ne pas sauter ce cadrage même si vous vous connaissez déjà bien — Yann le précise à l'oral : ça sert à prendre le lead de la conversation, pas juste à être poli. Sans ça, c'est elle qui peut mener l'échange.
 

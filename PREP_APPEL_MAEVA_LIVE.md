@@ -16,7 +16,7 @@
 ## 1. CADRAGE
 > "Hello Maëva, tu me vois bien, tu m'entends bien ?"
 > "Notetaker enregistre, récap par mail, ok ?"
-> "Objectif : voir si je peux t'aider, je te pose des questions, si ça matche je te présente mon offre en 2e appel. Ok ?"
+> "Aujourd'hui c'est uniquement un call de qualif : voir si je peux t'aider, je te pose des questions. Si ça matche, je te présente mon offre, mais dans un 2e appel. Là on reste sur du qualif. Ok ?"
 
 *(Callback complicité DM si ça vient naturellement — tréma / les 5 Matthias)*
 
