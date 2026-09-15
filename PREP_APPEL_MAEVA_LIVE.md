@@ -22,18 +22,18 @@
 ## 2. SITUATION
 > "Ton activité MASE tourne bien, CA déjà large. Par contre ta formation, vendue une fois, mais pas de vraie routine pour la vendre en volume. Et c'est pas nouveau pour toi, t'as eu un aperçu avec Julien. Je résume bien ?"
 
-## 3. QUESTIONS (piocher, pas tout poser)
+## 3. QUESTIONS (piocher, pas tout poser — orientées formation, pas générique)
 - Pourquoi t'as pris cet appel ?
 - **Prix de la formation ?**
 - **Frère : toujours le plan ?**
-- CA sur la formation / objectif de régularité
-- Clients viennent d'où / audience LinkedIn
-- Posts → RDV ou juste likes ?
+- Objectif de CA sur la formation (pas le CA global, déjà connu)
+- Audience LinkedIn ?
+- Posts → inscriptions formation ou juste likes ?
 - Vivier réseau inexploité (audit interne, consultants MASE)
 - Julien : les 3 freins réglés aujourd'hui ?
 - Bloquée par : qui contacter / quoi dire / régularité ?
 - Capacité à suivre si ça vend (corriger les exercices) ?
-- 6 mois sans rien de plus → ok ?
+- 6 mois, formation vendue une seule fois → ok ?
 - 1 à 10, pourquoi pas 5 ?
 
 ## 4. DOULEUR

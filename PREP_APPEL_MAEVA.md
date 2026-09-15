@@ -59,42 +59,38 @@ Une seule question fixe gardée (l'autre, "comment tu m'as découvert ?", suppri
 
 La réponse doit confirmer qu'on est bien sur le sujet de sa formation. Si elle part sur autre chose (ex. son activité cœur de métier), recadrer sans forcer. **Le vrai but de cette question (Yann) :** lui faire dire, même implicitement, qu'elle a besoin d'aide — si elle a pris l'appel, c'est qu'il y a une raison derrière. Pas juste une question d'entrée en matière.
 
-**Ensuite, la liste de Yann — ordre d'origine intact, rien de réordonné.** Tu n'es pas obligé de toutes les poser (Yann le dit lui-même), mais la hiérarchie ci-dessous est la sienne, pas une reprioritisation pour Maëva. Regroupée par objectif pour que tu voies ce que chaque bloc cherche à établir :
+**Ensuite, le pattern de Yann — même ordre, mêmes objectifs. Mais on ne pose pas tout mot pour mot : chaque question est réorientée sur sa formation, et on saute ce qui est déjà connu ou hors-sujet (Yann le permet lui-même — "pas besoin de toutes les poser").**
 
-1. **Situer qui elle est** *(déjà connu, à ne pas reposer)*
-   - "Ça fait combien de temps que tu es à ton compte ?"
-   - "Tu fais quoi exactement, et pour qui ?"
+1. **Situer qui elle est** → skip, déjà connu (son activité, son ancienneté, tu la connais).
 
-2. **Chiffrer l'écart entre aujourd'hui et l'objectif**
-   - "Tu fais combien de chiffre par mois, à peu près ? Régulier ou en dents de scie ?" — déjà connu côté cœur de métier, recentrer sur la formation si posée : "sur la formation précisément, ça donne quoi ?"
-   - "Tu aimerais être à combien, et avec quelle régularité ?" — inconnu sur la formation, à demander
+2. **Objectif de CA sur la formation**
+   - "Tu aimerais être à combien en chiffre d'affaires avec la vente de cette formation ?"
+   - *(pas la peine de demander son CA actuel global ou "régulier/dents de scie" — cœur de métier déjà connu, et sur la formation la réponse est évidente : vendue une fois)*
 
-3. **Établir la dépendance à l'inbound/l'algo**
-   - "Quand tu signes un client, il vient d'où la plupart du temps ?" — à redemander côté formation
-   - "Tu as combien d'abonnés / quelle taille d'audience sur LinkedIn ?" — inconnu, à demander (priorité #4)
-   - "Tes posts t'amènent des rendez-vous, ou surtout des likes et des commentaires ?" — à demander pour la formation
-   - "Quand un post floppe, ça se voit sur ton business ?" — probablement pas sur le cœur de métier, à nuancer si posée
+3. **Dépendance à l'inbound, côté formation**
+   - "Tu as combien d'abonnés / quelle taille d'audience LinkedIn ?" — inconnu, à demander (priorité #4)
+   - "Tes posts t'amènent des inscriptions à la formation, ou surtout des likes ?"
 
-4. **Comprendre le rapport à la prospection, passé et blocage**
-   - "Tu prospectes aujourd'hui, ne serait-ce qu'un peu ? Si non, qu'est-ce qui t'a empêché de t'y mettre ?" — en partie connu ("je m'y prends pas")
-   - "Quand tu penses à envoyer un message à un prospect, il se passe quoi dans ta tête ?" — à demander, intéressant vu son passif avec Julien
-   - "Tu as déjà essayé ? Ça a donné quoi, pourquoi tu as arrêté ?" — en partie connu (Julien Guy) : bon moment pour vérifier si les 3 freins de l'époque sont réglés aujourd'hui (priorité #3)
+4. **Rapport à la prospection, passé et blocage**
+   - "Tu prospectes aujourd'hui, ne serait-ce qu'un peu ? Si non, qu'est-ce qui t'a empêché ?" — en partie connu ("je m'y prends pas")
+   - "Quand tu penses à envoyer un message, il se passe quoi dans ta tête ?"
+   - "Tu as déjà essayé (avec Julien) ? Ça a donné quoi, pourquoi t'as arrêté ?" — bon moment pour vérifier si les 3 freins de l'époque sont réglés (priorité #3)
 
-5. **Quantifier le vivier inexploité**
-   - "Dans ton réseau et tes abonnés, combien de prospects potentiels que tu n'exploites pas ?" — à demander (anciens clients d'audit interne, consultants du réseau MASE)
+5. **Vivier inexploité**
+   - "Dans ton réseau et tes abonnés, combien de prospects potentiels pour la formation que tu n'exploites pas ?"
 
-6. **Isoler la nature précise du blocage**
+6. **Nature précise du blocage**
    - "Qu'est-ce qui te bloque le plus : qui contacter, quoi envoyer, ou juste t'y mettre régulièrement ?"
    - "Si t'avais une méthode qui force pas, tu t'y mettrais ?"
 
-7. **Vérifier la capacité à absorber le succès**
-   - "Tu pourrais gérer 3 nouveaux clients le mois prochain si tu les signais ? Et 5 ?" — adapter en "formations vendues" (produit, pas accompagnement 1:1) : peut-elle suivre/corriger derrière si ça vend bien ?
+7. **Capacité à absorber le succès**
+   - "Tu pourrais gérer 3 formations vendues le mois prochain ? Et 5 ?" — peut-elle suivre/corriger derrière si ça vend bien ?
 
-8. **Projeter le coût de l'inaction**
-   - "Qu'est-ce qui se passe si dans 6 mois ton acquisition dépend toujours autant de l'algorithme ?" — adapter : "si dans 6 mois t'as toujours vendu cette formation une seule fois"
+8. **Coût de l'inaction**
+   - "Si dans 6 mois t'as toujours vendu cette formation une seule fois et rien de plus, ça te va ?"
 
 9. **Auto-qualification chiffrée**
-   - "Sur une échelle de 1 à 10, à quel point c'est important de régler ça maintenant ? Pourquoi ce n'est pas un 5 ?" — telle quelle, adaptée à sa formation
+   - "Sur une échelle de 1 à 10, à quel point c'est important de régler ça maintenant ? Pourquoi pas un 5 ?"
 
 **En plus de cette liste — deux informations propres à son cas, pas des questions du script de Yann, à ne pas confondre avec une modification de sa hiérarchie :**
 - **Prix de la formation** : "Elle est à combien ta formation aujourd'hui ?" — sans ça, impossible de savoir si le setting est la bonne stratégie (voir priorité absolue #1).
