@@ -63,15 +63,40 @@ La réponse doit confirmer qu'on est bien sur le sujet du package formation + co
 
 **Ensuite, la liste de Yann — ordre d'origine intact, rien de réordonné.** Tu n'es pas obligé de toutes les poser (Yann le dit lui-même), mais la hiérarchie ci-dessous est la sienne, pas une reprioritisation pour Maëva. Regroupée par objectif pour que tu voies ce que chaque bloc cherche à établir :
 
-1. **Situer qui elle est** (déjà connu, à ne pas reposer) : *"Ça fait combien de temps que tu es à ton compte ? Tu fais quoi exactement, et pour qui ?"*
-2. **Chiffrer l'écart entre aujourd'hui et l'objectif** : *"Tu fais combien de chiffre par mois, à peu près ? Régulier ou en dents de scie ?"* — déjà connu sur son cœur de métier, à recentrer sur le package si posée : "sur le package précisément, ça donne quoi ?". *"Tu aimerais être à combien, et avec quelle régularité ?"* — inconnu sur le package, à demander.
-3. **Établir la dépendance à l'inbound/l'algo** : *"Quand tu signes un client, il vient d'où la plupart du temps ?"* — à redemander côté package (connu côté cœur de métier). *"Tu as combien d'abonnés / quelle taille d'audience sur LinkedIn ?"* — inconnu, à demander (priorité #4 plus haut). *"Tes posts t'amènent des rendez-vous, ou surtout des likes et des commentaires ?"* — à demander pour le package. *"Quand un post floppe, ça se voit sur ton business ?"* — probablement pas sur son cœur de métier, à nuancer si posée.
-4. **Comprendre le rapport à la prospection, passé et blocage** : *"Tu prospectes aujourd'hui, ne serait-ce qu'un peu ? Si non, qu'est-ce qui t'a empêché de t'y mettre ?"* — en partie connu ("je m'y prends pas"). *"Quand tu penses à envoyer un message à un prospect, il se passe quoi dans ta tête ?"* — à demander, intéressant vu son passif avec Julien. *"Tu as déjà essayé ? Ça a donné quoi, pourquoi tu as arrêté ?"* — en partie connu (Julien Guy), bon moment pour vérifier si les 3 freins de l'époque sont réglés aujourd'hui (priorité #3 plus haut).
-5. **Quantifier le vivier inexploité** : *"Dans ton réseau et tes abonnés, combien de prospects potentiels que tu n'exploites pas ?"* — à demander (anciens clients d'audit interne, consultants du réseau MASE).
-6. **Isoler la nature précise du blocage** : *"Qu'est-ce qui te bloque le plus : qui contacter, quoi envoyer, ou juste t'y mettre régulièrement ?"* / *"Si t'avais une méthode qui force pas, tu t'y mettrais ?"* — à demander.
-7. **Vérifier la capacité à absorber le succès** : *"Tu pourrais gérer 3 nouveaux clients le mois prochain si tu les signais ? Et 5 ?"* — à adapter en "packages vendus" (produit, pas accompagnement 1:1) : peut-elle suivre/corriger derrière si ça vend bien ?
-8. **Projeter le coût de l'inaction** : *"Qu'est-ce qui se passe si dans 6 mois ton acquisition dépend toujours autant de l'algorithme ?"* — à adapter : "si dans 6 mois t'as toujours vendu ce package une seule fois."
-9. **Auto-qualification chiffrée** : *"Sur une échelle de 1 à 10, à quel point c'est important de régler ça maintenant ? Pourquoi ce n'est pas un 5 ?"* — à demander telle quelle, adaptée au package.
+1. **Situer qui elle est** *(déjà connu, à ne pas reposer)*
+   - "Ça fait combien de temps que tu es à ton compte ?"
+   - "Tu fais quoi exactement, et pour qui ?"
+
+2. **Chiffrer l'écart entre aujourd'hui et l'objectif**
+   - "Tu fais combien de chiffre par mois, à peu près ? Régulier ou en dents de scie ?" — déjà connu côté cœur de métier, recentrer sur le package si posée : "sur le package précisément, ça donne quoi ?"
+   - "Tu aimerais être à combien, et avec quelle régularité ?" — inconnu sur le package, à demander
+
+3. **Établir la dépendance à l'inbound/l'algo**
+   - "Quand tu signes un client, il vient d'où la plupart du temps ?" — à redemander côté package
+   - "Tu as combien d'abonnés / quelle taille d'audience sur LinkedIn ?" — inconnu, à demander (priorité #4)
+   - "Tes posts t'amènent des rendez-vous, ou surtout des likes et des commentaires ?" — à demander pour le package
+   - "Quand un post floppe, ça se voit sur ton business ?" — probablement pas sur le cœur de métier, à nuancer si posée
+
+4. **Comprendre le rapport à la prospection, passé et blocage**
+   - "Tu prospectes aujourd'hui, ne serait-ce qu'un peu ? Si non, qu'est-ce qui t'a empêché de t'y mettre ?" — en partie connu ("je m'y prends pas")
+   - "Quand tu penses à envoyer un message à un prospect, il se passe quoi dans ta tête ?" — à demander, intéressant vu son passif avec Julien
+   - "Tu as déjà essayé ? Ça a donné quoi, pourquoi tu as arrêté ?" — en partie connu (Julien Guy) : bon moment pour vérifier si les 3 freins de l'époque sont réglés aujourd'hui (priorité #3)
+
+5. **Quantifier le vivier inexploité**
+   - "Dans ton réseau et tes abonnés, combien de prospects potentiels que tu n'exploites pas ?" — à demander (anciens clients d'audit interne, consultants du réseau MASE)
+
+6. **Isoler la nature précise du blocage**
+   - "Qu'est-ce qui te bloque le plus : qui contacter, quoi envoyer, ou juste t'y mettre régulièrement ?"
+   - "Si t'avais une méthode qui force pas, tu t'y mettrais ?"
+
+7. **Vérifier la capacité à absorber le succès**
+   - "Tu pourrais gérer 3 nouveaux clients le mois prochain si tu les signais ? Et 5 ?" — adapter en "packages vendus" (produit, pas accompagnement 1:1) : peut-elle suivre/corriger derrière si ça vend bien ?
+
+8. **Projeter le coût de l'inaction**
+   - "Qu'est-ce qui se passe si dans 6 mois ton acquisition dépend toujours autant de l'algorithme ?" — adapter : "si dans 6 mois t'as toujours vendu ce package une seule fois"
+
+9. **Auto-qualification chiffrée**
+   - "Sur une échelle de 1 à 10, à quel point c'est important de régler ça maintenant ? Pourquoi ce n'est pas un 5 ?" — telle quelle, adaptée au package
 
 **En plus de cette liste — deux informations propres à son cas, pas des questions du script de Yann, à ne pas confondre avec une modification de sa hiérarchie :**
 - **Prix du package** : "Il est à combien ton package aujourd'hui ?" — sans ça, impossible de savoir si le setting est la bonne stratégie (voir priorité absolue #1).
