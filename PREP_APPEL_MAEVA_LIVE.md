@@ -1,15 +1,23 @@
 # MAËVA — R1 — SCRIPT PUR (15/09, 14h)
 
 ## 1. Cadrage
-> "Hello Maëva, tu me vois bien, tu m'entends bien ?"
-> "Ok top. Pour info, mon notetaker record cet appel, tu recevras un récap AI de l'appel par email. C'est ok pour toi ?"
-> "OK super ! Aujourd'hui c'est uniquement un call de qualif : l'objectif, c'est de voir si je peux t'aider, donc je vais te poser des questions. Et à la fin, si tu corresponds au type de personne que je peux aider, et que j'ai vraiment envie de bosser avec toi, je te présenterai mon offre — mais ça, ce sera dans un second appel. Là aujourd'hui, on reste vraiment sur du qualif. C'est ok pour toi ?"
-> "Super."
-> "Ça va être un peu ça : je vais te poser plein de questions, ça va limite être une interview pendant une demi-heure."
+- "Tu me vois bien, tu m'entends bien ?"
+- Notetaker enregistre, récap par mail — "c'est ok pour toi ?"
+- Aujourd'hui, uniquement un call de qualif
+- Objectif : voir si je peux t'aider
+- Je vais te poser des questions
+- Si ça matche → je présente mon offre, mais au 2e appel
+- "Aujourd'hui on reste sur du qualif, c'est ok pour toi ?"
+- "Ça va être une interview, plein de questions, une demi-heure"
 
 ## 2. Situation
-> "Si je résume : ton activité MASE, accompagnement et audits, elle tourne bien, t'as même déjà large ton CA de l'année là-dessus, aucun souci de ce côté. Par contre t'as ta formation MASE — avec la communauté dedans — que t'as déjà vendue une fois, donc tu sais que ça se vend. Et c'est pas un terrain totalement inconnu pour toi, t'as déjà eu un aperçu de la prospection avec Julien à l'époque. Mais sur cette formation-là précisément, t'as pas encore de vraie routine installée pour la vendre en volume."
-> "Est-ce que je résume bien ta situation ?"
+- Ton MASE (accompagnement + audits) tourne bien
+- CA déjà large cette année, aucun souci de ce côté
+- Ta formation (communauté dedans) : déjà vendue une fois
+- Donc tu sais que ça se vend
+- Pas un terrain inconnu : aperçu avec Julien
+- Mais sur cette formation précisément : pas de vraie routine pour la vendre en volume
+- "Je résume bien ta situation ?"
 
 ## 3. Questions
 - "Dis-moi, pour quelle raison as-tu pris cet appel ?"
@@ -30,27 +38,40 @@
 - "Tu me disais vouloir que ton frère s'occupe du setting, c'est toujours le plan ?"
 
 ## 4. Objections (si elles sortent)
-- "Ok, mais du coup si tu veux déléguer à ton frère, j'imagine que c'est surtout le temps qui te manque pour l'accompagner là-dessus, pas la compétence ?"
+- "Si tu veux déléguer à ton frère, j'imagine que c'est surtout le temps qui te manque, pas la compétence ?"
 - "T'as déjà l'expérience avec Julien — mais si c'était juste une question de compétence, tu l'aurais déjà fait, non ?"
 - "Ça va me coincer."
 - "Pourquoi t'as pris cet appel si ton frère peut le faire ?"
 - "C'est pas ton audit, c'est ta formation, le nouveau truc."
 
 ## 5. Douleur
-> "Donc tu prospectes pas sur les gens qui s'intéressent déjà à ton contenu ? Tu laisses passer un paquet de thune, en fait."
-> "Ok, ça, c'est exactement ce qu'on débloque : un système pour vendre ta formation sans avoir l'impression de forcer, et un cadre pour que tu t'y tiennes vraiment cette fois."
-> "Mon rôle, c'est de t'aider à faire plus via un nouveau canal, les DM. C'est tout."
-> "T'as pas besoin d'un meilleur produit, t'en as déjà un qui se vend. Tu dois juste arrêter de laisser le hasard décider qui l'achète."
+- "Tu prospectes pas sur les gens qui s'intéressent à ton contenu ?"
+- "Tu laisses passer un paquet de thune."
+- "C'est exactement ce qu'on débloque"
+- Un système pour vendre ta formation sans forcer
+- Un cadre pour t'y tenir cette fois
+- "Mon rôle : un nouveau canal, les DM, c'est tout."
+- "T'as déjà un produit qui vend."
+- "Arrête de laisser le hasard décider qui l'achète."
 
 ## 6. Permission de vendre
-> "Ok super, j'ai toutes les infos dont j'ai besoin. Tu corresponds PARFAITEMENT au type de personnes que j'accompagne. Est-ce que tu voudrais que je te présente mon offre ?"
+- "J'ai toutes les infos."
+- "Tu corresponds PARFAITEMENT au type de personnes que j'accompagne."
+- "Est-ce que tu voudrais que je te présente mon offre ?"
 
 ## 7. Transition R2
-> "Ok super, je vais te présenter ça dans un second appel comme je te disais. En plus là j'ai un rendez-vous juste après. Ce que je te propose, c'est qu'on se re-booke un call demain pour que je te montre exactement comment on transforme ton réseau en ventes pour ta formation, sans spam ni forcing. J'ai demain [deux créneaux]."
-> "Et ça te dirait que ton frère soit présent aussi sur ce prochain call, vu qu'il pourrait être impliqué dans l'exécution ?"
+- 2e appel pour te présenter ça
+- J'ai un rdv juste après
+- "On rebooke demain ?" — [2 créneaux]
+- "Ça te dirait que ton frère soit présent aussi ?"
 
 ## 8. Confirmation
-> "Ok top. Préviens-moi surtout si t'as un imprévu…"
+- "Préviens-moi surtout si t'as un imprévu…"
 
 ## 9. Rareté
-> "Pour info, je ne mets pas de pression. Si on n'avance pas ensemble, c'est parfaitement OK. Je te préviens juste : je bosse en individuel, en 1:1, donc je ne prends qu'un nombre limité de personnes en même temps. Je prends surtout ceux qui sont vraiment prêts à s'y mettre. Et je crois savoir que c'est ton cas, corrige-moi si je me trompe. Je fonctionne en premier arrivé, premier servi. Ça ne veut pas dire que si tu me dis non on ne bossera jamais ensemble, juste que ce ne sera peut-être pas tout de suite. Je préfère que tu aies toutes les cartes en main demain."
+- Pas de pression, c'est ok si on avance pas ensemble
+- Je bosse en 1:1, nombre limité
+- Je prends ceux qui sont prêts à s'y mettre — "et je crois que c'est ton cas"
+- Premier arrivé, premier servi
+- Si tu dis non, c'est pas fermé pour toujours, juste pas maintenant
+- Je préfère que t'aies toutes les cartes en main demain
