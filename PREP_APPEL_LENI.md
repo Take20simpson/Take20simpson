@@ -62,16 +62,19 @@ Le cadrage sert à prendre le lead de la conversation, pas juste à être poli �
 - Preuves actuelles : ConvoyDoc, Clean Cars, chatbot INSEP — "léger", il le sait
 - 0 client payant en dev freelance à ce jour, un call prospect vendredi (pas encore closé)
 
-**À poser en call (pas encore répondu) :**
+**À poser en call, dans cet ordre — les deux premières sont fixes et ne doivent jamais être sautées (`STRATEGIE_YANN.md`, "questions de qualification — les deux premières, fixes") :**
 
-1. **Comment il a obtenu son call de vendredi** → "Ça vient d'où, ce call de vendredi pour le SaaS ? Réseau, LinkedIn, bouche-à-oreille ?" — révèle son canal réel actuel, sans qu'il l'ait explicité en DM.
-2. **Réalisme du "80%"** 🎯 → "Concrètement, sur une semaine type — cours comprises — ça représente combien d'heures, ce 80% ? T'as dit que tu bossais tes projets même en cours, mais entre les devoirs et le reste, tu tiens ce rythme comment ?"
-3. **Vivier réel** → "En dehors de LinkedIn, t'as un réseau à toi — école, autres devs, anciens contacts — que tu pourrais activer pour trouver des clients ?"
-4. **Objectif chiffré** → "T'aimerais signer combien de clients par mois, dans l'idéal ? Et à quel prix moyen, une mission ?"
-5. **Ce qu'il a déjà tenté pour prospecter** → "Avant notre échange, t'avais déjà commencé à prospecter, ou c'est vraiment le tout début ?" (rappel : il évoquait vouloir faire "un site avec un Calendly" — déjà déconseillé en DM, ne pas y revenir sauf s'il le remet lui-même sur la table)
-6. **Coût de l'inaction** → "Si dans 6 mois t'as toujours pas de client payant sur cette activité, c'est grave ou pas grave pour toi, vu que t'as les études et ConvoyDoc à côté ?"
-7. **Auto-qualification chiffrée** → "Sur une échelle de 1 à 10, à quel point c'est important pour toi de régler ça maintenant plutôt que dans 6 mois ? Pourquoi pas un 5 ?"
-8. **Budget** 🎯 → "Tu me disais moins de 500€ en DM. Ça, ça représente quoi pour toi concrètement — c'est ce que tu peux mettre là tout de suite, ou c'est vraiment ton plafond, point ?"
+1. **"Comment tu m'as découvert ?"** — probablement rapide vu votre historique de connexion déjà connu (acceptée "sans regarder", cf. banter du début), mais à poser quand même, ne serait-ce que pour la forme et transitionner en douceur.
+2. **"Dis-moi, pour quelle raison as-tu pris cet appel ?"** 🎯 — question filtre, ne jamais sauter. Le but n'est pas juste protocolaire : c'est lui faire dire, même implicitement, qu'il a besoin d'aide (s'il a pris l'appel, c'est qu'il y a une raison). Laisser parler, puis approfondir sans couper.
+3. **Comprendre concrètement ce qu'il fait et pour qui, avant de parler chiffres d'objectif** 🎯 → "Concrètement, ton activité de dev freelance, tu fais quoi pour tes clients ? Une mission type, ça ressemble à quoi — un site, une appli, un outil interne, autre chose ? Et c'est pour quel genre de boîte ?" puis "Une mission comme ça, tu la vends à quel prix en général ?" — indispensable pour comprendre réellement son offre avant d'aller plus loin, pas encore clair à ce stade (Clean Cars et l'INSEP donnent des indices mais pas une vue d'ensemble).
+4. **Réalisme du "80%"** 🎯 → "Concrètement, sur une semaine type — cours comprises — ça représente combien d'heures, ce 80% ? T'as dit que tu bossais tes projets même en cours, mais entre les devoirs et le reste, tu tiens ce rythme comment ?"
+5. **Objectif chiffré**, maintenant que le prix moyen d'une mission est connu → "T'aimerais signer combien de missions comme ça par mois, dans l'idéal ?"
+6. **Ce qu'il a déjà tenté pour prospecter** → "Avant notre échange, t'avais déjà commencé à prospecter, ou c'est vraiment le tout début ?" (rappel : il évoquait vouloir faire "un site avec un Calendly" — déjà déconseillé en DM, ne pas y revenir sauf s'il le remet lui-même sur la table)
+7. **Coût de l'inaction** → "Si dans 6 mois t'as toujours pas de client payant sur cette activité, c'est grave ou pas grave pour toi, vu que t'as les études et ConvoyDoc à côté ?"
+8. **Auto-qualification chiffrée** → "Sur une échelle de 1 à 10, à quel point c'est important pour toi de régler ça maintenant plutôt que dans 6 mois ? Pourquoi pas un 5 ?"
+9. **Budget** 🎯 → "Tu me disais moins de 500€ en DM. Ça, ça représente quoi pour toi concrètement — c'est ce que tu peux mettre là tout de suite, ou c'est vraiment ton plafond, point ?"
+
+*(Retiré : une question sur le "réseau école/autres devs" présente dans une version précédente de cette prep — non pertinente, retirée sur retour direct de Matthias le 16 septembre.)*
 
 ### 4. Framework douleur — adapté (pas le Lucas classique)
 

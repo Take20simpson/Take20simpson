@@ -25,12 +25,13 @@
 
 ---
 
-## 3. Questions
+## 3. Questions (dans cet ordre — les 2 premières sont fixes, jamais sautées)
 - Déjà su (confirmer vite, pas reposer à froid) : 80% du temps déclaré, déter forte, budget <500€, preuves légères (ConvoyDoc/Clean Cars/INSEP), 0 client payant, call vendredi pas closé
-- "Ton call de vendredi, ça vient d'où ? Réseau, LinkedIn, bouche-à-oreille ?"
+- "Comment tu m'as découvert ?"
+- 🎯 **"Dis-moi, pour quelle raison as-tu pris cet appel ?"** → laisser parler, approfondir
+- 🎯 **"Concrètement, ton activité de dev freelance, tu fais quoi pour tes clients ? Une mission type, ça ressemble à quoi ? Pour quel genre de boîte ?" puis "Ça se vend à quel prix, une mission ?"** — comprendre l'offre avant tout le reste
 - 🎯 **"Concrètement sur une semaine type, cours comprises, ton 80% ça fait combien d'heures réellement ?"**
-- "T'as un réseau à toi — école, autres devs — à activer en dehors de LinkedIn ?"
-- "T'aimerais signer combien de clients par mois ? À quel prix moyen la mission ?"
+- "T'aimerais signer combien de missions comme ça par mois ?" (maintenant que le prix moyen est connu)
 - "Avant notre échange, t'avais déjà commencé à prospecter, ou vraiment le tout début ?"
 - "Si dans 6 mois t'as toujours pas de client payant là-dessus, c'est grave ou pas grave, vu les études + ConvoyDoc ?"
 - "Sur 1 à 10, à quel point c'est important de régler ça maintenant ? Pourquoi pas un 5 ?"
