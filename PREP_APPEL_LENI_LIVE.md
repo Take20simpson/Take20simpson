@@ -33,10 +33,8 @@
 
 ---
 
-## 3. Questions (dans cet ordre — les 2 premières sont fixes, jamais sautées)
-- Déjà su (confirmer vite, pas reposer à froid) : 80% du temps déclaré, déter forte, budget <500€, preuves légères (ConvoyDoc/Clean Cars/INSEP), 0 client payant, call vendredi pas closé
-- "Comment tu m'as découvert ?"
-- 🎯 **"Dis-moi, pour quelle raison as-tu pris cet appel ?"** → laisser parler, approfondir
+## 3. Questions (dans cet ordre)
+- 🎯 **"Dis-moi, pour quelle raison as-tu pris cet appel ?"** → première question, laisser parler, approfondir
 - 🎯 **"Concrètement, ton activité de dev freelance, tu fais quoi pour tes clients ? Une mission type, ça ressemble à quoi ? Pour quel genre de boîte ?" puis "Ça se vend à quel prix, une mission ?"** — comprendre l'offre avant tout le reste
 - 🎯 **"Concrètement sur une semaine type, cours comprises, ton 80% ça fait combien d'heures réellement ?"**
 - "T'aimerais signer combien de missions comme ça par mois ?" (maintenant que le prix moyen est connu)
