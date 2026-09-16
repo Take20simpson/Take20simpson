@@ -100,7 +100,14 @@ Preuves :
 
 ## Patterns invalidés / pièges (ce qui n'a pas marché malgré l'attente, avec preuve)
 
-*(vide — se remplit quand Matthias colle un post qu'il pensait bon et qui a flop, avec l'analyse de ce qui a raté)*
+> **Rappel de Matthias (16/09/2026), à respecter à chaque entrée de cette section :** une perf plus faible ne veut jamais dire "ce thème/cette mécanique ne marche pas" en général. Ne jamais exclure une thématique ou déclarer une mécanique rédhibitoire sur la base d'un seul post. Les entrées ci-dessous formulent des hypothèses d'exécution prudentes, jamais des interdits.
+
+### Pivot par jeu de mots homophone (accroche "menstruelles" → "mensuelles") — hypothèse prudente sur l'exécution, pas sur le thème
+Statut : Hypothèse (1 preuve, stats non communiquées à ce stade)
+Pourquoi ça semblait devoir marcher : Même famille que "grief universel + escalade absurde" (voir Patterns confirmés) — partir d'un sujet improbable/provocant en misdirection (un homme qui parle de règles) pour capter l'attention par curiosité, puis pivoter vers le vrai sujet business. Le corps du post est solide indépendamment de l'accroche : conseil Product Aware concret et actionnable (aller chercher les prospects qualifiés dans les likes/commentaires de ses posts qui performent), chiffre précis (18 000 impressions, 2 appels ultra qualifiés), CTA à faible friction (commentaire, pas DM).
+Mécanisme réel de l'échec (hypothèse, pas une certitude) : Contrairement à l'escalade de l'apôtre (jamais besoin de décoder quoi que ce soit, juste suivre l'absurde), ce pivot repose sur un rapprochement orthographique fin entre "menstruelles" et "mensuelles" — le lecteur doit capter ce jeu de mots en lisant vite, ce qui va à l'encontre du principe "zéro effort mental" déjà posé (`SKILL_CONTENU_LINKEDIN.md`). Deuxième piste, non tranchée : l'accroche s'adresse explicitement "aux filles" sur un sujet éloigné du public visé par le message business qui suit — décalage possible entre qui s'arrête sur l'accroche et qui reste jusqu'au message réel. **D'autres causes non observables depuis le texte seul (timing de publication, concurrence d'autres posts cette semaine-là, portée algorithmique ce jour précis) restent tout aussi possibles et ne sont pas exclues.**
+Preuves :
+- 16/09/2026 — post "douleurs menstruelles / mensuelles", signalé par Matthias comme moins performant que les 4 posts précédents. Stats à ajouter si Matthias les communique.
 
 Format d'une entrée :
 ```
