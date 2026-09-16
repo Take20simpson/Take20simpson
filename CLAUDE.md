@@ -190,17 +190,23 @@ Note : le Module 1 (Posts) de SKILL_CONTENU_LINKEDIN.md reste hors périmètre t
 [Post à commenter, avec nom + headline de l'auteur, collé ci-dessous]
 ```
 
-**Patterns Posts — analyse de performance (créé le 16 septembre 2026) :**
+**Patterns Posts — analyse de performance et itération (mis à jour le 16 septembre 2026, après le premier lot réel de posts) :**
 ```
-On continue l'analyse de performance de mes posts LinkedIn, table rase depuis le 16 septembre 2026.
+On continue le travail sur mes posts LinkedIn, pôle Patterns Posts — table rase depuis le 16 septembre 2026.
 
-LECTURE OBLIGATOIRE en entier : PATTERNS_POSTS.md. CLAUDE.md déjà chargé. Ne va jamais chercher de données dans JOURNAL.md ou ARCHIVE_CONTENU.md pour ce pôle — uniquement ce que je colle moi-même ici.
+LECTURE OBLIGATOIRE en entier : PATTERNS_POSTS.md. CLAUDE.md déjà chargé. Pour du feedback d'exécution (voix, style), lis aussi la section "Ton & voix" de SKILL_CONTENU_LINKEDIN.md — le reste de ce document (catalogue d'angles, pipeline 8 accroches/3 approches) reste hors périmètre sauf si je te demande explicitement de rédiger un post depuis zéro. Ne va jamais chercher de données dans JOURNAL.md ou ARCHIVE_CONTENU.md pour ce pôle — uniquement ce que je t'apporte moi-même ici.
 
-Je te colle un post publié avec mon verdict (ça a marché / ça n'a pas marché alors que je pensais que oui / flop attendu mais je veux comprendre pourquoi / surprise positive) et les stats si je les ai.
+Trois façons dont je peux t'utiliser dans cette conversation, à distinguer selon ce que je t'apporte :
 
-Réflexes obligatoires à chaque post collé, sans que je le redemande : analyse le mécanisme (le POURQUOI, pas le sujet) ; consigne l'entrée dans PATTERNS_POSTS.md (patterns confirmés / invalidés / tensions selon le cas) ; si ça confirme un pattern déjà noté, ajoute la preuve plutôt que dupliquer l'entrée ; commit + push sur la branche de session en cours puis vérifie/synchronise la branche par défaut.
+1. **Je colle un post déjà publié avec un verdict** (ça a marché / ça n'a pas marché alors que je pensais que oui / flop attendu mais je veux comprendre pourquoi / surprise positive) et les stats si je les ai. Analyse le mécanisme (le POURQUOI, jamais juste le sujet), consigne l'entrée dans PATTERNS_POSTS.md (patterns confirmés / invalidés / tensions selon le cas), ajoute la preuve à un pattern existant plutôt que dupliquer une entrée si ça le confirme. Si je t'apporte un flop : n'en déduis jamais qu'une thématique ou une mécanique ne marche pas en général sur la base d'un seul post — formule une hypothèse d'exécution prudente, jamais une exclusion (voir le rappel en tête de la section "Patterns invalidés" du document).
 
-[Post publié, verdict, stats si dispo, collés ci-dessous]
+2. **Je t'apporte un sujet brut** (idée en vrac, vocal retranscrit, thématique) sans post rédigé. Je ne te demande PAS de rédiger le post à ma place par défaut (parfois si, je le dirai explicitement) — je veux que tu t'appuies sur les patterns confirmés/hypothèses de PATTERNS_POSTS.md pour me dire concrètement comment en tirer le plein potentiel : ce que l'accroche doit dire précisément, comment structurer la suite, quel angle va faire réagir sur CE sujet précis. Direction tactique, pas un post clé en main.
+
+3. **Je te colle un brouillon déjà écrit** (par moi, publié ou pas encore) et je veux ton avis honnête. Ne me fais jamais plaisir : dis-moi franchement ce qui va et ce qui ne va pas, en t'appuyant sur les patterns + la section Ton & Voix. Si je te dis que je préfère garder une formulation à moi, aligne-toi sans insister une deuxième fois (sauf point stratégique majeur, voir Partie 1).
+
+Réflexe obligatoire à chaque échange qui fait ressortir un pattern, une nuance ou une correction, sans que je le redemande : mets à jour PATTERNS_POSTS.md (nouvelle entrée, preuve ajoutée à un pattern existant, note d'exécution, etc.), puis commit + push sur la branche de session en cours, puis vérifie/synchronise la branche par défaut (CLAUDE.md Partie 4). Si je mentionne un résultat business au-delà des stats affichées (prospects trouvés en commentaires, etc.), capture-le aussi (voir section "Au-delà des stats de vanité" du document).
+
+[Ce que j'apporte aujourd'hui — post publié + verdict, sujet brut, ou brouillon à critiquer — collé ci-dessous]
 ```
 
 **Stratégie business (Yann) :**
