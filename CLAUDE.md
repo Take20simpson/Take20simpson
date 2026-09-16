@@ -121,7 +121,7 @@ Auto-entrepreneur, paiement par virement bancaire. Pas de site web, pas de Calen
 | — | **Hub** | `CLAUDE.md` (ce fichier) | Identité + snapshot business + carte |
 | 1 | **Stratégie (Yann)** | `STRATEGIE_YANN.md` | Doctrine business — offre, avatar ICP "Lucas", pricing, méthode de diagnostic offre/cible — strictement issue de l'accompagnement Yann Perono (séances, vocaux, consignes directes). Rien d'autre n'y entre. |
 | 2 | **Setting (prospection DM)** | `SKILL_SETTING_DM.md` + `TEASING_METHODE_DM.md` (ancien moteur de décision IA — **statut en révision**, non tranché) + `METHODE_SETTING_YANN.md` (mécanique du setting phase par phase, méthode Yann Perono en 7 phases — **document de référence actif**) | Les deux premiers généraient la réponse DM à la place de Matthias (usage abandonné le 31 août, Matthias veut maîtriser le setting lui-même). Le troisième est le document vivant : pas un moteur IA, pas des templates, construit progressivement à partir des vrais cas de Matthias, jamais d'information inventée. Compagnon de `STRATEGIE_YANN.md` (même source : Yann). |
-| 3 | **Contenu LinkedIn** | `SKILL_CONTENU_LINKEDIN.md` (posts + commentaires classique) + `SKILL_COMMENTAIRES_PUNCH.md` (commentaires punch, dédié, usage actif) | Génération de posts (hors périmètre actuellement, voir note dans le document), commentaires classiques et commentaires punch. |
+| 3 | **Contenu LinkedIn** | `SKILL_CONTENU_LINKEDIN.md` (posts + commentaires classique) + `SKILL_COMMENTAIRES_PUNCH.md` (commentaires punch, dédié, usage actif) + `PATTERNS_POSTS.md` (analyse de performance des posts, usage actif — voir ci-dessous) | Génération de posts (hors périmètre actuellement pour la génération elle-même, voir note dans `SKILL_CONTENU_LINKEDIN.md`), commentaires classiques et commentaires punch. `PATTERNS_POSTS.md` est un document distinct et actif : Matthias y apporte les posts qui ont marché ou flop pour que Claude en extraie les patterns réutilisables — refonte du 16 septembre 2026, table rase sur l'ancienne analyse de performance (voir historique dans le document). |
 | 4 | **Journaux** | `JOURNAL.md` (résumé) + `ARCHIVE_CONVERSATIONS.md` + `ARCHIVE_CONTENU.md` (bruts) | `JOURNAL.md` = mémoire compacte (statut, patterns, prochaine étape) par prospect/contenu. Les deux `ARCHIVE_*` = matière brute complète et jamais résumée (transcripts DM nettoyés, textes de posts, transcriptions vidéo) — alimentée automatiquement à chaque conversation/post/vidéo traité via `SKILL_SETTING_DM.md` ou `SKILL_CONTENU_LINKEDIN.md`, sans que Matthias ait à le redemander. Sert de matière première au Pôle 1. |
 
 ### Règle d'exclusion (stricte)
@@ -190,6 +190,19 @@ Note : le Module 1 (Posts) de SKILL_CONTENU_LINKEDIN.md reste hors périmètre t
 [Post à commenter, avec nom + headline de l'auteur, collé ci-dessous]
 ```
 
+**Patterns Posts — analyse de performance (créé le 16 septembre 2026) :**
+```
+On continue l'analyse de performance de mes posts LinkedIn, table rase depuis le 16 septembre 2026.
+
+LECTURE OBLIGATOIRE en entier : PATTERNS_POSTS.md. CLAUDE.md déjà chargé. Ne va jamais chercher de données dans JOURNAL.md ou ARCHIVE_CONTENU.md pour ce pôle — uniquement ce que je colle moi-même ici.
+
+Je te colle un post publié avec mon verdict (ça a marché / ça n'a pas marché alors que je pensais que oui / flop attendu mais je veux comprendre pourquoi / surprise positive) et les stats si je les ai.
+
+Réflexes obligatoires à chaque post collé, sans que je le redemande : analyse le mécanisme (le POURQUOI, pas le sujet) ; consigne l'entrée dans PATTERNS_POSTS.md (patterns confirmés / invalidés / tensions selon le cas) ; si ça confirme un pattern déjà noté, ajoute la preuve plutôt que dupliquer l'entrée ; commit + push sur la branche de session en cours puis vérifie/synchronise la branche par défaut.
+
+[Post publié, verdict, stats si dispo, collés ci-dessous]
+```
+
 **Stratégie business (Yann) :**
 ```
 On continue le travail sur la stratégie business de Matthias, pôle Stratégie — remastérisé le 1er septembre 2026, strictement issu de l'accompagnement Yann Perono.
@@ -221,7 +234,8 @@ Des qu'un echange fait apparaitre une nuance, une confirmation, une correction o
 - Doctrine business issue de Yann (offre, avatar, pricing, seances) → `STRATEGIE_YANN.md` — **rien d'autre n'y entre, jamais de source externe a Yann**
 - Mecanique du setting phase par phase (methode Yann, 7 phases) → `METHODE_SETTING_YANN.md`
 - Mecanique de reponse DM en temps reel (ancien moteur, statut en revision) → `SKILL_SETTING_DM.md` (ou `TEASING_METHODE_DM.md`)
-- Posts, commentaires classique ou punch → `SKILL_CONTENU_LINKEDIN.md`
+- Posts, commentaires classique ou punch (mécanique de génération, catalogue, voix) → `SKILL_CONTENU_LINKEDIN.md`
+- Pattern de performance sur un post (ce qui a marché ou flop, avec preuve) → `PATTERNS_POSTS.md`, jamais dans `JOURNAL.md`
 - Etat d'un prospect ou d'un contenu produit → `JOURNAL.md`
 
 **Apres chaque edition :** commit + push sur la branche de session en cours, avec un message de commit qui decrit la nuance capturee.
@@ -242,3 +256,4 @@ Des qu'un echange fait apparaitre une nuance, une confirmation, une correction o
 *Mise à jour du 30 août 2026 : pivot complet de l'Offre 1 et du Cible/ICP suite au travail avec Yann Perono du 29 août (offre "Transforme ton audience LinkedIn en clients", avatar "Lucas"). Détail complet dans `SKILL_STRATEGIE.md` Partie 2 — référence canonique, ce hub reste volontairement compressé. Cascade sur `SKILL_SETTING_DM.md` le même jour (Partie 7, Règle 18, nouvelle Règle 19 anti-vente). Deux points signalés comme tension le même jour ont été tranchés par Matthias dans la foulée : le closing reste secondaire/à la marge (pas exclu, pas central) ; le format 1:1 illimité + WhatsApp 24/7 est calibré au cas par cas par Matthias, pas un engagement uniforme.*
 *Mise à jour du 31 août 2026 : Matthias abandonne l'usage d'une IA comme moteur de réponse setting DM — il veut maîtriser le setting lui-même pour pouvoir l'enseigner à ses clients. Nouveau document `METHODE_SETTING_YANN.md` (Pôle 2) créé pour documenter la méthode Yann Perono en 7 phases, phase par phase, à partir d'une étude de cas réelle. Statut de `SKILL_SETTING_DM.md`/`TEASING_METHODE_DM.md` en révision, non tranché.*
 *Remastérisation du 1er septembre 2026 : Matthias tranche que toute la doctrine business ne se base plus que sur l'accompagnement Yann Perono, personne d'autre. `SKILL_STRATEGIE.md` (doctrine générale accumulée avant Yann — croyance centrale, 8 principes, closing méthodologie générique, KPIs, benchmarks concurrents) est supprimé. Le contenu réellement issu de Yann (offre "Transforme ton audience LinkedIn en clients", avatar "Lucas", pricing, séance 1, méthode de diagnostic ICP/offre, anti-vente) a été extrait dans `STRATEGIE_YANN.md`, nouveau Pôle 1. La posture de Claude (collaborateur, franchise 50/50, red flags) est conservée directement dans ce hub, Partie 1, car ce sont des instructions de comportement et non de la doctrine business. Toutes les références croisées vers `SKILL_STRATEGIE.md` dans ce fichier ont été mises à jour vers `STRATEGIE_YANN.md`.*
+*Mise à jour du 16 septembre 2026 : table rase sur l'analyse de performance des posts (Pôle 3). Nouveau document `PATTERNS_POSTS.md` — Matthias apporte lui-même les posts qui ont marché ou flop, Claude en extrait le mécanisme, jamais l'inverse. L'ancien corpus (57 posts + 19 vidéos analysés le 22 juillet 2026, section "Patterns de performance" de `SKILL_CONTENU_LINKEDIN.md`) et le tracking automatique via `JOURNAL.md` sont retirés pour les posts (texte conservé en historique git) — décision explicite de Matthias pour ne pas polluer la nouvelle itération avec un contexte différent (ancien ICP, avant les posts de visibilité demandés par Yann). Catalogue d'angles, pipeline de génération et règles Ton & Voix inchangés. Contexte : Yann n'a pas encore donné de doctrine de contenu précise, sa seule consigne à ce jour est de faire des posts à visibilité.*

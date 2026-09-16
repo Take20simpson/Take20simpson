@@ -18,16 +18,18 @@
 - Dernière mise à jour : [date]
 ```
 
-**Journal Contenu — une entrée par post/série de commentaires :**
+**Journal Contenu — une entrée par vidéo (les commentaires n'y sont jamais archivés, voir `CLAUDE.md` Partie 3) :**
 ```
 ### [Date] — [thème/angle]
-- Format : post / commentaire classique / commentaire punch
+- Format : vidéo
 - Accroche : "[citation exacte du hook/de la première ligne]"
 - Mécanisme : [le ressort de copywriting/storytelling utilisé — pattern interrupt, vulnérabilité, contrarian take, chiffre choc, clivant, question/curiosité, etc. — et une lecture de pourquoi ça explique (ou pas) la performance]
 - Stats : [réactions, commentaires, impressions]
-- Notes : [comparaison avec d'autres posts si pertinent, ce qui reste à tester]
+- Notes : [comparaison avec d'autres vidéos si pertinent, ce qui reste à tester]
 ```
 *(Règle enrichie le 22 juillet 2026 — Matthias veut l'accroche citée + une analyse du mécanisme derrière chaque post, pas juste un angle en une ligne. Toujours pas de texte intégral ici, c'est le rôle d'`ARCHIVE_CONTENU.md`.)*
+
+**Retrait pour les posts (16 septembre 2026) :** ce Journal Contenu ne couvre plus les posts (texte écrit) — Matthias a tranché pour repartir de zéro sur l'analyse de performance des posts, sans reprendre l'ancien tracking. Voir `PATTERNS_POSTS.md`, nouveau document dédié, et `SKILL_CONTENU_LINKEDIN.md` (Module 1, Étape 0) pour le détail. Les entrées déjà existantes ci-dessous qui concernent des posts restent en place comme archive passive (consultable en historique git au besoin), mais ne sont plus mises à jour ni consultées automatiquement. Le tracking vidéo, lui, continue normalement selon le format ci-dessus.
 
 Une entrée se met à jour en place (pas de duplication) quand une conversation avance — elle ne s'archive/se ferme que quand le fil est clos (closing, ghost définitif, disqualification).
 
