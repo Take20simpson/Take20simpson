@@ -12,16 +12,24 @@
 ## 1. Cadrage
 > "Hello Léni, tu me vois bien, tu m'entends bien ?"
 > "Ok top. Pour info, mon notetaker record cet appel, tu recevras un récap AI par email. C'est ok pour toi ?"
-> "OK super ! Aujourd'hui c'est uniquement un call de qualif : voir si je peux t'aider. Si tu corresponds et que j'ai envie de bosser avec toi, je te présenterai mon offre dans un second appel. Là on reste sur du qualif. C'est ok ?"
+- Aujourd'hui c'est uniquement un call de qualif : voir si je peux t'aider
+- Si tu corresponds et que j'ai envie de bosser avec toi, je te présenterai mon offre
+- Ça, ce sera dans un second appel — pas aujourd'hui
+- Là on reste vraiment sur du qualif
+- "C'est ok pour toi ?"
 > "Super."
 > "Ça va être un peu ça : je vais te poser plein de questions, ça va limite être une interview pendant une demi-heure."
 
 ---
 
 ## 2. Situation (2 activités à bien séparer)
-> "Si je résume : ConvoyDoc, ton app, tu veux que ça tourne en side project tout seul — pas le sujet aujourd'hui.
-> Le vrai sujet : ton activité de dev freelance, SaaS/apps/sites sur-mesure pour des boîtes. T'as des réalisations (Clean Cars, chatbot INSEP) mais pas encore de client payant là-dessus. Un call vendredi pour un SaaS, rien de signé. Et pas encore de présence LinkedIn lancée.
-> Est-ce que je résume bien ?"
+- ConvoyDoc, ton app : tu veux que ça tourne en side project tout seul — pas le sujet aujourd'hui
+- Le vrai sujet : ton activité de dev freelance, SaaS/apps/sites sur-mesure pour des boîtes
+- T'as des réalisations (Clean Cars, chatbot INSEP)
+- Mais pas encore de client payant là-dessus
+- Un call vendredi pour un SaaS, rien de signé
+- Pas encore de présence LinkedIn lancée
+- "Est-ce que je résume bien ?"
 
 ---
 

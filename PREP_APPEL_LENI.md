@@ -37,8 +37,13 @@ Vous avez déjà une vraie complicité en DM — le délire sur Vaya, la blague 
 
 **Ne jamais sauter cette phrase** — obligation légale, pas une formule de politesse (insistance orale de Yann).
 
-> "OK super ! Aujourd'hui c'est uniquement un call de qualif : l'objectif, c'est de voir si je peux t'aider, donc je vais te poser des questions. Et à la fin, si tu corresponds au type de personne que je peux aider, et que j'ai vraiment envie de bosser avec toi, je te présenterai mon offre — mais ça, ce sera dans un second appel. Là aujourd'hui, on reste vraiment sur du qualif. C'est ok pour toi ?" → attendre la réponse
-> "Super."
+**Cadre du call — une idée par bullet, à enchaîner à la suite à l'oral, mais à garder découpé mentalement :**
+- Aujourd'hui c'est uniquement un call de qualif : l'objectif, c'est de voir si je peux t'aider — donc je vais te poser des questions.
+- Si tu corresponds au type de personne que je peux aider, et que j'ai vraiment envie de bosser avec toi, je te présenterai mon offre.
+- Ça, ce sera dans un second appel — pas aujourd'hui.
+- Là aujourd'hui, on reste vraiment sur du qualif.
+- "C'est ok pour toi ?" → attendre la réponse
+- "Super."
 
 Le cadrage sert à prendre le lead de la conversation, pas juste à être poli — à ne jamais sauter même avec quelqu'un d'aussi à l'aise et bavard que Léni (justement parce qu'il est à l'aise, il peut facilement prendre le lead si tu ne poses pas le cadre).
 
@@ -47,9 +52,14 @@ Le cadrage sert à prendre le lead de la conversation, pas juste à être poli �
 
 ### 2. Rappel de la situation — personnalisé, avec la distinction des deux activités
 
-> "Si je résume : t'as ConvoyDoc, ton app pour les convoyeurs, que tu veux faire tourner en side project à côté, tout seul — ça c'est pas le sujet aujourd'hui.
-> Le vrai sujet, c'est ton activité de dev freelance : construire des SaaS, des apps, des sites sur-mesure pour des boîtes. T'as déjà des réalisations concrètes derrière toi — Clean Cars, le chatbot pour l'INSEP — mais pas encore de client payant sur cette activité-là précisément. T'as un call vendredi pour un SaaS, mais rien de signé pour l'instant. Et côté LinkedIn, t'as pas encore vraiment lancé ta présence, donc pas de flux qui vient de là non plus.
-> Est-ce que je résume bien ta situation ?" → attendre la réponse
+**Une idée par bullet, à enchaîner à la suite à l'oral :**
+- ConvoyDoc, ton app pour les convoyeurs : tu veux que ça tourne en side project à côté, tout seul — pas le sujet aujourd'hui.
+- Le vrai sujet, c'est ton activité de dev freelance : construire des SaaS, des apps, des sites sur-mesure pour des boîtes.
+- T'as déjà des réalisations concrètes derrière toi — Clean Cars, le chatbot pour l'INSEP.
+- Mais pas encore de client payant sur cette activité-là précisément.
+- T'as un call vendredi pour un SaaS, mais rien de signé pour l'instant.
+- Côté LinkedIn, t'as pas encore vraiment lancé ta présence, donc pas de flux qui vient de là non plus.
+- "Est-ce que je résume bien ta situation ?" → attendre la réponse
 
 *(Formulation choisie pour nommer clairement le hors-scope ConvoyDoc dès le départ — évite toute ambiguïté sur ce qu'on qualifie pendant l'heure qui vient.)*
 
