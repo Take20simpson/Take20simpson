@@ -35,7 +35,19 @@
 
 ## Patterns confirmés (ce qui marche, avec preuve)
 
-*(vide — se remplit au fur et à mesure que Matthias colle des posts qui ont marché, avec au moins 2 preuves cohérentes pour passer d'hypothèse à confirmé)*
+### Grief universel + escalade absurde disproportionnée
+Statut : Hypothèse (1 preuve)
+Mécanisme : Partir d'une frustration minuscule et vécue par à peu près tout le monde (ici : voir son prénom mal écrit) puis l'escalader à un niveau totalement disproportionné et absurde (se déclarer 13e apôtre du Christ, remplaçant de Judas, qui "pratique des baptêmes pour avoir plus de clients"). Deux ressorts cumulés : (1) le point de départ universel garantit que la quasi-totalité du lecteur se reconnaît instantanément — pas besoin de faire un effort pour se sentir concerné ; (2) l'écart énorme entre la cause dérisoire et la réaction démesurée EST le moteur comique, pas la blague en elle-même — plus l'escalade est disproportionnée et tenue avec sérieux (jamais expliquée, jamais "c'est une blague"), plus ça marche. Le post reste très court, l'escalade n'a pas le temps de s'essouffler.
+Preuves :
+- 16/09/2026 — post "13e apôtre / prénom mal écrit mal orthographié en DM", 70 réactions, 253 commentaires, 19 534 impressions. Signalé par Matthias comme son meilleur post à ce jour.
+
+### Screenshot réel comme déclencheur du post (pas comme simple accompagnement visuel)
+Statut : Hypothèse (1 preuve)
+Mécanisme : Le post ne part pas d'une idée en vrac choisie a priori, mais d'un moment réel capturé sur le vif (un DM où son prénom vient d'être mal orthographié) qui sert à la fois de preuve et de point de départ de tout le texte. Le lecteur voit d'abord le fait brut (le screenshot annoté "MAL ÉCRIT"), puis le texte réagit à ce qui vient littéralement de se passer — rien n'est raconté après coup ou reconstruit, la fraîcheur de l'instant est visible. À distinguer de la règle déjà posée dans `SKILL_CONTENU_LINKEDIN.md` (Illustration d'accompagnement), qui traite le visuel comme un accompagnement du texte — ici le screenshot est la scène elle-même, le texte n'existe que parce que le screenshot existe d'abord.
+Preuves :
+- 16/09/2026 — même post que ci-dessus (13e apôtre).
+
+**Note (pas encore un pattern, à surveiller) — ratio commentaires/réactions anormalement inversé.** 253 commentaires pour seulement 70 réactions est un ratio inhabituel (d'ordinaire les réactions dépassent largement les commentaires, souvent de 3 à 10x). Hypothèse à vérifier sur un prochain post comique similaire : l'humour ancré sur un grief universel pousserait davantage à raconter sa propre anecdote en commentaire qu'à simplement liker — donc un signal diagnostique possible (comédie + universel = ratio commentaires/réactions plus haut que la moyenne), pas encore assez de données pour en faire un pattern à part entière.
 
 Format d'une entrée :
 ```
