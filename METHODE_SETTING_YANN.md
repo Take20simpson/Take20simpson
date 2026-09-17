@@ -191,6 +191,8 @@ Règle opérationnelle qui en découle : si le prospect retourne une question pe
 
 `[À COMPLÉTER]` — reste à démontrer : phase bien couverte sur la formulation, mais pas encore sur le dosage (à quel moment précis introduire l'anti-vente dans la conversation).
 
+**Objection budget réelle et répétée (pas une simple hésitation) — anti-vente authentique plutôt que reframe logique (17 septembre 2026, cas Rebecca Gauthier) :** face à une première réponse budget ("j'économise pour mes projets perso"), une piste consiste à relier son objectif (clients réguliers/visibilité) à l'investissement pour le faire réaliser par elle-même. Mais quand le prospect ENFONCE le même point une deuxième fois avec des détails concrets supplémentaires (ici : "j'ai pas mal de gros chantiers à venir, maison etc, d'où le fait que je peux pas me permettre") — ce n'est plus une hésitation de surface, c'est un vrai blocage financier. Continuer à chercher un reframe logique à ce stade risque de sonner comme du forcing (contraire à l'anti-vente). La bonne réaction : reconnaître honnêtement la contrainte sans la minimiser ni insister, garder le ton léger, et laisser la porte ouverte sans pression plutôt que de pousser vers une suite immédiate — cohérent avec la ligne de rareté/cadrage de Yann ("je ne mets pas de pression, si on n'avance pas ensemble c'est parfaitement OK").
+
 ### Le "tournant de la discussion" — inversion des forces (2e vidéo masterclass, cas Maëva) : ceci répond au dosage manquant ci-dessus
 
 > Mécanisme central de la Phase 6, jusqu'ici pas décrit en détail. C'est le moment précis où introduire l'anti-vente.
@@ -323,6 +325,8 @@ Matthias a demandé un retour direct à Yann sur cette conversation précise. R�
 5. Rappel bref en une ligne : Claude ne rédige pas le message à la place de Matthias, sauf demande explicite
 
 **Si Matthias demande explicitement la rédaction complète** (il bloque malgré le format ci-dessus) : Claude l'annonce clairement ("je te la rédige") puis l'écrit directement — pas de résistance, pas de rappel de la règle à chaque fois, il a le droit de le demander.
+
+**Changement de défaut demandé par Matthias (17 septembre 2026, cas Rebecca Gauthier) : "redige moi une réponse à chaque fois je veux que tu me rédiges."** Tant qu'il ne dit pas le contraire, Claude rédige directement le message (points 1-4 restent la base d'analyse interne, mais s'affichent condensés/implicites plutôt qu'en bullets séparés) sans attendre une demande explicite à chaque tour. Revenir au format court par défaut uniquement si Matthias le redemande explicitement plus tard.
 
 **Lacune signalée par Matthias (1er septembre 2026), non comblée — à construire progressivement, jamais par supposition :** tout le document est bâti sur le cas Yann x Maëva, un prospect **ultra réceptif**. Dans la pratique de Matthias, c'est rare — la majorité de ses prospects actuels sont plus fermés/durs. Deux points précis où le document ne dit rien :
 - Comment doser les questions (Phase 2 notamment) sans que la personne se braque quand elle a peu envie de se livrer
