@@ -330,7 +330,9 @@ Matthias a demandé un retour direct à Yann sur cette conversation précise. R�
 
 **Premier élément de réponse, observé sur cas réel (2 septembre 2026, cas Laura Langlet) :** face à un prospect fermé qui refuse explicitement de montrer une faiblesse quand on la sollicite directement (questions frontales sur ses difficultés → réponses lisses, minimisantes, "j'ai pas à me plaindre"), forcer davantage ne débloque rien — elle se braque. En revanche, quand Matthias arrête de chercher et se contente de valider légèrement ce qu'elle dit ("Ah ça a l'air de tourner en tout cas 😄", "Donc si je comprends bien, il y a tout qui roule de votre côté"), c'est À CE MOMENT-LÀ qu'elle laisse échapper une nuance spontanée ("On a pas à se plaindre, effectivement. Néanmoins, on ne sait jamais de quoi l'avenir est fait..."). Piste opérationnelle qui en découle : avec un prospect fermé, arrêter de pousser sur la douleur et se contenter de refléter/valider ce qu'il vient de dire — la faiblesse sort d'elle-même, sans pression, quand la personne ne se sent plus challengée.
 
-`[À COMPLÉTER]` — un seul cas observé, à confirmer sur d'autres prospects fermés avant d'en faire une règle générale.
+**Deuxième cas confirmant le même réflexe (17 septembre 2026, cas Rebecca Gauthier) :** questionnée frontalement sur le POURQUOI de son aversion pour LinkedIn (après avoir écarté le temps comme contrainte réelle), réponse plate et minimisante : *"Je sais pas. Je trouve que c'est ok."* Même mécanique que Laura Langlet — une question directe sur une faiblesse ne fait pas sortir de vraie douleur, elle referme la question. Renforce la piste opérationnelle : ne pas insister une 3e fois sur cet axe, valider léger et neutre ("ok, c'est cool"), puis pivoter vers autre chose (preuve, auto-qualification) plutôt que chercher à tout prix une douleur structurelle qui n'est peut-être simplement pas là chez ce prospect précis.
+
+`[À COMPLÉTER]` — deux cas maintenant (Laura Langlet, Rebecca Gauthier), le réflexe se confirme mais reste à observer sur d'autres profils avant d'en faire une règle générale ferme.
 
 ---
 
