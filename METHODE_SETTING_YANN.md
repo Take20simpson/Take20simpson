@@ -254,6 +254,8 @@ Règle opérationnelle qui en découle : si le prospect retourne une question pe
 
 `[À COMPLÉTER]` — rien d'autre à signaler, phase bien démontrée.
 
+**Refus de la proposition de call malgré une objection prix déjà cassée — ne pas insister (17 septembre 2026, cas Rebecca Gauthier) :** après la technique de la dualité qui avait fait craquer l'objection budget ("c'est pas faux mdr"), Matthias propose le call — elle décline : *"je ne suis vraiment pas emballée par un accompagnement de suite, peut-être si je vois que je galère vraiment étant donné que je commence tout juste, j'aimerais voir ce que je donne en prospection avant d'aller trouver un accompagnement."* Raison cohérente avec tout ce qu'elle a dit plus tôt (elle vient tout juste de commencer, elle a elle-même admis ne pas avoir "envoyé à assez de personnes") — pas une esquive déguisée, un vrai "pas encore". Réflexe appliqué : ne pas insister, ne pas chercher à sauver la proposition — même logique que le cas de l'annulation du 13 septembre (ne jamais se justifier, jamais argumenter pour retenir). Réponse envoyée : valider son raisonnement sans essayer de le retourner, laisser la porte ouverte sans pression ("teste de ton côté, si tu galères tu sais où me trouver"). Cohérent avec "la détermination prime" : un prospect poussé à signer avant d'être prêt donne un client peu déterminé, donc une prestation qui se passe mal.
+
 **Toujours proposer 2 créneaux, jamais un seul (2e vidéo masterclass) :** Yann le souligne comme important — *"demain 14h ou 16h, est-ce que ça tient ?"* — donner le choix entre deux options plutôt qu'une seule date fixe.
 
 ---
