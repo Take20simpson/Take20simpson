@@ -128,13 +128,13 @@ Auto-entrepreneur, paiement par virement bancaire. Pas de site web, pas de Calen
 
 Les fichiers suivants existent dans le repo mais **ne font pas partie du socle actif**. Ne jamais aller y chercher de l'information, ne jamais s'y référer, sauf si Matthias les nomme explicitement dans son message :
 
-- **Dossiers clients nommés** (Lucille/Lucile, Mélanie, etc.) : `STRATEGIE_LUCILLE.md`, `PREP_APPEL_LUCILE.md`, `FRAMEWORK_POSTS_LINKEDIN_LUCILE.md`, `TRAME_SETTING_MELANIE.md`
-- **Prep d'appel prospect nommée** : `PREP_APPEL_MAEVA.md` (créée le 11 septembre 2026 — script R1 personnalisé pour le call du 15 septembre avec Maëva Mintz, construit à partir du script Yann dans `STRATEGIE_YANN.md` + la fiche prospect `JOURNAL.md`. Document jetable, propre au call — à ne pas confondre avec `JOURNAL.md` qui reste la mémoire durable sur Maëva)
-- **Dossier partenariat nommé** : `STRATEGIE_POD_MARYLINE.md` (projet de pod LinkedIn avec Maryline Leroy, en pause depuis le 29 juillet — doctrine associée disparue avec `SKILL_STRATEGIE.md` le 1er septembre, détail vivant du projet reste dans ce document dédié)
-- **Projet business actif** : `STRATEGIE_POD_SOLO.md` (roadmap complète du pod LinkedIn solo de Matthias, suite à la mise en pause du projet avec Maryline)
+- **Dossier client nommé** (Lucille/Lucile) : `PREP_APPEL_LUCILE.md`
+- **Prep d'appel prospect nommée** : `PREP_APPEL_MAEVA.md` (créée le 11 septembre 2026 — script R1 personnalisé pour le call du 15 septembre avec Maëva Mintz, construit à partir du script Yann dans `STRATEGIE_YANN.md` + la fiche prospect `JOURNAL.md`. Document jetable, propre au call — à ne pas confondre avec `JOURNAL.md` qui reste la mémoire durable sur Maëva), `PREP_APPEL_LENI.md`/`PREP_APPEL_LENI_LIVE.md` (même logique pour le R1 du 16 septembre avec Léni Mette)
 - **Benchmark concurrent, non actif depuis le 1er septembre 2026** : `BENCHMARK_KEVIN_DUMONT.md` (créé le 19 août 2026 — source externe à Yann, explicitement exclue de la doctrine active depuis la décision du 1er septembre de ne se baser que sur Yann)
 - **Dossier produit** (ce que Matthias livre à ses clients, pas sa propre stratégie) : `ASSISTANT_CLIENT.md`, `QUESTIONNAIRE_ONBOARDING.md`, `METHODOLOGIE_ACCOMPAGNEMENT.md`
-- **Références historiques** : `METHODE_ENZO_RACINE.md`, `CONVERSATION_ENZO_RACINE.md`, `TRONC_CENTRAL_YADULINK.md`, `LEAD_MAGNET.md`
+- **Références historiques** : `METHODE_ENZO_RACINE.md`, `CONVERSATION_ENZO_RACINE.md`
+
+**Nettoyage du 17 septembre 2026 (décision explicite de Matthias) :** suppression complète de `STRATEGIE_LUCILLE.md`, `FRAMEWORK_POSTS_LINKEDIN_LUCILE.md`, `TRAME_SETTING_MELANIE.md`, `STRATEGIE_POD_SOLO.md`, `STRATEGIE_POD_MARYLINE.md`, `TRONC_CENTRAL_YADULINK.md` et `LEAD_MAGNET.md` — plus besoin de les exclure puisqu'ils n'existent plus (récupérables en historique git si nécessaire).
 
 Si une tâche semble en avoir besoin, le dire à Matthias plutôt que d'aller y puiser de soi-même — ne jamais halluciner ou déduire à partir de ces documents non mentionnés.
 
