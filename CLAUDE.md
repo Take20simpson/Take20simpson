@@ -112,7 +112,7 @@ Auto-entrepreneur, paiement par virement bancaire. Pas de site web, pas de Calen
 
 ## PARTIE 3 : ARCHITECTURE DU SYSTÈME — CARTE DES DOCUMENTS
 
-> Cette carte est la règle de navigation pour toute nouvelle session. Le système repose sur 4 pôles + ce hub. **Aucun autre document du repo ne fait partie du socle actif.**
+> Cette carte est la règle de navigation pour toute nouvelle session. Le système repose sur 5 pôles + ce hub. **Aucun autre document du repo ne fait partie du socle actif.**
 >
 > **Règle absolue depuis le 1er septembre 2026 : toute la doctrine business (Pôles 1 et 2) vient exclusivement de l'accompagnement Yann Perono, personne d'autre.** Pas de benchmark concurrent, pas de références historiques, pas d'ancienne doctrine pré-Yann. `SKILL_STRATEGIE.md` (doctrine générale accumulée avant Yann) est supprimé sur décision de Matthias.
 
@@ -123,6 +123,7 @@ Auto-entrepreneur, paiement par virement bancaire. Pas de site web, pas de Calen
 | 2 | **Setting (prospection DM)** | `SKILL_SETTING_DM.md` + `TEASING_METHODE_DM.md` (ancien moteur de décision IA — **statut en révision**, non tranché) + `METHODE_SETTING_YANN.md` (mécanique du setting phase par phase, méthode Yann Perono en 7 phases — **document de référence actif**) | Les deux premiers généraient la réponse DM à la place de Matthias (usage abandonné le 31 août, Matthias veut maîtriser le setting lui-même). Le troisième est le document vivant : pas un moteur IA, pas des templates, construit progressivement à partir des vrais cas de Matthias, jamais d'information inventée. Compagnon de `STRATEGIE_YANN.md` (même source : Yann). |
 | 3 | **Contenu LinkedIn** | `SKILL_CONTENU_LINKEDIN.md` (posts + commentaires classique) + `SKILL_COMMENTAIRES_PUNCH.md` (commentaires punch, dédié, usage actif) + `PATTERNS_POSTS.md` (analyse de performance des posts, usage actif — voir ci-dessous) | Génération de posts (hors périmètre actuellement pour la génération elle-même, voir note dans `SKILL_CONTENU_LINKEDIN.md`), commentaires classiques et commentaires punch. `PATTERNS_POSTS.md` est un document distinct et actif : Matthias y apporte les posts qui ont marché ou flop pour que Claude en extraie les patterns réutilisables — refonte du 16 septembre 2026, table rase sur l'ancienne analyse de performance (voir historique dans le document). |
 | 4 | **Journaux** | `JOURNAL.md` (résumé) + `ARCHIVE_CONVERSATIONS.md` + `ARCHIVE_CONTENU.md` (bruts) | `JOURNAL.md` = mémoire compacte (statut, patterns, prochaine étape) par prospect/contenu. Les deux `ARCHIVE_*` = matière brute complète et jamais résumée (transcripts DM nettoyés, textes de posts, transcriptions vidéo) — alimentée automatiquement à chaque conversation/post/vidéo traité via `SKILL_SETTING_DM.md` ou `SKILL_CONTENU_LINKEDIN.md`, sans que Matthias ait à le redemander. Sert de matière première au Pôle 1. |
+| 5 | **Livraison client (delivery)** | `LIVRABLE_CLIENT.md` + `CONTRAT_ACCOMPAGNEMENT.md` | Ce que le client reçoit concrètement pendant les 3 mois — Cockpit Notion (dashboard KPI, CRM, ICP, bibliothèque de messages), cadrage WhatsApp, documents à remettre, checklist onboarding. Créé le 17 septembre 2026 en repartant de zéro (ne reprend pas `ASSISTANT_CLIENT.md`/`QUESTIONNAIRE_ONBOARDING.md`/`METHODOLOGIE_ACCOMPAGNEMENT.md`, restés hors socle actif) — premier cas d'usage prévu : Léni Mette si le R2 du 21 septembre aboutit. `CONTRAT_ACCOMPAGNEMENT.md` = le contrat signé par le client, compagnon direct de ce pôle. |
 
 ### Règle d'exclusion (stricte)
 
@@ -130,7 +131,7 @@ Les fichiers suivants existent dans le repo mais **ne font pas partie du socle a
 
 - **Dossier client nommé** (Lucille/Lucile) : `PREP_APPEL_LUCILE.md`
 - **Prep d'appel prospect nommée** : `PREP_APPEL_MAEVA.md` (créée le 11 septembre 2026 — script R1 personnalisé pour le call du 15 septembre avec Maëva Mintz, construit à partir du script Yann dans `STRATEGIE_YANN.md` + la fiche prospect `JOURNAL.md`. Document jetable, propre au call — à ne pas confondre avec `JOURNAL.md` qui reste la mémoire durable sur Maëva), `PREP_APPEL_LENI.md`/`PREP_APPEL_LENI_LIVE.md` (même logique pour le R1 du 16 septembre avec Léni Mette)
-- **Dossier produit** (ce que Matthias livre à ses clients, pas sa propre stratégie) : `ASSISTANT_CLIENT.md`, `QUESTIONNAIRE_ONBOARDING.md`, `METHODOLOGIE_ACCOMPAGNEMENT.md`
+- **Dossier produit, ancienne version** (ce que Matthias livrait à ses clients, pas sa propre stratégie) : `ASSISTANT_CLIENT.md`, `QUESTIONNAIRE_ONBOARDING.md`, `METHODOLOGIE_ACCOMPAGNEMENT.md` — **ne pas confondre avec `LIVRABLE_CLIENT.md` (Pôle 5), le nouveau document actif sur ce même sujet, créé le 17 septembre 2026 explicitement sans reprendre ces trois-là.**
 - **Références historiques** : `METHODE_ENZO_RACINE.md`, `CONVERSATION_ENZO_RACINE.md`
 
 **Nettoyage du 17 septembre 2026 (décision explicite de Matthias) :** suppression complète de `STRATEGIE_LUCILLE.md`, `FRAMEWORK_POSTS_LINKEDIN_LUCILE.md`, `TRAME_SETTING_MELANIE.md`, `STRATEGIE_POD_SOLO.md`, `STRATEGIE_POD_MARYLINE.md`, `TRONC_CENTRAL_YADULINK.md`, `LEAD_MAGNET.md` et `BENCHMARK_KEVIN_DUMONT.md` (ce dernier supprimé directement par Matthias sur la branche par défaut) — plus besoin de les exclure puisqu'ils n'existent plus (récupérables en historique git si nécessaire).
@@ -140,7 +141,7 @@ Si une tâche semble en avoir besoin, le dire à Matthias plutôt que d'aller y 
 ### Comment une nouvelle session doit se comporter
 
 1. Lire ce hub (`CLAUDE.md`) — chargé automatiquement
-2. Identifier le pôle concerné par la demande (stratégie Yann / setting DM / contenu / journal) et lire le(s) document(s) correspondant(s) en entier
+2. Identifier le pôle concerné par la demande (stratégie Yann / setting DM / contenu / journal / livraison client) et lire le(s) document(s) correspondant(s) en entier
 3. Ne jamais se fier à une connaissance antérieure sur le contenu de ces documents — ils évoluent en continu, toujours relire la version actuelle
 4. Sur tout sujet de doctrine business (Pôles 1 et 2) : ne jamais réintroduire une notion venant d'ailleurs que de Yann (ancien contenu de `SKILL_STRATEGIE.md`, benchmarks, Enzo Racine) même si elle semble utile — si une info manque, le dire à Matthias plutôt que de compenser avec une source exclue
 5. Appliquer le réflexe de capture continue (Partie 4) dès qu'une nuance est validée par Matthias
@@ -219,6 +220,16 @@ Réflexe de capture obligatoire, dans le même tour dès qu'une décision/nuance
 [Sujet du jour, ou ouvert si pas encore défini]
 ```
 
+**Livraison client (créé le 17 septembre 2026) :**
+```
+On continue le travail sur le livrable client de Matthias, pôle Livraison — Cockpit Notion, WhatsApp, documents.
+LECTURE OBLIGATOIRE en entier : LIVRABLE_CLIENT.md. Pour le contenu de l'offre/roadmap, lis aussi STRATEGIE_YANN.md. CLAUDE.md déjà chargé.
+Ne jamais aller chercher dans ASSISTANT_CLIENT.md, QUESTIONNAIRE_ONBOARDING.md ou METHODOLOGIE_ACCOMPAGNEMENT.md (hors socle actif, décision du 17 septembre de repartir de zéro) — si une info semble manquer, le dire plutôt que d'aller les rouvrir.
+Réflexe de capture obligatoire, dans le même tour dès qu'une décision/nuance sur le livrable se dégage : → LIVRABLE_CLIENT.md. Puis commit + push branche session + sync branche par défaut.
+
+[Sujet du jour — structure Cockpit, cadrage WhatsApp, documents à produire, etc.]
+```
+
 ---
 
 ## PARTIE 4 : CONVENTIONS & RÉFLEXE DE CAPTURE CONTINUE
@@ -242,6 +253,7 @@ Des qu'un echange fait apparaitre une nuance, une confirmation, une correction o
 - Posts, commentaires classique ou punch (mécanique de génération, catalogue, voix) → `SKILL_CONTENU_LINKEDIN.md`
 - Pattern de performance sur un post (ce qui a marché ou flop, avec preuve) → `PATTERNS_POSTS.md`, jamais dans `JOURNAL.md`
 - Etat d'un prospect ou d'un contenu produit → `JOURNAL.md`
+- Livrable client (Cockpit Notion, cadrage WhatsApp, documents remis, checklist onboarding) → `LIVRABLE_CLIENT.md`
 
 **Apres chaque edition :** commit + push sur la branche de session en cours, avec un message de commit qui decrit la nuance capturee.
 
@@ -262,3 +274,4 @@ Des qu'un echange fait apparaitre une nuance, une confirmation, une correction o
 *Mise à jour du 31 août 2026 : Matthias abandonne l'usage d'une IA comme moteur de réponse setting DM — il veut maîtriser le setting lui-même pour pouvoir l'enseigner à ses clients. Nouveau document `METHODE_SETTING_YANN.md` (Pôle 2) créé pour documenter la méthode Yann Perono en 7 phases, phase par phase, à partir d'une étude de cas réelle. Statut de `SKILL_SETTING_DM.md`/`TEASING_METHODE_DM.md` en révision, non tranché.*
 *Remastérisation du 1er septembre 2026 : Matthias tranche que toute la doctrine business ne se base plus que sur l'accompagnement Yann Perono, personne d'autre. `SKILL_STRATEGIE.md` (doctrine générale accumulée avant Yann — croyance centrale, 8 principes, closing méthodologie générique, KPIs, benchmarks concurrents) est supprimé. Le contenu réellement issu de Yann (offre "Transforme ton audience LinkedIn en clients", avatar "Lucas", pricing, séance 1, méthode de diagnostic ICP/offre, anti-vente) a été extrait dans `STRATEGIE_YANN.md`, nouveau Pôle 1. La posture de Claude (collaborateur, franchise 50/50, red flags) est conservée directement dans ce hub, Partie 1, car ce sont des instructions de comportement et non de la doctrine business. Toutes les références croisées vers `SKILL_STRATEGIE.md` dans ce fichier ont été mises à jour vers `STRATEGIE_YANN.md`.*
 *Mise à jour du 16 septembre 2026 : table rase sur l'analyse de performance des posts (Pôle 3). Nouveau document `PATTERNS_POSTS.md` — Matthias apporte lui-même les posts qui ont marché ou flop, Claude en extrait le mécanisme, jamais l'inverse. L'ancien corpus (57 posts + 19 vidéos analysés le 22 juillet 2026, section "Patterns de performance" de `SKILL_CONTENU_LINKEDIN.md`) et le tracking automatique via `JOURNAL.md` sont retirés pour les posts (texte conservé en historique git) — décision explicite de Matthias pour ne pas polluer la nouvelle itération avec un contexte différent (ancien ICP, avant les posts de visibilité demandés par Yann). Catalogue d'angles, pipeline de génération et règles Ton & Voix inchangés. Contexte : Yann n'a pas encore donné de doctrine de contenu précise, sa seule consigne à ce jour est de faire des posts à visibilité.*
+*Ajout du 17 septembre 2026 : nouveau Pôle 5, Livraison client. Matthias prépare un closing possible (Léni Mette, R2 le 21 septembre) et veut regrouper de façon claire ce que le client reçoit concrètement — Cockpit Notion (dashboard KPI, CRM, ICP, bibliothèque de messages), cadrage WhatsApp, documents, checklist onboarding. Nouveau document `LIVRABLE_CLIENT.md`, construit explicitement à partir de zéro sur décision de Matthias (ne reprend pas `ASSISTANT_CLIENT.md`/`QUESTIONNAIRE_ONBOARDING.md`/`METHODOLOGIE_ACCOMPAGNEMENT.md`, restés hors socle actif). Principe directeur repris de la note de Yann dans `STRATEGIE_YANN.md` : un outil de suivi complet type "cockpit" prime sur le WhatsApp seul pour la valeur perçue.*
