@@ -221,6 +221,14 @@ Règle opérationnelle qui en découle : si le prospect retourne une question pe
 - Formulation utilisée : *"Attends, je veux te qualifier d'abord, je veux être sûr de pouvoir t'aider pour qu'on ne perde pas notre temps, mon temps est important, je ne suis pas sûr, des fois je refuse des clients."*
 - Nuance par rapport à la règle déjà documentée (qualification complète → accepter tout de suite sans jeu) : ce cas montre que même quand la qualification est en réalité déjà bonne, un bref réflexe d'anti-vente reste presque systématique chez Yann avant d'accepter un call proposé par le prospect — à traiter comme une discipline quasi-automatique, pas seulement conditionnelle à un doute réel.
 
+### Accord émotionnel fort sur un Don de valeur — ne pas confondre avec le "tournant de la discussion", ne pas se précipiter (18 septembre 2026, cas Fanny Seigneuret)
+
+> Distinct du "tournant de la discussion" ci-dessus (qui se déclenche quand LE PROSPECT pousse pour avancer). Ici le signal fort vient d'un accord intellectuel/émotionnel sur un point de vue livré en Don de valeur, pas d'une objection cassée ni d'une poussée du prospect vers la suite.
+
+- **Contexte :** Matthias avait livré un Don de valeur dense (désirabilité — "c'est au client de vouloir absolument signer avec toi, pas l'inverse" — et "vendre le résultat, pas la prestation") face à une douleur de pricing bien identifiée (le prospect brade ses tarifs, se justifie par des paris sur le réseau du client). Le prospect verbalise une adhésion forte : *"Carrément. Ça serait plus simple et moins frustrant."*
+- **Le piège :** confondre cet accord de tête avec un signal d'action — proposer un call ou une suite concrète à ce moment précis serait prématuré, le prospect n'a exprimé aucune intention de LE FAIRE avec Matthias, seulement d'être d'accord avec l'idée.
+- **La bonne réaction :** réaction courte, ne pas sur-célébrer l'accord (même piège que "ne jamais complimenter trop fort" déjà documenté plus haut), puis vérifier l'intention réelle avec une question d'auto-qualification ("t'as vraiment envie de structurer ça sérieusement, ou c'est encore une réflexion ?") — sans rien proposer. Objectif : laisser le prospect être celui qui pousse vers la suite, pas Matthias qui capitalise trop vite sur un moment fort.
+
 ### Anti-vente jusqu'à annuler un call déjà obtenu — la détermination prime sur toute autre qualification (vocal Yann, 13 septembre 2026, cas réel)
 
 > Point désigné par Matthias comme "ultra important" à ne jamais perdre. Débloqué par un vocal de Yann après que Matthias ne savait pas comment gérer la situation.
