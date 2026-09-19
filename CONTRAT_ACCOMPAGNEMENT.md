@@ -75,9 +75,9 @@ Le Client reste seul responsable de l'application des conseils et méthodes. Le 
 
 ________________________________________________________________________
 
-## ARTICLE 4 : MODALITÉS DE PAIEMENT
+## ARTICLE 4 : TARIF
 
-Le Client s'engage à régler la prestation par un paiement unique de deux mille euros (2 000 €), réglé à la signature du présent contrat.
+L'accompagnement est proposé au tarif de deux mille euros (2 000 €).
 
 Les sommes réglées ne sont pas remboursables.
 
@@ -121,7 +121,7 @@ En signant ci-dessus, les deux parties reconnaissent avoir lu et accepté les te
 5. **"Pair ghostwriting" et "structuration/audit des publications"** chez Yann : retirés à ta demande (17 septembre) — plus dans le périmètre du contrat.
 6. **"Mise en place de systèmes automatisés"** chez Yann : retiré, aucun outil d'automatisation identifié dans ton stack (`CLAUDE.md` liste LinkedIn/Airtable/WhatsApp/Google Meet/Claude/Fillout). À réintégrer si tu en utilises un.
 7. **Garantie (Article 2)** : mise à jour le 17 septembre à ta demande — "deux (2) clients minimum, souvent plus", pas "premier client" ni le modèle "3x le montant investi" de Yann. Répercuté aussi dans `STRATEGIE_YANN.md` et `CLAUDE.md` (Partie 2) pour rester cohérent partout.
-8. **Prix et échéancier (Article 4)** : mis à jour le 19 septembre 2026 sur consigne explicite de Yann — l'ancienne version proposait un paiement échelonné 667€×3 écrit noir sur blanc dans le contrat. Retiré : Yann déconseille de faire figurer une modalité de paiement en plusieurs fois précise dans le contrat lui-même, un client s'étant déjà appuyé sur cette clause écrite pour imposer ses conditions après coup (cas cité par Yann, voir `STRATEGIE_YANN.md`, séance du 19 septembre 2026). Le contrat ne prévoit donc plus qu'un paiement unique de 2000€ à la signature — un upfront partiel reste possible en pratique (négocié au cas par cas, hors contrat, en creusant ce que le prospect a réellement disponible plutôt qu'en acceptant la première somme annoncée), mais ne s'écrit plus dans le document signé.
+8. **Prix (Article 4, ex-"Modalités de paiement")** : mis à jour le 19 septembre 2026 sur consigne explicite de Yann — l'ancienne version proposait un paiement échelonné 667€×3 écrit noir sur blanc dans le contrat. Retiré : Yann déconseille de faire figurer une modalité de paiement en plusieurs fois précise dans le contrat lui-même, un client s'étant déjà appuyé sur cette clause écrite pour imposer ses conditions après coup (cas cité par Yann, voir `STRATEGIE_YANN.md`, séance du 19 septembre 2026). **Deuxième passe, même jour, demande de Matthias :** l'article n'engage même plus le Client sur "un paiement unique" — il annonce juste le tarif (2000€), sans aucune mention de modalité (ni "en une fois", ni "en plusieurs fois"). Renommé "TARIF" en conséquence. L'upfront reste négocié au cas par cas, hors contrat (creuser ce que le prospect a réellement disponible plutôt qu'accepter la première somme annoncée), sans que ça s'écrive nulle part dans le document signé.
 9. **Article 8 (pénalités de retard)** : retiré à ta demande (17 septembre) — jugé too much, présent chez Yann mais tu ne voulais pas le garder tel quel. Dis-moi si tu veux une version plus soft plutôt qu'une suppression pure.
 10. **Signature** : j'ai retiré les lignes "Docusign Envelope ID" du contrat de Yann — artefacts générés automatiquement par ce type d'outil, pas pertinents ici. Depuis le 19 septembre 2026 (troisième passe), deux vrais encadrés de signature (Prestataire / Client) plutôt qu'un nom tapé — voir la note en tête de fichier.
 11. **Lieu de signature** : mis "Le Broc" (ton adresse d'auto-entrepreneur) plutôt que "Moissac" (celle de Yann). Dis-moi si tu préfères "Nice" ou autre chose.
