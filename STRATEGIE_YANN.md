@@ -269,3 +269,38 @@ Décision de Matthias : ne plus utiliser une IA comme moteur qui génère les r�
 
 - Toujours attendre la réponse du prospect avant d'enchaîner une nouvelle question — ne jamais bouffer le silence.
 - Personnaliser au maximum selon le cas réel du prospect — ce script est un cadre, pas une lecture mécanique (cohérent avec la leçon transverse déjà posée dans `METHODE_SETTING_YANN.md` sur les 7 phases du setting DM : réordonner selon la lecture du prospect).
+
+---
+
+## Séance du 19 septembre 2026 — chantier contenu : trouver l'élément différenciant de Matthias
+
+> Contexte : call vocal avec Yann, axé sur le closing de Léni Mette (R1 obtenu ce jour-là — détail spécifique au prospect, voir `JOURNAL.md`, pas ici) puis bascule sur le contenu. Rendez-vous fixé au lendemain (samedi 20 septembre) à 10h pour poursuivre ce chantier précis.
+
+**Le constat de Yann :** le système "marketing sale" en 4 piliers (déjà documenté ci-dessus : contenu sale / marketing d'usure / anti-leads / auto-closing) est SON système à lui, pas transposable tel quel — Matthias doit trouver son propre point d'ancrage, sa propre manière de faire, nommable, qui le différencie explicitement de Yann. Formulation de Yann : *"Toi, tu ne marches pas de la même manière que moi. Il faudrait trouver ça, nommer ça, pour avoir cette différence."*
+
+**Exemple donné par Yann sur lui-même :** quand on pense à Yann, le premier réflexe est "volume" — c'est le trait qu'il met le plus en avant, celui qu'on associe à lui spontanément. Yann a demandé à Matthias : *"Même avant qu'on se voie, quand tu pensais à moi, tu pensais à quoi ?"* → réponse de Matthias : "volume".
+
+**Première tentative de Matthias, rejetée par Yann :** "quantité + qualité + remise en question / analyser ce qui fonctionne" (un cycle de progression business que Matthias appliquait déjà avant même l'accompagnement). Yann : *"Il faut qu'on la retravaille, parce que c'est trop large. Moi, je pourrais dire pareil."* Puis : *"Le mec qui passe là-bas pourrait dire pareil."* → rejeté explicitement comme pas assez différenciant, trop générique pour être une signature.
+
+**Piste ouverte par Matthias en fin d'appel, non tranchée :** en plus du volume en prospection, "avoir la tchatche" — une vraie conversation dans le setting, pas juste du volume mécanique. Illustré par son cas du lundi (parler de sa chienne Vaya avec une prospect qui avait elle aussi un chien — hors sujet business mais ça a "enclenché quelque chose"). Réaction de Yann : *"Ce n'est pas con"* — accueilli positivement mais pas approfondi, discussion coupée par la logistique de fin d'appel.
+
+**Nuance de vocabulaire soulevée par Yann, à trancher :** son propre "marketing d'usure" repose sur le fait de revenir sans arrêt vers LA MÊME audience (poster beaucoup pour la même cible). En prospection, la logique est différente : on contacte beaucoup de personnes DIFFÉRENTES, donc ce n'est pas vraiment de "l'usure" au sens propre — Yann note qu'il faut réfléchir au bon terme si Matthias reprend l'idée de "marketing de volume" pour son propre positionnement.
+
+**Devoir donné par Yann pour le lendemain (samedi 20 septembre, 10h) :**
+- Lister TOUS les éléments différenciants de Matthias, en détail, précisément — pas une formule générale.
+- Faire ça dans un gros Google Doc (dans le dossier partagé créé par Yann), en s'aidant de ChatGPT/Claude pour brainstormer, se poser des questions, creuser, sans hésiter à balancer des idées même brutes.
+- Yann a dit travailler la question de son côté aussi ; le travail sera mis en commun et retravaillé ensemble le lendemain si besoin.
+
+**Ce qui reste explicitement à trancher ensemble (rien de plus n'a été dit par Yann à ce stade — ne pas combler) :** quel est le point d'ancrage nommable et différenciant de Matthias (au-delà du volume, qui est déjà pris/associé à Yann) ; si "la tchatche"/la vraie conversation en setting est ce point ou seulement une composante ; comment le nommer sans tomber dans une formule trop large ("qui pourrait s'appliquer à n'importe qui"). Sujet non conclu au 19 septembre — reste à traiter à la séance du 20 septembre.
+
+---
+
+## Notes opérationnelles annexes, capturées le 19 septembre 2026 (même call)
+
+- **Positionnement LinkedIn — nouvelle formule courte demandée par Yann pour la section "Infos" du profil de Matthias :** *"J'aide les freelances à trouver plus de clients grâce à la prospection. Simple, prospection LinkedIn."* Objectif de Yann : sortir d'un texte plus qualitatif/long, aller vers quelque chose de très simple et direct. Ne remplace pas l'identité "Prospecter avec intention" du hub (`CLAUDE.md`) — porte spécifiquement sur le texte de la section Infos du profil LinkedIn, à traiter comme une tâche d'exécution, pas encore un pivot de positionnement officiel tant que Matthias ne l'a pas validé comme tel dans `CLAUDE.md`.
+- **Image/branding — retrait de Vaya (la chienne) des visuels :** Yann juge que l'image actuelle avec Vaya n'est plus assez "calée" professionnellement, préconise de retravailler ça avec le graphiste (potentiellement une image générée par IA plutôt qu'une photo avec Vaya).
+- **Contenu YouTube, nouveau chantier évoqué :** Yann propose à Matthias de se lancer, rythme visé 1 à 2 vidéos par semaine, sans script (filmer en direct comme un exposé, façon "miroir" — pas de format ultra-préparé), à rebalancer ensuite sur LinkedIn. Non tranché en détail (format, sujet, durée) — juste évoqué comme chantier à ouvrir.
+- **Négociation de l'upfront en closing (précision tactique de Yann, cas Léni Mette) :** objectif = maximiser le montant payé upfront, jamais accepter la première somme annoncée sans creuser ce que le prospect a réellement disponible ("checker dans ses fonds" avant de proposer un montant). Ne jamais évoquer le paiement en plusieurs fois de soi-même — si le prospect peut payer en une fois, ne pas lui donner l'idée d'étaler. Cohérent avec la règle déjà posée plus haut ("ne jamais annoncer de prix en DM").
+- **Contrat — consigne de simplification :** garder un contrat unique réutilisable avec tous les clients (sur DocuSign ou iLovePDF, au choix), ne pas le surcharger de clauses ("mets pas 100 trucs"), et surtout ne jamais y faire mention explicite d'un paiement en plusieurs fois précis (ex. "3 fois") — Yann cite son propre cas avec un client qui s'est appuyé sur une clause de paiement écrite dans le contrat pour imposer ses conditions après coup.
+- **Signature du contrat immédiate, même sans paiement complet confirmé :** faire signer le contrat dès le call de closing pour engager le prospect dans le process, indépendamment de la certitude sur le montant exact ou le calendrier de paiement.
+- **Piste ICP évoquée pour un client en particulier (cas Léni Mette, qui fait SaaS/applis/sites) :** Yann recommande de resserrer sur les SaaS plutôt que de disperser sur plusieurs types de prestations, en s'appuyant sur le cas de Julien Robert (client de l'équipe Yann ciblant les SaaS, 27 000€ en 50 jours via un bon ciblage) — Yann propose de mettre Matthias en contact avec Alban pour creuser comment ce ciblage a été fait. Reste à approfondir avec Alban, pas encore une méthode documentée.
