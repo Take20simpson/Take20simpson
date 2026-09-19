@@ -293,6 +293,14 @@ Décision de Matthias : ne plus utiliser une IA comme moteur qui génère les r�
 
 **Ce qui reste explicitement à trancher ensemble (rien de plus n'a été dit par Yann à ce stade — ne pas combler) :** quel est le point d'ancrage nommable et différenciant de Matthias (au-delà du volume, qui est déjà pris/associé à Yann) ; si "la tchatche"/la vraie conversation en setting est ce point ou seulement une composante ; comment le nommer sans tomber dans une formule trop large ("qui pourrait s'appliquer à n'importe qui"). Sujet non conclu au 19 septembre — reste à traiter à la séance du 20 septembre.
 
+**Brainstorm avec Claude (19 septembre 2026, avant la séance du 20) — version validée par Matthias, à proposer à Yann :** *"Jamais à froid, jamais scripté"*, deux piliers :
+1. **Jamais à froid — repérer les signaux avant d'interagir.** Jamais de message à un inconnu total : avant tout contact, repérer un signal (like, commentaire, post qui résonne) et interagir d'abord (commentaire, échange réel), pour que quand le message arrive, la personne ne soit déjà plus un inconnu. Reprend et muscle le positionnement déjà existant "Prospection chaude" (voir `CLAUDE.md` Partie 2) — ici assumé comme LE point d'ancrage plutôt qu'une simple ligne de positionnement.
+2. **Jamais scripté — la conversation, pas le template.** Une fois la conversation lancée, qualifier ET rassurer en même temps, en temps réel, adapté à la personne — pas de séquence automatique ni de copier-coller. Contraste direct et vécu avec le coaching à 1500€ suivi par Matthias avant son déclic (templates à copier-coller, zéro compréhension, zéro résultat — voir `CLAUDE.md` Partie 1, Parcours).
+
+Différenciation actée face à Yann : Yann = volume (quantité, omniprésence) ; Matthias = intention à chaque étape (avant le message : pas de contact au hasard ; pendant la conversation : pas de copier-coller). Le volume reste utile en arrière-plan mais n'est pas la signature retenue.
+
+**Statut :** validé par Matthias comme version à soumettre à Yann le 20 septembre — pas encore validé par Yann lui-même. Si Yann le retravaille ou le rejette à la séance du 20, mettre à jour cette section en conséquence plutôt que de laisser cette version coexister silencieusement avec sa décision.
+
 ---
 
 ## Notes opérationnelles annexes, capturées le 19 septembre 2026 (même call)
