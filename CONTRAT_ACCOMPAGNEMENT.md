@@ -6,6 +6,8 @@
 >
 > **Mise à jour du 19 septembre 2026 (troisième passe, même jour) :** mise en page retravaillée (typographie serif Liberation Serif/Sans, palette sobre, filets fins sous les titres d'article) pour un rendu plus soigné, moins "amateur". Champ **"Nom de l'entreprise (si applicable)"** ajouté (distinct du nom de la personne). Le bloc final ne repose plus sur un nom tapé en guise de signature : deux véritables encadrés de signature sont dessinés côte à côte (Prestataire / Client), dans lesquels chacun dépose une vraie signature (ex. trackpad + Aperçu sur Mac côté Matthias, équivalent côté Client) — Matthias remplit son propre encadré avant l'envoi.
 >
+> **Mise à jour du 19 septembre 2026 (quatrième passe, même jour) :** la police serif ne plaisait pas à Matthias — passage en sans-serif moderne (Liberation Sans) sur tout le document, taille de texte et interlignage augmentés, marges élargies, pour un rendu plus aéré (le PDF fait désormais 4 pages au lieu de 3, assumé). Aucun changement de fond, uniquement typographique.
+>
 > **Plusieurs points ont été adaptés ou retirés faute d'équivalent chez Matthias — à valider avant envoi, voir les notes en bas de fichier.**
 
 ---
