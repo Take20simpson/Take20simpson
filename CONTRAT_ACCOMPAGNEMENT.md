@@ -106,7 +106,7 @@ ________________________________________________________________________
 Fait en deux exemplaires, à Le Broc, le ________________
 
 [Encadré signature — Prestataire]              [Encadré signature — Client]
-Matthias Heilles Jourde
+Matthias Heilles Jourde                        Nom complet : ________________
 
 En signant ci-dessus, les deux parties reconnaissent avoir lu et accepté les termes du présent contrat.
 
