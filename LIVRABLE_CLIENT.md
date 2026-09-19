@@ -28,6 +28,8 @@ Une page racine par client, **"Cockpit — [Prénom Nom]"**, avec les sous-pages
 ### 1.2 Dashboard KPI
 Tableau de bord chiffré, mis à jour à une cadence hebdomadaire fixe (à caler avec le client — vendredi, comme le rituel Matthias/Yann).
 
+**Format du bilan hebdo, précisé le 19 septembre 2026 :** le rituel Matthias/Yann n'est pas qu'une mise à jour de tableau — c'est une **vidéo hebdo obligatoire** (bilan parlé, pas juste des chiffres) envoyée par le client chaque vendredi à heure fixe. À reproduire à l'identique avec chaque client (prévoir un rappel/alarme pour que le client la fasse sans que Matthias ait à la redemander), pas seulement une mise à jour silencieuse du Dashboard.
+
 **KPIs de volume :**
 - Messages de prospection envoyés / semaine
 - Nouvelles connexions LinkedIn / semaine

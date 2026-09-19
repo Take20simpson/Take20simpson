@@ -65,15 +65,9 @@ ________________________________________________________________________
 
 ## ARTICLE 4 : MODALITÉS DE PAIEMENT
 
-Le Client s'engage à régler la prestation selon l'une des modalités suivantes :
+Le Client s'engage à régler la prestation, d'un montant total de deux mille euros (2 000 €), selon l'échéancier convenu de gré à gré avec le Prestataire à la signature du présent contrat.
 
-- Paiement unique de deux mille euros (2 000 €) ;
-- Paiement échelonné : trois (3) mensualités de six cent soixante-sept euros (667 €) chacune, réglées aux échéances suivantes :
-  - 1re échéance : à la signature du présent contrat ;
-  - 2e échéance : 30 jours après la signature ;
-  - 3e échéance : 60 jours après la signature.
-
-Le choix de la modalité de paiement est défini à la signature. Sauf accord préalable du Prestataire, ces modalités ne pourront être modifiées.
+Sauf accord préalable du Prestataire, cet échéancier ne pourra être modifié une fois fixé.
 
 Les sommes réglées ne sont pas remboursables.
 
@@ -118,7 +112,7 @@ Matthias Heilles Jourde
 5. **"Pair ghostwriting" et "structuration/audit des publications"** chez Yann : retirés à ta demande (17 septembre) — plus dans le périmètre du contrat.
 6. **"Mise en place de systèmes automatisés"** chez Yann : retiré, aucun outil d'automatisation identifié dans ton stack (`CLAUDE.md` liste LinkedIn/Airtable/WhatsApp/Google Meet/Claude/Fillout). À réintégrer si tu en utilises un.
 7. **Garantie (Article 2)** : mise à jour le 17 septembre à ta demande — "deux (2) clients minimum, souvent plus", pas "premier client" ni le modèle "3x le montant investi" de Yann. Répercuté aussi dans `STRATEGIE_YANN.md` et `CLAUDE.md` (Partie 2) pour rester cohérent partout.
-8. **Prix et échéancier (Article 4)** : mis à 2000€ / 667€×3, ton tarif standard documenté — mais vu la situation budget de Léni (discutée en DM/R1), les échéances ou le montant du premier versement pourraient être adaptés à l'issue du R2. À ajuster une fois le deal réellement scellé dimanche.
+8. **Prix et échéancier (Article 4), corrigé le 19 septembre 2026 (consigne Yann du jour) :** le contrat ne doit plus jamais mentionner explicitement un paiement en plusieurs fois (montant, nombre d'échéances, calendrier) — Yann cite son propre cas où un client s'est appuyé sur une clause "3 fois" écrite dans le contrat pour lui imposer ses conditions après coup. Article 4 réécrit en générique ("échéancier convenu de gré à gré à la signature") : le montant total (2000€) reste écrit, mais jamais le détail d'un échelonnement. La négociation de l'upfront (combien maintenant, combien après) se fait à l'oral pendant le call, jamais sur le document — voir `STRATEGIE_YANN.md`, section "Notes opérationnelles annexes du 19 septembre 2026", pour la tactique de négociation (creuser au-delà du premier chiffre annoncé, viser plus que le tiers naïf de 666€).
 9. **Article 8 (pénalités de retard)** : retiré à ta demande (17 septembre) — jugé too much, présent chez Yann mais tu ne voulais pas le garder tel quel. Dis-moi si tu veux une version plus soft plutôt qu'une suppression pure.
 10. **Signature** : j'ai retiré les lignes "Docusign Envelope ID" du contrat de Yann — ce sont des artefacts générés automatiquement par l'outil au moment de l'envoi, pas du texte à taper à la main. Si tu comptes envoyer via Docusign (ou un autre outil de signature électronique), ces identifiants s'ajouteront tout seuls à l'envoi ; sinon un bloc signature classique comme ci-dessus suffit.
 11. **Lieu de signature** : mis "Le Broc" (ton adresse d'auto-entrepreneur) plutôt que "Moissac" (celle de Yann). Dis-moi si tu préfères "Nice" ou autre chose.
