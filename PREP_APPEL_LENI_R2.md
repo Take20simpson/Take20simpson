@@ -32,8 +32,6 @@
 ## 4. Projection
 
 - "Ça change quoi pour toi si dans 2-3 mois t'as chopé plusieurs contrats à plusieurs milliers d'euros ?"
-- "Un peu comme le SaaS avec qui tu discutes là"
-- Pas de coût de l'inaction ici, déjà fait en R1
 
 ## 5. Admettre qu'il a besoin d'aide
 
