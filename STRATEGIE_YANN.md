@@ -301,6 +301,15 @@ Différenciation actée face à Yann : Yann = volume (quantité, omniprésence) 
 
 **Statut :** validé par Matthias comme version à soumettre à Yann le 20 septembre — pas encore validé par Yann lui-même. Si Yann le retravaille ou le rejette à la séance du 20, mettre à jour cette section en conséquence plutôt que de laisser cette version coexister silencieusement avec sa décision.
 
+**Mot-signature en un mot, brainstormé avec Claude le même jour (à valider par Yann) :** "Chaud" (reprend "Prospection chaude") plutôt que "jamais à froid, jamais scripté" tel quel — Matthias fait remarquer que "volume" chez Yann tient en un mot alors que sa propre formule demande plusieurs phrases pour être comprise. "Chaud" est proposé comme le mot-hook équivalent (opposé immédiat à "à froid", image compréhensible sans explication), les deux piliers ci-dessus devenant l'explication en dessous une fois qu'on creuse — sur le même principe que "volume" chez Yann qui se déplie ensuite en 4 piliers. Alternative envisagée et écartée par défaut : "Intention" (mot de l'identité globale `CLAUDE.md`, jugé moins concret/imagé). Statut : proposition de Claude, pas encore réagie par Matthias au moment de cette note — à confirmer.
+
+**Tension non tranchée, ajoutée le 19 septembre 2026 (plus tard le même jour) — la liste des "signaux" valides pour le pilier 1 n'est pas arrêtée :**
+- Matthias précise que "toujours commenter un post avant de se connecter" n'est qu'une tactique parmi d'autres qu'il utilise — il envoie aussi des demandes de connexion directement dans son réseau proche ("dans mon rang"), et ça fonctionne bien.
+- Yann a dit ne pas être fan de la tactique "commenter systématiquement pour faciliter l'acceptation de la connexion" — mais sans donner d'alternative concrète à ce stade.
+- Yann avait par ailleurs indiqué que le travail de contenu servait à faire venir les gens à Matthias naturellement (le signal se crée par l'inbound) — mais ce mécanisme ne couvre pas le cold outreach vers des gens qui ne connaissent pas encore Matthias : ils ne peuvent pas "arriver par le contenu" qu'ils ne voient pas encore.
+- Un call est prévu avec **Alban Lefebvre** (collaborateur de Yann, spécialiste des signaux de prospection) pour clarifier ce point — pas encore fait au 19 septembre.
+- **Ne pas combler ce vide en attendant** : le principe du pilier 1 ("toujours un signal réel avant le message") reste valable et non contesté par Yann, seule la liste opérationnelle des signaux valides reste ouverte. À trancher après le call avec Alban, jamais halluciné en attendant.
+
 ---
 
 ## Notes opérationnelles annexes, capturées le 19 septembre 2026 (même call)
