@@ -8,6 +8,6 @@
 4. Comment calibrer ma garantie de résultat sur un client dont le ticket moyen varie autant (500€ à 7000€+) ?
 5. Comment je fixe les mini-objectifs hebdo à Léni pour le premier mois ?
 6. Quel niveau de sollicitation WhatsApp pour un profil comme lui au démarrage ?
-7. Confirmer que la toute première étape avec lui, c'est bien repositionnement cible/offre avant tout le reste — comme tu l'as fait avec moi ?
+7. si il n'as pas les 666 euros tout de suite ?
 8. Tu as accompagné Julien (dev SaaS, profil très proche de Léni) — avec ton expérience sur lui et des profils similaires, par quoi tu commencerais avec Léni ?
 9. Qu'est-ce que tu recommandes pour implémenter et appliquer le plus rapidement possible la méthodologie ? Uniquement des visios ? Il y a des vidéos à tourner ou des documents à faire ?
