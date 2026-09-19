@@ -65,15 +65,7 @@ ________________________________________________________________________
 
 ## ARTICLE 4 : MODALITÉS DE PAIEMENT
 
-Le Client s'engage à régler la prestation selon l'une des modalités suivantes :
-
-- Paiement unique de deux mille euros (2 000 €) ;
-- Paiement échelonné : trois (3) mensualités de six cent soixante-sept euros (667 €) chacune, réglées aux échéances suivantes :
-  - 1re échéance : à la signature du présent contrat ;
-  - 2e échéance : 30 jours après la signature ;
-  - 3e échéance : 60 jours après la signature.
-
-Le choix de la modalité de paiement est défini à la signature. Sauf accord préalable du Prestataire, ces modalités ne pourront être modifiées.
+Le Client s'engage à régler la prestation par un paiement unique de deux mille euros (2 000 €), réglé à la signature du présent contrat.
 
 Les sommes réglées ne sont pas remboursables.
 
@@ -118,7 +110,7 @@ Matthias Heilles Jourde
 5. **"Pair ghostwriting" et "structuration/audit des publications"** chez Yann : retirés à ta demande (17 septembre) — plus dans le périmètre du contrat.
 6. **"Mise en place de systèmes automatisés"** chez Yann : retiré, aucun outil d'automatisation identifié dans ton stack (`CLAUDE.md` liste LinkedIn/Airtable/WhatsApp/Google Meet/Claude/Fillout). À réintégrer si tu en utilises un.
 7. **Garantie (Article 2)** : mise à jour le 17 septembre à ta demande — "deux (2) clients minimum, souvent plus", pas "premier client" ni le modèle "3x le montant investi" de Yann. Répercuté aussi dans `STRATEGIE_YANN.md` et `CLAUDE.md` (Partie 2) pour rester cohérent partout.
-8. **Prix et échéancier (Article 4)** : mis à 2000€ / 667€×3, ton tarif standard documenté — mais vu la situation budget de Léni (discutée en DM/R1), les échéances ou le montant du premier versement pourraient être adaptés à l'issue du R2. À ajuster une fois le deal réellement scellé dimanche.
+8. **Prix et échéancier (Article 4)** : mis à jour le 19 septembre 2026 sur consigne explicite de Yann — l'ancienne version proposait un paiement échelonné 667€×3 écrit noir sur blanc dans le contrat. Retiré : Yann déconseille de faire figurer une modalité de paiement en plusieurs fois précise dans le contrat lui-même, un client s'étant déjà appuyé sur cette clause écrite pour imposer ses conditions après coup (cas cité par Yann, voir `STRATEGIE_YANN.md`, séance du 19 septembre 2026). Le contrat ne prévoit donc plus qu'un paiement unique de 2000€ à la signature — un upfront partiel reste possible en pratique (négocié au cas par cas, hors contrat, en creusant ce que le prospect a réellement disponible plutôt qu'en acceptant la première somme annoncée), mais ne s'écrit plus dans le document signé.
 9. **Article 8 (pénalités de retard)** : retiré à ta demande (17 septembre) — jugé too much, présent chez Yann mais tu ne voulais pas le garder tel quel. Dis-moi si tu veux une version plus soft plutôt qu'une suppression pure.
 10. **Signature** : j'ai retiré les lignes "Docusign Envelope ID" du contrat de Yann — ce sont des artefacts générés automatiquement par l'outil au moment de l'envoi, pas du texte à taper à la main. Si tu comptes envoyer via Docusign (ou un autre outil de signature électronique), ces identifiants s'ajouteront tout seuls à l'envoi ; sinon un bloc signature classique comme ci-dessus suffit.
 11. **Lieu de signature** : mis "Le Broc" (ton adresse d'auto-entrepreneur) plutôt que "Moissac" (celle de Yann). Dis-moi si tu préfères "Nice" ou autre chose.
