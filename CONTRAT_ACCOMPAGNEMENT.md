@@ -2,7 +2,9 @@
 
 > Transposé le 17 septembre 2026 à partir du contrat signé par Matthias avec Yann Perono (Big Blue Group), en l'adaptant à son propre accompagnement ("Transforme ton audience LinkedIn en clients", `STRATEGIE_YANN.md`) plutôt que recopié mot pour mot. Première utilisation prévue : Léni Mette, si le R2 du 21 septembre aboutit. Template réutilisable pour les prochains clients.
 >
-> **Mise à jour du 19 septembre 2026 (deuxième passe, même jour) :** plus de plateforme de signature électronique du tout (SignWell/DocuSign abandonnés — bugs récurrents de champs mal assignés côté Matthias). Le PDF `Contrat_Accompagnement_Template.pdf` contient désormais de vrais champs de formulaire PDF (AcroForm) intégrés directement au document : le Client les remplit dans n'importe quel lecteur PDF (Adobe Reader, Aperçu sur Mac, la plupart des apps PDF mobiles), tape son nom en guise de signature à la fin, met ses initiales en bas de chaque page, puis renvoie le fichier par email/WhatsApp. Rien à uploader nulle part, aucun compte tiers, aucun bug d'assignation possible puisqu'il n'y a qu'un seul signataire qui remplit le document (la partie Prestataire reste du texte fixe). Contrepartie assumée : ce n'est pas une signature électronique qualifiée avec certificat/piste d'audit comme un vrai outil d'e-signature — juste un nom tapé qui vaut acceptation, sur un contrat à 2000€ ce niveau de preuve est jugé suffisant par Matthias.
+> **Mise à jour du 19 septembre 2026 (deuxième passe, même jour) :** plus de plateforme de signature électronique du tout (SignWell/DocuSign abandonnés — bugs récurrents de champs mal assignés côté Matthias). Le PDF `Contrat_Accompagnement_Template.pdf` contient désormais de vrais champs de formulaire PDF (AcroForm) intégrés directement au document : le Client les remplit dans n'importe quel lecteur PDF (Adobe Reader, Aperçu sur Mac, la plupart des apps PDF mobiles), met ses initiales en bas de chaque page, puis renvoie le fichier par email/WhatsApp. Rien à uploader nulle part, aucun compte tiers, aucun bug d'assignation possible puisqu'il n'y a qu'un seul signataire qui remplit le document (la partie Prestataire reste du texte fixe).
+>
+> **Mise à jour du 19 septembre 2026 (troisième passe, même jour) :** mise en page retravaillée (typographie serif Liberation Serif/Sans, palette sobre, filets fins sous les titres d'article) pour un rendu plus soigné, moins "amateur". Champ **"Nom de l'entreprise (si applicable)"** ajouté (distinct du nom de la personne). Le bloc final ne repose plus sur un nom tapé en guise de signature : deux véritables encadrés de signature sont dessinés côte à côte (Prestataire / Client), dans lesquels chacun dépose une vraie signature (ex. trackpad + Aperçu sur Mac côté Matthias, équivalent côté Client) — Matthias remplit son propre encadré avant l'envoi.
 >
 > **Plusieurs points ont été adaptés ou retirés faute d'équivalent chez Matthias — à valider avant envoi, voir les notes en bas de fichier.**
 
@@ -15,6 +17,8 @@ Matthias Heilles Jourde, auto-entrepreneur exerçant sous le nom commercial « P
 Et :
 
 Nom complet : ________________________________________________
+
+Nom de l'entreprise (si applicable) : ________________________________________________
 
 Statut (auto-entrepreneur / société) : ________________________________________________
 
@@ -101,11 +105,10 @@ ________________________________________________________________________
 
 Fait en deux exemplaires, à Le Broc, le ________________
 
-Le Prestataire : Matthias Heilles Jourde
-Signature : ________________________________________________
+[Encadré signature — Prestataire]              [Encadré signature — Client]
+Matthias Heilles Jourde
 
-Le Client : ________________________________________________
-Signature : ________________________________________________
+En signant ci-dessus, les deux parties reconnaissent avoir lu et accepté les termes du présent contrat.
 
 ---
 
@@ -120,5 +123,5 @@ Signature : ________________________________________________
 7. **Garantie (Article 2)** : mise à jour le 17 septembre à ta demande — "deux (2) clients minimum, souvent plus", pas "premier client" ni le modèle "3x le montant investi" de Yann. Répercuté aussi dans `STRATEGIE_YANN.md` et `CLAUDE.md` (Partie 2) pour rester cohérent partout.
 8. **Prix et échéancier (Article 4)** : mis à jour le 19 septembre 2026 sur consigne explicite de Yann — l'ancienne version proposait un paiement échelonné 667€×3 écrit noir sur blanc dans le contrat. Retiré : Yann déconseille de faire figurer une modalité de paiement en plusieurs fois précise dans le contrat lui-même, un client s'étant déjà appuyé sur cette clause écrite pour imposer ses conditions après coup (cas cité par Yann, voir `STRATEGIE_YANN.md`, séance du 19 septembre 2026). Le contrat ne prévoit donc plus qu'un paiement unique de 2000€ à la signature — un upfront partiel reste possible en pratique (négocié au cas par cas, hors contrat, en creusant ce que le prospect a réellement disponible plutôt qu'en acceptant la première somme annoncée), mais ne s'écrit plus dans le document signé.
 9. **Article 8 (pénalités de retard)** : retiré à ta demande (17 septembre) — jugé too much, présent chez Yann mais tu ne voulais pas le garder tel quel. Dis-moi si tu veux une version plus soft plutôt qu'une suppression pure.
-10. **Signature** : j'ai retiré les lignes "Docusign Envelope ID" du contrat de Yann — artefacts générés automatiquement par ce type d'outil, pas pertinents ici. Depuis le 19 septembre 2026 (deuxième passe), plus d'outil de signature électronique du tout : le Client tape son nom complet dans un champ PDF dédié en bas du document, ce qui vaut acceptation — voir la note en tête de fichier.
+10. **Signature** : j'ai retiré les lignes "Docusign Envelope ID" du contrat de Yann — artefacts générés automatiquement par ce type d'outil, pas pertinents ici. Depuis le 19 septembre 2026 (troisième passe), deux vrais encadrés de signature (Prestataire / Client) plutôt qu'un nom tapé — voir la note en tête de fichier.
 11. **Lieu de signature** : mis "Le Broc" (ton adresse d'auto-entrepreneur) plutôt que "Moissac" (celle de Yann). Dis-moi si tu préfères "Nice" ou autre chose.
