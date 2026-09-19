@@ -1,6 +1,8 @@
 # Contrat de services d'accompagnement — template Matthias
 
-> Transposé le 17 septembre 2026 à partir du contrat signé par Matthias avec Yann Perono (Big Blue Group), en l'adaptant à son propre accompagnement ("Transforme ton audience LinkedIn en clients", `STRATEGIE_YANN.md`) plutôt que recopié mot pour mot. Première utilisation prévue : Léni Mette, si le R2 du 21 septembre aboutit. Template réutilisable pour les prochains clients — remplacer les champs entre crochets.
+> Transposé le 17 septembre 2026 à partir du contrat signé par Matthias avec Yann Perono (Big Blue Group), en l'adaptant à son propre accompagnement ("Transforme ton audience LinkedIn en clients", `STRATEGIE_YANN.md`) plutôt que recopié mot pour mot. Première utilisation prévue : Léni Mette, si le R2 du 21 septembre aboutit. Template réutilisable pour les prochains clients.
+>
+> **Mise à jour du 19 septembre 2026 :** les anciens placeholders entre crochets (`[Nom complet du Client]`, etc.) sont remplacés par des champs vides avec espace blanc — Matthias travaille en uploadant le PDF sur SignWell et pose lui-même les champs texte/signature de l'outil directement sur ces espaces, plutôt que de taper le texte à la main.
 >
 > **Plusieurs points ont été adaptés ou retirés faute d'équivalent chez Matthias — à valider avant envoi, voir les notes en bas de fichier.**
 
@@ -12,7 +14,13 @@ Matthias Heilles Jourde, auto-entrepreneur exerçant sous le nom commercial « P
 
 Et :
 
-[Nom complet du Client], [statut — auto-entrepreneur / société — à préciser], [adresse complète], [SIRET si applicable].
+Nom complet : ________________________________________________
+
+Statut (auto-entrepreneur / société) : ________________________________________________
+
+Adresse : ________________________________________________
+
+SIRET (si applicable) : ________________________________________________
 
 (ci-après dénommé "le Client")
 
@@ -93,18 +101,18 @@ ________________________________________________________________________
 
 Fait en deux exemplaires, à Le Broc, le ________________
 
-Matthias Heilles Jourde
-(le Prestataire)
+Le Prestataire : Matthias Heilles Jourde
+Signature : ________________________________________________
 
-[Nom complet du Client]
-(le Client)
+Le Client : ________________________________________________
+Signature : ________________________________________________
 
 ---
 
 ## Notes d'adaptation — à trancher avant envoi
 
 1. **Identité/adresse/SIRET du Prestataire** : reprises directement de ton propre contrat avec Yann (tu les avais données comme Client chez lui) — à vérifier que rien n'a changé depuis.
-2. **Identité du Client** : laissée en placeholder, à remplir avec les infos de Léni (nom complet, adresse, statut/SIRET s'il en a un) — je n'ai pas ces infos.
+2. **Identité du Client** : laissée en champ vide (espace blanc), pas en placeholder entre crochets — tu poses toi-même un champ texte SignWell par-dessus chaque ligne pour que Léni (ou le client suivant) remplisse nom complet, statut, adresse, SIRET directement en ligne.
 3. **"Deux entretiens avec Alban Lefebvre"** (Article 1 chez Yann) : retiré — tu travailles seul, pas d'équivalent identifié. Si tu t'associes avec quelqu'un un jour, à réintroduire.
 4. **"Refonte de l'identité LinkedIn" (bannière, photo, résumé)** chez Yann → transformé en "audit et optimisation du profil" : ton offre documentée parle d'audit/optimisation, pas de création graphique. Dis-moi si tu fais réellement de la refonte visuelle, sinon je laisse tel quel.
 5. **"Pair ghostwriting" et "structuration/audit des publications"** chez Yann : retirés à ta demande (17 septembre) — plus dans le périmètre du contrat.
@@ -112,5 +120,5 @@ Matthias Heilles Jourde
 7. **Garantie (Article 2)** : mise à jour le 17 septembre à ta demande — "deux (2) clients minimum, souvent plus", pas "premier client" ni le modèle "3x le montant investi" de Yann. Répercuté aussi dans `STRATEGIE_YANN.md` et `CLAUDE.md` (Partie 2) pour rester cohérent partout.
 8. **Prix et échéancier (Article 4)** : mis à jour le 19 septembre 2026 sur consigne explicite de Yann — l'ancienne version proposait un paiement échelonné 667€×3 écrit noir sur blanc dans le contrat. Retiré : Yann déconseille de faire figurer une modalité de paiement en plusieurs fois précise dans le contrat lui-même, un client s'étant déjà appuyé sur cette clause écrite pour imposer ses conditions après coup (cas cité par Yann, voir `STRATEGIE_YANN.md`, séance du 19 septembre 2026). Le contrat ne prévoit donc plus qu'un paiement unique de 2000€ à la signature — un upfront partiel reste possible en pratique (négocié au cas par cas, hors contrat, en creusant ce que le prospect a réellement disponible plutôt qu'en acceptant la première somme annoncée), mais ne s'écrit plus dans le document signé.
 9. **Article 8 (pénalités de retard)** : retiré à ta demande (17 septembre) — jugé too much, présent chez Yann mais tu ne voulais pas le garder tel quel. Dis-moi si tu veux une version plus soft plutôt qu'une suppression pure.
-10. **Signature** : j'ai retiré les lignes "Docusign Envelope ID" du contrat de Yann — ce sont des artefacts générés automatiquement par l'outil au moment de l'envoi, pas du texte à taper à la main. Si tu comptes envoyer via Docusign (ou un autre outil de signature électronique), ces identifiants s'ajouteront tout seuls à l'envoi ; sinon un bloc signature classique comme ci-dessus suffit.
+10. **Signature** : j'ai retiré les lignes "Docusign Envelope ID" du contrat de Yann — ce sont des artefacts générés automatiquement par l'outil au moment de l'envoi, pas du texte à taper à la main. Bloc signature mis à jour le 19 septembre 2026 : nom + signature du Client en espace blanc (plus de placeholder entre crochets), tu poses un champ "nom" et un champ "signature" SignWell dessus au moment de l'envoi.
 11. **Lieu de signature** : mis "Le Broc" (ton adresse d'auto-entrepreneur) plutôt que "Moissac" (celle de Yann). Dis-moi si tu préfères "Nice" ou autre chose.
